@@ -1,0 +1,2120 @@
+ID,Term,TOTAL,Cluster,Cluster_1Word
+0,food,5046,1.0,food
+1,service,3070,2.0,service
+2,staff,1088,2.0,service
+3,server,762,2.0,service
+4,waiter,657,2.0,service
+5,salad,646,9.0,salad
+6,waitress,581,2.0,service
+7,atmosphere,535,4.0,atmosphere
+8,pasta,535,9.0,salad
+9,price,530,3.0,price
+10,drink,398,5.0,drink
+11,menu,321,6.0,menu
+12,portion,309,7.0,portion
+13,pizza,288,9.0,salad
+14,soup,272,9.0,salad
+15,breadstick,272,9.0,salad
+16,wait,247,10.0,reservation
+17,reservation,231,10.0,reservation
+18,bread,218,9.0,salad
+19,appetizer,218,5.0,drink
+20,manager,197,2.0,service
+21,sauce,186,8.0,chicken
+22,dinner,181,10.0,reservation
+23,dessert,175,5.0,drink
+24,wine,170,5.0,drink
+25,bread stick,170,9.0,salad
+26,calamari,167,8.0,chicken
+27,table,155,10.0,reservation
+28,chicken,150,8.0,chicken
+29,ambiance,142,4.0,atmosphere
+30,lunch,134,10.0,reservation
+31,wait staff,129,2.0,service
+32,meal,127,1.0,food
+33,hostess,126,2.0,service
+34,wait time,122,13.0,delivery
+35,entree,119,5.0,drink
+36,quality,118,3.0,price
+37,owner,117,2.0,service
+38,lasagna,114,8.0,chicken
+39,steak,96,8.0,chicken
+40,experience,93,12.0,experience
+41,alfredo,88,8.0,chicken
+42,decor,85,4.0,atmosphere
+43,music,83,4.0,atmosphere
+44,bartender,81,2.0,service
+45,ravioli,78,8.0,chicken
+46,location,77,4.0,atmosphere
+47,flavor,77,8.0,chicken
+48,spaghetti,75,8.0,chicken
+49,host,75,2.0,service
+50,environment,74,4.0,atmosphere
+51,bathroom,70,14.0,tip
+52,salmon,69,8.0,chicken
+53,ambience,68,4.0,atmosphere
+54,people,68,2.0,service
+55,dish,64,6.0,menu
+56,parking,64,4.0,atmosphere
+57,meatball,63,8.0,chicken
+58,shrimp,63,8.0,chicken
+59,chef,61,2.0,service
+60,cuisine,60,11.0,cuisine
+61,shrimp scampi,59,8.0,chicken
+62,carbonara,58,8.0,chicken
+63,cocktail,53,5.0,drink
+64,tiramisu,53,5.0,drink
+65,chicken parm,52,8.0,chicken
+66,plate,51,7.0,portion
+67,bar,49,4.0,atmosphere
+68,italian,48,11.0,cuisine
+69,cake,48,5.0,drink
+70,tip,48,14.0,tip
+71,taste,47,8.0,chicken
+72,special,46,15.0,special
+73,management,46,14.0,tip
+74,employee,45,2.0,service
+75,park,45,4.0,atmosphere
+76,bill,45,,
+77,selection,43,6.0,menu
+78,parm,43,8.0,chicken
+79,sangria,41,5.0,drink
+80,desert,41,5.0,drink
+81,time,41,13.0,delivery
+82,vibe,39,4.0,atmosphere
+83,brunch,39,10.0,reservation
+84,seat,38,10.0,reservation
+85,veal,38,8.0,chicken
+86,pork chop,37,8.0,chicken
+87,presentation,37,11.0,cuisine
+88,seating,36,4.0,atmosphere
+89,garlic bread,35,8.0,chicken
+90,food quality,35,3.0,price
+91,gnocchi,34,8.0,chicken
+92,crowd,34,10.0,reservation
+93,value,33,3.0,price
+94,chicken marsala,33,8.0,chicken
+95,main,33,5.0,drink
+96,mussel,32,8.0,chicken
+97,coffee,32,5.0,drink
+98,place,31,4.0,atmosphere
+99,parmigiana,31,8.0,chicken
+100,floor,30,17.0,smell
+101,minute,30,13.0,delivery
+102,risotto,29,8.0,chicken
+103,crust,29,8.0,chicken
+104,delivery,29,13.0,delivery
+105,cheese,29,8.0,chicken
+106,hospitality,28,12.0,experience
+107,space,28,4.0,atmosphere
+108,smell,28,17.0,smell
+109,room,27,4.0,atmosphere
+110,cheesecake,27,8.0,chicken
+111,margarita,27,5.0,drink
+112,scampi,27,8.0,chicken
+113,lady,26,2.0,service
+114,main course,26,5.0,drink
+115,fish,26,8.0,chicken
+116,fettuccine alfredo,26,8.0,chicken
+117,hour,26,13.0,delivery
+118,restaurant,25,16.0,restaurant
+119,wine selection,25,6.0,menu
+120,worker,25,2.0,service
+121,portion size,25,7.0,portion
+122,clam,25,8.0,chicken
+123,girl,25,2.0,service
+124,pie,24,8.0,chicken
+125,waitstaff,24,2.0,service
+126,fry,24,8.0,chicken
+127,pasta dish,23,8.0,chicken
+128,penne vodka,23,8.0,chicken
+129,meat,23,8.0,chicken
+130,mozzarella stick,23,8.0,chicken
+131,dip,23,8.0,chicken
+132,restroom,23,17.0,smell
+133,fettuccine,23,8.0,chicken
+134,seafood,22,8.0,chicken
+135,scallop,22,8.0,chicken
+136,antipasto,22,8.0,chicken
+137,fare,22,11.0,cuisine
+138,check,22,14.0,tip
+139,rigatoni,21,8.0,chicken
+140,view,20,4.0,atmosphere
+141,ingredient,20,11.0,cuisine
+142,choice,20,6.0,menu
+143,ragu,20,8.0,chicken
+144,refill,20,18.0,serve
+145,burrata,19,8.0,chicken
+146,serving,19,7.0,portion
+147,martini,19,5.0,drink
+148,minestrone soup,19,8.0,chicken
+149,octopus,19,8.0,chicken
+150,sausage,19,8.0,chicken
+151,order,19,13.0,delivery
+152,marsala,19,8.0,chicken
+153,silverware,19,17.0,smell
+154,decorate,18,4.0,atmosphere
+155,karaoke,18,4.0,atmosphere
+156,entertainment,18,4.0,atmosphere
+157,apps,18,5.0,drink
+158,crepe,17,8.0,chicken
+159,bread pudding,17,8.0,chicken
+160,short rib,17,8.0,chicken
+161,filet mignon,17,8.0,chicken
+162,penne,17,8.0,chicken
+163,beer,17,5.0,drink
+164,dressing,17,8.0,chicken
+165,line,17,13.0,delivery
+166,attention,16,14.0,tip
+167,caesar salad,16,8.0,chicken
+168,ziti,16,8.0,chicken
+169,chair,16,17.0,smell
+170,utensil,16,17.0,smell
+171,napkin,16,17.0,smell
+172,fork,16,18.0,serve
+173,variety,15,6.0,menu
+174,dining,15,4.0,atmosphere
+175,wine list,15,6.0,menu
+176,cappuccino,15,8.0,chicken
+177,bolognese,15,8.0,chicken
+178,chicken parmigiana,15,8.0,chicken
+179,serve,15,18.0,serve
+180,pricing,15,3.0,price
+181,broccoli,15,8.0,chicken
+182,mozzarella,15,8.0,chicken
+183,linguini,15,8.0,chicken
+184,setting,14,4.0,atmosphere
+185,interior,14,4.0,atmosphere
+186,person,14,14.0,tip
+187,option,14,6.0,menu
+188,eggplant parmesan,14,8.0,chicken
+189,review,14,14.0,tip
+190,dress,14,9.0,salad
+191,side,14,,
+192,noisy,14,4.0,atmosphere
+193,lemonade,13,5.0,drink
+194,sandwich,13,8.0,chicken
+195,chicken parmesan,13,8.0,chicken
+196,branzino,13,8.0,chicken
+197,quantity,13,7.0,portion
+198,light,13,4.0,atmosphere
+199,min,13,13.0,delivery
+200,cooking,12,11.0,cuisine
+201,area,12,16.0,restaurant
+202,lunch special,12,6.0,menu
+203,guy,12,2.0,service
+204,mushroom,12,8.0,chicken
+205,marinara,12,8.0,chicken
+206,french fry,12,8.0,chicken
+207,carpet,12,17.0,smell
+208,recommendation,11,12.0,experience
+209,everyone,11,,
+210,valet parking,11,4.0,atmosphere
+211,conversation,11,4.0,atmosphere
+212,burger,11,9.0,salad
+213,waiter / waitress,11,2.0,service
+214,penne alla vodka,11,8.0,chicken
+215,tortellini,11,8.0,chicken
+216,wing,11,8.0,chicken
+217,linguine,11,8.0,chicken
+218,temperature,11,17.0,smell
+219,parking lot,11,4.0,atmosphere
+220,water,11,17.0,smell
+221,parmesan,11,8.0,chicken
+222,cutlery,11,17.0,smell
+223,alfredo sauce,11,8.0,chicken
+224,patio,10,4.0,atmosphere
+225,tomato,10,8.0,chicken
+226,stuffed shell,10,8.0,chicken
+227,kitchen,10,17.0,smell
+228,valet,10,14.0,tip
+229,texture,10,8.0,chicken
+230,cook,10,8.0,chicken
+231,marinara sauce,10,8.0,chicken
+232,noodle,10,8.0,chicken
+233,ice cream,10,5.0,drink
+234,decoration,9,4.0,atmosphere
+235,lunch menu,9,6.0,menu
+236,olive garden,9,16.0,restaurant
+237,gnocchi soup,9,8.0,chicken
+238,deliver,9,13.0,delivery
+239,duck,9,8.0,chicken
+240,cannoli,9,8.0,chicken
+241,pappardelle,9,8.0,chicken
+242,lighting,9,4.0,atmosphere
+243,booth,9,17.0,smell
+244,entrance,9,17.0,smell
+245,cost,9,3.0,price
+246,cutlet,9,8.0,chicken
+247,food selection,8,4.0,atmosphere
+248,zuppa toscana,8,8.0,chicken
+249,beverage,8,5.0,drink
+250,establishment,8,16.0,restaurant
+251,eat,8,19.0,eat
+252,olive,8,8.0,chicken
+253,buffet,8,6.0,menu
+254,calamari appetizer,8,8.0,chicken
+255,veal marsala,8,8.0,chicken
+256,panini,8,8.0,chicken
+257,alfredo pasta,8,8.0,chicken
+258,bake ziti,8,8.0,chicken
+259,preparation,8,11.0,cuisine
+260,pesto,8,8.0,chicken
+261,greeter,8,17.0,smell
+262,app,8,8.0,chicken
+263,chicken cutlet,8,8.0,chicken
+264,vegetable,8,8.0,chicken
+265,rollatini,8,8.0,chicken
+266,grilled chicken,8,8.0,chicken
+267,lettuce,8,8.0,chicken
+268,loud,8,4.0,atmosphere
+269,glass,8,5.0,drink
+270,artichoke,7,8.0,chicken
+271,tour,7,8.0,chicken
+272,feel,7,22.0,feel
+273,garden,7,4.0,atmosphere
+274,voice,7,14.0,tip
+275,greeting,7,2.0,service
+276,staff member,7,2.0,service
+277,bar tender,7,12.0,experience
+278,bruschetta,7,8.0,chicken
+279,ice tea,7,8.0,chicken
+280,elevator,7,17.0,smell
+281,takeout,7,13.0,delivery
+282,oyster,7,8.0,chicken
+283,ribeye,7,8.0,chicken
+284,gravy,7,8.0,chicken
+285,crab cake,7,8.0,chicken
+286,main dish,7,8.0,chicken
+287,garlic,7,8.0,chicken
+288,scarpariello,7,8.0,chicken
+289,soda,7,5.0,drink
+290,noise,7,4.0,atmosphere
+291,ac,7,17.0,smell
+292,ambient,6,4.0,atmosphere
+293,sever,6,12.0,experience
+294,set,6,4.0,atmosphere
+295,venue,6,4.0,atmosphere
+296,pudding,6,8.0,chicken
+297,facility,6,4.0,atmosphere
+298,piccata,6,8.0,chicken
+299,vegetarian option,6,6.0,menu
+300,starter,6,8.0,chicken
+301,deal,6,7.0,portion
+302,creme brulee,6,8.0,chicken
+303,cesar salad,6,8.0,chicken
+304,spaghetti carbonara,6,8.0,chicken
+305,meat sauce,6,8.0,chicken
+306,bar area,6,4.0,atmosphere
+307,manger,6,14.0,tip
+308,veggie,6,8.0,chicken
+309,potato,6,8.0,chicken
+310,minestrone,6,8.0,chicken
+311,french toast,6,8.0,chicken
+312,spinach,6,8.0,chicken
+313,mac,6,8.0,chicken
+314,entrees,6,8.0,chicken
+315,grill chicken,6,8.0,chicken
+316,staffed,6,13.0,delivery
+317,lobster,6,8.0,chicken
+318,air,6,17.0,smell
+319,knife,6,18.0,serve
+320,gratuity,6,14.0,tip
+321,crowded,6,10.0,reservation
+322,family,5,21.0,family
+323,osso bucco,5,8.0,chicken
+324,food service,5,12.0,experience
+325,chocolate,5,5.0,drink
+326,menu option,5,6.0,menu
+327,byob,5,15.0,special
+328,slice,5,8.0,chicken
+329,general manager,5,12.0,experience
+330,grilled salmon,5,8.0,chicken
+331,vegetarian,5,6.0,menu
+332,zucchini,5,8.0,chicken
+333,design,5,4.0,atmosphere
+334,ceiling,5,4.0,atmosphere
+335,pork,5,8.0,chicken
+336,cacio e pepe,5,8.0,chicken
+337,prosciutto,5,8.0,chicken
+338,stuffed mushroom,5,8.0,chicken
+339,attendant,5,17.0,smell
+340,bucatini,5,8.0,chicken
+341,veal parmigiana,5,8.0,chicken
+342,timing,5,12.0,experience
+343,gnocci soup,5,8.0,chicken
+344,list,5,6.0,menu
+345,arancini,5,8.0,chicken
+346,drive,5,13.0,delivery
+347,plat,5,8.0,chicken
+348,kid,5,21.0,family
+349,bus boy,5,2.0,service
+350,attitude,5,14.0,tip
+351,calimari,5,8.0,chicken
+352,eggplant parmigiana,5,8.0,chicken
+353,driver,5,14.0,tip
+354,parmigiano,5,8.0,chicken
+355,catering,5,21.0,family
+356,manicotti,5,8.0,chicken
+357,receptionist,5,2.0,service
+358,lamb chop,5,8.0,chicken
+359,cleanliness,5,14.0,tip
+360,crouton,5,8.0,chicken
+361,waiting time,5,13.0,delivery
+362,flavour,5,8.0,chicken
+363,chip,5,8.0,chicken
+364,appetiser,5,8.0,chicken
+365,dipping sauce,5,8.0,chicken
+366,filet,5,8.0,chicken
+367,odor,5,17.0,smell
+368,door,5,17.0,smell
+369,baked ziti,5,8.0,chicken
+370,eats,4,13.0,delivery
+371,chicken dish,4,8.0,chicken
+372,team,4,12.0,experience
+373,food portion,4,7.0,portion
+374,gentleman,4,2.0,service
+375,s,4,,
+376,soup salad,4,9.0,salad
+377,calorie,4,8.0,chicken
+378,italian dish,4,20.0,thai
+379,torte,4,12.0,experience
+380,the,4,,
+381,italian food,4,20.0,thai
+382,company,4,21.0,family
+383,pastai,4,12.0,experience
+384,singer,4,4.0,atmosphere
+385,interior design,4,4.0,atmosphere
+386,lamb,4,8.0,chicken
+387,gm,4,12.0,experience
+388,garlic bread stick,4,,
+389,din area,4,4.0,atmosphere
+390,eggplant parm,4,8.0,chicken
+391,gelato,4,8.0,chicken
+392,tagliatelle,4,8.0,chicken
+393,crew,4,12.0,experience
+394,francese,4,8.0,chicken
+395,mimosa,4,5.0,drink
+396,distancing,4,12.0,experience
+397,song,4,12.0,experience
+398,porterhouse steak,4,8.0,chicken
+399,pasta fagioli,4,8.0,chicken
+400,daiquiri,4,5.0,drink
+401,system,4,,
+402,tomato sauce,4,8.0,chicken
+403,chief,4,12.0,experience
+404,topping,4,8.0,chicken
+405,tea,4,5.0,drink
+406,sevice,4,12.0,experience
+407,neighborhood,4,16.0,restaurant
+408,dining room,4,4.0,atmosphere
+409,pick,4,18.0,serve
+410,vodka sauce,4,8.0,chicken
+411,ice,4,18.0,serve
+412,gluten,4,6.0,menu
+413,pickup,4,13.0,delivery
+414,ball,4,8.0,chicken
+415,brussel sprout,4,8.0,chicken
+416,sea bass,4,8.0,chicken
+417,menu selection,4,6.0,menu
+418,tent,4,17.0,smell
+419,lasagna classico,4,12.0,experience
+420,seasoning,4,8.0,chicken
+421,sirloin,4,8.0,chicken
+422,clean,4,17.0,smell
+423,staffing,4,12.0,experience
+424,volume,4,17.0,smell
+425,receipt,4,14.0,tip
+426,desk,4,17.0,smell
+427,wait list,4,13.0,delivery
+428,cleaning,4,17.0,smell
+429,butter,4,8.0,chicken
+430,size,4,7.0,portion
+431,fried mozzarella,4,8.0,chicken
+432,cockroach,4,17.0,smell
+433,urinal,4,12.0,experience
+434,cup,4,18.0,serve
+435,pasta sauce,4,8.0,chicken
+436,pepper,4,8.0,chicken
+437,tax,4,14.0,tip
+438,fee,4,14.0,tip
+439,bussers,3,12.0,experience
+440,rib eye,3,8.0,chicken
+441,polenta,3,8.0,chicken
+442,lunch deal,3,12.0,experience
+443,salad bar,3,8.0,chicken
+444,sour,3,8.0,chicken
+445,scenery,3,4.0,atmosphere
+446,italian margarita,3,12.0,experience
+447,welcome,3,22.0,feel
+448,personality,3,2.0,service
+449,mood,3,20.0,thai
+450,donut,3,8.0,chicken
+451,fettuccini alfredo,3,8.0,chicken
+452,ziti al forno,3,12.0,experience
+453,zeppoles,3,8.0,chicken
+454,service staff,3,2.0,service
+455,bar staff,3,12.0,experience
+456,spinach roll,3,8.0,chicken
+457,wine menu,3,12.0,experience
+458,menu item,3,6.0,menu
+459,chicken alfredo,3,8.0,chicken
+460,cream,3,8.0,chicken
+461,banquet room,3,12.0,experience
+462,braise short rib,3,,
+463,cheese cake,3,8.0,chicken
+464,bronzino,3,8.0,chicken
+465,layout,3,4.0,atmosphere
+466,chef / owner,3,12.0,experience
+467,short rib pappardelle,3,,
+468,bacon,3,8.0,chicken
+469,porkchop,3,8.0,chicken
+470,scallopini,3,8.0,chicken
+471,din,3,21.0,family
+472,fritta,3,8.0,chicken
+473,fruit,3,8.0,chicken
+474,lasagna fritta,3,12.0,experience
+475,waitor,3,8.0,chicken
+476,lasagna fritter,3,8.0,chicken
+477,mint,3,8.0,chicken
+478,pasta bowl,3,8.0,chicken
+479,manner,3,2.0,service
+480,courtesy,3,14.0,tip
+481,wifi,3,12.0,experience
+482,fettuccini,3,8.0,chicken
+483,picture,3,,
+484,food menu,3,12.0,experience
+485,balsamic,3,8.0,chicken
+486,eggplant,3,8.0,chicken
+487,shrimp cocktail,3,8.0,chicken
+488,bowl,3,8.0,chicken
+489,olive oil,3,8.0,chicken
+490,bellini,3,8.0,chicken
+491,temp,3,8.0,chicken
+492,coat,3,17.0,smell
+493,seafood platter,3,8.0,chicken
+494,service food,3,12.0,experience
+495,luncheon,3,12.0,experience
+496,look,3,,
+497,zuppa di pesce,3,12.0,experience
+498,seafood salad,3,8.0,chicken
+499,breakfast,3,10.0,reservation
+500,mac n cheese,3,8.0,chicken
+501,rib,3,8.0,chicken
+502,pick up,3,13.0,delivery
+503,meat ball,3,8.0,chicken
+504,italian dressing,3,8.0,chicken
+505,side salad,3,8.0,chicken
+506,garnish,3,8.0,chicken
+507,personnel,3,12.0,experience
+508,long island iced tea,3,,
+509,security,3,17.0,smell
+510,breading,3,8.0,chicken
+511,food option,3,6.0,menu
+512,eggs benedict,3,8.0,chicken
+513,dj,3,4.0,atmosphere
+514,bread basket,3,5.0,drink
+515,safety,3,17.0,smell
+516,soap,3,17.0,smell
+517,heat,3,18.0,serve
+518,busboy,3,17.0,smell
+519,soup / salad,3,8.0,chicken
+520,chicken tender,3,8.0,chicken
+521,rest room,3,12.0,experience
+522,caprese salad,3,8.0,chicken
+523,diet,3,8.0,chicken
+524,parm hero,3,,
+525,paccheri,3,8.0,chicken
+526,brussels sprout,3,8.0,chicken
+527,accommodation,3,12.0,experience
+528,cavatelli,3,8.0,chicken
+529,libretto,3,12.0,experience
+530,cheese stick,3,8.0,chicken
+531,happy hour,3,15.0,special
+532,vinaigrette,3,8.0,chicken
+533,chicken wing,3,8.0,chicken
+534,tablet,3,14.0,tip
+535,greet,3,2.0,service
+536,chicken finger,3,8.0,chicken
+537,scent,3,12.0,experience
+538,policy,3,14.0,tip
+539,egg,3,8.0,chicken
+540,filling,3,8.0,chicken
+541,mask,3,17.0,smell
+542,capacity,3,4.0,atmosphere
+543,reception,3,21.0,family
+544,traffic,3,17.0,smell
+545,bag,3,18.0,serve
+546,pancake,3,8.0,chicken
+547,dip sauce,3,8.0,chicken
+548,margherita,3,8.0,chicken
+549,spagetti,3,8.0,chicken
+550,basil,2,8.0,chicken
+551,soppressata,2,,
+552,baked clam,2,8.0,chicken
+553,everything,2,,
+554,chicken breast,2,8.0,chicken
+555,sit,2,17.0,smell
+556,mojito,2,8.0,chicken
+557,feeling,2,4.0,atmosphere
+558,server food,2,,
+559,treatment,2,14.0,tip
+560,offer,2,6.0,menu
+561,kid meal,2,,
+562,tiramisu cake,2,12.0,experience
+563,humor,2,14.0,tip
+564,punch,2,8.0,chicken
+565,angel hair,2,8.0,chicken
+566,serving size,2,7.0,portion
+567,surroundings,2,12.0,experience
+568,salmon dish,2,8.0,chicken
+569,frittata,2,8.0,chicken
+570,front desk staff,2,,
+571,sea food,2,8.0,chicken
+572,potion,2,7.0,portion
+573,sit area,2,4.0,atmosphere
+574,food prep,2,12.0,experience
+575,social,2,17.0,smell
+576,set up,2,4.0,atmosphere
+577,seat arrangement,2,17.0,smell
+578,grill chicken margherita,2,,
+579,salad bowl,2,,
+580,chefs,2,12.0,experience
+581,shrimp scampi fritta,2,,
+582,staff service,2,12.0,experience
+583,package,2,18.0,serve
+584,photo,2,,
+585,serve size,2,7.0,portion
+586,penne a la vodka,2,8.0,chicken
+587,contadina,2,8.0,chicken
+588,sommelier,2,12.0,experience
+589,chianti,2,12.0,experience
+590,grill vegetable,2,8.0,chicken
+591,maitre d,2,12.0,experience
+592,halibut,2,8.0,chicken
+593,accent,2,12.0,experience
+594,gnocchi pesto,2,,
+595,calzone,2,8.0,chicken
+596,herb,2,8.0,chicken
+597,chicken milanese,2,8.0,chicken
+598,fried artichoke,2,8.0,chicken
+599,tartufo,2,8.0,chicken
+600,fried calamari,2,8.0,chicken
+601,bisque,2,8.0,chicken
+602,fish dish,2,8.0,chicken
+603,meat special,2,,
+604,cucina,2,,
+605,toscana soup,2,,
+606,crayon,2,,
+607,pizza bowl,2,,
+608,delivery service,2,13.0,delivery
+609,slush puppy,2,,
+610,croquet,2,8.0,chicken
+611,wait service,2,12.0,experience
+612,sole,2,8.0,chicken
+613,price point,2,3.0,price
+614,sicilian slice,2,12.0,experience
+615,salami,2,8.0,chicken
+616,benedict,2,8.0,chicken
+617,risotto ball,2,,
+618,color,2,17.0,smell
+619,cheese plate,2,8.0,chicken
+620,produce,2,11.0,cuisine
+621,torchio,2,,
+622,negroni,2,12.0,experience
+623,marinade,2,8.0,chicken
+624,oreganata,2,8.0,chicken
+625,food drink,2,12.0,experience
+626,veal chop,2,8.0,chicken
+627,demeanor,2,12.0,experience
+628,man,2,2.0,service
+629,fonduta,2,,
+630,seat space,2,4.0,atmosphere
+631,bass,2,8.0,chicken
+632,weather,2,4.0,atmosphere
+633,terrace,2,4.0,atmosphere
+634,patio area,2,4.0,atmosphere
+635,serf,2,20.0,thai
+636,manhattan,2,16.0,restaurant
+637,pinot noir,2,8.0,chicken
+638,pina colada,2,8.0,chicken
+639,oxtail ragu,2,,
+640,pasta fagioli soup,2,,
+641,ppl,2,14.0,tip
+642,owner / chef,2,12.0,experience
+643,fried zucchini,2,,
+644,shishito pepper,2,8.0,chicken
+645,green bean,2,8.0,chicken
+646,drink selection,2,12.0,experience
+647,inside,2,17.0,smell
+648,anna,2,12.0,experience
+649,furnishing,2,4.0,atmosphere
+650,desserts,2,8.0,chicken
+651,beer selection,2,6.0,menu
+652,grilled octopus,2,8.0,chicken
+653,foie gras,2,8.0,chicken
+654,meatball app,2,8.0,chicken
+655,heater,2,17.0,smell
+656,oven,2,8.0,chicken
+657,rice ball,2,8.0,chicken
+658,delivery driver,2,2.0,service
+659,carbonara pasta,2,,
+660,attire,2,12.0,experience
+661,face,2,2.0,service
+662,drinks,2,12.0,experience
+663,stall,2,17.0,smell
+664,canoli,2,8.0,chicken
+665,smile,2,2.0,service
+666,waiting,2,13.0,delivery
+667,lasagna frita,2,,
+668,chicken strip,2,8.0,chicken
+669,speed,2,12.0,experience
+670,shrimp carbonara,2,,
+671,stuff,2,8.0,chicken
+672,macaroni,2,8.0,chicken
+673,dolcini,2,,
+674,breadsticks,2,,
+675,wait area,2,12.0,experience
+676,ceasar salad,2,8.0,chicken
+677,salad dressing,2,8.0,chicken
+678,iced,2,12.0,experience
+679,pairing,2,8.0,chicken
+680,kiosk,2,,
+681,supervisor,2,14.0,tip
+682,vegan,2,6.0,menu
+683,mozz,2,,
+684,glassware,2,17.0,smell
+685,zoodles,2,,
+686,wait period,2,8.0,chicken
+687,take,2,,
+688,wine choice,2,12.0,experience
+689,appetizer platter,2,8.0,chicken
+690,lunch portion,2,,
+691,menu choice,2,12.0,experience
+692,hair,2,18.0,serve
+693,turnaround,2,12.0,experience
+694,cannolis,2,12.0,experience
+695,leftover,2,19.0,eat
+696,penne ala,2,8.0,chicken
+697,rigatoni bolognese,2,8.0,chicken
+698,bolognese sauce,2,8.0,chicken
+699,furniture,2,4.0,atmosphere
+700,snapper,2,8.0,chicken
+701,availability,2,12.0,experience
+702,people watch,2,12.0,experience
+703,carbonara sauce,2,8.0,chicken
+704,prep,2,17.0,smell
+705,aroma,2,8.0,chicken
+706,mozzarella cheese,2,,
+707,pasta special,2,8.0,chicken
+708,nacho,2,8.0,chicken
+709,carrot,2,8.0,chicken
+710,dough,2,8.0,chicken
+711,head chef,2,12.0,experience
+712,fettuccine carbonara,2,,
+713,burrata appetizer,2,8.0,chicken
+714,onion,2,8.0,chicken
+715,antipasti,2,12.0,experience
+716,oil,2,8.0,chicken
+717,dover sole,2,8.0,chicken
+718,owner / manager,2,14.0,tip
+719,broccoli rabe,2,8.0,chicken
+720,plant,2,17.0,smell
+721,meatsauce,2,,
+722,turn around,2,17.0,smell
+723,training,2,14.0,tip
+724,group,2,10.0,reservation
+725,prepare,2,13.0,delivery
+726,mosquito,2,17.0,smell
+727,drink order,2,,
+728,store,2,17.0,smell
+729,pappardelle rustica,2,,
+730,ribeye steak,2,8.0,chicken
+731,food variety,2,12.0,experience
+732,mignon,2,,
+733,sign,2,17.0,smell
+734,sorrentino,2,,
+735,short,2,13.0,delivery
+736,triangolo,2,,
+737,lasagne,2,,
+738,woman,2,2.0,service
+739,tie,2,,
+740,abruzzi,2,,
+741,pic,2,8.0,chicken
+742,porterhouse,2,8.0,chicken
+743,banana split,2,8.0,chicken
+744,buffalo wing,2,8.0,chicken
+745,board,2,12.0,experience
+746,mains,2,8.0,chicken
+747,pomodoro,2,,
+748,fun,2,15.0,special
+749,communion,2,,
+750,trofie,2,,
+751,mess,2,,
+752,rotini,2,8.0,chicken
+753,espresso,2,5.0,drink
+754,cater,2,21.0,family
+755,dinning,2,4.0,atmosphere
+756,garlic knot,2,8.0,chicken
+757,meatball hero,2,,
+758,brunch menu,2,6.0,menu
+759,cure meat,2,,
+760,frutti di mare,2,,
+761,rate,2,20.0,thai
+762,ziti fritta,2,,
+763,food taste,2,3.0,price
+764,seat area,2,4.0,atmosphere
+765,spaghetti and meatball,2,,
+766,veal parmesan,2,12.0,experience
+767,booze,2,12.0,experience
+768,cocktail menu,2,6.0,menu
+769,musician,2,,
+770,provolone,2,,
+771,toscana,2,,
+772,tuna,2,8.0,chicken
+773,cheese board,2,8.0,chicken
+774,piano,2,12.0,experience
+775,tortoni,2,,
+776,dinner menu,2,6.0,menu
+777,burrata pizza,2,,
+778,wage,2,,
+779,rule,2,14.0,tip
+780,uber,2,13.0,delivery
+781,utensils,2,18.0,serve
+782,garbage,2,19.0,eat
+783,toilet seat,2,,
+784,toilet paper,2,17.0,smell
+785,associate,2,12.0,experience
+786,front desk girl,2,,
+787,pepsi,2,12.0,experience
+788,bread stix,2,,
+789,vinager,2,,
+790,salad lettuce,2,,
+791,window,2,17.0,smell
+792,front desk employee,2,,
+793,date,2,15.0,special
+794,parmagain,2,,
+795,lock,2,,
+796,bean,2,8.0,chicken
+797,hollandaise sauce,2,8.0,chicken
+798,food presentation,2,12.0,experience
+799,toilet,2,17.0,smell
+800,bos,2,2.0,service
+801,chicken roll,2,8.0,chicken
+802,container,2,18.0,serve
+803,dinner roll,2,12.0,experience
+804,beef,2,8.0,chicken
+805,money,2,14.0,tip
+806,fritter,2,8.0,chicken
+807,men,2,17.0,smell
+808,shell,2,8.0,chicken
+809,fly,2,17.0,smell
+810,asparagus,2,8.0,chicken
+811,linquini,2,,
+812,building,2,17.0,smell
+813,mash potato,2,8.0,chicken
+814,mozzarella en carrozza,2,,
+815,pay,2,,
+816,dress code,2,12.0,experience
+817,dairy,2,8.0,chicken
+818,bite,2,19.0,eat
+819,hand,2,17.0,smell
+820,ricotta cheese,2,,
+821,piadina,2,,
+822,menu price,2,14.0,tip
+823,reservation time,2,13.0,delivery
+824,alcohol,2,5.0,drink
+825,tartare,2,8.0,chicken
+826,flatware,2,12.0,experience
+827,parmigana,2,,
+828,top,2,,
+829,pasta carbonara,2,,
+830,tenderloin,2,8.0,chicken
+831,party,2,21.0,family
+832,fry ravioli,2,8.0,chicken
+833,mule,1,8.0,chicken
+834,background music,1,4.0,atmosphere
+835,rib eye steak,1,,
+836,fetucini,1,,
+837,fruitti di mare,1,,
+838,tapa,1,6.0,menu
+839,bread dish,1,,
+840,veal chop special,1,,
+841,crostata cake,1,,
+842,biscotti,1,,
+843,phone,1,14.0,tip
+844,veal alla grappa,1,,
+845,fettuccine alla triangolo,1,,
+846,napoleon,1,8.0,chicken
+847,wife,1,21.0,family
+848,lemoncello,1,,
+849,pannacota,1,,
+850,item,1,6.0,menu
+851,chicken frangelico,1,,
+852,italuan food,1,,
+853,ravioli special,1,,
+854,strawberry shortcake appetizer,1,,
+855,petito,1,,
+856,carpaccio,1,8.0,chicken
+857,serviced,1,,
+858,panacota,1,,
+859,grill calamari,1,,
+860,pasta triangolo,1,,
+861,food ambiance service,1,,
+862,meal start,1,,
+863,fusili,1,,
+864,character,1,12.0,experience
+865,friendliness,1,,
+866,outing,1,,
+867,carabona,1,,
+868,jeremy,1,,
+869,eveyone,1,,
+870,drink menu,1,5.0,drink
+871,raider,1,,
+872,fetuccini alfredo,1,,
+873,salad loaf,1,,
+874,ravioli carbonara,1,,
+875,foid,1,12.0,experience
+876,carlos,1,,
+877,maine dish,1,,
+878,bake pasta,1,,
+879,process,1,14.0,tip
+880,packing,1,,
+881,garlic roll,1,,
+882,cabonerra,1,,
+883,tailor,1,,
+884,collection of wine,1,,
+885,dog,1,14.0,tip
+886,atomsphere,1,12.0,experience
+887,parmegionia,1,,
+888,mixed drink,1,5.0,drink
+889,goodbye,1,,
+890,chicken parmesian,1,,
+891,seated,1,,
+892,lunch set,1,12.0,experience
+893,amalfi cocktail,1,,
+894,batter,1,8.0,chicken
+895,food dish,1,,
+896,alfredo sea food,1,,
+897,parmi giana,1,,
+898,cocktail drink,1,12.0,experience
+899,ball drop,1,,
+900,host team,1,,
+901,alfredo dip,1,,
+902,wait list management,1,,
+903,fooood,1,,
+904,commute,1,,
+905,mocktails,1,12.0,experience
+906,chocolates,1,,
+907,breadstick salad,1,,
+908,emplacement,1,,
+909,zuppa,1,,
+910,casual,1,,
+911,sauce refill,1,,
+912,sangarita,1,,
+913,feast,1,12.0,experience
+914,ravioli di,1,,
+915,giardino,1,,
+916,arrives,1,,
+917,duty,1,,
+918,architecture,1,20.0,thai
+919,gnocchi chicken soup,1,,
+920,minestrone soap,1,,
+921,pricey,1,3.0,price
+922,bar staff member,1,,
+923,lasagna / pasta,1,,
+924,lasagna portion,1,,
+925,hygiene,1,14.0,tip
+926,attender,1,,
+927,boy,1,12.0,experience
+928,mozzerrlas,1,,
+929,portiong,1,,
+930,lunch choice,1,12.0,experience
+931,limonatas,1,,
+932,black russian drink,1,,
+933,mudslide,1,,
+934,chardonnay,1,,
+935,nap,1,,
+936,bar service,1,12.0,experience
+937,fritta misto,1,,
+938,vine,1,,
+939,variety of food,1,6.0,menu
+940,green salad,1,8.0,chicken
+941,service price,1,,
+942,margehrita,1,,
+943,shot,1,5.0,drink
+944,tyler,1,,
+945,girl host,1,,
+946,payment,1,14.0,tip
+947,gnoochi soup,1,,
+948,spacing,1,12.0,experience
+949,singing,1,,
+950,checkout,1,12.0,experience
+951,monzerlla stick,1,,
+952,ipads,1,,
+953,wine tasting,1,,
+954,pizza frita,1,,
+955,piccatta,1,,
+956,wine sample,1,,
+957,lasagna bite,1,,
+958,iced coffee,1,8.0,chicken
+959,menu deal,1,,
+960,soup choice,1,,
+961,good,1,,
+962,cheesecake special,1,,
+963,proportion,1,7.0,portion
+964,carbonaro,1,,
+965,reisling,1,,
+966,massage,1,,
+967,amaretto sour,1,,
+968,work,1,2.0,service
+969,scampi dinner,1,,
+970,gnochi soup,1,,
+971,prawn crysp fry,1,,
+972,american,1,11.0,cuisine
+973,zuppa toscana soup,1,,
+974,covid,1,,
+975,franchise,1,,
+976,cholesterol,1,,
+977,italian sausage,1,,
+978,flatbread,1,8.0,chicken
+979,bruschetta bread,1,,
+980,alfredo dessert,1,,
+981,tiramisu service,1,,
+982,interier,1,,
+983,kalmar,1,,
+984,mial,1,,
+985,colada,1,8.0,chicken
+986,baar,1,,
+987,distance,1,17.0,smell
+988,alla romana,1,,
+989,penne ala vodka,1,,
+990,pellegrino,1,,
+991,placing,1,,
+992,mixed green salad,1,,
+993,rum runner cocktail,1,,
+994,em,1,,
+995,seating capacity,1,,
+996,libation,1,,
+997,cosmos wing,1,,
+998,caesar salad dressing,1,,
+999,support staff,1,,
+1000,food plate,1,,
+1001,carmimes,1,,
+1002,lively,1,,
+1003,and,1,,
+1004,zuppa di clam,1,,
+1005,pedro,1,,
+1006,giardiniera,1,,
+1007,season,1,8.0,chicken
+1008,scarpariello wing,1,,
+1009,walnut,1,,
+1010,lemon drop,1,,
+1011,cosmo,1,12.0,experience
+1012,carmine ' s salad,1,,
+1013,porterhouse meat,1,,
+1014,cocktails,1,12.0,experience
+1015,appointment,1,,
+1016,prime rib,1,8.0,chicken
+1017,lager,1,8.0,chicken
+1018,doorman,1,17.0,smell
+1019,carmencita,1,,
+1020,bolognese plate,1,,
+1021,lobster dish,1,,
+1022,chocolate torte,1,,
+1023,pizzaioli,1,,
+1024,orecchiette,1,,
+1025,caesar dress anchovy paste,1,,
+1026,saltimboca,1,,
+1027,leader,1,,
+1028,wine pairing,1,12.0,experience
+1029,italian menu,1,,
+1030,wine cellar selection,1,,
+1031,table cloth,1,12.0,experience
+1032,gnocci,1,,
+1033,basilico,1,,
+1034,risotto seafood,1,,
+1035,selection of wine,1,,
+1036,coctails,1,12.0,experience
+1037,service waiter,1,,
+1038,potato chip,1,,
+1039,fashion,1,17.0,smell
+1040,saltimbocca,1,,
+1041,cart,1,13.0,delivery
+1042,silvia,1,,
+1043,murder mystery,1,,
+1044,atmospher,1,,
+1045,serviice,1,,
+1046,waitors,1,12.0,experience
+1047,restuarant,1,12.0,experience
+1048,dining experience,1,22.0,feel
+1049,lunce,1,,
+1050,crisp,1,8.0,chicken
+1051,owner / mgr,1,,
+1052,daughter,1,21.0,family
+1053,pace,1,12.0,experience
+1054,chicken milano,1,,
+1055,lunch server,1,,
+1056,veal cashina,1,,
+1057,resturant,1,20.0,thai
+1058,biscottis,1,,
+1059,paparadelle,1,,
+1060,breast,1,8.0,chicken
+1061,e pepe,1,,
+1062,mozzarella starter,1,,
+1063,food ambiance,1,,
+1064,pup,1,,
+1065,spaghetti pomodoro,1,,
+1066,dijon salmon,1,,
+1067,street,1,16.0,restaurant
+1068,gamberi,1,,
+1069,jumbo shrimp,1,,
+1070,arugala,1,,
+1071,boite,1,,
+1072,pappardella,1,,
+1073,endive salad,1,,
+1074,ragu fettuccini,1,,
+1075,liquor selection,1,,
+1076,mix,1,8.0,chicken
+1077,peppardelle,1,,
+1078,agnolotti,1,,
+1079,horderves,1,,
+1080,staffthank,1,,
+1081,zabaione,1,,
+1082,carciofi,1,,
+1083,gourmet,1,,
+1084,carlo,1,,
+1085,din atmosphere,1,,
+1086,ragout,1,,
+1087,cuisin,1,,
+1088,cacio,1,8.0,chicken
+1089,pepe,1,12.0,experience
+1090,raw material,1,,
+1091,fireplace,1,4.0,atmosphere
+1092,format,1,,
+1093,shrimp app,1,,
+1094,spread,1,8.0,chicken
+1095,fast food,1,,
+1096,sheet,1,,
+1097,santa,1,,
+1098,soups,1,,
+1099,family experience,1,,
+1100,lunch spot,1,12.0,experience
+1101,shrimp alfredo,1,,
+1102,prompt,1,,
+1103,carbonera,1,,
+1104,runner,1,,
+1105,servicevtoo,1,,
+1106,fritta appetizer,1,,
+1107,online ordering,1,,
+1108,zuppa toscano,1,,
+1109,interaction,1,12.0,experience
+1110,nacho appetizer,1,,
+1111,eggplant dish,1,8.0,chicken
+1112,balloon lady,1,,
+1113,parmsean,1,,
+1114,taker,1,13.0,delivery
+1115,wait staff service,1,,
+1116,lasagna slice,1,,
+1117,organize,1,4.0,atmosphere
+1118,pepper roll,1,,
+1119,semifreddo,1,,
+1120,rigatoni carbonara,1,,
+1121,burrata special,1,,
+1122,photo booth,1,,
+1123,fettuccine rustica,1,,
+1124,service quality,1,12.0,experience
+1125,desert cake,1,,
+1126,spring salad,1,,
+1127,pasta primavera,1,,
+1128,chicken vesuvio,1,,
+1129,cold seafood salad,1,,
+1130,chicken rustica,1,,
+1131,fair,1,,
+1132,wine temperature,1,,
+1133,pulpo,1,8.0,chicken
+1134,dinningroom,1,,
+1135,italian ice,1,,
+1136,menu variety,1,20.0,thai
+1137,waiter staff,1,,
+1138,montepulciano,1,,
+1139,sauvignon blanc,1,12.0,experience
+1140,puttanesca,1,,
+1141,stromboli,1,8.0,chicken
+1142,square,1,,
+1143,calzones,1,,
+1144,rime,1,,
+1145,ratio,1,,
+1146,sauteed asparagus,1,,
+1147,reginette,1,,
+1148,sfinci di,1,,
+1149,glutenfree dinner,1,,
+1150,diner,1,16.0,restaurant
+1151,calamari salad,1,8.0,chicken
+1152,food value,1,,
+1153,range,1,6.0,menu
+1154,doughnut ball,1,,
+1155,culture,1,11.0,cuisine
+1156,reginette al ragu,1,,
+1157,pasta al,1,,
+1158,arancini ball,1,,
+1159,lamp chop,1,8.0,chicken
+1160,playlist,1,12.0,experience
+1161,gemelli,1,,
+1162,short rib ragu,1,,
+1163,bruschettas,1,,
+1164,ragu pasta,1,,
+1165,focaccia,1,,
+1166,sandwhich,1,8.0,chicken
+1167,buscatini,1,,
+1168,doughnut,1,8.0,chicken
+1169,variety of dish,1,,
+1170,sardine,1,,
+1171,brunch salad,1,,
+1172,seafood choice,1,12.0,experience
+1173,specails,1,,
+1174,pasta maker man,1,,
+1175,appetizer option,1,,
+1176,preparation time,1,,
+1177,combination,1,8.0,chicken
+1178,oscar,1,,
+1179,canalonye,1,,
+1180,divider,1,,
+1181,shrimp roll,1,8.0,chicken
+1182,ambiance staff,1,,
+1183,sambucca,1,,
+1184,bernice,1,,
+1185,pork ragu,1,,
+1186,champagne,1,5.0,drink
+1187,colection,1,,
+1188,barolo,1,,
+1189,app .,1,,
+1190,exterior,1,4.0,atmosphere
+1191,meatballs,1,8.0,chicken
+1192,ravoli,1,,
+1193,rabe,1,,
+1194,gnocchio,1,,
+1195,chilean sea bass,1,,
+1196,potatoes,1,,
+1197,lemon,1,8.0,chicken
+1198,grappa,1,,
+1199,piano bar,1,,
+1200,chop,1,8.0,chicken
+1201,milieu,1,,
+1202,cocktails food,1,,
+1203,oyster sambuca,1,,
+1204,cavatelli pomodoro,1,,
+1205,entertainment wait staff,1,,
+1206,motif,1,,
+1207,creation,1,12.0,experience
+1208,pizza /,1,,
+1209,spaghetti lobster,1,,
+1210,wale,1,,
+1211,maria,1,,
+1212,tuna steak,1,8.0,chicken
+1213,atomosphere,1,,
+1214,friend,1,21.0,family
+1215,eatery,1,20.0,thai
+1216,tayse,1,,
+1217,service care,1,,
+1218,alfredo chicken,1,,
+1219,service relation,1,,
+1220,service atmosphere,1,12.0,experience
+1221,ziti fritter,1,,
+1222,lasagna frittas,1,,
+1223,fettichini,1,,
+1224,bread - stick,1,,
+1225,spaghetti ' s,1,,
+1226,wash room,1,,
+1227,waiter / staff,1,,
+1228,vegetarian food option,1,,
+1229,landscaping,1,,
+1230,candy,1,,
+1231,service people,1,12.0,experience
+1232,seexer,1,,
+1233,flow,1,,
+1234,refreshment,1,12.0,experience
+1235,alfredo marinara,1,,
+1236,service staff price,1,,
+1237,macchiato,1,,
+1238,up,1,,
+1239,pasta frosole,1,,
+1240,mozerella,1,,
+1241,fettuchine alfredo,1,,
+1242,dolcini ' s,1,,
+1243,mousse cake,1,8.0,chicken
+1244,margarita special,1,,
+1245,zeppoli,1,,
+1246,bread soup,1,,
+1247,menu offering,1,,
+1248,salad / bread stick,1,,
+1249,ziosks,1,,
+1250,over side salad,1,,
+1251,breadticks,1,,
+1252,broth,1,8.0,chicken
+1253,chicken marsella,1,,
+1254,jessica,1,,
+1255,bogo,1,,
+1256,lay out,1,12.0,experience
+1257,collection,1,12.0,experience
+1258,social distancing,1,17.0,smell
+1259,murphy,1,,
+1260,lambchop special,1,,
+1261,fettuccine bolognese,1,,
+1262,zuppa da clam,1,,
+1263,grill cheese,1,8.0,chicken
+1264,chicken wrap,1,8.0,chicken
+1265,setup,1,4.0,atmosphere
+1266,severs,1,12.0,experience
+1267,chicken benny,1,,
+1268,flounder francese,1,,
+1269,parmigian,1,8.0,chicken
+1270,grill chicken salad,1,,
+1271,facacia,1,,
+1272,fish dinner,1,8.0,chicken
+1273,pizza base,1,,
+1274,figure,1,,
+1275,ciao bella salad,1,,
+1276,courtyard,1,,
+1277,entre,1,8.0,chicken
+1278,pizza pie,1,12.0,experience
+1279,def,1,,
+1280,vegetarian fare,1,,
+1281,soufle,1,,
+1282,promos,1,,
+1283,food staff,1,12.0,experience
+1284,dessert selection,1,12.0,experience
+1285,classic,1,,
+1286,pasta fagiola soup,1,,
+1287,aaron,1,,
+1288,foos,1,,
+1289,balloon artist,1,,
+1290,italian american food,1,,
+1291,arrangement,1,12.0,experience
+1292,mixed,1,,
+1293,promotion,1,12.0,experience
+1294,grill chicken fetuchini,1,,
+1295,lunch size,1,,
+1296,professionalism,1,,
+1297,capacino,1,,
+1298,lit,1,4.0,atmosphere
+1299,flan,1,8.0,chicken
+1300,syrup,1,8.0,chicken
+1301,vea,1,,
+1302,food arrive,1,18.0,serve
+1303,karaoke bar,1,,
+1304,fusilli,1,,
+1305,salmon prep,1,,
+1306,rolatini,1,8.0,chicken
+1307,snapper livornese,1,,
+1308,stage,1,12.0,experience
+1309,sound board,1,,
+1310,jersey,1,,
+1311,hot chocolate,1,8.0,chicken
+1312,kj,1,,
+1313,braised,1,,
+1314,cesar dressing,1,,
+1315,dance floor,1,4.0,atmosphere
+1316,chicken lazzara,1,,
+1317,chicken scapariello,1,,
+1318,cappella,1,,
+1319,arribiatta,1,,
+1320,food people,1,12.0,experience
+1321,valentino,1,,
+1322,bar crowd,1,,
+1323,bread serving,1,,
+1324,dietary,1,12.0,experience
+1325,communication,1,14.0,tip
+1326,toasted ravioli,1,,
+1327,tabled,1,,
+1328,service lady,1,,
+1329,trio,1,,
+1330,celebration,1,21.0,family
+1331,bevrage,1,,
+1332,fried zucchini ball,1,,
+1333,pitcher,1,,
+1334,chicken francaice,1,,
+1335,barrata,1,,
+1336,franciase,1,,
+1337,asthetically,1,,
+1338,ribeye special,1,,
+1339,natalie,1,,
+1340,stuff eggplant,1,,
+1341,chicken pisano,1,,
+1342,folk,1,14.0,tip
+1343,comedy night,1,4.0,atmosphere
+1344,octopus salad,1,8.0,chicken
+1345,roast chicken salad,1,,
+1346,paisanos,1,,
+1347,bolognaise sauce,1,,
+1348,tail,1,8.0,chicken
+1349,ingrediants,1,,
+1350,comedy show,1,12.0,experience
+1351,kick,1,,
+1352,carbonnara,1,,
+1353,fry zucchini stick,1,,
+1354,detail,1,,
+1355,waite staff,1,,
+1356,tart,1,8.0,chicken
+1357,old fashioned,1,,
+1358,poached egg,1,8.0,chicken
+1359,sweet,1,8.0,chicken
+1360,veal francese,1,8.0,chicken
+1361,veil,1,,
+1362,ombience,1,,
+1363,waite,1,,
+1364,energy,1,22.0,feel
+1365,place itself,1,12.0,experience
+1366,amenity,1,,
+1367,landscaper,1,,
+1368,a / c,1,12.0,experience
+1369,bar tend staff,1,,
+1370,capuccino,1,,
+1371,chicken cutlet parm,1,,
+1372,mussel marinara,1,,
+1373,caterer,1,,
+1374,eye,1,17.0,smell
+1375,valet service,1,,
+1376,franchese,1,,
+1377,pour,1,18.0,serve
+1378,thanksgiving dinner,1,,
+1379,valet park,1,12.0,experience
+1380,french toast mozzarella,1,,
+1381,gal,1,,
+1382,chopped salad,1,,
+1383,cavatelli casalinga,1,,
+1384,tortellini primavera,1,,
+1385,ariila salad,1,,
+1386,penne a la,1,,
+1387,obionce,1,,
+1388,sunday brunch,1,,
+1389,appeziter,1,,
+1390,precaution,1,,
+1391,heart,1,,
+1392,bathrooms,1,,
+1393,price service,1,,
+1394,parms,1,,
+1395,cold cut,1,8.0,chicken
+1396,hero,1,,
+1397,italian sub,1,,
+1398,meatloaf,1,8.0,chicken
+1399,barcelona ’ s,1,,
+1400,meatballls,1,,
+1401,bar pie,1,,
+1402,history,1,20.0,thai
+1403,tradition,1,,
+1404,cheeseburger,1,8.0,chicken
+1405,staffact,1,,
+1406,muscle,1,8.0,chicken
+1407,price staff,1,,
+1408,pizza muscle dish,1,,
+1409,theme,1,12.0,experience
+1410,food establishment,1,,
+1411,family restaurant,1,,
+1412,kid menu,1,12.0,experience
+1413,waiter / bartender,1,,
+1414,pasta carbona,1,,
+1415,masala,1,8.0,chicken
+1416,hot roll,1,,
+1417,carbonara pasta dish,1,,
+1418,hostos,1,,
+1419,pita chip,1,8.0,chicken
+1420,moscato primo amore,1,,
+1421,fritto misto,1,,
+1422,main meal,1,,
+1423,tortelloni,1,,
+1424,device,1,,
+1425,veal steak,1,,
+1426,rice,1,8.0,chicken
+1427,scarp,1,,
+1428,aesthetic,1,4.0,atmosphere
+1429,white,1,8.0,chicken
+1430,donato,1,,
+1431,duck breast,1,8.0,chicken
+1432,liguini,1,,
+1433,offogato,1,,
+1434,rigatoni sunday sauce,1,,
+1435,octupus,1,,
+1436,spirit,1,12.0,experience
+1437,brocolli rabe cavatelli,1,,
+1438,din experience,1,22.0,feel
+1439,gio,1,,
+1440,beer list,1,,
+1441,tartare appetizer,1,,
+1442,tortiglioni,1,,
+1443,forno,1,,
+1444,sunday,1,,
+1445,vegi board,1,,
+1446,apps chef,1,,
+1447,veal bolognese,1,,
+1448,yo maria,1,,
+1449,zucchini fry,1,,
+1450,clientele,1,4.0,atmosphere
+1451,rooster,1,,
+1452,friendly,1,,
+1453,our,1,,
+1454,salmon / trout,1,,
+1455,seared tuna,1,8.0,chicken
+1456,happy hour deal,1,,
+1457,community,1,20.0,thai
+1458,idea,1,,
+1459,sunday sauce,1,,
+1460,pork belly,1,8.0,chicken
+1461,pork rib,1,8.0,chicken
+1462,vegetable board,1,,
+1463,serving staff,1,12.0,experience
+1464,shrimp scampi lunch,1,,
+1465,food idea,1,,
+1466,fettucine,1,,
+1467,promo,1,,
+1468,shrimp appetizer,1,8.0,chicken
+1469,food fettuccine alfredo,1,,
+1470,eggplat,1,,
+1471,grilled chicken margherita,1,,
+1472,flavor texture,1,,
+1473,balance,1,,
+1474,seating arrangement,1,12.0,experience
+1475,food temperature,1,,
+1476,waitress /,1,,
+1477,served,1,8.0,chicken
+1478,table service,1,12.0,experience
+1479,talk,1,,
+1480,octapus,1,,
+1481,veggie taste,1,,
+1482,strip steak,1,8.0,chicken
+1483,jazz,1,4.0,atmosphere
+1484,bread roll,1,8.0,chicken
+1485,lech cake,1,8.0,chicken
+1486,pianist,1,12.0,experience
+1487,wood work,1,,
+1488,ceviche,1,8.0,chicken
+1489,tiramusu,1,,
+1490,live jazz,1,,
+1491,alex,1,,
+1492,vibes,1,20.0,thai
+1493,plating,1,12.0,experience
+1494,seating ambiance,1,,
+1495,linguine fra diavolo,1,,
+1496,seared king salmon,1,,
+1497,winter garden room,1,,
+1498,valet attendant,1,,
+1499,construction,1,,
+1500,hors d ' oeuvers,1,,
+1501,omelet / crepe station,1,,
+1502,autunno salad,1,,
+1503,expresso,1,,
+1504,sangriya,1,,
+1505,bar price,1,,
+1506,meal deal,1,,
+1507,sicilian,1,8.0,chicken
+1508,snapper piccatta,1,,
+1509,crab cake appetizer,1,,
+1510,penne pasta,1,8.0,chicken
+1511,riggatoni bolognese,1,,
+1512,veal osso bucco,1,,
+1513,bartendrer,1,,
+1514,flounder oreganata,1,,
+1515,cheescake,1,,
+1516,zuppa di mussel,1,,
+1517,cusine,1,20.0,thai
+1518,lasagna bolognese,1,,
+1519,orecchiette pasta,1,,
+1520,retaurant,1,,
+1521,atmospheri,1,,
+1522,ragatoni,1,,
+1523,shower,1,,
+1524,genovese,1,,
+1525,stair,1,17.0,smell
+1526,aura,1,12.0,experience
+1527,pork chop murphy,1,,
+1528,zuppa do mare,1,,
+1529,lorenzo,1,,
+1530,bella vita,1,,
+1531,lunch time price,1,,
+1532,braise lamb shank,1,,
+1533,clam oreganata,1,,
+1534,franchaise,1,,
+1535,service owner,1,,
+1536,dude,1,,
+1537,performance,1,12.0,experience
+1538,pollo sorrentino,1,,
+1539,souffle,1,8.0,chicken
+1540,egg roll,1,8.0,chicken
+1541,papardelle,1,,
+1542,ragu sauce,1,,
+1543,brake light,1,,
+1544,staff people,1,,
+1545,triva,1,,
+1546,tiramsu,1,,
+1547,cacciatore,1,8.0,chicken
+1548,salad insalata di rucola,1,,
+1549,filet de sole,1,,
+1550,escarole,1,8.0,chicken
+1551,chicken rollatini,1,,
+1552,rack of,1,,
+1553,chilean seabass,1,,
+1554,preparation style,1,,
+1555,scarpiello,1,8.0,chicken
+1556,time lapse,1,,
+1557,irish coffee,1,,
+1558,marina,1,,
+1559,veal piccata,1,,
+1560,todd,1,,
+1561,valet guy,1,,
+1562,veal meatball,1,,
+1563,din room,1,4.0,atmosphere
+1564,tablecloth,1,17.0,smell
+1565,eggplant rollatini,1,,
+1566,zuppa di cozze,1,,
+1567,veal saltimbocca,1,8.0,chicken
+1568,sing,1,21.0,family
+1569,service seafood,1,,
+1570,jeff,1,,
+1571,grill chicken sandwich,1,,
+1572,cabbage,1,8.0,chicken
+1573,shrimp rigatoni,1,,
+1574,armen,1,,
+1575,seat din room,1,,
+1576,creativity,1,,
+1577,molten lava cake,1,,
+1578,barato,1,,
+1579,short rib entree,1,,
+1580,egg benedict,1,8.0,chicken
+1581,pizza oven,1,,
+1582,bianche,1,,
+1583,grilled shrimp,1,8.0,chicken
+1584,outer crunch,1,,
+1585,soppresata,1,,
+1586,short - rib,1,,
+1587,portobello panini,1,,
+1588,assortment of,1,,
+1589,pana cotta,1,,
+1590,papperdelle,1,,
+1591,parpadelle,1,8.0,chicken
+1592,crabmeat quiche,1,,
+1593,benidict,1,,
+1594,corkage,1,,
+1595,soppressata ham,1,,
+1596,roast chicken breast,1,,
+1597,wild rice,1,,
+1598,french cuisine,1,,
+1599,mother,1,,
+1600,pizza margarita,1,,
+1601,short rib panini,1,,
+1602,pistashio,1,,
+1603,broccoli rabe pizza,1,,
+1604,pies,1,,
+1605,wrap,1,8.0,chicken
+1606,wine pour,1,,
+1607,italian ice cream,1,,
+1608,grilled chicken ceasar salad,1,,
+1609,chicken parmigiana hero,1,,
+1610,grilled chicken portabello,1,,
+1611,croquette potato,1,,
+1612,haricot verts,1,,
+1613,mozzarella slice,1,,
+1614,onion ring,1,8.0,chicken
+1615,present,1,12.0,experience
+1616,tilapia,1,8.0,chicken
+1617,early,1,,
+1618,vinaigrette dress,1,,
+1619,fillet of sole,1,8.0,chicken
+1620,mussel fra diavolo,1,,
+1621,spaghetti aioli,1,,
+1622,hush puppy,1,,
+1623,pasta selection,1,,
+1624,filet of sole,1,8.0,chicken
+1625,malbec,1,,
+1626,course,1,5.0,drink
+1627,entertainer,1,,
+1628,veal grappa,1,,
+1629,ringer,1,,
+1630,a la vodka,1,,
+1631,sopresseta,1,,
+1632,frangelico,1,,
+1633,filet mignon special,1,,
+1634,matradee,1,,
+1635,ownership,1,14.0,tip
+1636,service attitude,1,,
+1637,long,1,,
+1638,care,1,2.0,service
+1639,lady manger,1,,
+1640,brd stick,1,,
+1641,fire place,1,4.0,atmosphere
+1642,tabasco,1,,
+1643,trash,1,,
+1644,macaroni and cheese,1,,
+1645,logo,1,,
+1646,pasta side,1,,
+1647,tabl,1,,
+1648,coke,1,18.0,serve
+1649,maitre,1,14.0,tip
+1650,ziti frita,1,,
+1651,salade,1,,
+1652,etiquette,1,12.0,experience
+1653,stick,1,,
+1654,hostes,1,,
+1655,customer service,1,2.0,service
+1656,barman,1,12.0,experience
+1657,pasta noodles,1,,
+1658,servant,1,12.0,experience
+1659,sanitary condition,1,,
+1660,dishwasher,1,,
+1661,stomach,1,19.0,eat
+1662,wall,1,4.0,atmosphere
+1663,routine,1,,
+1664,juice,1,8.0,chicken
+1665,entry way,1,,
+1666,tableclothes,1,,
+1667,grape,1,,
+1668,stock,1,12.0,experience
+1669,expirence,1,12.0,experience
+1670,offering,1,6.0,menu
+1671,gin and tonic,1,,
+1672,wallet,1,,
+1673,weitres,1,,
+1674,mannerism,1,,
+1675,front,1,,
+1676,response,1,,
+1677,billboard,1,,
+1678,fried ravioli,1,,
+1679,revolving door,1,,
+1680,decore,1,12.0,experience
+1681,ice teach,1,,
+1682,wash,1,,
+1683,lasagna fritte,1,,
+1684,freshness,1,11.0,cuisine
+1685,recipe,1,8.0,chicken
+1686,network,1,,
+1687,appetise,1,,
+1688,salada,1,,
+1689,delay,1,13.0,delivery
+1690,breadstucks,1,,
+1691,waitlist,1,,
+1692,towel,1,17.0,smell
+1693,breadstcks,1,,
+1694,ravioli stuff,1,,
+1695,patron,1,14.0,tip
+1696,spaghetti meat sauce,1,,
+1697,drink service,1,,
+1698,coupon,1,,
+1699,milk,1,8.0,chicken
+1700,walk,1,17.0,smell
+1701,wait - person,1,,
+1702,take -,1,,
+1703,survey,1,,
+1704,income,1,,
+1705,sink,1,17.0,smell
+1706,concierge,1,,
+1707,tirumasu,1,,
+1708,service representation,1,,
+1709,mop,1,,
+1710,salt,1,8.0,chicken
+1711,mark,1,,
+1712,chair cushion,1,,
+1713,serve time,1,17.0,smell
+1714,sunlight,1,,
+1715,cushion,1,17.0,smell
+1716,bartender service,1,,
+1717,slider,1,8.0,chicken
+1718,table napkin,1,,
+1719,bathroon,1,,
+1720,appitzer,1,,
+1721,side bread,1,,
+1722,spice,1,8.0,chicken
+1723,quality control,1,,
+1724,wooden surface,1,,
+1725,frittas,1,,
+1726,bartending,1,12.0,experience
+1727,lasagna noodles,1,,
+1728,chick parm,1,,
+1729,drink special,1,12.0,experience
+1730,discount,1,14.0,tip
+1731,candes,1,,
+1732,shoe,1,17.0,smell
+1733,chicken piece,1,,
+1734,corse,1,,
+1735,calmari,1,8.0,chicken
+1736,gorgonzola,1,,
+1737,chicken piccata,1,8.0,chicken
+1738,kettle,1,,
+1739,giardinera,1,,
+1740,coladas,1,,
+1741,fan,1,7.0,portion
+1742,reception service,1,,
+1743,bouncer,1,12.0,experience
+1744,appetizer plate,1,12.0,experience
+1745,cutlet parm,1,,
+1746,bake,1,8.0,chicken
+1747,veal parm,1,8.0,chicken
+1748,busy,1,,
+1749,trattoria,1,,
+1750,calamari ’,1,,
+1751,acoustic,1,4.0,atmosphere
+1752,reservation system,1,,
+1753,paint,1,17.0,smell
+1754,s salad,1,8.0,chicken
+1755,bussing,1,,
+1756,scampi sauce,1,,
+1757,marbeling,1,,
+1758,mozzarella di buffalo,1,,
+1759,taglioni freschi,1,,
+1760,vongole,1,,
+1761,meeting,1,,
+1762,comment,1,14.0,tip
+1763,racism,1,,
+1764,pizza crust,1,8.0,chicken
+1765,wall cover,1,,
+1766,television,1,12.0,experience
+1767,service hostess / owner,1,,
+1768,overprice,1,,
+1769,surface,1,17.0,smell
+1770,noise level,1,4.0,atmosphere
+1771,waffle,1,8.0,chicken
+1772,hollandaise,1,12.0,experience
+1773,ratatouille,1,,
+1774,check in,1,2.0,service
+1775,foyer,1,,
+1776,entree portion,1,8.0,chicken
+1777,priced,1,,
+1778,sugar,1,8.0,chicken
+1779,joke,1,,
+1780,grilled chicken parmesan,1,,
+1781,lasgna,1,,
+1782,power,1,,
+1783,machine,1,14.0,tip
+1784,slide,1,,
+1785,lettece,1,,
+1786,spumoni,1,,
+1787,pea,1,8.0,chicken
+1788,path,1,,
+1789,place present,1,,
+1790,schedule,1,14.0,tip
+1791,rigenette al ragu,1,,
+1792,prawn,1,8.0,chicken
+1793,ghost,1,,
+1794,pene,1,,
+1795,broccoli rabe pasta,1,,
+1796,wine price,1,,
+1797,hear,1,14.0,tip
+1798,veg option,1,,
+1799,touch,1,,
+1800,stuffing,1,8.0,chicken
+1801,table manner,1,,
+1802,fondue,1,,
+1803,lasagna appetizer,1,,
+1804,soap dispenser,1,,
+1805,paper towel,1,,
+1806,plant decor,1,,
+1807,litter,1,,
+1808,s room,1,,
+1809,toasted lasagna,1,,
+1810,alfredo entre,1,,
+1811,hostess desk,1,,
+1812,logistical,1,,
+1813,coffee machine,1,,
+1814,waiter service,1,17.0,smell
+1815,napkins,1,12.0,experience
+1816,service response,1,,
+1817,salad order,1,,
+1818,calamari app,1,,
+1819,food choice,1,6.0,menu
+1820,meat dish,1,8.0,chicken
+1821,food gross,1,,
+1822,pasta quality,1,,
+1823,soup portion,1,,
+1824,pizaz,1,,
+1825,cream of chicken,1,,
+1826,lasana,1,,
+1827,managment,1,,
+1828,pino grigio,1,,
+1829,appy,1,,
+1830,manu,1,12.0,experience
+1831,in,1,,
+1832,fish francais,1,,
+1833,hot pocket,1,,
+1834,bus,1,17.0,smell
+1835,tv,1,4.0,atmosphere
+1836,flavorless food,1,,
+1837,workers,1,,
+1838,air condition,1,17.0,smell
+1839,appliance,1,,
+1840,protein,1,8.0,chicken
+1841,staff treatment,1,,
+1842,leadership,1,,
+1843,hamburger patty,1,,
+1844,parmesan chicken,1,,
+1845,spons,1,,
+1846,appetizer combo,1,8.0,chicken
+1847,computer,1,,
+1848,crutons,1,,
+1849,salad dress,1,8.0,chicken
+1850,food preparation,1,12.0,experience
+1851,cucumber,1,8.0,chicken
+1852,flat bread,1,8.0,chicken
+1853,apetizer,1,,
+1854,cesear,1,,
+1855,service utensil,1,,
+1856,mamager,1,,
+1857,outfit,1,,
+1858,air conditioning,1,17.0,smell
+1859,ballroom,1,12.0,experience
+1860,name,1,,
+1861,shellfish,1,8.0,chicken
+1862,flounder,1,8.0,chicken
+1863,clam casino,1,8.0,chicken
+1864,oreganotto,1,,
+1865,detergent,1,,
+1866,mai tai,1,8.0,chicken
+1867,walkway,1,17.0,smell
+1868,arrive,1,13.0,delivery
+1869,parmigan,1,,
+1870,icetea,1,,
+1871,meal quality,1,,
+1872,chicken scampi,1,,
+1873,supervision,1,12.0,experience
+1874,appearance,1,12.0,experience
+1875,lasagna roll ups,1,,
+1876,mashed potato,1,8.0,chicken
+1877,waiting area,1,,
+1878,waiter / server,1,,
+1879,crisp dessert,1,,
+1880,sour dough bread,1,,
+1881,ceasars salad,1,,
+1882,ricotta,1,,
+1883,grill,1,8.0,chicken
+1884,service charge,1,14.0,tip
+1885,mozzarella carrozza,1,,
+1886,chicken francaise,1,8.0,chicken
+1887,spiedini,1,,
+1888,chicken frommagio,1,,
+1889,chicken francese,1,8.0,chicken
+1890,answer,1,,
+1891,dish washing detergent,1,,
+1892,steak sandwich,1,8.0,chicken
+1893,help,1,2.0,service
+1894,schhol,1,,
+1895,croton,1,,
+1896,strawberry lemonade,1,,
+1897,hot water,1,,
+1898,air conditioner,1,17.0,smell
+1899,utility,1,,
+1900,host staff,1,12.0,experience
+1901,shade,1,,
+1902,spinach dip,1,,
+1903,washroom,1,12.0,experience
+1904,serve utensil,1,,
+1905,roast chicken,1,8.0,chicken
+1906,silverware ware,1,,
+1907,chicken parm / pasta,1,,
+1908,plastic,1,,
+1909,spring vegetable,1,,
+1910,wine glass,1,17.0,smell
+1911,brussels,1,,
+1912,tuna tartare,1,8.0,chicken
+1913,avocado,1,8.0,chicken
+1914,garganelli,1,,
+1915,iced tea,1,8.0,chicken
+1916,blind,1,,
+1917,lasagna sauce,1,,
+1918,front of,1,14.0,tip
+1919,labor,1,17.0,smell
+1920,windows,1,,
+1921,sanitary,1,17.0,smell
+1922,carpeting,1,,
+1923,central air,1,,
+1924,hostace,1,,
+1925,cerviche,1,8.0,chicken
+1926,contruction equipment,1,,
+1927,omelet,1,8.0,chicken
+1928,baked brie,1,,
+1929,personal,1,12.0,experience
+1930,armchair,1,,
+1931,heating,1,17.0,smell
+1932,penne alla genovese,1,,
+1933,lady room,1,,
+1934,flat bread crisp,1,,
+1935,lamb dish,1,8.0,chicken
+1936,bug,1,,
+1937,artichokes,1,,
+1938,operational,1,,
+1939,rollitini,1,,
+1940,crab meat,1,8.0,chicken
+1941,water glass,1,18.0,serve
+1942,glaze,1,,
+1943,colour,1,,
+1944,riggatoni,1,,
+1945,vanilla,1,,
+1946,gouda,1,,
+1947,manchego,1,8.0,chicken
+1948,deposit,1,14.0,tip
+1949,art,1,4.0,atmosphere
+1950,mahi mahi,1,8.0,chicken
+1951,hr,1,,
+1952,cappuccinos,1,,
+1953,fish choice,1,,
+1954,rolitini,1,,
+1955,mozzarella square,1,,
+1956,cover,1,17.0,smell
+1957,hamburger,1,8.0,chicken
+1958,delivery guy,1,14.0,tip
+1959,veal picatta,1,,
+1960,counter girl,1,12.0,experience
+1961,ceiling tile,1,,
+1962,grigio,1,,
+1963,chicken cacciatore,1,,
+1964,fritta calamari,1,,
+1965,sweater,1,,
+1966,jean,1,12.0,experience
+1967,charcutteri,1,,
+1968,merlot,1,,
+1969,desert wine,1,,
+1970,vegetales,1,,
+1971,parmesan chick,1,,
+1972,pressure,1,14.0,tip
+1973,product,1,11.0,cuisine
+1974,dumpling soup,1,8.0,chicken
+1975,salad / breadstick,1,,
+1976,chicken cutlet parmigianino,1,,
+1977,egg plant,1,8.0,chicken
+1978,breadrolls,1,,
+1979,spaghetti & meatball,1,,
+1980,queue,1,13.0,delivery
+1981,reservationin,1,,
+1982,dalad,1,,
+1983,confirmation,1,,
+1984,direction,1,17.0,smell
+1985,refil,1,,
+1986,chees,1,,
+1987,menu service,1,,
+1988,resource,1,,
+1989,lasagna dip,1,,
+1990,timeline,1,,
+1991,chicken parmasan,1,,
+1992,trimasu,1,,
+1993,side dish,1,8.0,chicken
+1994,salad plat,1,,
+1995,chicken special,1,8.0,chicken
+1996,scene,1,4.0,atmosphere
+1997,whip cream,1,8.0,chicken
+1998,toast bread,1,,
+1999,calarmi,1,,
+2000,doggy bag,1,,
+2001,shrimp parm,1,,
+2002,bar tab,1,,
+2003,carmine,1,,
+2004,stool,1,,
+2005,sound,1,17.0,smell
+2006,coffe,1,12.0,experience
+2007,cardinale,1,,
+2008,banquet,1,21.0,family
+2009,uniform,1,,
+2010,jacket,1,,
+2011,pant,1,12.0,experience
+2012,tiramisu waiter,1,,
+2013,flight,1,12.0,experience
+2014,tripe,1,8.0,chicken
+2015,roast red pepper,1,,
+2016,charge,1,14.0,tip
+2017,veal florencia,1,,
+2018,linguine dish,1,,
+2019,busers,1,,
+2020,ready,1,,
+2021,pasta pas,1,,
+2022,utensil menu,1,,
+2023,tremezzo,1,,
+2024,pasta bolognese,1,8.0,chicken
+2025,melanzana,1,,
+2026,zuppa di,1,,
+2027,arugula,1,8.0,chicken
+2028,proscuitto,1,,
+2029,pepperoni,1,8.0,chicken
+2030,ancillary take out item,1,,
+2031,starter fry zucchini,1,,
+2032,chablis,1,,
+2033,antipasto plate,1,,
+2034,change table,1,,
+2035,alla genovese,1,,
+2036,pancakes,1,12.0,experience
+2037,fettuccini carbonara,1,,
+2038,table clothes,1,,
+2039,cesear salad,1,,
+2040,valet parking attendant,1,,
+2041,tempature,1,,
+2042,toppings,1,,
+2043,ice drink,1,,
+2044,chichen,1,,
+2045,wait person,1,8.0,chicken
+2046,veg menu,1,,
+2047,vacuum,1,,
+2048,fettuccini alfred,1,,
+2049,tirramasu,1,,
+2050,ambience waitress,1,,
+2051,ravioli di portobello,1,,
+2052,parmed,1,,
+2053,diavlo,1,,
+2054,fra diavlo,1,,
+2055,bulb,1,,
+2056,oreganato,1,8.0,chicken
+2057,braise beef,1,,
+2058,food item,1,12.0,experience
+2059,togo,1,,
+2060,shrimp scampi pasta bowl,1,,
+2061,sopressata,1,,
+2062,jazz show,1,,
+2063,lunch menu waitress,1,,
+2064,cabonara,1,,
+2065,waitters,1,,
+2066,fry mozzarella,1,,
+2067,grouper,1,8.0,chicken
+2068,salas,1,,
+2069,opener,1,,
+2070,pei mussel,1,,
+2071,michaelangelo,1,,
+2072,sole francais,1,,
+2073,fra diavolo sauce,1,,
+2074,bar top,1,,
+2075,barstools,1,,
+2076,garlic bread bruschetta,1,,
+2077,spagehetti,1,,
+2078,jukebox,1,12.0,experience
+2079,antipasto salad,1,8.0,chicken
+2080,hair pasta,1,,
+2081,penne rigate,1,,
+2082,moscow mule,1,8.0,chicken
+2083,cabonata,1,,
+2084,waiting room,1,,
+2085,asiago tortellini,1,,
+2086,paloma,1,,
+2087,portobello,1,8.0,chicken
+2088,calamari fritti,1,,
+2089,latte,1,8.0,chicken
+2090,capuchino,1,,
+2091,beef carpacio,1,,
+2092,tomahawk steak,1,8.0,chicken
+2093,brie,1,8.0,chicken
+2094,italian toast,1,,
+2095,steaks,1,18.0,serve
+2096,ripieno,1,,
+2097,pan,1,8.0,chicken
+2098,rolletini,1,,
+2099,prixe,1,,
+2100,menu appetizer,1,,
+2101,cupcake,1,,
+2102,lunch price,1,12.0,experience
+2103,fry zucchini,1,8.0,chicken
+2104,lot,1,7.0,portion
+2105,caponatina,1,,
+2106,address,1,14.0,tip
+2107,prix fixe menu,1,,
+2108,platter,1,8.0,chicken
+2109,pizzaria,1,,
+2110,effort,1,14.0,tip
+2111,ceasar wrap,1,,
+2112,prix fixe,1,6.0,menu
+2113,pre - fixe dinner,1,,
+2114,chicken entree,1,,
+2115,creme brulees,1,,
+2116,canole,1,,
+2117,pasta melanzana,1,,
+2118,seabass,1,8.0,chicken

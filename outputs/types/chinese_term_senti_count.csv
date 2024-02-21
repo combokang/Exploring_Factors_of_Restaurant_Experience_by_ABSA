@@ -1,0 +1,1116 @@
+ID,Term,POS,NEG,NEU,TOTAL
+0,food,1930,244,154,2328
+1,service,711,181,37,929
+2,price,251,69,35,355
+3,staff,243,47,10,300
+4,chicken,137,34,37,208
+5,dumpling,149,22,22,193
+6,portion,124,21,3,148
+7,dim sum,96,18,26,140
+8,soup dumpling,104,12,11,127
+9,atmosphere,115,6,3,124
+10,menu,74,21,28,123
+11,soup,79,22,18,119
+12,drink,97,10,9,116
+13,waiter,43,66,6,115
+14,quality,54,21,12,87
+15,fried rice,48,21,15,84
+16,flavor,50,28,1,79
+17,noodle,42,17,16,75
+18,server,38,31,3,72
+19,dish,61,5,4,70
+20,wait,7,49,14,70
+21,rice,38,23,8,69
+22,fry rice,35,18,16,69
+23,delivery,27,31,10,68
+24,chinese,58,3,5,66
+25,cuisine,55,3,3,61
+26,taste,37,17,6,60
+27,shrimp,33,10,15,58
+28,decor,39,11,5,55
+29,lunch,28,4,22,54
+30,sauce,28,19,6,53
+31,people,44,7,1,52
+32,broccoli,38,6,8,52
+33,pork chop,37,1,9,47
+34,pork,32,9,6,47
+35,lo mein,28,6,9,43
+36,beef,28,6,9,43
+37,tip,3,29,11,43
+38,table,13,9,20,42
+39,owner,32,9,0,41
+40,crab,26,6,8,40
+41,fish,23,10,7,40
+42,meal,28,5,3,36
+43,tea,25,8,2,35
+44,waitress,13,21,1,35
+45,ambiance,28,4,2,34
+46,scallion pancake,27,2,5,34
+47,duck,22,5,6,33
+48,environment,29,1,1,31
+49,dinner,14,4,10,28
+50,reservation,3,7,18,28
+51,experience,23,1,2,26
+52,sushi,18,3,4,25
+53,wait staff,14,11,0,25
+54,cocktail,22,1,1,24
+55,selection,18,5,1,24
+56,chow fun,17,3,4,24
+57,lady,8,13,2,23
+58,vibe,18,2,2,22
+59,space,17,5,0,22
+60,steak,15,4,3,22
+61,tofu,11,5,6,22
+62,nutcracker,18,1,2,21
+63,squid,18,0,3,21
+64,spring roll,13,5,3,21
+65,vegetable,12,7,2,21
+66,lomo,16,0,4,20
+67,rib,13,4,3,20
+68,plate,12,5,3,20
+69,meat,11,9,0,20
+70,egg roll,10,7,3,20
+71,hot and sour soup,8,3,9,20
+72,wait time,4,12,4,20
+73,location,13,3,3,19
+74,chicken wing,9,5,5,19
+75,spare rib,8,7,4,19
+76,restaurant,18,0,0,18
+77,pork bun,15,2,1,18
+78,wonton soup,12,4,2,18
+79,hour,0,15,3,18
+80,sangria,15,0,2,17
+81,value,14,1,2,17
+82,seat,13,3,1,17
+83,xiao long bao,12,0,4,16
+84,takeout,11,0,5,16
+85,dessert,8,5,3,16
+86,entree,7,2,7,16
+87,roast chicken,12,0,3,15
+88,ingredient,11,4,0,15
+89,pancake,10,4,1,15
+90,mapo tofu,10,2,3,15
+91,deliver,5,8,2,15
+92,crowd,3,10,2,15
+93,variety,13,1,0,14
+94,ambience,12,1,1,14
+95,snail,12,1,1,14
+96,special,12,0,2,14
+97,flounder,11,0,3,14
+98,dimsum,7,3,4,14
+99,appetizer,3,5,6,14
+100,rice cake,12,0,1,13
+101,lomo saltado,12,0,1,13
+102,worker,10,3,0,13
+103,seating,9,2,2,13
+104,lunch special,8,3,2,13
+105,peking duck,6,4,3,13
+106,manager,5,8,0,13
+107,bathroom,4,9,0,13
+108,line,1,12,0,13
+109,choice,11,1,0,12
+110,prawn,10,2,0,12
+111,wing,6,5,1,12
+112,serving,10,0,1,11
+113,bisque,9,0,2,11
+114,seafood,8,3,0,11
+115,wonton,7,4,0,11
+116,food quality,7,2,2,11
+117,egg foo young,5,6,0,11
+118,pricing,3,6,2,11
+119,bill,3,4,4,11
+120,management,2,9,0,11
+121,shumai,7,0,3,10
+122,portion size,6,2,2,10
+123,chicken leg,5,4,1,10
+124,time,3,6,1,10
+125,wine,6,2,1,9
+126,chef,5,3,1,9
+127,skin,5,3,1,9
+128,sum,5,1,3,9
+129,lobster,4,4,1,9
+130,cabbage,4,2,3,9
+131,bun,4,0,5,9
+132,pad thai,3,6,0,9
+133,guy,3,6,0,9
+134,chow mein,3,5,1,9
+135,veggie,3,4,2,9
+136,chair,2,4,3,9
+137,rotisserie chicken,8,0,0,8
+138,fry,6,2,0,8
+139,quantity,6,1,1,8
+140,presentation,6,1,1,8
+141,place,5,3,0,8
+142,bento,4,1,3,8
+143,attitude,2,4,2,8
+144,smell,1,7,0,8
+145,size,1,7,0,8
+146,family,7,0,0,7
+147,setting,7,0,0,7
+148,crab dish,6,0,1,7
+149,porkchop,6,0,1,7
+150,pork soup dumpling,6,0,1,7
+151,delivery service,5,2,0,7
+152,bartender,5,1,1,7
+153,scallop,5,1,1,7
+154,texture,4,3,0,7
+155,fried chicken,4,2,1,7
+156,interior,4,1,2,7
+157,salad,4,1,2,7
+158,soda,3,4,0,7
+159,bok choy,2,3,2,7
+160,delivery guy,0,7,0,7
+161,take out,6,0,0,6
+162,kitchen,5,1,0,6
+163,short rib,5,1,0,6
+164,tripe,5,0,1,6
+165,duck roll,5,0,1,6
+166,soup dumplings,4,2,0,6
+167,beer,4,1,1,6
+168,lamb,4,1,1,6
+169,establishment,4,1,1,6
+170,bar,4,0,2,6
+171,roast duck,4,0,2,6
+172,kung pao chicken,4,0,2,6
+173,desert,3,3,0,6
+174,employee,3,3,0,6
+175,bento box,3,3,0,6
+176,cook,3,2,1,6
+177,platter,3,1,2,6
+178,turnip cake,3,1,2,6
+179,name,2,3,1,6
+180,review,2,2,2,6
+181,escalator,2,1,3,6
+182,woman,1,5,0,6
+183,napkin,1,4,1,6
+184,onion,1,4,1,6
+185,restroom,1,3,2,6
+186,check,0,5,1,6
+187,pork belly,5,0,0,5
+188,bean,5,0,0,5
+189,serve,5,0,0,5
+190,decoration,5,0,0,5
+191,stew,5,0,0,5
+192,chai,5,0,0,5
+193,fried,5,0,0,5
+194,cooking,4,0,1,5
+195,pork rib,4,0,1,5
+196,eats,4,0,1,5
+197,eggplant,4,0,1,5
+198,flor de mayo,4,0,1,5
+199,gluten,4,0,1,5
+200,bread,3,2,0,5
+201,fish fillet,3,1,1,5
+202,room,3,1,1,5
+203,tso,3,0,2,5
+204,filling,2,2,1,5
+205,shrimp roll,2,2,1,5
+206,shrimp ball,2,1,2,5
+207,fry noodle,2,0,3,5
+208,gravy,1,4,0,5
+209,mofongo,1,4,0,5
+210,water,1,2,2,5
+211,main,1,2,2,5
+212,ropa vieja,1,2,2,5
+213,sour chicken,1,2,2,5
+214,loud,0,5,0,5
+215,eggroll,0,5,0,5
+216,sichuan,4,0,0,4
+217,spice,4,0,0,4
+218,vegetarian,4,0,0,4
+219,fried flounder,4,0,0,4
+220,cost,4,0,0,4
+221,preparation,4,0,0,4
+222,shrimp dumpling,4,0,0,4
+223,xiaolongbao,4,0,0,4
+224,plantain,4,0,0,4
+225,hospitality,4,0,0,4
+226,lunch box,4,0,0,4
+227,take,4,0,0,4
+228,music,3,1,0,4
+229,singapore noodle,3,1,0,4
+230,waitstaff,3,1,0,4
+231,park,3,1,0,4
+232,fortune cooky,3,1,0,4
+233,dining room,3,0,1,4
+234,cantonese,3,0,1,4
+235,jiang noodle,3,0,1,4
+236,broth,3,0,1,4
+237,crispy duck roll,3,0,1,4
+238,fusion,3,0,1,4
+239,crab rangoon,3,0,1,4
+240,chicken cutlet,3,0,1,4
+241,fry chicken,2,2,0,4
+242,decorate,2,1,1,4
+243,sour soup,2,1,1,4
+244,tomato,2,1,1,4
+245,sevice,2,1,1,4
+246,pina colada,2,1,1,4
+247,dan dan noodle,2,0,2,4
+248,fare,2,0,2,4
+249,spring chicken,2,0,2,4
+250,minute,1,3,0,4
+251,host,1,3,0,4
+252,ceviche,1,3,0,4
+253,order,1,3,0,4
+254,delivery man,1,2,1,4
+255,starter,1,1,2,4
+256,tax,1,1,2,4
+257,cart,1,1,2,4
+258,hostess,0,4,0,4
+259,delivery driver,0,4,0,4
+260,driver,0,4,0,4
+261,gratuity,0,3,1,4
+262,egg,0,3,1,4
+263,ceiling,3,0,0,3
+264,stir fry,3,0,0,3
+265,service staff,3,0,0,3
+266,area,3,0,0,3
+267,lamb chop,3,0,0,3
+268,martini,3,0,0,3
+269,eat,3,0,0,3
+270,tablecloth,3,0,0,3
+271,feel,3,0,0,3
+272,fried squid,3,0,0,3
+273,roast pork,3,0,0,3
+274,clam,3,0,0,3
+275,pastry,3,0,0,3
+276,cocktail menu,3,0,0,3
+277,general tso ' s chicken,3,0,0,3
+278,facility,3,0,0,3
+279,egg drop soup,3,0,0,3
+280,dim sum option,3,0,0,3
+281,mei fun,3,0,0,3
+282,pollo,3,0,0,3
+283,roasted chicken,3,0,0,3
+284,food service,3,0,0,3
+285,chicken dish,3,0,0,3
+286,buffet,3,0,0,3
+287,conversation,3,0,0,3
+288,chandelier,3,0,0,3
+289,cashier,3,0,0,3
+290,veg,2,1,0,3
+291,person,2,1,0,3
+292,mussel,2,1,0,3
+293,lo mien,2,1,0,3
+294,option,2,1,0,3
+295,lunch menu,2,1,0,3
+296,pasta,2,1,0,3
+297,combo,2,1,0,3
+298,siu mai,2,1,0,3
+299,sesame chicken,2,1,0,3
+300,lighting,2,1,0,3
+301,rice roll,2,1,0,3
+302,parking,2,1,0,3
+303,liquor,2,0,1,3
+304,amount,2,0,1,3
+305,chinese broccoli,2,0,1,3
+306,sour pork,2,0,1,3
+307,deco,2,0,1,3
+308,sweet,2,0,1,3
+309,lomo salteado,2,0,1,3
+310,tso ' s chicken,1,2,0,3
+311,manner,1,2,0,3
+312,serve size,1,2,0,3
+313,hygiene,1,2,0,3
+314,peking roast duck,1,2,0,3
+315,fortune cookie,1,2,0,3
+316,moo shu pork,1,2,0,3
+317,girl,1,2,0,3
+318,waiting,1,2,0,3
+319,oil,1,2,0,3
+320,eggrolls,1,1,1,3
+321,pepper,1,1,1,3
+322,breading,1,1,1,3
+323,chop suey,1,0,2,3
+324,croaker,1,0,2,3
+325,curry chicken,1,0,2,3
+326,tostones,1,0,2,3
+327,light,1,0,2,3
+328,table service,0,3,0,3
+329,entrance,0,3,0,3
+330,front desk,0,3,0,3
+331,receptionist,0,3,0,3
+332,paella,0,3,0,3
+333,lemonade,0,3,0,3
+334,utensil,0,3,0,3
+335,desk,0,2,1,3
+336,escargot,0,0,3,3
+337,spice level,2,0,0,2
+338,cumin lamb,2,0,0,2
+339,chili oil,2,0,0,2
+340,personal,2,0,0,2
+341,szechuan dish,2,0,0,2
+342,everyone,2,0,0,2
+343,green bean,2,0,0,2
+344,s chicken,2,0,0,2
+345,spinach,2,0,0,2
+346,food option,2,0,0,2
+347,byob,2,0,0,2
+348,hot & sour soup,2,0,0,2
+349,chinatown,2,0,0,2
+350,lychee,2,0,0,2
+351,chinese food,2,0,0,2
+352,peking pork chop,2,0,0,2
+353,side dish,2,0,0,2
+354,history,2,0,0,2
+355,dessert tray,2,0,0,2
+356,clerk,2,0,0,2
+357,exterior,2,0,0,2
+358,drink menu,2,0,0,2
+359,beijing duck,2,0,0,2
+360,lamb stew,2,0,0,2
+361,stir,2,0,0,2
+362,food taste,2,0,0,2
+363,friend,2,0,0,2
+364,bean sprout,2,0,0,2
+365,served,2,0,0,2
+366,crispy beef,2,0,0,2
+367,chive,2,0,0,2
+368,crispy duck,2,0,0,2
+369,pea shoot,2,0,0,2
+370,steam bun,2,0,0,2
+371,bottom,2,0,0,2
+372,brunch,2,0,0,2
+373,chuletas,2,0,0,2
+374,hotsauce,2,0,0,2
+375,butter,2,0,0,2
+376,arroz,2,0,0,2
+377,yuca fry,2,0,0,2
+378,american,2,0,0,2
+379,weekend,2,0,0,2
+380,pollo a la brasa,2,0,0,2
+381,pepper steak,2,0,0,2
+382,building,2,0,0,2
+383,eating,2,0,0,2
+384,fried dumpling,2,0,0,2
+385,e - fu noodle,2,0,0,2
+386,proportion,2,0,0,2
+387,banquet hall,2,0,0,2
+388,pork chop over rice,2,0,0,2
+389,fried chicken wing,2,0,0,2
+390,chicken broccoli,2,0,0,2
+391,shrimp combo,2,0,0,2
+392,service food,1,1,0,2
+393,protein,1,1,0,2
+394,condiment,1,1,0,2
+395,tso chicken,1,1,0,2
+396,look,1,1,0,2
+397,bean curd,1,1,0,2
+398,fried fish,1,1,0,2
+399,duck dish,1,1,0,2
+400,pork dish,1,1,0,2
+401,customer care,1,1,0,2
+402,sparerib,1,1,0,2
+403,sea bass,1,1,0,2
+404,cake,1,1,0,2
+405,kung pao,1,1,0,2
+406,culture,1,1,0,2
+407,bbq rib,1,1,0,2
+408,dough,1,1,0,2
+409,cold noodle,1,1,0,2
+410,dim,1,1,0,2
+411,flavour,1,1,0,2
+412,udon noodle,1,1,0,2
+413,venue,1,1,0,2
+414,noise,1,1,0,2
+415,wait area,1,1,0,2
+416,alcohol selection,1,1,0,2
+417,noise level,1,1,0,2
+418,coffee,1,1,0,2
+419,mai tai,1,1,0,2
+420,vegetarian option,1,1,0,2
+421,sushi roll,1,1,0,2
+422,miso soup,1,1,0,2
+423,wrapper,1,1,0,2
+424,ball,1,1,0,2
+425,xiao long baos,1,1,0,2
+426,delivery time,1,1,0,2
+427,mai fun,1,1,0,2
+428,weather,1,1,0,2
+429,noodle roll,1,1,0,2
+430,sausage,1,1,0,2
+431,bos,1,1,0,2
+432,leftover,1,1,0,2
+433,walk,1,0,1,2
+434,fried wonton,1,0,1,2
+435,green,1,0,1,2
+436,china town,1,0,1,2
+437,dim - sum,1,0,1,2
+438,food flavor,1,0,1,2
+439,kang kong,1,0,1,2
+440,interior design,1,0,1,2
+441,cold dish,1,0,1,2
+442,plat,1,0,1,2
+443,pudding,1,0,1,2
+444,tso ’ s,1,0,1,2
+445,dim sum menu,1,0,1,2
+446,curry,1,0,1,2
+447,casserole,1,0,1,2
+448,jelly fish,1,0,1,2
+449,dress,1,0,1,2
+450,chifa,1,0,1,2
+451,colada,1,0,1,2
+452,french fry,1,0,1,2
+453,fry wonton,1,0,1,2
+454,teriyaki,1,0,1,2
+455,dimsums,1,0,1,2
+456,pan fried noodle,1,0,1,2
+457,snack,1,0,1,2
+458,general tso ' s,1,0,1,2
+459,clean,1,0,1,2
+460,har gow,1,0,1,2
+461,salmon,1,0,1,2
+462,cup,0,2,0,2
+463,comment,0,2,0,2
+464,cockroach,0,2,0,2
+465,queue,0,2,0,2
+466,delivery men,0,2,0,2
+467,etiquette,0,2,0,2
+468,seat arrangement,0,2,0,2
+469,linen,0,2,0,2
+470,roach,0,2,0,2
+471,stomach,0,2,0,2
+472,spoon,0,2,0,2
+473,receipt,0,2,0,2
+474,hand dryer,0,2,0,2
+475,carpet,0,2,0,2
+476,fried noodle,0,2,0,2
+477,communication,0,2,0,2
+478,msg,0,1,1,2
+479,cleanliness,0,1,1,2
+480,design,0,1,1,2
+481,table cloth,0,1,1,2
+482,potato,0,1,1,2
+483,layout,0,1,1,2
+484,furniture,0,1,1,2
+485,half chicken,0,1,1,2
+486,refill,0,1,1,2
+487,side,0,1,1,2
+488,lunchtime,0,1,1,2
+489,delivery fee,0,1,1,2
+490,shirt,0,1,1,2
+491,address,0,0,2,2
+492,meatball,0,0,2,2
+493,main course,0,0,2,2
+494,mixed vegetable,0,0,2,2
+495,execution,1,0,0,1
+496,hot pot chicken,1,0,0,1
+497,szechuan food,1,0,0,1
+498,service lady,1,0,0,1
+499,dan noodles,1,0,0,1
+500,sichuan course,1,0,0,1
+501,sichuanese,1,0,0,1
+502,lunch special menu,1,0,0,1
+503,king pao chicken,1,0,0,1
+504,waitstaffs,1,0,0,1
+505,inside,1,0,0,1
+506,offering,1,0,0,1
+507,happy hour,1,0,0,1
+508,heat,1,0,0,1
+509,hot - pot,1,0,0,1
+510,fei pian,1,0,0,1
+511,tao,1,0,0,1
+512,wait service,1,0,0,1
+513,sichuan food,1,0,0,1
+514,diet,1,0,0,1
+515,menu offering,1,0,0,1
+516,connie,1,0,0,1
+517,pork blood curd,1,0,0,1
+518,happy hour drink,1,0,0,1
+519,sichuan peppercorn,1,0,0,1
+520,mochi,1,0,0,1
+521,cashew chicken,1,0,0,1
+522,lunch set,1,0,0,1
+523,pickle fish soup,1,0,0,1
+524,table plan,1,0,0,1
+525,lazy - susan table,1,0,0,1
+526,chinese / thai,1,0,0,1
+527,base,1,0,0,1
+528,luggage,1,0,0,1
+529,szechuan taste,1,0,0,1
+530,clientele,1,0,0,1
+531,chief,1,0,0,1
+532,niu nan bao,1,0,0,1
+533,attention,1,0,0,1
+534,szechuan,1,0,0,1
+535,advice,1,0,0,1
+536,itself,1,0,0,1
+537,braise beef soup,1,0,0,1
+538,pot,1,0,0,1
+539,fair,1,0,0,1
+540,sichuan dish,1,0,0,1
+541,hen,1,0,0,1
+542,pickled cabbage,1,0,0,1
+543,stir fry watercress,1,0,0,1
+544,set,1,0,0,1
+545,brocolli,1,0,0,1
+546,kong xing tsai,1,0,0,1
+547,mo,1,0,0,1
+548,pickled vegetable,1,0,0,1
+549,tso ’ s chicken,1,0,0,1
+550,peking,1,0,0,1
+551,chicken breast,1,0,0,1
+552,chow mein noodle,1,0,0,1
+553,service time,1,0,0,1
+554,flounder kow,1,0,0,1
+555,special list,1,0,0,1
+556,wanton,1,0,0,1
+557,tour guide,1,0,0,1
+558,bak choi,1,0,0,1
+559,waiter service,1,0,0,1
+560,meun,1,0,0,1
+561,crispy pork,1,0,0,1
+562,dining,1,0,0,1
+563,tsa,1,0,0,1
+564,- fried noodle,1,0,0,1
+565,food employee,1,0,0,1
+566,watercress,1,0,0,1
+567,chip,1,0,0,1
+568,din,1,0,0,1
+569,duck appetizer,1,0,0,1
+570,tsing - tao,1,0,0,1
+571,fortune,1,0,0,1
+572,porridge,1,0,0,1
+573,ramen,1,0,0,1
+574,cheongfun,1,0,0,1
+575,cheung fen,1,0,0,1
+576,demeanor,1,0,0,1
+577,oceanfront,1,0,0,1
+578,architecture,1,0,0,1
+579,rabbit,1,0,0,1
+580,juice,1,0,0,1
+581,bai jiu,1,0,0,1
+582,mushroom,1,0,0,1
+583,seat space,1,0,0,1
+584,baijiu cocktail,1,0,0,1
+585,pig foot,1,0,0,1
+586,fry string bean,1,0,0,1
+587,food portion,1,0,0,1
+588,baijiu,1,0,0,1
+589,seitan,1,0,0,1
+590,drive,1,0,0,1
+591,staff member,1,0,0,1
+592,hou hai,1,0,0,1
+593,cuisine option,1,0,0,1
+594,chai ' s,1,0,0,1
+595,beverage,1,0,0,1
+596,food presentation,1,0,0,1
+597,artwork,1,0,0,1
+598,beef rib meat,1,0,0,1
+599,chai ’,1,0,0,1
+600,lifestyle,1,0,0,1
+601,style,1,0,0,1
+602,vide,1,0,0,1
+603,talk,1,0,0,1
+604,beef roll,1,0,0,1
+605,kung pao shrimp,1,0,0,1
+606,japanese,1,0,0,1
+607,crisp,1,0,0,1
+608,dim sim,1,0,0,1
+609,peking duck roll,1,0,0,1
+610,sichuan dumpling,1,0,0,1
+611,lunch deal,1,0,0,1
+612,gu - li pork,1,0,0,1
+613,tapestry,1,0,0,1
+614,oolong tea,1,0,0,1
+615,display,1,0,0,1
+616,menu option,1,0,0,1
+617,crab meat,1,0,0,1
+618,drink selection,1,0,0,1
+619,pickle vegetable,1,0,0,1
+620,short rib special,1,0,0,1
+621,container,1,0,0,1
+622,pickle turnip,1,0,0,1
+623,ma pu tofu,1,0,0,1
+624,curry puff,1,0,0,1
+625,scale,1,0,0,1
+626,mao pao tofu,1,0,0,1
+627,spot,1,0,0,1
+628,hot n sour soup,1,0,0,1
+629,shumai hong kong,1,0,0,1
+630,moo shu,1,0,0,1
+631,lounge area,1,0,0,1
+632,chicken dumpling,1,0,0,1
+633,lobster cantonese,1,0,0,1
+634,pickup,1,0,0,1
+635,sole,1,0,0,1
+636,table clothes,1,0,0,1
+637,braised beef,1,0,0,1
+638,ventillation,1,0,0,1
+639,seabass,1,0,0,1
+640,ma po tofu casserole,1,0,0,1
+641,sorbet,1,0,0,1
+642,pickled radish,1,0,0,1
+643,roll ups,1,0,0,1
+644,sandwich,1,0,0,1
+645,yuca frita,1,0,0,1
+646,papas arequipena,1,0,0,1
+647,tallarin verde,1,0,0,1
+648,tallarines verdes,1,0,0,1
+649,mint,1,0,0,1
+650,peruvian / chinese food,1,0,0,1
+651,meet and,1,0,0,1
+652,comida,1,0,0,1
+653,pollo a,1,0,0,1
+654,hot plate,1,0,0,1
+655,mix,1,0,0,1
+656,dip,1,0,0,1
+657,fish stew,1,0,0,1
+658,bread roll,1,0,0,1
+659,chicken chunk,1,0,0,1
+660,crisp chicken,1,0,0,1
+661,beef combo,1,0,0,1
+662,filet of sole,1,0,0,1
+663,plan,1,0,0,1
+664,lomo soltado,1,0,0,1
+665,yuca,1,0,0,1
+666,fried yucca,1,0,0,1
+667,shredded beef,1,0,0,1
+668,brasa,1,0,0,1
+669,conjuana,1,0,0,1
+670,serf,1,0,0,1
+671,arrive,1,0,0,1
+672,goo gai pan,1,0,0,1
+673,spanish combo,1,0,0,1
+674,assortment,1,0,0,1
+675,chino latino,1,0,0,1
+676,cafe con leche,1,0,0,1
+677,peruvian - chinese,1,0,0,1
+678,busers,1,0,0,1
+679,yuca ball,1,0,0,1
+680,dive,1,0,0,1
+681,limo salteado,1,0,0,1
+682,grilled pork chop,1,0,0,1
+683,de pollo,1,0,0,1
+684,habichuelas,1,0,0,1
+685,doggie,1,0,0,1
+686,coctails,1,0,0,1
+687,concept,1,0,0,1
+688,cerviche,1,0,0,1
+689,donut,1,0,0,1
+690,dining experience,1,0,0,1
+691,asado,1,0,0,1
+692,pollo la brasa,1,0,0,1
+693,seco de re,1,0,0,1
+694,cola,1,0,0,1
+695,rotisserie chicken rice,1,0,0,1
+696,wontins,1,0,0,1
+697,egg / potato,1,0,0,1
+698,tasting,1,0,0,1
+699,polla a,1,0,0,1
+700,hawaiian,1,0,0,1
+701,pu pu platter,1,0,0,1
+702,visual,1,0,0,1
+703,sushi bar,1,0,0,1
+704,general tsos tofu,1,0,0,1
+705,potato pancake,1,0,0,1
+706,teriyaki chicken,1,0,0,1
+707,entryway,1,0,0,1
+708,roll,1,0,0,1
+709,wing recipe,1,0,0,1
+710,coating,1,0,0,1
+711,shrimp dish,1,0,0,1
+712,fountain,1,0,0,1
+713,food dish,1,0,0,1
+714,mixed drink,1,0,0,1
+715,general chow,1,0,0,1
+716,store,1,0,0,1
+717,boneless rib tip,1,0,0,1
+718,price atmosphere,1,0,0,1
+719,chinese restaurant,1,0,0,1
+720,garden,1,0,0,1
+721,setup,1,0,0,1
+722,professional,1,0,0,1
+723,proprietor,1,0,0,1
+724,crispy chicken,1,0,0,1
+725,parking options5,1,0,0,1
+726,sit setup,1,0,0,1
+727,fed,1,0,0,1
+728,extend family,1,0,0,1
+729,gluten free option,1,0,0,1
+730,goid,1,0,0,1
+731,taro bun,1,0,0,1
+732,noodles,1,0,0,1
+733,mien,1,0,0,1
+734,scent,1,0,0,1
+735,green tea,1,0,0,1
+736,shen jiang bao,1,0,0,1
+737,chineese,1,0,0,1
+738,mother,1,0,0,1
+739,string bean,1,0,0,1
+740,ceiling design,1,0,0,1
+741,soup pork dumpling,1,0,0,1
+742,gao,1,0,0,1
+743,bao,1,0,0,1
+744,fanfare,1,0,0,1
+745,crab / pork dumpling,1,0,0,1
+746,fried dish,1,0,0,1
+747,dumplings,1,0,0,1
+748,water spinach,1,0,0,1
+749,over rice,1,0,0,1
+750,table arrangement,1,0,0,1
+751,product,1,0,0,1
+752,wrap,1,0,0,1
+753,cold sesame noodle,1,0,0,1
+754,soup dumping,1,0,0,1
+755,pot sticker,1,0,0,1
+756,schezuan soup dumpling,1,0,0,1
+757,chili,1,0,0,1
+758,shanghai,1,0,0,1
+759,brocolis,1,0,0,1
+760,chinesse food,1,0,0,1
+761,police,1,0,0,1
+762,picture,1,0,0,1
+763,egg - fu,1,0,0,1
+764,shrimp linguine d service,1,0,0,1
+765,bbq,1,0,0,1
+766,cat,1,0,0,1
+767,team,1,0,0,1
+768,fry beef,1,0,0,1
+769,roast pork bun,1,0,0,1
+770,cauliflower,1,0,0,1
+771,sao,1,0,0,1
+772,chicken foot,1,0,0,1
+773,cha shiu bao,1,0,0,1
+774,taro cake,1,0,0,1
+775,staffs,1,0,0,1
+776,pork bao,1,0,0,1
+777,shrimp wrap,1,0,0,1
+778,menu selection,1,0,0,1
+779,sitting,1,0,0,1
+780,wafer roll,1,0,0,1
+781,circulation,1,0,0,1
+782,tea house,1,0,0,1
+783,safety,1,0,0,1
+784,alcohol,1,0,0,1
+785,servoce,1,0,0,1
+786,cell service,1,0,0,1
+787,fry dough,1,0,0,1
+788,bike,1,0,0,1
+789,har gaw,1,0,0,1
+790,shrimp bun,1,0,0,1
+791,duck dumpling,1,0,0,1
+792,deal,1,0,0,1
+793,entertainment,1,0,0,1
+794,dim sum hall,1,0,0,1
+795,whiskey,1,0,0,1
+796,sum menu,1,0,0,1
+797,din room,1,0,0,1
+798,hot pot dish,1,0,0,1
+799,moo shoo chicken,1,0,0,1
+800,chicken noodle soup,1,0,0,1
+801,fun,1,0,0,1
+802,hair noodle,1,0,0,1
+803,vegan,1,0,0,1
+804,seating area,1,0,0,1
+805,turnover,1,0,0,1
+806,preparation style,1,0,0,1
+807,boil beef,1,0,0,1
+808,delivers,1,0,0,1
+809,pao chicken,1,0,0,1
+810,bento box meal,1,0,0,1
+811,eel,1,0,0,1
+812,fried rice cake,1,0,0,1
+813,fish filet over rice,1,0,0,1
+814,pork chop dish,1,0,0,1
+815,bentos,1,0,0,1
+816,take out food,1,0,0,1
+817,noodle soup,1,0,0,1
+818,filet,1,0,0,1
+819,pork chop rice,1,0,0,1
+820,jajang noodle,1,0,0,1
+821,stewed pig foot,1,0,0,1
+822,tapioca,1,0,0,1
+823,sago,1,0,0,1
+824,chinese yam,1,0,0,1
+825,bento box dinner option,1,0,0,1
+826,chicken drumstick,1,0,0,1
+827,stew beef,1,0,0,1
+828,restaurt,1,0,0,1
+829,chicken over rice,1,0,0,1
+830,satay,1,0,0,1
+831,vegetarian selection,1,0,0,1
+832,chine broccoli,1,0,0,1
+833,chicken and scallop dish,1,0,0,1
+834,thai,1,0,0,1
+835,pad thai chicken,1,0,0,1
+836,fried rice chicken,1,0,0,1
+837,soup / salad,1,0,0,1
+838,meemah,1,0,0,1
+839,keow tiao,1,0,0,1
+840,dumpling noodle soup,1,0,0,1
+841,vegan option,1,0,0,1
+842,specialty,1,0,0,1
+843,chicken beansprout,1,0,0,1
+844,roast pork lo mein,1,0,0,1
+845,s,1,0,0,1
+846,take - out,1,0,0,1
+847,fried crab stick,1,0,0,1
+848,kid,1,0,0,1
+849,top,1,0,0,1
+850,menu item,1,0,0,1
+851,courtesy,1,0,0,1
+852,thrift,1,0,0,1
+853,riddle,1,0,0,1
+854,pick up,1,0,0,1
+855,mei,1,0,0,1
+856,trivia question,1,0,0,1
+857,zucchini,1,0,0,1
+858,katsu chicken,1,0,0,1
+859,restarant,1,0,0,1
+860,spare rib combo,1,0,0,1
+861,spaghetti,1,0,0,1
+862,ice tea,1,0,0,1
+863,tso ' s tofu,1,0,0,1
+864,everybody,1,0,0,1
+865,delivery speed,1,0,0,1
+866,general tso chicken,1,0,0,1
+867,carteret,1,0,0,1
+868,pizza,1,0,0,1
+869,sesame chciken,1,0,0,1
+870,beefsticks,1,0,0,1
+871,garbage,1,0,0,1
+872,taker,1,0,0,1
+873,chicken stick,1,0,0,1
+874,bbq chicken,1,0,0,1
+875,table cover,0,1,0,1
+876,appearance,0,1,0,1
+877,beef noodle soup,0,1,0,1
+878,ownership,0,1,0,1
+879,photography,0,1,0,1
+880,pau chicken,0,1,0,1
+881,language,0,1,0,1
+882,flooring,0,1,0,1
+883,mapu tofu,0,1,0,1
+884,check out,0,1,0,1
+885,fried duck,0,1,0,1
+886,saute crab,0,1,0,1
+887,charge,0,1,0,1
+888,uniform,0,1,0,1
+889,step,0,1,0,1
+890,athmosphere,0,1,0,1
+891,accent,0,1,0,1
+892,waitors,0,1,0,1
+893,opening hour,0,1,0,1
+894,stir - fry crab,0,1,0,1
+895,beef rib,0,1,0,1
+896,main dish,0,1,0,1
+897,plating,0,1,0,1
+898,sizzle plate lamb,0,1,0,1
+899,zhajiangmian,0,1,0,1
+900,baodu,0,1,0,1
+901,box,0,1,0,1
+902,management organization,0,1,0,1
+903,staffed,0,1,0,1
+904,oven,0,1,0,1
+905,opening,0,1,0,1
+906,shred pork,0,1,0,1
+907,front desk lady,0,1,0,1
+908,meet,0,1,0,1
+909,bouillabaisse,0,1,0,1
+910,mixed veggie,0,1,0,1
+911,lo main,0,1,0,1
+912,vegetable roll,0,1,0,1
+913,concierge,0,1,0,1
+914,a fortune,0,1,0,1
+915,the,0,1,0,1
+916,attendance,0,1,0,1
+917,accompaniment,0,1,0,1
+918,wifi,0,1,0,1
+919,dandan noodle,0,1,0,1
+920,barbecue rib,0,1,0,1
+921,change facility,0,1,0,1
+922,flan,0,1,0,1
+923,partition,0,1,0,1
+924,paint,0,1,0,1
+925,mufongo,0,1,0,1
+926,aisle,0,1,0,1
+927,plantains,0,1,0,1
+928,ice water,0,1,0,1
+929,policy,0,1,0,1
+930,twi,0,1,0,1
+931,waiting time,0,1,0,1
+932,maduros,0,1,0,1
+933,daquri,0,1,0,1
+934,booth,0,1,0,1
+935,facade,0,1,0,1
+936,margarita,0,1,0,1
+937,fum,0,1,0,1
+938,thug,0,1,0,1
+939,spanish,0,1,0,1
+940,de gallina,0,1,0,1
+941,omelette,0,1,0,1
+942,duck human,0,1,0,1
+943,color,0,1,0,1
+944,gastric,0,1,0,1
+945,lot,0,1,0,1
+946,sashimi,0,1,0,1
+947,tuna,0,1,0,1
+948,edamame,0,1,0,1
+949,ice cream,0,1,0,1
+950,hot,0,1,0,1
+951,patthai,0,1,0,1
+952,tone,0,1,0,1
+953,air conditioning,0,1,0,1
+954,entre,0,1,0,1
+955,pork lomein,0,1,0,1
+956,website,0,1,0,1
+957,pad kee mao,0,1,0,1
+958,pork soup dumplings,0,1,0,1
+959,long bao,0,1,0,1
+960,recipe,0,1,0,1
+961,welcome,0,1,0,1
+962,floor,0,1,0,1
+963,prep,0,1,0,1
+964,general tsos chicken,0,1,0,1
+965,dumplin,0,1,0,1
+966,wait line,0,1,0,1
+967,crowded,0,1,0,1
+968,transaction,0,1,0,1
+969,soap,0,1,0,1
+970,nutritional,0,1,0,1
+971,activity,0,1,0,1
+972,man,0,1,0,1
+973,sit area,0,1,0,1
+974,ac,0,1,0,1
+975,siumai,0,1,0,1
+976,shrimp wonton,0,1,0,1
+977,dessert cart,0,1,0,1
+978,indoor,0,1,0,1
+979,waiter clothes,0,1,0,1
+980,fruit,0,1,0,1
+981,pop,0,1,0,1
+982,fan,0,1,0,1
+983,sound,0,1,0,1
+984,elevator,0,1,0,1
+985,air condition,0,1,0,1
+986,din hall,0,1,0,1
+987,congee,0,1,0,1
+988,youtiao,0,1,0,1
+989,mai,0,1,0,1
+990,choi sum,0,1,0,1
+991,har gou,0,1,0,1
+992,fong,0,1,0,1
+993,postmates,0,1,0,1
+994,overpriced,0,1,0,1
+995,noisy,0,1,0,1
+996,english,0,1,0,1
+997,wok,0,1,0,1
+998,fry chicken wing,0,1,0,1
+999,meal time,0,1,0,1
+1000,saice,0,1,0,1
+1001,food preparation,0,1,0,1
+1002,rat,0,1,0,1
+1003,silverware,0,1,0,1
+1004,server attire,0,1,0,1
+1005,administraton,0,1,0,1
+1006,mouse,0,1,0,1
+1007,crab stick,0,1,0,1
+1008,odor,0,1,0,1
+1009,cutlery,0,1,0,1
+1010,fork,0,1,0,1
+1011,foods,0,1,0,1
+1012,discount,0,1,0,1
+1013,flavorless food,0,1,0,1
+1014,general tso,0,1,0,1
+1015,skin color,0,1,0,1
+1016,training,0,1,0,1
+1017,soy sauce,0,1,0,1
+1018,pedicure,0,1,0,1
+1019,reception,0,1,0,1
+1020,tao ’ s,0,0,1,1
+1021,place setting,0,0,1,1
+1022,tsos,0,0,1,1
+1023,breakfastallday,0,0,1,1
+1024,moshu,0,0,1,1
+1025,street,0,0,1,1
+1026,calamari,0,0,1,1
+1027,chowfun,0,0,1,1
+1028,suey,0,0,1,1
+1029,lomein,0,0,1,1
+1030,dimsum fare,0,0,1,1
+1031,tab,0,0,1,1
+1032,salt n peppa squid,0,0,1,1
+1033,suso,0,0,1,1
+1034,pat pong curry,0,0,1,1
+1035,stir - fry,0,0,1,1
+1036,side menu,0,0,1,1
+1037,yakisoba,0,0,1,1
+1038,pu erh tea,0,0,1,1
+1039,intestine,0,0,1,1
+1040,maw,0,0,1,1
+1041,beef tendon,0,0,1,1
+1042,dessert sampler,0,0,1,1
+1043,cusines,0,0,1,1
+1044,tartare,0,0,1,1
+1045,cucumber,0,0,1,1
+1046,jiang,0,0,1,1
+1047,open,0,0,1,1
+1048,spiciness,0,0,1,1
+1049,dan,0,0,1,1
+1050,soong,0,0,1,1
+1051,table cloth set,0,0,1,1
+1052,fillet of sole,0,0,1,1
+1053,authenticity,0,0,1,1
+1054,peking roll,0,0,1,1
+1055,wine menu,0,0,1,1
+1056,chicharron de pollo,0,0,1,1
+1057,lime,0,0,1,1
+1058,pollo de chicharron,0,0,1,1
+1059,lo - mein,0,0,1,1
+1060,food selection,0,0,1,1
+1061,timing,0,0,1,1
+1062,onion steak,0,0,1,1
+1063,arroz verde,0,0,1,1
+1064,plaintains,0,0,1,1
+1065,bench,0,0,1,1
+1066,general tao,0,0,1,1
+1067,dog,0,0,1,1
+1068,peanut,0,0,1,1
+1069,edamamaas,0,0,1,1
+1070,carryout,0,0,1,1
+1071,tsos chicken,0,0,1,1
+1072,lo - me n,0,0,1,1
+1073,sichaun,0,0,1,1
+1074,drop soup,0,0,1,1
+1075,kung pow chicken,0,0,1,1
+1076,jellyfish,0,0,1,1
+1077,wall,0,0,1,1
+1078,turn over,0,0,1,1
+1079,fry rice cake,0,0,1,1
+1080,shanghai cake,0,0,1,1
+1081,dip sauce,0,0,1,1
+1082,milk shake,0,0,1,1
+1083,glutinous rice cake,0,0,1,1
+1084,t,0,0,1,1
+1085,beef and broccoli,0,0,1,1
+1086,sweet & sour soup,0,0,1,1
+1087,ginger,0,0,1,1
+1088,bus,0,0,1,1
+1089,duck sauce,0,0,1,1
+1090,steamed bun,0,0,1,1
+1091,tart,0,0,1,1
+1092,pork ball,0,0,1,1
+1093,banquet,0,0,1,1
+1094,har gau,0,0,1,1
+1095,wait list,0,0,1,1
+1096,and sour soup,0,0,1,1
+1097,inspection,0,0,1,1
+1098,jello,0,0,1,1
+1099,shrimp mai fun,0,0,1,1
+1100,ticket,0,0,1,1
+1101,straw,0,0,1,1
+1102,broc,0,0,1,1
+1103,cutlet,0,0,1,1
+1104,menu price,0,0,1,1
+1105,and sour,0,0,1,1
+1106,rail benton,0,0,1,1
+1107,taiwanese,0,0,1,1
+1108,helper,0,0,1,1
+1109,fish cutlet,0,0,1,1
+1110,sizzling platter,0,0,1,1
+1111,okra,0,0,1,1
+1112,garlic,0,0,1,1
+1113,chicken combo,0,0,1,1
+1114,resturant,0,0,1,1

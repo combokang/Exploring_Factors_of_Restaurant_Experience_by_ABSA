@@ -1,0 +1,2798 @@
+ID,Term,TOTAL,Cluster,Cluster_1Word
+0,food,39264,1.0,food
+1,service,19803,2.0,service
+2,staff,7025,2.0,service
+3,price,5075,3.0,price
+4,atmosphere,3763,4.0,atmosphere
+5,drink,2953,5.0,drink
+6,server,2561,2.0,service
+7,waiter,2463,2.0,service
+8,menu,2394,6.0,menu
+9,portion,2276,7.0,portion
+10,waitress,1903,2.0,service
+11,chicken,1675,8.0,chicken
+12,ambiance,1511,4.0,atmosphere
+13,salad,1473,9.0,salad
+14,pizza,1449,9.0,salad
+15,soup,1378,9.0,salad
+16,reservation,1208,10.0,reservation
+17,music,1174,4.0,atmosphere
+18,appetizer,1163,5.0,drink
+19,quality,1090,3.0,price
+20,decor,1050,4.0,atmosphere
+21,owner,1029,2.0,service
+22,flavor,1025,8.0,chicken
+23,lunch,998,10.0,reservation
+24,sauce,952,8.0,chicken
+25,dessert,911,5.0,drink
+26,ambience,896,4.0,atmosphere
+27,pasta,884,9.0,salad
+28,steak,876,8.0,chicken
+29,vibe,865,4.0,atmosphere
+30,bread,862,9.0,salad
+31,sushi,811,3.0,price
+32,wait,809,10.0,reservation
+33,people,799,2.0,service
+34,dinner,788,10.0,reservation
+35,taste,758,8.0,chicken
+36,manager,732,2.0,service
+37,table,727,10.0,reservation
+38,rice,718,8.0,chicken
+39,cuisine,681,11.0,cuisine
+40,burger,674,9.0,salad
+41,view,659,4.0,atmosphere
+42,dish,659,6.0,menu
+43,experience,647,12.0,experience
+44,cocktail,646,5.0,drink
+45,brunch,639,10.0,reservation
+46,meal,630,1.0,food
+47,wine,619,5.0,drink
+48,dim sum,612,3.0,price
+49,selection,611,6.0,menu
+50,environment,570,4.0,atmosphere
+51,entree,556,5.0,drink
+52,shrimp,545,8.0,chicken
+53,meat,531,8.0,chicken
+54,location,515,4.0,atmosphere
+55,wait staff,513,2.0,service
+56,fish,512,8.0,chicken
+57,fry,507,8.0,chicken
+58,dumpling,498,8.0,chicken
+59,bartender,492,2.0,service
+60,calamari,487,8.0,chicken
+61,curry,457,8.0,chicken
+62,space,454,4.0,atmosphere
+63,chef,446,2.0,service
+64,tea,437,5.0,drink
+65,seafood,432,8.0,chicken
+66,hostess,428,2.0,service
+67,sangria,424,5.0,drink
+68,delivery,414,13.0,delivery
+69,noodle,403,8.0,chicken
+70,breakfast,402,10.0,reservation
+71,wing,401,8.0,chicken
+72,bar,399,4.0,atmosphere
+73,coffee,379,5.0,drink
+74,presentation,378,11.0,cuisine
+75,fry rice,374,8.0,chicken
+76,salmon,374,8.0,chicken
+77,seating,365,4.0,atmosphere
+78,host,362,2.0,service
+79,tip,360,14.0,tip
+80,parking,357,4.0,atmosphere
+81,wait time,355,13.0,delivery
+82,hummus,348,8.0,chicken
+83,variety,347,6.0,menu
+84,pho,347,8.0,chicken
+85,lamb,337,8.0,chicken
+86,taco,326,8.0,chicken
+87,fried rice,315,8.0,chicken
+88,pad thai,313,8.0,chicken
+89,sandwich,295,8.0,chicken
+90,lady,293,2.0,service
+91,management,291,14.0,tip
+92,plate,288,7.0,portion
+93,employee,282,2.0,service
+94,seat,279,10.0,reservation
+95,time,279,13.0,delivery
+96,breadstick,272,9.0,salad
+97,bathroom,269,14.0,tip
+98,food quality,265,3.0,price
+99,crowd,262,10.0,reservation
+100,cake,261,5.0,drink
+101,pancake,259,8.0,chicken
+102,cheese,259,8.0,chicken
+103,desert,255,5.0,drink
+104,kebab,247,8.0,chicken
+105,special,237,15.0,special
+106,place,236,4.0,atmosphere
+107,hospitality,228,12.0,experience
+108,restaurant,226,16.0,restaurant
+109,soup dumpling,223,8.0,chicken
+110,spring roll,223,8.0,chicken
+111,ramen,221,8.0,chicken
+112,portion size,220,7.0,portion
+113,bill,220,,
+114,octopus,219,8.0,chicken
+115,side,219,,
+116,interior,218,4.0,atmosphere
+117,ingredient,217,11.0,cuisine
+118,worker,213,2.0,service
+119,beer,212,5.0,drink
+120,attention,209,14.0,tip
+121,naan,208,8.0,chicken
+122,paella,204,8.0,chicken
+123,line,201,13.0,delivery
+124,beef,200,8.0,chicken
+125,shawarma,196,8.0,chicken
+126,park,196,4.0,atmosphere
+127,value,193,3.0,price
+128,duck,193,8.0,chicken
+129,vegetable,190,8.0,chicken
+130,lamb chop,188,8.0,chicken
+131,falafel,182,8.0,chicken
+132,lobster,180,8.0,chicken
+133,hour,180,13.0,delivery
+134,buffet,176,6.0,menu
+135,bread stick,173,9.0,salad
+136,ceviche,170,8.0,chicken
+137,pork,169,8.0,chicken
+138,pricing,166,3.0,price
+139,dj,165,4.0,atmosphere
+140,setting,164,4.0,atmosphere
+141,main,163,5.0,drink
+142,ravioli,160,8.0,chicken
+143,rib,160,8.0,chicken
+144,girl,160,2.0,service
+145,decorate,157,4.0,atmosphere
+146,quantity,156,7.0,portion
+147,pork chop,155,8.0,chicken
+148,margarita,155,5.0,drink
+149,lasagna,152,8.0,chicken
+150,biryani,152,8.0,chicken
+151,option,150,6.0,menu
+152,potato,150,8.0,chicken
+153,lunch special,148,6.0,menu
+154,scallop,148,8.0,chicken
+155,guy,148,2.0,service
+156,oyster,147,8.0,chicken
+157,short rib,146,8.0,chicken
+158,decoration,144,4.0,atmosphere
+159,oxtail,141,8.0,chicken
+160,gratuity,140,14.0,tip
+161,smell,139,17.0,smell
+162,happy hour,138,15.0,special
+163,waffle,136,8.0,chicken
+164,minute,132,13.0,delivery
+165,dimsum,130,3.0,price
+166,martini,129,5.0,drink
+167,side dish,129,8.0,chicken
+168,sashimi,129,8.0,chicken
+169,room,127,4.0,atmosphere
+170,platter,127,8.0,chicken
+171,mac,127,8.0,chicken
+172,choice,126,6.0,menu
+173,meatball,126,8.0,chicken
+174,starter,123,8.0,chicken
+175,bean,121,8.0,chicken
+176,momos,120,8.0,chicken
+177,drunken noodle,119,8.0,chicken
+178,egg,119,8.0,chicken
+179,main course,119,5.0,drink
+180,wine list,117,6.0,menu
+181,broccoli,117,8.0,chicken
+182,review,117,14.0,tip
+183,waitstaff,115,2.0,service
+184,chip,114,8.0,chicken
+185,broth,113,8.0,chicken
+186,light,113,4.0,atmosphere
+187,check,113,14.0,tip
+188,crust,111,8.0,chicken
+189,bun,111,8.0,chicken
+190,pie,110,8.0,chicken
+191,spaghetti,110,8.0,chicken
+192,roll,109,8.0,chicken
+193,tofu,109,8.0,chicken
+194,takeout,108,13.0,delivery
+195,ice tea,107,8.0,chicken
+196,baklava,105,8.0,chicken
+197,texture,105,8.0,chicken
+198,serving,104,7.0,portion
+199,empanadas,103,8.0,chicken
+200,area,102,16.0,restaurant
+201,fare,102,11.0,cuisine
+202,chinese,101,11.0,cuisine
+203,mussel,101,8.0,chicken
+204,filet mignon,99,8.0,chicken
+205,deliver,99,13.0,delivery
+206,alfredo,99,8.0,chicken
+207,roti,98,8.0,chicken
+208,ice cream,97,5.0,drink
+209,chicken parm,97,8.0,chicken
+210,veggie,97,8.0,chicken
+211,lighting,96,4.0,atmosphere
+212,design,95,4.0,atmosphere
+213,restroom,94,17.0,smell
+214,wine selection,93,6.0,menu
+215,apps,93,5.0,drink
+216,chair,93,17.0,smell
+217,sausage,92,8.0,chicken
+218,hookah,91,2.0,service
+219,fry chicken,91,8.0,chicken
+220,venue,90,4.0,atmosphere
+221,serve,89,18.0,serve
+222,nacho,88,8.0,chicken
+223,cheesecake,87,8.0,chicken
+224,lemonade,87,5.0,drink
+225,guacamole,87,8.0,chicken
+226,cashier,87,14.0,tip
+227,noisy,87,4.0,atmosphere
+228,gnocchi,86,8.0,chicken
+229,spice,86,8.0,chicken
+230,tiramisu,86,5.0,drink
+231,mixed grill,84,8.0,chicken
+232,kabob,84,8.0,chicken
+233,dip,84,8.0,chicken
+234,floor,84,17.0,smell
+235,pudding,83,8.0,chicken
+236,risotto,83,8.0,chicken
+237,gravy,83,8.0,chicken
+238,gyro,82,8.0,chicken
+239,entertainment,81,4.0,atmosphere
+240,fried chicken,81,8.0,chicken
+241,chicken wing,81,8.0,chicken
+242,clam,81,8.0,chicken
+243,french fry,81,8.0,chicken
+244,italian,80,11.0,cuisine
+245,momo,80,8.0,chicken
+246,napkin,80,17.0,smell
+247,tapa,79,6.0,menu
+248,branzino,78,8.0,chicken
+249,cooking,77,11.0,cuisine
+250,pita,76,8.0,chicken
+251,crab,76,8.0,chicken
+252,french toast,75,8.0,chicken
+253,crab cake,75,8.0,chicken
+254,lo mein,74,8.0,chicken
+255,parm,74,8.0,chicken
+256,pastry,73,8.0,chicken
+257,loud,73,4.0,atmosphere
+258,vegetarian,72,6.0,menu
+259,juice,71,8.0,chicken
+260,woman,71,2.0,service
+261,everyone,70,,
+262,pupusas,70,8.0,chicken
+263,shrimp scampi,70,8.0,chicken
+264,water,70,17.0,smell
+265,bbq,69,8.0,chicken
+266,cook,68,8.0,chicken
+267,cost,68,3.0,price
+268,patio,66,4.0,atmosphere
+269,fruit,66,8.0,chicken
+270,eat,65,19.0,eat
+271,conversation,65,4.0,atmosphere
+272,garlic bread,65,8.0,chicken
+273,quesadilla,65,8.0,chicken
+274,thai,64,20.0,thai
+275,mofongo,64,8.0,chicken
+276,samosa,64,8.0,chicken
+277,size,64,7.0,portion
+278,carbonara,64,8.0,chicken
+279,order,64,13.0,delivery
+280,pork bun,63,8.0,chicken
+281,burrata,63,8.0,chicken
+282,borscht,63,8.0,chicken
+283,kitchen,63,17.0,smell
+284,kabab,63,8.0,chicken
+285,sweet,62,8.0,chicken
+286,dressing,61,8.0,chicken
+287,flavour,60,8.0,chicken
+288,attitude,60,14.0,tip
+289,parathas,59,8.0,chicken
+290,bacon,59,8.0,chicken
+291,burrito,58,8.0,chicken
+292,lamb shank,58,8.0,chicken
+293,roast chicken,58,8.0,chicken
+294,jerk chicken,58,8.0,chicken
+295,veal,58,8.0,chicken
+296,kimchi,57,8.0,chicken
+297,produce,57,11.0,cuisine
+298,hamburger,57,8.0,chicken
+299,utensil,57,17.0,smell
+300,set,56,4.0,atmosphere
+301,establishment,56,16.0,restaurant
+302,iced tea,56,8.0,chicken
+303,banh mi,56,8.0,chicken
+304,salsa,56,8.0,chicken
+305,valet,56,14.0,tip
+306,tikka masala,56,8.0,chicken
+307,door,56,17.0,smell
+308,cleanliness,56,14.0,tip
+309,family,55,21.0,family
+310,haneeth,55,8.0,chicken
+311,sea bass,55,8.0,chicken
+312,scallion pancake,55,8.0,chicken
+313,flatbread,55,8.0,chicken
+314,mushroom,55,8.0,chicken
+315,egg roll,55,8.0,chicken
+316,paneer,55,8.0,chicken
+317,stuff,54,8.0,chicken
+318,band,54,4.0,atmosphere
+319,snapper,54,8.0,chicken
+320,ceiling,53,4.0,atmosphere
+321,toast,53,8.0,chicken
+322,thali,53,8.0,chicken
+323,dining room,52,4.0,atmosphere
+324,mojito,52,8.0,chicken
+325,pickle,52,8.0,chicken
+326,karahi,52,8.0,chicken
+327,parking lot,52,4.0,atmosphere
+328,caesar salad,51,8.0,chicken
+329,dosa,51,8.0,chicken
+330,tuna,51,8.0,chicken
+331,chow fun,50,8.0,chicken
+332,bread pudding,49,8.0,chicken
+333,lunch menu,49,6.0,menu
+334,chai,49,8.0,chicken
+335,mozzarella stick,49,8.0,chicken
+336,parmigiana,49,8.0,chicken
+337,driver,49,14.0,tip
+338,snack,48,6.0,menu
+339,sum,48,8.0,chicken
+340,hibachi,47,21.0,family
+341,enchilada,47,8.0,chicken
+342,fajitas,47,8.0,chicken
+343,tostones,47,8.0,chicken
+344,service staff,46,2.0,service
+345,person,46,14.0,tip
+346,layout,46,4.0,atmosphere
+347,chicken marsala,46,8.0,chicken
+348,sushi roll,46,8.0,chicken
+349,glass,46,5.0,drink
+350,stew,45,8.0,chicken
+351,schnitzel,45,8.0,chicken
+352,beverage,45,5.0,drink
+353,paratha,45,8.0,chicken
+354,shish kebab,45,8.0,chicken
+355,karaoke,45,4.0,atmosphere
+356,dress,45,9.0,salad
+357,mash potato,45,8.0,chicken
+358,soda,45,5.0,drink
+359,punch,44,8.0,chicken
+360,seasoning,44,8.0,chicken
+361,lassi,44,8.0,chicken
+362,tv,44,4.0,atmosphere
+363,preparation,44,11.0,cuisine
+364,squid,44,8.0,chicken
+365,lomo,44,8.0,chicken
+366,greek salad,44,8.0,chicken
+367,chutney,44,8.0,chicken
+368,refill,44,18.0,serve
+369,penne vodka,43,8.0,chicken
+370,cod,43,8.0,chicken
+371,rodizio,43,8.0,chicken
+372,flounder,42,8.0,chicken
+373,humus,42,8.0,chicken
+374,foie gras,42,8.0,chicken
+375,satay,42,8.0,chicken
+376,mimosa,42,5.0,drink
+377,green,42,8.0,chicken
+378,peking duck,42,8.0,chicken
+379,main dish,42,8.0,chicken
+380,tomato,42,8.0,chicken
+381,silverware,42,17.0,smell
+382,fee,42,14.0,tip
+383,feel,41,22.0,feel
+384,scenery,41,4.0,atmosphere
+385,cheeseburger,41,8.0,chicken
+386,butter,41,8.0,chicken
+387,biriyani,41,8.0,chicken
+388,plantain,41,8.0,chicken
+389,grill chicken,41,8.0,chicken
+390,entrance,41,17.0,smell
+391,vegan,40,6.0,menu
+392,crew,40,12.0,experience
+393,food selection,40,4.0,atmosphere
+394,pasta dish,40,8.0,chicken
+395,bubble tea,40,8.0,chicken
+396,spare rib,40,8.0,chicken
+397,hot and sour soup,40,8.0,chicken
+398,hot sauce,39,8.0,chicken
+399,eggplant,39,8.0,chicken
+400,banchan,39,8.0,chicken
+401,lobster roll,39,8.0,chicken
+402,tartare,39,8.0,chicken
+403,furniture,39,4.0,atmosphere
+404,fettuccine,39,8.0,chicken
+405,grilled octopus,38,8.0,chicken
+406,slice,38,8.0,chicken
+407,sommelier,38,12.0,experience
+408,cappuccino,38,8.0,chicken
+409,adana,38,8.0,chicken
+410,tuna tartare,38,8.0,chicken
+411,halibut,38,8.0,chicken
+412,mozzarella,38,8.0,chicken
+413,name,38,,
+414,noise,38,4.0,atmosphere
+415,recommendation,37,12.0,experience
+416,cuban sandwich,37,8.0,chicken
+417,interior design,37,4.0,atmosphere
+418,diner,37,16.0,restaurant
+419,babaganoush,37,8.0,chicken
+420,grill,37,8.0,chicken
+421,onion,37,8.0,chicken
+422,lettuce,37,8.0,chicken
+423,tax,37,14.0,tip
+424,team,36,12.0,experience
+425,beer selection,36,6.0,menu
+426,tart,36,8.0,chicken
+427,patty,36,8.0,chicken
+428,collard green,36,8.0,chicken
+429,kofta,36,8.0,chicken
+430,scampi,36,8.0,chicken
+431,dining,35,4.0,atmosphere
+432,staff member,35,2.0,service
+433,vegetarian option,35,6.0,menu
+434,setup,35,4.0,atmosphere
+435,menu selection,35,6.0,menu
+436,brussel sprout,35,8.0,chicken
+437,food option,35,6.0,menu
+438,valet parking,35,4.0,atmosphere
+439,lomo saltado,35,8.0,chicken
+440,seat area,35,4.0,atmosphere
+441,meatloaf,35,8.0,chicken
+442,papaya salad,35,8.0,chicken
+443,flan,35,8.0,chicken
+444,grilled chicken,35,8.0,chicken
+445,sake,35,5.0,drink
+446,cabbage,35,8.0,chicken
+447,guac,35,8.0,chicken
+448,fettuccine alfredo,35,8.0,chicken
+449,ribeye,35,8.0,chicken
+450,pad see ew,34,8.0,chicken
+451,bake,34,8.0,chicken
+452,bakery,34,11.0,cuisine
+453,falooda,34,8.0,chicken
+454,combo,34,8.0,chicken
+455,gluten,34,6.0,menu
+456,garlic knot,34,8.0,chicken
+457,kababs,34,8.0,chicken
+458,wrap,34,8.0,chicken
+459,churrasco,34,8.0,chicken
+460,onion ring,34,8.0,chicken
+461,dough,34,8.0,chicken
+462,antipasto,34,8.0,chicken
+463,weather,33,4.0,atmosphere
+464,bar tender,33,12.0,experience
+465,filling,33,8.0,chicken
+466,brunch menu,33,6.0,menu
+467,chop,33,8.0,chicken
+468,omelette,33,8.0,chicken
+469,hall,33,4.0,atmosphere
+470,temperature,33,17.0,smell
+471,inside,32,17.0,smell
+472,manti,32,8.0,chicken
+473,eats,32,13.0,delivery
+474,double,32,8.0,chicken
+475,pita bread,32,8.0,chicken
+476,wonton,32,8.0,chicken
+477,food taste,32,3.0,price
+478,booth,32,17.0,smell
+479,tikka,32,8.0,chicken
+480,rotisserie chicken,31,8.0,chicken
+481,food service,31,12.0,experience
+482,plat,31,8.0,chicken
+483,cater,31,21.0,family
+484,korma,31,8.0,chicken
+485,discount,31,14.0,tip
+486,app,31,8.0,chicken
+487,lobster tail,31,8.0,chicken
+488,alcohol,31,5.0,drink
+489,cutlery,31,17.0,smell
+490,massaman curry,30,8.0,chicken
+491,singer,30,4.0,atmosphere
+492,pork belly,30,8.0,chicken
+493,din area,30,4.0,atmosphere
+494,art,30,4.0,atmosphere
+495,shark,30,8.0,chicken
+496,pierogies,30,8.0,chicken
+497,rice cake,30,8.0,chicken
+498,serve size,30,7.0,portion
+499,skin,30,8.0,chicken
+500,the,30,,
+501,company,29,21.0,family
+502,deal,29,7.0,portion
+503,aesthetic,29,4.0,atmosphere
+504,byob,29,15.0,special
+505,pad kee mao,29,8.0,chicken
+506,sea food,29,8.0,chicken
+507,take,29,,
+508,coleslaw,29,8.0,chicken
+509,pierogi,29,8.0,chicken
+510,bisque,29,8.0,chicken
+511,wonton soup,29,8.0,chicken
+512,lunch buffet,29,6.0,menu
+513,yam,29,8.0,chicken
+514,omelet,29,8.0,chicken
+515,linguine,29,8.0,chicken
+516,mac n cheese,29,8.0,chicken
+517,pepper,29,8.0,chicken
+518,min,29,13.0,delivery
+519,curry puff,28,8.0,chicken
+520,donut,28,8.0,chicken
+521,chaat,28,8.0,chicken
+522,panang curry,28,8.0,chicken
+523,cooky,28,8.0,chicken
+524,sorbet,28,8.0,chicken
+525,catering,28,21.0,family
+526,catfish,28,8.0,chicken
+527,home fry,28,8.0,chicken
+528,filet,28,8.0,chicken
+529,man,28,2.0,service
+530,tempura,28,8.0,chicken
+531,marsala,28,8.0,chicken
+532,cup,28,18.0,serve
+533,ambient,27,4.0,atmosphere
+534,menu option,27,6.0,menu
+535,prawn,27,8.0,chicken
+536,culture,27,11.0,cuisine
+537,shumai,27,8.0,chicken
+538,chili,27,8.0,chicken
+539,rum punch,27,5.0,drink
+540,delivery service,27,13.0,delivery
+541,penne,27,8.0,chicken
+542,pappardelle,27,8.0,chicken
+543,spinach,27,8.0,chicken
+544,cream,27,8.0,chicken
+545,busboy,27,17.0,smell
+546,wall,27,4.0,atmosphere
+547,ac,27,17.0,smell
+548,chandelier,26,4.0,atmosphere
+549,artichoke,26,8.0,chicken
+550,welcome,26,22.0,feel
+551,crepe,26,8.0,chicken
+552,bibimbap,26,8.0,chicken
+553,s,26,,
+554,doner,26,8.0,chicken
+555,olive,26,8.0,chicken
+556,cacio e pepe,26,8.0,chicken
+557,udon,26,8.0,chicken
+558,bulgogi,26,8.0,chicken
+559,topping,26,8.0,chicken
+560,color,26,17.0,smell
+561,linguini,26,8.0,chicken
+562,amount,26,,
+563,garnish,26,8.0,chicken
+564,hygiene,26,14.0,tip
+565,crowded,26,10.0,reservation
+566,indian,25,20.0,thai
+567,present,25,12.0,experience
+568,concept,25,4.0,atmosphere
+569,pierogis,25,8.0,chicken
+570,bolognese,25,8.0,chicken
+571,arroz,25,8.0,chicken
+572,reception,25,21.0,family
+573,liquor,25,17.0,smell
+574,food portion,24,7.0,portion
+575,cuban,24,20.0,thai
+576,grill octopus,24,8.0,chicken
+577,facility,24,4.0,atmosphere
+578,set up,24,4.0,atmosphere
+579,bloody mary,24,8.0,chicken
+580,moussaka,24,8.0,chicken
+581,bruschetta,24,8.0,chicken
+582,rigatoni,24,8.0,chicken
+583,grit,24,8.0,chicken
+584,potato salad,24,8.0,chicken
+585,delivery guy,24,14.0,tip
+586,sign,24,17.0,smell
+587,fork,24,18.0,serve
+588,asian fusion,23,20.0,thai
+589,chicken dish,23,8.0,chicken
+590,cocktail menu,23,6.0,menu
+591,goat,23,8.0,chicken
+592,staffed,23,13.0,delivery
+593,food choice,22,6.0,menu
+594,indian food,22,20.0,thai
+595,itself,22,,
+596,lamb dish,22,8.0,chicken
+597,mousse,22,8.0,chicken
+598,bahn mi,22,8.0,chicken
+599,product,22,11.0,cuisine
+600,baba ghanoush,22,8.0,chicken
+601,bite,22,19.0,eat
+602,bowl,22,8.0,chicken
+603,drive,22,13.0,delivery
+604,benedict,22,8.0,chicken
+605,croquette,22,8.0,chicken
+606,champagne,22,5.0,drink
+607,tandoori chicken,22,8.0,chicken
+608,mix grill,22,8.0,chicken
+609,mapo tofu,22,8.0,chicken
+610,sweetbread,22,8.0,chicken
+611,chaufa,22,8.0,chicken
+612,greeting,22,2.0,service
+613,creme brulee,22,8.0,chicken
+614,chicken cutlet,22,8.0,chicken
+615,bao bun,22,8.0,chicken
+616,octopus salad,22,8.0,chicken
+617,fish cake,22,8.0,chicken
+618,fly,22,17.0,smell
+619,traffic,22,17.0,smell
+620,carpet,22,17.0,smell
+621,vibes,21,20.0,thai
+622,item,21,6.0,menu
+623,aroma,21,8.0,chicken
+624,assortment,21,8.0,chicken
+625,nutcracker,21,20.0,thai
+626,personnel,21,12.0,experience
+627,gelato,21,8.0,chicken
+628,idli,21,8.0,chicken
+629,crab rangoon,21,8.0,chicken
+630,cannoli,21,8.0,chicken
+631,swordfish,21,8.0,chicken
+632,bento box,21,8.0,chicken
+633,turkey,21,8.0,chicken
+634,flat bread,21,8.0,chicken
+635,spread,21,8.0,chicken
+636,macaroni,21,8.0,chicken
+637,chorizo,21,8.0,chicken
+638,seating area,21,4.0,atmosphere
+639,ragu,21,8.0,chicken
+640,bucatini,21,8.0,chicken
+641,ownership,21,14.0,tip
+642,chicken finger,21,8.0,chicken
+643,receptionist,21,2.0,service
+644,greeter,21,17.0,smell
+645,toilet,21,17.0,smell
+646,liver,20,8.0,chicken
+647,service food,20,12.0,experience
+648,food presentation,20,12.0,experience
+649,drink menu,20,5.0,drink
+650,truffle fry,20,8.0,chicken
+651,egg benedict,20,8.0,chicken
+652,clientele,20,4.0,atmosphere
+653,borek,20,8.0,chicken
+654,veg,20,8.0,chicken
+655,chat,20,2.0,service
+656,tortellini,20,8.0,chicken
+657,slider,20,8.0,chicken
+658,chow mein,20,8.0,chicken
+659,brussels sprout,20,8.0,chicken
+660,building,20,17.0,smell
+661,curry goat,20,8.0,chicken
+662,receipt,20,14.0,tip
+663,din,19,21.0,family
+664,vegan option,19,6.0,menu
+665,food court,19,11.0,cuisine
+666,plating,19,12.0,experience
+667,baba ganoush,19,8.0,chicken
+668,pisco sour,19,12.0,experience
+669,lamb haneeth,19,8.0,chicken
+670,menu item,19,6.0,menu
+671,masala dosa,19,8.0,chicken
+672,dosas,19,8.0,chicken
+673,look,19,23.0,look
+674,chicken parmigiana,19,8.0,chicken
+675,eggplant parmesan,19,8.0,chicken
+676,perogies,19,8.0,chicken
+677,minestrone soup,19,8.0,chicken
+678,pernil,19,8.0,chicken
+679,porkchop,19,8.0,chicken
+680,shakshuka,19,8.0,chicken
+681,tripe,19,8.0,chicken
+682,tandoori,19,8.0,chicken
+683,cauliflower,19,8.0,chicken
+684,noise level,19,4.0,atmosphere
+685,carrot,19,8.0,chicken
+686,curry chicken,19,8.0,chicken
+687,attendant,19,17.0,smell
+688,waiting time,19,13.0,delivery
+689,everything,18,,
+690,dominican food,18,20.0,thai
+691,souffle,18,8.0,chicken
+692,scene,18,4.0,atmosphere
+693,lounge,18,4.0,atmosphere
+694,history,18,20.0,thai
+695,bar area,18,4.0,atmosphere
+696,shake,18,8.0,chicken
+697,biscuit,18,8.0,chicken
+698,party,18,21.0,family
+699,cole slaw,18,8.0,chicken
+700,show,18,,
+701,chicken parmesan,18,8.0,chicken
+702,panini,18,8.0,chicken
+703,xiao long bao,18,8.0,chicken
+704,din room,18,4.0,atmosphere
+705,waiter / waitress,18,2.0,service
+706,sambar,18,8.0,chicken
+707,bronzino,18,8.0,chicken
+708,protein,18,8.0,chicken
+709,timing,18,12.0,experience
+710,escargot,18,8.0,chicken
+711,manger,18,14.0,tip
+712,list,18,6.0,menu
+713,pickup,18,13.0,delivery
+714,ziti,18,8.0,chicken
+715,sit,18,17.0,smell
+716,communication,18,14.0,tip
+717,prosciutto,18,8.0,chicken
+718,pea,18,8.0,chicken
+719,adana kebab,17,8.0,chicken
+720,dominican,17,20.0,thai
+721,playlist,17,12.0,experience
+722,fritter,17,8.0,chicken
+723,voice,17,14.0,tip
+724,bellini,17,8.0,chicken
+725,price point,17,3.0,price
+726,chicken 65,17,,
+727,picture,17,23.0,look
+728,souvlaki,17,8.0,chicken
+729,fried ice cream,17,,
+730,exterior,17,4.0,atmosphere
+731,churros,17,8.0,chicken
+732,shwarma,17,8.0,chicken
+733,teriyaki,17,8.0,chicken
+734,cubano,17,8.0,chicken
+735,sevice,17,12.0,experience
+736,marinara sauce,17,8.0,chicken
+737,french onion soup,17,8.0,chicken
+738,mac and cheese,17,8.0,chicken
+739,casserole,17,8.0,chicken
+740,fry noodle,17,8.0,chicken
+741,cavatelli,17,8.0,chicken
+742,appetiser,17,8.0,chicken
+743,delivery driver,17,2.0,service
+744,shrimp cocktail,17,8.0,chicken
+745,crab leg,17,8.0,chicken
+746,accommodation,17,12.0,experience
+747,dip sauce,17,8.0,chicken
+748,oil,17,8.0,chicken
+749,iftar,17,21.0,family
+750,security,17,17.0,smell
+751,stomach,17,19.0,eat
+752,drink selection,16,12.0,experience
+753,nihari,16,8.0,chicken
+754,gentleman,16,2.0,service
+755,treatment,16,14.0,tip
+756,soju,16,5.0,drink
+757,snail,16,8.0,chicken
+758,bagel,16,8.0,chicken
+759,neighborhood,16,16.0,restaurant
+760,espresso,16,5.0,drink
+761,tacos,16,8.0,chicken
+762,gyoza,16,8.0,chicken
+763,sub,16,8.0,chicken
+764,bento,16,8.0,chicken
+765,vada,16,8.0,chicken
+766,ice,16,18.0,serve
+767,tortilla,16,8.0,chicken
+768,prime rib,16,8.0,chicken
+769,entrees,16,8.0,chicken
+770,marinara,16,8.0,chicken
+771,wifi,16,12.0,experience
+772,acoustic,16,4.0,atmosphere
+773,parmesan,16,8.0,chicken
+774,chicken tender,16,8.0,chicken
+775,desk,16,17.0,smell
+776,turkish,15,20.0,thai
+777,mood,15,20.0,thai
+778,take out,15,13.0,delivery
+779,belly dancer,15,12.0,experience
+780,ppl,15,14.0,tip
+781,pollo,15,8.0,chicken
+782,kheer,15,8.0,chicken
+783,terrace,15,4.0,atmosphere
+784,mexican,15,20.0,thai
+785,khao soi,15,8.0,chicken
+786,polenta,15,8.0,chicken
+787,kofte,15,8.0,chicken
+788,chicken salad,15,8.0,chicken
+789,season,15,8.0,chicken
+790,fortune cookie,15,8.0,chicken
+791,pina colada,15,8.0,chicken
+792,song,15,12.0,experience
+793,olive oil,15,8.0,chicken
+794,chicken foot,15,8.0,chicken
+795,mixed drink,15,5.0,drink
+796,rate,15,20.0,thai
+797,kibbeh,15,8.0,chicken
+798,roti canai,15,8.0,chicken
+799,packaging,15,12.0,experience
+800,pulao,15,8.0,chicken
+801,stir fry,15,8.0,chicken
+802,meat platter,15,8.0,chicken
+803,dine,15,16.0,restaurant
+804,bass,15,8.0,chicken
+805,heater,15,17.0,smell
+806,garlic,15,8.0,chicken
+807,tuna roll,15,8.0,chicken
+808,chowder,15,8.0,chicken
+809,prix fixe,15,6.0,menu
+810,manner,15,2.0,service
+811,bus boy,15,2.0,service
+812,rollatini,15,8.0,chicken
+813,manchurian,15,8.0,chicken
+814,mashed potato,15,8.0,chicken
+815,avocado,15,8.0,chicken
+816,cutlet,15,8.0,chicken
+817,air,15,17.0,smell
+818,chowmein,15,8.0,chicken
+819,language,15,14.0,tip
+820,sever,14,12.0,experience
+821,artwork,14,4.0,atmosphere
+822,soul food,14,20.0,thai
+823,ethiopian,14,20.0,thai
+824,deco,14,4.0,atmosphere
+825,fahsa,14,8.0,chicken
+826,noodle soup,14,8.0,chicken
+827,oven,14,8.0,chicken
+828,appetizer platter,14,8.0,chicken
+829,brownie,14,8.0,chicken
+830,paneer tikka,14,8.0,chicken
+831,empanada,14,8.0,chicken
+832,ox tail,14,8.0,chicken
+833,samosa chaat,14,8.0,chicken
+834,breeze,14,4.0,atmosphere
+835,miso soup,14,8.0,chicken
+836,tostada,14,8.0,chicken
+837,penne alla vodka,14,8.0,chicken
+838,veal marsala,14,8.0,chicken
+839,summer roll,14,8.0,chicken
+840,kielbasa,14,8.0,chicken
+841,fatah,14,8.0,chicken
+842,bos,14,2.0,service
+843,horchata,14,8.0,chicken
+844,rabbit,14,8.0,chicken
+845,pesto,14,8.0,chicken
+846,seafood platter,14,8.0,chicken
+847,mixed platter,14,8.0,chicken
+848,vindaloo,14,8.0,chicken
+849,kee mao,14,8.0,chicken
+850,jalea,14,8.0,chicken
+851,omakase,14,8.0,chicken
+852,address,14,14.0,tip
+853,dipping sauce,14,8.0,chicken
+854,stuffing,14,8.0,chicken
+855,kid,14,21.0,family
+856,heat,14,18.0,serve
+857,clean,14,17.0,smell
+858,milkshake,14,8.0,chicken
+859,kimbap,14,8.0,chicken
+860,phone,14,14.0,tip
+861,window,14,17.0,smell
+862,cleaning,14,17.0,smell
+863,charge,14,14.0,tip
+864,happy hour special,13,,
+865,surroundings,13,12.0,experience
+866,naan bread,13,8.0,chicken
+867,ethiopian food,13,20.0,thai
+868,pork rib,13,8.0,chicken
+869,kosher,13,20.0,thai
+870,oxtail flatbread,13,8.0,chicken
+871,grilled salmon,13,8.0,chicken
+872,sole,13,8.0,chicken
+873,sit area,13,4.0,atmosphere
+874,pho soup,13,8.0,chicken
+875,braise short rib,13,,
+876,crispy pork,13,8.0,chicken
+877,frittata,13,8.0,chicken
+878,kulfi,13,8.0,chicken
+879,serving size,13,7.0,portion
+880,roast duck,13,8.0,chicken
+881,dover sole,13,8.0,chicken
+882,care,13,2.0,service
+883,cobb salad,13,8.0,chicken
+884,lollipop,13,8.0,chicken
+885,ball,13,8.0,chicken
+886,calamari appetizer,13,8.0,chicken
+887,bhel,13,8.0,chicken
+888,duck wing,13,8.0,chicken
+889,crispy duck,13,8.0,chicken
+890,execution,13,12.0,experience
+891,bussers,13,12.0,experience
+892,saag paneer,13,8.0,chicken
+893,dog,13,14.0,tip
+894,fried calamari,13,8.0,chicken
+895,sour,13,8.0,chicken
+896,saag,13,8.0,chicken
+897,masala,13,8.0,chicken
+898,yuca fry,13,8.0,chicken
+899,calimari,13,8.0,chicken
+900,pav bhaji,13,8.0,chicken
+901,pick up,13,13.0,delivery
+902,labneh,13,8.0,chicken
+903,spaghetti carbonara,13,8.0,chicken
+904,boti,13,8.0,chicken
+905,elevator,13,17.0,smell
+906,asparagus,13,8.0,chicken
+907,turnip cake,13,8.0,chicken
+908,stroganoff,13,8.0,chicken
+909,staffing,13,12.0,experience
+910,front desk,13,14.0,tip
+911,alfredo sauce,13,8.0,chicken
+912,manhattan,12,16.0,restaurant
+913,tres lech,12,8.0,chicken
+914,rib eye,12,8.0,chicken
+915,greek,12,20.0,thai
+916,flower,12,12.0,experience
+917,halal,12,20.0,thai
+918,seitan,12,8.0,chicken
+919,grocery,12,11.0,cuisine
+920,yuca,12,8.0,chicken
+921,salad dressing,12,8.0,chicken
+922,face,12,2.0,service
+923,green bean,12,8.0,chicken
+924,interior decor,12,12.0,experience
+925,style,12,11.0,cuisine
+926,duck breast,12,8.0,chicken
+927,yogurt,12,8.0,chicken
+928,goulash,12,8.0,chicken
+929,cassoulet,12,8.0,chicken
+930,samosa chat,12,8.0,chicken
+931,dinner menu,12,6.0,menu
+932,tuna tartar,12,8.0,chicken
+933,rasta pasta,12,8.0,chicken
+934,japchae,12,8.0,chicken
+935,parrillada,12,8.0,chicken
+936,waiter service,12,17.0,smell
+937,rice roll,12,8.0,chicken
+938,stuffed shell,12,8.0,chicken
+939,sound,12,17.0,smell
+940,cesar salad,12,8.0,chicken
+941,mi,12,12.0,experience
+942,hash brown,12,8.0,chicken
+943,dal,12,8.0,chicken
+944,wine menu,12,12.0,experience
+945,tamale,12,8.0,chicken
+946,waitor,12,8.0,chicken
+947,ackee,12,8.0,chicken
+948,tabbouleh,12,8.0,chicken
+949,condiment,12,8.0,chicken
+950,basil,12,8.0,chicken
+951,maduros,12,8.0,chicken
+952,bok choy,12,8.0,chicken
+953,table cloth,12,12.0,experience
+954,mignon,12,,
+955,daal,12,8.0,chicken
+956,walk,12,17.0,smell
+957,english,12,14.0,tip
+958,volume,12,17.0,smell
+959,queue,12,13.0,delivery
+960,breading,12,8.0,chicken
+961,cart,12,13.0,delivery
+962,odor,12,17.0,smell
+963,crouton,12,8.0,chicken
+964,cockroach,12,17.0,smell
+965,utensils,12,18.0,serve
+966,cookie,11,8.0,chicken
+967,cafe con leche,11,8.0,chicken
+968,vegetarian food,11,20.0,thai
+969,place itself,11,12.0,experience
+970,proportion,11,7.0,portion
+971,chocolate,11,5.0,drink
+972,staff service,11,12.0,experience
+973,beef wellington,11,8.0,chicken
+974,tom kha soup,11,8.0,chicken
+975,music selection,11,12.0,experience
+976,roasted chicken,11,8.0,chicken
+977,arrangement,11,12.0,experience
+978,wait service,11,12.0,experience
+979,roast pork,11,8.0,chicken
+980,accent,11,12.0,experience
+981,painting,11,4.0,atmosphere
+982,buffalo wing,11,8.0,chicken
+983,doughnut,11,8.0,chicken
+984,social distancing,11,17.0,smell
+985,smoothy,11,8.0,chicken
+986,potato pancake,11,8.0,chicken
+987,mixed grill platter,11,,
+988,flautas,11,8.0,chicken
+989,huevos rancheros,11,8.0,chicken
+990,banquet hall,11,12.0,experience
+991,fusion,11,20.0,thai
+992,lunch box,11,8.0,chicken
+993,store,11,17.0,smell
+994,decore,11,12.0,experience
+995,renovation,11,16.0,restaurant
+996,chicken tikka masala,11,,
+997,mojitos,11,12.0,experience
+998,tagliatelle,11,8.0,chicken
+999,singapore noodle,11,8.0,chicken
+1000,chimi,11,8.0,chicken
+1001,cocktails,11,12.0,experience
+1002,soondubu,11,8.0,chicken
+1003,safety,11,17.0,smell
+1004,outside,11,17.0,smell
+1005,bread basket,11,5.0,drink
+1006,eggs benedict,11,8.0,chicken
+1007,porridge,11,8.0,chicken
+1008,feta,11,8.0,chicken
+1009,california roll,11,8.0,chicken
+1010,eggplant parm,11,8.0,chicken
+1011,piccata,11,8.0,chicken
+1012,kung pao chicken,11,8.0,chicken
+1013,kebap,11,8.0,chicken
+1014,table service,11,12.0,experience
+1015,delivery time,11,13.0,delivery
+1016,tablecloth,11,17.0,smell
+1017,recipe,11,8.0,chicken
+1018,prepare,11,13.0,delivery
+1019,kabsa,11,8.0,chicken
+1020,coat check,11,12.0,experience
+1021,mezze,11,8.0,chicken
+1022,raw bar,11,12.0,experience
+1023,makhani,11,8.0,chicken
+1024,mac & cheese,11,8.0,chicken
+1025,porterhouse,11,8.0,chicken
+1026,collard,11,8.0,chicken
+1027,egg foo young,11,8.0,chicken
+1028,pakora,11,8.0,chicken
+1029,ropa vieja,11,8.0,chicken
+1030,grill cheese,11,8.0,chicken
+1031,ham,11,8.0,chicken
+1032,fajita,11,8.0,chicken
+1033,waiting,11,13.0,delivery
+1034,washroom,11,12.0,experience
+1035,uni,11,8.0,chicken
+1036,chicken roll,11,8.0,chicken
+1037,appearance,11,12.0,experience
+1038,shirt,11,17.0,smell
+1039,spoon,11,18.0,serve
+1040,reservation time,11,13.0,delivery
+1041,cucumber,11,8.0,chicken
+1042,service charge,11,14.0,tip
+1043,statue,10,12.0,experience
+1044,seafood dish,10,8.0,chicken
+1045,spot,10,16.0,restaurant
+1046,folk,10,14.0,tip
+1047,bar staff,10,12.0,experience
+1048,beet,10,8.0,chicken
+1049,pub,10,20.0,thai
+1050,pack,10,10.0,reservation
+1051,food drink,10,12.0,experience
+1052,gm,10,12.0,experience
+1053,knafeh,10,8.0,chicken
+1054,general manager,10,12.0,experience
+1055,garden,10,4.0,atmosphere
+1056,birria,10,8.0,chicken
+1057,kunefe,10,8.0,chicken
+1058,owner / manager,10,14.0,tip
+1059,pairing,10,8.0,chicken
+1060,grouper,10,8.0,chicken
+1061,photo,10,23.0,look
+1062,shishito pepper,10,8.0,chicken
+1063,e pepe,10,,
+1064,pancakes,10,12.0,experience
+1065,chicken breast,10,8.0,chicken
+1066,general tso ' s chicken,10,8.0,chicken
+1067,soup dumplings,10,8.0,chicken
+1068,torta,10,8.0,chicken
+1069,takoyaki,10,8.0,chicken
+1070,sampler,10,8.0,chicken
+1071,mongolian beef,10,8.0,chicken
+1072,taste menu,10,12.0,experience
+1073,ceviche mixto,10,8.0,chicken
+1074,bake ziti,10,8.0,chicken
+1075,tabouleh,10,8.0,chicken
+1076,men,10,17.0,smell
+1077,behavior,10,14.0,tip
+1078,manicotti,10,8.0,chicken
+1079,dal makhani,10,8.0,chicken
+1080,injera,10,8.0,chicken
+1081,sambhar,10,8.0,chicken
+1082,chicken francese,10,8.0,chicken
+1083,shrimp roll,10,8.0,chicken
+1084,chicken milanese,10,8.0,chicken
+1085,raita,10,8.0,chicken
+1086,appam,10,8.0,chicken
+1087,barbecue,10,8.0,chicken
+1088,distancing,10,12.0,experience
+1089,service quality,10,12.0,experience
+1090,chicken leg,10,8.0,chicken
+1091,zucchini,10,8.0,chicken
+1092,rack of lamb,10,8.0,chicken
+1093,dietary,10,12.0,experience
+1094,margherita,10,8.0,chicken
+1095,caprese salad,10,8.0,chicken
+1096,lamprais,10,8.0,chicken
+1097,hand,10,17.0,smell
+1098,mangu,10,8.0,chicken
+1099,dim,10,4.0,atmosphere
+1100,tempura roll,10,8.0,chicken
+1101,galbi,10,8.0,chicken
+1102,etiquette,10,12.0,experience
+1103,soap,10,17.0,smell
+1104,base,10,23.0,look
+1105,side salad,10,8.0,chicken
+1106,spaetzle,10,8.0,chicken
+1107,bouncer,10,12.0,experience
+1108,stage,10,12.0,experience
+1109,toilet paper,10,17.0,smell
+1110,policy,10,14.0,tip
+1111,architecture,9,20.0,thai
+1112,deck,9,4.0,atmosphere
+1113,noodle dish,9,8.0,chicken
+1114,chicken chop,9,8.0,chicken
+1115,lunch deal,9,12.0,experience
+1116,jill,9,12.0,experience
+1117,cusine,9,20.0,thai
+1118,menu choice,9,12.0,experience
+1119,story,9,13.0,delivery
+1120,steak tartare,9,8.0,chicken
+1121,bar service,9,12.0,experience
+1122,osso bucco,9,8.0,chicken
+1123,bake good,9,12.0,experience
+1124,krust,9,8.0,chicken
+1125,paranthas,9,8.0,chicken
+1126,chinese broccoli,9,8.0,chicken
+1127,trout,9,8.0,chicken
+1128,cobbler,9,8.0,chicken
+1129,pho broth,9,8.0,chicken
+1130,muhammara,9,8.0,chicken
+1131,arroz chaufa,9,12.0,experience
+1132,plant,9,17.0,smell
+1133,monkfish,9,8.0,chicken
+1134,tomato sauce,9,8.0,chicken
+1135,olive garden,9,16.0,restaurant
+1136,gnocchi soup,9,8.0,chicken
+1137,pretzel,9,8.0,chicken
+1138,chicken sandwich,9,8.0,chicken
+1139,comida,9,12.0,experience
+1140,breakfast burrito,9,8.0,chicken
+1141,tilapia,9,8.0,chicken
+1142,oatmeal,9,8.0,chicken
+1143,labne,9,8.0,chicken
+1144,rice ball,9,8.0,chicken
+1145,alfredo pasta,9,8.0,chicken
+1146,seafood salad,9,8.0,chicken
+1147,udon noodle,9,8.0,chicken
+1148,food variety,9,12.0,experience
+1149,breakfast food,9,12.0,experience
+1150,customer,9,14.0,tip
+1151,smoothie,9,8.0,chicken
+1152,chicha morada,9,8.0,chicken
+1153,pilaf,9,8.0,chicken
+1154,help,9,2.0,service
+1155,gratin,9,8.0,chicken
+1156,duck confit,9,8.0,chicken
+1157,orange juice,9,8.0,chicken
+1158,french,9,20.0,thai
+1159,tartar,9,8.0,chicken
+1160,chicken lollipop,9,8.0,chicken
+1161,grub,9,8.0,chicken
+1162,miso,9,8.0,chicken
+1163,temp,9,8.0,chicken
+1164,chicken roast,9,8.0,chicken
+1165,cheese cake,9,8.0,chicken
+1166,hot dog,9,8.0,chicken
+1167,accompaniment,9,8.0,chicken
+1168,kebob,9,8.0,chicken
+1169,gobi,9,8.0,chicken
+1170,tom kha,9,8.0,chicken
+1171,reuben,9,8.0,chicken
+1172,fillet mignon,9,8.0,chicken
+1173,scramble egg,9,8.0,chicken
+1174,business,9,14.0,tip
+1175,system,9,,
+1176,batter,9,8.0,chicken
+1177,scent,9,12.0,experience
+1178,dinner roll,9,12.0,experience
+1179,dance floor,9,4.0,atmosphere
+1180,shawerma,9,8.0,chicken
+1181,mahi mahi,9,8.0,chicken
+1182,matka gosht,9,8.0,chicken
+1183,mariscada,9,8.0,chicken
+1184,corn,9,8.0,chicken
+1185,baguette,9,8.0,chicken
+1186,bbq pork,9,8.0,chicken
+1187,,9,8.0,chicken
+1188,mutton,9,8.0,chicken
+1189,top,9,,
+1190,comedy,9,12.0,experience
+1191,milk,9,8.0,chicken
+1192,hair,9,18.0,serve
+1193,lot,9,7.0,portion
+1194,seat arrangement,9,17.0,smell
+1195,machine,9,14.0,tip
+1196,mask,9,17.0,smell
+1197,menu price,9,14.0,tip
+1198,knife,9,18.0,serve
+1199,thai iced tea,8,,
+1200,fireplace,8,4.0,atmosphere
+1201,rooftop,8,4.0,atmosphere
+1202,jazz,8,4.0,atmosphere
+1203,screen,8,4.0,atmosphere
+1204,energy,8,22.0,feel
+1205,rajesh,8,12.0,experience
+1206,cuban food,8,20.0,thai
+1207,custard,8,8.0,chicken
+1208,ice coffee,8,8.0,chicken
+1209,vegetarian dish,8,8.0,chicken
+1210,package,8,18.0,serve
+1211,quenelle,8,12.0,experience
+1212,wine pairing,8,12.0,experience
+1213,drink special,8,12.0,experience
+1214,tartufo,8,8.0,chicken
+1215,mocktails,8,12.0,experience
+1216,crispy duck wing,8,,
+1217,enviroment,8,12.0,experience
+1218,tacacho,8,8.0,chicken
+1219,shish,8,8.0,chicken
+1220,dance,8,4.0,atmosphere
+1221,pork soup dumpling,8,,
+1222,zeppoles,8,8.0,chicken
+1223,dinning,8,4.0,atmosphere
+1224,zuppa toscana,8,8.0,chicken
+1225,lebanese,8,20.0,thai
+1226,breakfast sandwich,8,12.0,experience
+1227,birria taco,8,8.0,chicken
+1228,personal,8,12.0,experience
+1229,chief,8,12.0,experience
+1230,shrimp dumpling,8,8.0,chicken
+1231,hot chocolate,8,8.0,chicken
+1232,haleem,8,8.0,chicken
+1233,cannolis,8,12.0,experience
+1234,lebni,8,8.0,chicken
+1235,eel,8,8.0,chicken
+1236,short,8,13.0,delivery
+1237,octopus appetizer,8,8.0,chicken
+1238,meat dish,8,8.0,chicken
+1239,tail,8,8.0,chicken
+1240,tent,8,17.0,smell
+1241,meat sauce,8,8.0,chicken
+1242,blt,8,8.0,chicken
+1243,tres leche,8,8.0,chicken
+1244,mule,8,8.0,chicken
+1245,dimsums,8,8.0,chicken
+1246,lit,8,4.0,atmosphere
+1247,vietnamese,8,20.0,thai
+1248,terrine,8,8.0,chicken
+1249,beef rib,8,8.0,chicken
+1250,freshness,8,11.0,cuisine
+1251,siu mai,8,8.0,chicken
+1252,grilled meat,8,8.0,chicken
+1253,kebobs,8,8.0,chicken
+1254,cover,8,17.0,smell
+1255,seafood tower,8,8.0,chicken
+1256,spinach pie,8,8.0,chicken
+1257,mezzes,8,8.0,chicken
+1258,couch,8,17.0,smell
+1259,falafel sandwich,8,8.0,chicken
+1260,chole bhature,8,8.0,chicken
+1261,blintz,8,8.0,chicken
+1262,crudo,8,8.0,chicken
+1263,saganaki,8,8.0,chicken
+1264,tiffin,8,8.0,chicken
+1265,fun,8,15.0,special
+1266,tagine,8,8.0,chicken
+1267,diet,8,8.0,chicken
+1268,icecream,8,8.0,chicken
+1269,lamp,8,17.0,smell
+1270,pick,8,18.0,serve
+1271,roast,8,8.0,chicken
+1272,skewer,8,8.0,chicken
+1273,coat,8,17.0,smell
+1274,poke,8,12.0,experience
+1275,valet park,8,12.0,experience
+1276,butter chicken,8,8.0,chicken
+1277,nigiri,8,8.0,chicken
+1278,pad,8,8.0,chicken
+1279,salad bar,8,8.0,chicken
+1280,prep,8,17.0,smell
+1281,container,8,18.0,serve
+1282,sirloin,8,8.0,chicken
+1283,briyani,8,8.0,chicken
+1284,sour chicken,8,8.0,chicken
+1285,scarpariello,8,8.0,chicken
+1286,tabouli,8,8.0,chicken
+1287,lentil,8,8.0,chicken
+1288,pan,8,8.0,chicken
+1289,couscous,8,8.0,chicken
+1290,borsch,8,8.0,chicken
+1291,brisket,8,8.0,chicken
+1292,tray,8,18.0,serve
+1293,open,8,13.0,delivery
+1294,delivery man,8,2.0,service
+1295,mouse,8,17.0,smell
+1296,pasta sauce,8,8.0,chicken
+1297,rule,8,14.0,tip
+1298,tab,8,14.0,tip
+1299,edamame,8,8.0,chicken
+1300,schedule,8,14.0,tip
+1301,glove,8,17.0,smell
+1302,lunchtime,8,13.0,delivery
+1303,chopstick,8,17.0,smell
+1304,roach,8,17.0,smell
+1305,air conditioning,8,17.0,smell
+1306,surcharge,8,14.0,tip
+1307,personality,7,2.0,service
+1308,friend,7,21.0,family
+1309,salta,7,8.0,chicken
+1310,haneez,7,12.0,experience
+1311,serf,7,20.0,thai
+1312,desserts,7,8.0,chicken
+1313,sitting,7,12.0,experience
+1314,fried,7,8.0,chicken
+1315,penne a la vodka,7,8.0,chicken
+1316,afghani,7,20.0,thai
+1317,delicacy,7,8.0,chicken
+1318,tour,7,8.0,chicken
+1319,performance,7,12.0,experience
+1320,variety of food,7,6.0,menu
+1321,market,7,11.0,cuisine
+1322,veal chop,7,8.0,chicken
+1323,vegan food,7,20.0,thai
+1324,momo ' s,7,8.0,chicken
+1325,greek food,7,20.0,thai
+1326,cubanos,7,8.0,chicken
+1327,fried fish,7,8.0,chicken
+1328,stuffed cabbage,7,8.0,chicken
+1329,rice pudding,7,8.0,chicken
+1330,range,7,6.0,menu
+1331,vermicelli,7,8.0,chicken
+1332,rice dish,7,8.0,chicken
+1333,smile,7,2.0,service
+1334,bottom,7,,
+1335,dessert platter,7,12.0,experience
+1336,maitre d,7,12.0,experience
+1337,beef tartare,7,8.0,chicken
+1338,burrata appetizer,7,8.0,chicken
+1339,sancocho,7,12.0,experience
+1340,pizzeria,7,20.0,thai
+1341,carrot cake,7,8.0,chicken
+1342,crab dish,7,8.0,chicken
+1343,kee - mao,7,12.0,experience
+1344,massaman,7,8.0,chicken
+1345,good,7,24.0,good
+1346,buddha,7,4.0,atmosphere
+1347,premise,7,12.0,experience
+1348,white,7,8.0,chicken
+1349,puff,7,8.0,chicken
+1350,shawarma sandwich,7,8.0,chicken
+1351,french dip,7,8.0,chicken
+1352,croque madame,7,12.0,experience
+1353,tapas,7,20.0,thai
+1354,grilled cheese,7,8.0,chicken
+1355,shepherd pie,7,8.0,chicken
+1356,chicken tikka,7,8.0,chicken
+1357,mango lassi,7,8.0,chicken
+1358,turf,7,8.0,chicken
+1359,tequila,7,5.0,drink
+1360,anticuchos,7,8.0,chicken
+1361,fois gras,7,8.0,chicken
+1362,wrapper,7,8.0,chicken
+1363,leftover,7,19.0,eat
+1364,salmon roll,7,8.0,chicken
+1365,sprout,7,8.0,chicken
+1366,lobster bisque,7,8.0,chicken
+1367,furnishing,7,4.0,atmosphere
+1368,tres lech cake,7,,
+1369,attire,7,12.0,experience
+1370,grape leave,7,8.0,chicken
+1371,shu mai,7,8.0,chicken
+1372,iced coffee,7,8.0,chicken
+1373,pastrami sandwich,7,8.0,chicken
+1374,seabass,7,8.0,chicken
+1375,ribeye steak,7,8.0,chicken
+1376,chilaquiles,7,12.0,experience
+1377,carne asada,7,8.0,chicken
+1378,arancini,7,8.0,chicken
+1379,profiterole,7,8.0,chicken
+1380,hot pot,7,8.0,chicken
+1381,fish dish,7,8.0,chicken
+1382,booze,7,12.0,experience
+1383,pepper steak,7,8.0,chicken
+1384,cheese plate,7,8.0,chicken
+1385,nehari,7,8.0,chicken
+1386,vada pav,7,12.0,experience
+1387,beyti,7,8.0,chicken
+1388,cheeseburger deluxe,7,8.0,chicken
+1389,vodka,7,8.0,chicken
+1390,chilli,7,8.0,chicken
+1391,canoli,7,8.0,chicken
+1392,meet,7,21.0,family
+1393,soup base,7,8.0,chicken
+1394,mint,7,8.0,chicken
+1395,makloubeh,7,8.0,chicken
+1396,okra,7,8.0,chicken
+1397,caviar,7,8.0,chicken
+1398,ceasar salad,7,8.0,chicken
+1399,broccoli rabe,7,8.0,chicken
+1400,muffin,7,8.0,chicken
+1401,parmigiano,7,8.0,chicken
+1402,cut,7,18.0,serve
+1403,baba ghanouj,7,8.0,chicken
+1404,fish fry,7,8.0,chicken
+1405,rasmalai,7,8.0,chicken
+1406,cheesesteak,7,8.0,chicken
+1407,coctails,7,12.0,experience
+1408,hash,7,8.0,chicken
+1409,piano,7,12.0,experience
+1410,speed,7,12.0,experience
+1411,date,7,15.0,special
+1412,salad dress,7,8.0,chicken
+1413,shish kabob,7,8.0,chicken
+1414,fortune cooky,7,12.0,experience
+1415,hollandaise,7,12.0,experience
+1416,catfish strip,7,8.0,chicken
+1417,strudel,7,8.0,chicken
+1418,flight,7,12.0,experience
+1419,tso,7,,
+1420,up,7,,
+1421,shrimp ball,7,8.0,chicken
+1422,clam chowder,7,8.0,chicken
+1423,carpaccio,7,8.0,chicken
+1424,a / c,7,12.0,experience
+1425,greet,7,2.0,service
+1426,chicken nugget,7,8.0,chicken
+1427,eggplant parmigiana,7,8.0,chicken
+1428,bus,7,17.0,smell
+1429,nachos,7,8.0,chicken
+1430,eggroll,7,8.0,chicken
+1431,training,7,14.0,tip
+1432,bag,7,18.0,serve
+1433,ketchup,7,8.0,chicken
+1434,halwa,7,8.0,chicken
+1435,baked ziti,7,8.0,chicken
+1436,wait list,7,13.0,delivery
+1437,salt,7,8.0,chicken
+1438,flavorless,7,8.0,chicken
+1439,fried flounder,6,8.0,chicken
+1440,chef / owner,6,12.0,experience
+1441,shot,6,5.0,drink
+1442,happy hour deal,6,,
+1443,bang,6,8.0,chicken
+1444,tune,6,12.0,experience
+1445,spirit,6,12.0,experience
+1446,sake selection,6,12.0,experience
+1447,duck salad,6,8.0,chicken
+1448,kebab platter,6,8.0,chicken
+1449,process,6,14.0,tip
+1450,patio area,6,4.0,atmosphere
+1451,dining experience,6,22.0,feel
+1452,american,6,11.0,cuisine
+1453,italian dish,6,20.0,thai
+1454,torte,6,12.0,experience
+1455,lunch combo,6,8.0,chicken
+1456,whiskey,6,12.0,experience
+1457,panna cotta,6,8.0,chicken
+1458,brioche,6,8.0,chicken
+1459,lamp chop,6,8.0,chicken
+1460,and,6,,
+1461,burrito bowl,6,8.0,chicken
+1462,supermarket,6,11.0,cuisine
+1463,chapli kebab,6,8.0,chicken
+1464,offering,6,6.0,menu
+1465,theme,6,12.0,experience
+1466,demeanor,6,12.0,experience
+1467,pinot noir,6,8.0,chicken
+1468,chicken pad thai,6,,
+1469,cosmopolitan,6,12.0,experience
+1470,patron,6,14.0,tip
+1471,masaman curry,6,8.0,chicken
+1472,foood,6,12.0,experience
+1473,salmon tartare,6,8.0,chicken
+1474,mix,6,8.0,chicken
+1475,bandeja paisa,6,8.0,chicken
+1476,malai kofta,6,8.0,chicken
+1477,potion,6,7.0,portion
+1478,tuna steak,6,8.0,chicken
+1479,pizza pie,6,12.0,experience
+1480,delmonico,6,8.0,chicken
+1481,meze,6,12.0,experience
+1482,chashu,6,8.0,chicken
+1483,colada,6,8.0,chicken
+1484,muscle,6,8.0,chicken
+1485,mousse cake,6,8.0,chicken
+1486,proprietor,6,12.0,experience
+1487,duck roll,6,8.0,chicken
+1488,ezme,6,8.0,chicken
+1489,hummus appetizer,6,8.0,chicken
+1490,crisp,6,8.0,chicken
+1491,refreshment,6,12.0,experience
+1492,xiaolongbao,6,20.0,thai
+1493,social,6,17.0,smell
+1494,mansaf,6,12.0,experience
+1495,shrimp tempura,6,8.0,chicken
+1496,moscow mule,6,8.0,chicken
+1497,tortas,6,8.0,chicken
+1498,breakfast option,6,12.0,experience
+1499,mole,6,8.0,chicken
+1500,bihari,6,8.0,chicken
+1501,bistec,6,8.0,chicken
+1502,duck dish,6,12.0,experience
+1503,cocktail list,6,8.0,chicken
+1504,lamb meat,6,8.0,chicken
+1505,flavoring,6,8.0,chicken
+1506,breast,6,8.0,chicken
+1507,puri,6,8.0,chicken
+1508,serving staff,6,12.0,experience
+1509,stuffed mushroom,6,8.0,chicken
+1510,pasta fagioli,6,8.0,chicken
+1511,rogan josh,6,8.0,chicken
+1512,jollof,6,8.0,chicken
+1513,fish fillet,6,8.0,chicken
+1514,pot,6,8.0,chicken
+1515,eggrolls,6,8.0,chicken
+1516,pad see eiw,6,12.0,experience
+1517,eggplant salad,6,8.0,chicken
+1518,cold noodle,6,8.0,chicken
+1519,margs,6,12.0,experience
+1520,pepperoni,6,8.0,chicken
+1521,pani puri,6,8.0,chicken
+1522,papri chaat,6,8.0,chicken
+1523,jukebox,6,12.0,experience
+1524,dal makhni,6,8.0,chicken
+1525,eye,6,17.0,smell
+1526,salami,6,8.0,chicken
+1527,chicha,6,8.0,chicken
+1528,comedy show,6,12.0,experience
+1529,resturant,6,20.0,thai
+1530,grilled shrimp,6,8.0,chicken
+1531,tomahawk steak,6,8.0,chicken
+1532,cheese stick,6,8.0,chicken
+1533,palak paneer,6,8.0,chicken
+1534,consistency,6,8.0,chicken
+1535,soy sauce,6,8.0,chicken
+1536,shell,6,8.0,chicken
+1537,kitchen staff,6,14.0,tip
+1538,weekend,6,10.0,reservation
+1539,pace,6,12.0,experience
+1540,manu,6,12.0,experience
+1541,.,6,,
+1542,lemon,6,8.0,chicken
+1543,chicharron de pollo,6,8.0,chicken
+1544,boneless wing,6,8.0,chicken
+1545,vodka sauce,6,8.0,chicken
+1546,courtesy,6,14.0,tip
+1547,porterhouse steak,6,8.0,chicken
+1548,chicken wrap,6,8.0,chicken
+1549,hakka noodle,6,8.0,chicken
+1550,drinks,6,12.0,experience
+1551,steak frites,6,8.0,chicken
+1552,encebollado,6,8.0,chicken
+1553,keema,6,8.0,chicken
+1554,minestrone,6,8.0,chicken
+1555,francese,6,8.0,chicken
+1556,bhaji,6,8.0,chicken
+1557,bring,6,18.0,serve
+1558,boy,6,12.0,experience
+1559,sesame chicken,6,8.0,chicken
+1560,mosquito,6,17.0,smell
+1561,glassware,6,17.0,smell
+1562,car,6,14.0,tip
+1563,syrup,6,8.0,chicken
+1564,wait area,6,12.0,experience
+1565,chapati,6,8.0,chicken
+1566,noodle roll,6,8.0,chicken
+1567,straw,6,18.0,serve
+1568,shawarma platter,6,8.0,chicken
+1569,oj,6,8.0,chicken
+1570,arugula,6,8.0,chicken
+1571,candied yam,6,8.0,chicken
+1572,mash,6,8.0,chicken
+1573,escalator,6,17.0,smell
+1574,service fee,6,14.0,tip
+1575,smoke,6,17.0,smell
+1576,chicken strip,6,8.0,chicken
+1577,bone,6,8.0,chicken
+1578,price tag,6,8.0,chicken
+1579,entre,6,8.0,chicken
+1580,shank,6,8.0,chicken
+1581,rest room,6,12.0,experience
+1582,signage,6,17.0,smell
+1583,food flavor,6,12.0,experience
+1584,slaw,6,8.0,chicken
+1585,bench,6,17.0,smell
+1586,prix fixe menu,6,,
+1587,air conditioner,6,17.0,smell
+1588,fan,6,7.0,portion
+1589,napkins,6,12.0,experience
+1590,deposit,6,14.0,tip
+1591,customer service,6,2.0,service
+1592,aisle,6,17.0,smell
+1593,website,6,14.0,tip
+1594,capacity,6,4.0,atmosphere
+1595,rat,6,20.0,thai
+1596,wine glass,6,17.0,smell
+1597,money,6,14.0,tip
+1598,ventilation,6,12.0,experience
+1599,shoe,6,17.0,smell
+1600,kalbi,6,12.0,experience
+1601,fair,5,24.0,good
+1602,medley,5,8.0,chicken
+1603,sorrel,5,8.0,chicken
+1604,oxtail roll,5,12.0,experience
+1605,chinese food,5,20.0,thai
+1606,shepherd salad,5,8.0,chicken
+1607,doner kebab,5,12.0,experience
+1608,feast,5,12.0,experience
+1609,dragon,5,12.0,experience
+1610,red curry,5,8.0,chicken
+1611,aquarium,5,12.0,experience
+1612,dolmas,5,8.0,chicken
+1613,mucver,5,8.0,chicken
+1614,selection of,5,6.0,menu
+1615,avocado toast,5,8.0,chicken
+1616,pork roll,5,12.0,experience
+1617,banh mi sandwich,5,,
+1618,sushi bar,5,17.0,smell
+1619,kra - pow puff,5,8.0,chicken
+1620,severs,5,12.0,experience
+1621,service people,5,12.0,experience
+1622,locale,5,12.0,experience
+1623,aura,5,12.0,experience
+1624,fattoush salad,5,8.0,chicken
+1625,service team,5,12.0,experience
+1626,habachi,5,12.0,experience
+1627,din experience,5,22.0,feel
+1628,backyard,5,4.0,atmosphere
+1629,servicio,5,12.0,experience
+1630,treat,5,22.0,feel
+1631,cabbage roll,5,8.0,chicken
+1632,stake,5,8.0,chicken
+1633,fried artichoke,5,8.0,chicken
+1634,mediterranean,5,20.0,thai
+1635,captain,5,12.0,experience
+1636,jazz band,5,12.0,experience
+1637,event,5,21.0,family
+1638,shepherd ' s pie,5,8.0,chicken
+1639,shrimp combo,5,8.0,chicken
+1640,vegan platter,5,12.0,experience
+1641,jamun,5,,
+1642,italian food,5,20.0,thai
+1643,jjambbong,5,8.0,chicken
+1644,paneer tikka masala,5,,
+1645,sicilian slice,5,12.0,experience
+1646,marinade,5,8.0,chicken
+1647,spanakopita,5,12.0,experience
+1648,drum,5,8.0,chicken
+1649,steak bite,5,8.0,chicken
+1650,blanket,5,12.0,experience
+1651,portuguese,5,20.0,thai
+1652,mango,5,8.0,chicken
+1653,laphing,5,8.0,chicken
+1654,pupusa,5,8.0,chicken
+1655,dibi,5,8.0,chicken
+1656,jerk pork,5,8.0,chicken
+1657,produce section,5,12.0,experience
+1658,all,5,,
+1659,gulab jamun,5,8.0,chicken
+1660,chicken platter,5,8.0,chicken
+1661,mix grill platter,5,,
+1662,promotion,5,12.0,experience
+1663,display,5,12.0,experience
+1664,crab meat,5,8.0,chicken
+1665,pastrami,5,8.0,chicken
+1666,check in,5,2.0,service
+1667,wagyu,5,8.0,chicken
+1668,musakhan,5,8.0,chicken
+1669,brunch food,5,12.0,experience
+1670,eggplant dish,5,8.0,chicken
+1671,kafta,5,8.0,chicken
+1672,quenelles,5,8.0,chicken
+1673,baby back rib,5,8.0,chicken
+1674,food price,5,12.0,experience
+1675,halwa puri,5,8.0,chicken
+1676,lambchop,5,8.0,chicken
+1677,seekh kabab,5,8.0,chicken
+1678,latke,5,8.0,chicken
+1679,borscht soup,5,8.0,chicken
+1680,spaghettini,5,8.0,chicken
+1681,flank steak,5,8.0,chicken
+1682,veggie combo,5,12.0,experience
+1683,food menu,5,12.0,experience
+1684,- chinese,5,,
+1685,grill vegetable,5,8.0,chicken
+1686,turnover,5,12.0,experience
+1687,toro,5,8.0,chicken
+1688,mayo,5,8.0,chicken
+1689,schwarma,5,8.0,chicken
+1690,vegetarian selection,5,12.0,experience
+1691,brussels sprout salad,5,,
+1692,tres leche cake,5,,
+1693,pisco,5,12.0,experience
+1694,gappay,5,8.0,chicken
+1695,chimichangas,5,8.0,chicken
+1696,fried wonton,5,8.0,chicken
+1697,course,5,5.0,drink
+1698,chicken shish,5,8.0,chicken
+1699,flavor profile,5,8.0,chicken
+1700,green curry,5,8.0,chicken
+1701,curry noodle,5,12.0,experience
+1702,sweet tea,5,8.0,chicken
+1703,lamb adana,5,8.0,chicken
+1704,chicken shish kebab,5,,
+1705,egg plant,5,8.0,chicken
+1706,ny strip,5,8.0,chicken
+1707,sunset,5,12.0,experience
+1708,baked good,5,8.0,chicken
+1709,grill fish,5,8.0,chicken
+1710,performer,5,12.0,experience
+1711,lomo salteado,5,8.0,chicken
+1712,flor de mayo,5,12.0,experience
+1713,veal saltimbocca,5,8.0,chicken
+1714,gyro platter,5,8.0,chicken
+1715,pan con tomate,5,12.0,experience
+1716,background music,5,4.0,atmosphere
+1717,rib eye steak,5,,
+1718,chettinad,5,8.0,chicken
+1719,soup salad,5,9.0,salad
+1720,tikki masala,5,8.0,chicken
+1721,spritz,5,12.0,experience
+1722,tib,5,8.0,chicken
+1723,parotta,5,8.0,chicken
+1724,fried plantain,5,8.0,chicken
+1725,surf,5,8.0,chicken
+1726,mousaka,5,8.0,chicken
+1727,site,5,12.0,experience
+1728,tagliatelle bolognese,5,8.0,chicken
+1729,pear,5,8.0,chicken
+1730,taco de birria,5,12.0,experience
+1731,saltfish,5,8.0,chicken
+1732,seating arrangement,5,12.0,experience
+1733,salads,5,8.0,chicken
+1734,meatballs,5,8.0,chicken
+1735,attendance,5,12.0,experience
+1736,pigeon,5,8.0,chicken
+1737,plantains,5,8.0,chicken
+1738,negroni,5,12.0,experience
+1739,shrimp dish,5,8.0,chicken
+1740,hooka,5,12.0,experience
+1741,sundubu,5,8.0,chicken
+1742,babaghanoush,5,8.0,chicken
+1743,hollandaise sauce,5,8.0,chicken
+1744,dessert menu,5,12.0,experience
+1745,doorman,5,17.0,smell
+1746,pizza crust,5,8.0,chicken
+1747,kadai,5,8.0,chicken
+1748,spinach roll,5,8.0,chicken
+1749,sizzler,5,8.0,chicken
+1750,dim sum dish,5,,
+1751,aji,5,8.0,chicken
+1752,aji de gallina,5,8.0,chicken
+1753,rendang,5,8.0,chicken
+1754,sour pork,5,8.0,chicken
+1755,herb,5,8.0,chicken
+1756,bao,5,8.0,chicken
+1757,mein,5,8.0,chicken
+1758,grape leaf,5,8.0,chicken
+1759,hot wing,5,8.0,chicken
+1760,philly cheese steak,5,12.0,experience
+1761,curry shrimp,5,8.0,chicken
+1762,fish taco,5,8.0,chicken
+1763,dessert selection,5,12.0,experience
+1764,shawarmas,5,8.0,chicken
+1765,cerviche,5,8.0,chicken
+1766,fixture,5,12.0,experience
+1767,veal parmigiana,5,8.0,chicken
+1768,shisha,5,12.0,experience
+1769,pour,5,18.0,serve
+1770,gnocci soup,5,8.0,chicken
+1771,soup / salad,5,8.0,chicken
+1772,table arrangement,5,4.0,atmosphere
+1773,fettuccini alfredo,5,8.0,chicken
+1774,yucca,5,8.0,chicken
+1775,pic,5,8.0,chicken
+1776,balsamic,5,8.0,chicken
+1777,noodles,5,8.0,chicken
+1778,gamjatang,5,8.0,chicken
+1779,chicharron,5,8.0,chicken
+1780,kalguksu,5,12.0,experience
+1781,cold dish,5,8.0,chicken
+1782,game,5,4.0,atmosphere
+1783,charcuterie,5,8.0,chicken
+1784,prosecco,5,8.0,chicken
+1785,quiche,5,8.0,chicken
+1786,shop,5,16.0,restaurant
+1787,luncheon,5,12.0,experience
+1788,devil egg,5,8.0,chicken
+1789,abalone,5,8.0,chicken
+1790,ramens,5,8.0,chicken
+1791,pork bone,5,8.0,chicken
+1792,saltado,5,8.0,chicken
+1793,waitors,5,12.0,experience
+1794,fried noodle,5,8.0,chicken
+1795,chickpea,5,8.0,chicken
+1796,organization,5,12.0,experience
+1797,sabji,5,8.0,chicken
+1798,wasabi,5,8.0,chicken
+1799,lychee,5,8.0,chicken
+1800,happy,5,21.0,family
+1801,steak fry,5,8.0,chicken
+1802,bbq rib,5,8.0,chicken
+1803,toll,5,14.0,tip
+1804,calzone,5,8.0,chicken
+1805,fire place,5,4.0,atmosphere
+1806,meat ball,5,8.0,chicken
+1807,fish quality,5,8.0,chicken
+1808,falafel platter,5,8.0,chicken
+1809,you,5,,
+1810,lomein,5,8.0,chicken
+1811,flatware,5,12.0,experience
+1812,steaks,5,18.0,serve
+1813,half chicken,5,8.0,chicken
+1814,poori,5,8.0,chicken
+1815,patatas bravas,5,8.0,chicken
+1816,chicken liver,5,8.0,chicken
+1817,corn beef hash,5,8.0,chicken
+1818,chicken curry,5,8.0,chicken
+1819,spiciness,5,8.0,chicken
+1820,trivia,5,12.0,experience
+1821,wiener schnitzel,5,8.0,chicken
+1822,bakery item,5,12.0,experience
+1823,park lot,5,17.0,smell
+1824,coke,5,18.0,serve
+1825,aftertaste,5,8.0,chicken
+1826,leg,5,8.0,chicken
+1827,desert menu,5,17.0,smell
+1828,chiken,5,8.0,chicken
+1829,arrive,5,13.0,delivery
+1830,garbage,5,19.0,eat
+1831,servant,5,12.0,experience
+1832,supervisor,5,14.0,tip
+1833,sushi rice,5,8.0,chicken
+1834,umbrella,5,17.0,smell
+1835,label,5,12.0,experience
+1836,gas,5,17.0,smell
+1837,spanish,5,20.0,thai
+1838,chicken francaise,5,8.0,chicken
+1839,side order,5,8.0,chicken
+1840,bartending,5,12.0,experience
+1841,yaroa,5,12.0,experience
+1842,mixed vegetable,5,8.0,chicken
+1843,wait period,5,8.0,chicken
+1844,clam casino,5,8.0,chicken
+1845,okonomiyaki,5,8.0,chicken
+1846,knot,5,8.0,chicken
+1847,flooring,5,17.0,smell
+1848,water glass,5,18.0,serve
+1849,sofa,5,17.0,smell
+1850,air condition,5,17.0,smell
+1851,speaker,5,17.0,smell
+1852,paint,5,17.0,smell
+1853,dress code,5,12.0,experience
+1854,chirashi,5,8.0,chicken
+1855,sichuan,4,20.0,thai
+1856,happy hour drink,4,,
+1857,pina coladas,4,12.0,experience
+1858,wellington,4,,
+1859,lamb stew,4,8.0,chicken
+1860,hunkar begendi,4,8.0,chicken
+1861,dim sim,4,20.0,thai
+1862,lunch choice,4,12.0,experience
+1863,accommodate,4,2.0,service
+1864,pad see,4,8.0,chicken
+1865,thai ice tea,4,,
+1866,reheat,4,19.0,eat
+1867,culinary,4,20.0,thai
+1868,breakfast platter,4,12.0,experience
+1869,sultan ' s delight,4,8.0,chicken
+1870,tasting,4,20.0,thai
+1871,gyro plate,4,8.0,chicken
+1872,organize,4,4.0,atmosphere
+1873,halal food,4,12.0,experience
+1874,restuarant,4,12.0,experience
+1875,potato skin,4,8.0,chicken
+1876,cousine,4,11.0,cuisine
+1877,seared tuna,4,8.0,chicken
+1878,grill chicken salad,4,,
+1879,mongolian,4,8.0,chicken
+1880,salmon dish,4,8.0,chicken
+1881,grilled pork,4,8.0,chicken
+1882,general tso chicken,4,8.0,chicken
+1883,dim sum option,4,,
+1884,arak,4,12.0,experience
+1885,mei fun,4,8.0,chicken
+1886,veal dish,4,8.0,chicken
+1887,quenelle de brochet,4,12.0,experience
+1888,creation,4,12.0,experience
+1889,mixologist,4,12.0,experience
+1890,kid menu,4,12.0,experience
+1891,all you,4,6.0,menu
+1892,pollo a la brasa,4,8.0,chicken
+1893,buzz,4,12.0,experience
+1894,steak tartar,4,8.0,chicken
+1895,brunch deal,4,12.0,experience
+1896,feeling,4,4.0,atmosphere
+1897,pulpo,4,8.0,chicken
+1898,wife,4,21.0,family
+1899,fountain,4,17.0,smell
+1900,eating,4,17.0,smell
+1901,atention,4,12.0,experience
+1902,char,4,8.0,chicken
+1903,grill salmon,4,8.0,chicken
+1904,parantha,4,8.0,chicken
+1905,chana masala,4,8.0,chicken
+1906,potato bread,4,8.0,chicken
+1907,sundae,4,12.0,experience
+1908,payment,4,14.0,tip
+1909,grilled,4,8.0,chicken
+1910,comedian,4,12.0,experience
+1911,calorie,4,8.0,chicken
+1912,pongal,4,8.0,chicken
+1913,chianti,4,12.0,experience
+1914,fry ice cream,4,,
+1915,serivce,4,12.0,experience
+1916,pastai,4,12.0,experience
+1917,collection,4,12.0,experience
+1918,grill meat,4,8.0,chicken
+1919,beef short rib,4,,
+1920,vegan dish,4,12.0,experience
+1921,seafood option,4,12.0,experience
+1922,fudge,4,8.0,chicken
+1923,caesar,4,8.0,chicken
+1924,chimis,4,8.0,chicken
+1925,decorated,4,4.0,atmosphere
+1926,gluten free,4,6.0,menu
+1927,vegan menu,4,12.0,experience
+1928,mackerel,4,8.0,chicken
+1929,char siu,4,12.0,experience
+1930,thenthuk,4,8.0,chicken
+1931,pad cha,4,8.0,chicken
+1932,crabcake,4,8.0,chicken
+1933,soft,4,8.0,chicken
+1934,harp,4,4.0,atmosphere
+1935,paneer butter masala,4,8.0,chicken
+1936,ramen soup,4,8.0,chicken
+1937,mexican food,4,20.0,thai
+1938,pozole,4,8.0,chicken
+1939,tempura cheesecake,4,8.0,chicken
+1940,fish selection,4,8.0,chicken
+1941,banquet room,4,12.0,experience
+1942,vault,4,4.0,atmosphere
+1943,fried chicken wing,4,,
+1944,pasta fagioli soup,4,,
+1945,scarpiello,4,8.0,chicken
+1946,margherita pizza,4,8.0,chicken
+1947,veal special,4,8.0,chicken
+1948,gobi manchurian,4,8.0,chicken
+1949,non,4,6.0,menu
+1950,srilankan food,4,12.0,experience
+1951,salmon cake,4,8.0,chicken
+1952,service time,4,12.0,experience
+1953,beet salad,4,8.0,chicken
+1954,s salad,4,8.0,chicken
+1955,kebabs,4,8.0,chicken
+1956,dim sum selection,4,,
+1957,sun,4,17.0,smell
+1958,lunch service,4,12.0,experience
+1959,dumplings,4,,
+1960,expirence,4,12.0,experience
+1961,sauerkraut,4,8.0,chicken
+1962,kunafa,4,12.0,experience
+1963,detail,4,,
+1964,checkout,4,12.0,experience
+1965,photographer,4,12.0,experience
+1966,shrimp tempura roll,4,,
+1967,vegetable roll,4,12.0,experience
+1968,mocktail,4,12.0,experience
+1969,egg drop soup,4,8.0,chicken
+1970,baba ganush,4,8.0,chicken
+1971,dining area,4,17.0,smell
+1972,fish bowl,4,12.0,experience
+1973,tortilla chip,4,8.0,chicken
+1974,steak tip,4,12.0,experience
+1975,chicken chunk,4,8.0,chicken
+1976,pastry basket,4,12.0,experience
+1977,papdi chat,4,8.0,chicken
+1978,lassis,4,8.0,chicken
+1979,paan,4,8.0,chicken
+1980,manchego,4,8.0,chicken
+1981,foid,4,12.0,experience
+1982,sandwhich,4,8.0,chicken
+1983,bolon,4,12.0,experience
+1984,cornbread,4,8.0,chicken
+1985,staff food,4,12.0,experience
+1986,fry chicken wing,4,,
+1987,bossam,4,8.0,chicken
+1988,stock,4,12.0,experience
+1989,soda bread,4,8.0,chicken
+1990,chicken pot pie,4,8.0,chicken
+1991,garlic bread stick,4,,
+1992,lightning,4,12.0,experience
+1993,work,4,2.0,service
+1994,kale,4,8.0,chicken
+1995,bbq chicken,4,8.0,chicken
+1996,service atmosphere,4,12.0,experience
+1997,chefs,4,12.0,experience
+1998,appetizer plate,4,12.0,experience
+1999,al pastor,4,8.0,chicken
+2000,chimichanga,4,8.0,chicken
+2001,antipasti,4,12.0,experience
+2002,mezza,4,8.0,chicken
+2003,soba,4,8.0,chicken
+2004,escarole,4,8.0,chicken
+2005,lobster mac,4,8.0,chicken
+2006,ginger beer,4,12.0,experience
+2007,seafood selection,4,12.0,experience
+2008,tandoor,4,20.0,thai
+2009,mirror,4,12.0,experience
+2010,chili ’ s,4,12.0,experience
+2011,picadera,4,12.0,experience
+2012,paneer roll,4,8.0,chicken
+2013,rum,4,8.0,chicken
+2014,cantonese,4,20.0,thai
+2015,hot & sour soup,4,8.0,chicken
+2016,dim - sum,4,12.0,experience
+2017,jiang noodle,4,12.0,experience
+2018,mataba,4,8.0,chicken
+2019,lava cake,4,8.0,chicken
+2020,pad tai,4,12.0,experience
+2021,cosmo,4,12.0,experience
+2022,fahsah,4,12.0,experience
+2023,chai tea,4,12.0,experience
+2024,gyro meat,4,8.0,chicken
+2025,lay out,4,12.0,experience
+2026,entres,4,8.0,chicken
+2027,pork buns,4,8.0,chicken
+2028,parfait,4,8.0,chicken
+2029,potstickers,4,8.0,chicken
+2030,boba,4,8.0,chicken
+2031,mi sandwich,4,,
+2032,lettuce wrap,4,8.0,chicken
+2033,crispy duck roll,4,,
+2034,technique,4,12.0,experience
+2035,buffet menu,4,20.0,thai
+2036,kabab platter,4,12.0,experience
+2037,small plate,4,8.0,chicken
+2038,choritos,4,12.0,experience
+2039,banchans,4,12.0,experience
+2040,corn beef,4,8.0,chicken
+2041,beef tartar,4,8.0,chicken
+2042,t,4,,
+2043,deli,4,12.0,experience
+2044,sampler platter,4,8.0,chicken
+2045,chicken special,4,8.0,chicken
+2046,banana split,4,8.0,chicken
+2047,chicken caesar salad,4,,
+2048,kulcha,4,8.0,chicken
+2049,croquet,4,8.0,chicken
+2050,calamari salad,4,8.0,chicken
+2051,art work,4,12.0,experience
+2052,pizzas,4,8.0,chicken
+2053,tarte tatin,4,12.0,experience
+2054,ramen dish,4,8.0,chicken
+2055,margaritas,4,12.0,experience
+2056,arroz con,4,8.0,chicken
+2057,croque monsieur,4,8.0,chicken
+2058,pomme frites,4,8.0,chicken
+2059,seekh kabob,4,8.0,chicken
+2060,bahn mi sandwich,4,,
+2061,thai basil,4,8.0,chicken
+2062,kbbq,4,8.0,chicken
+2063,tso ' s chicken,4,,
+2064,hen,4,8.0,chicken
+2065,bean curd,4,8.0,chicken
+2066,pork dish,4,8.0,chicken
+2067,sparerib,4,8.0,chicken
+2068,clerk,4,12.0,experience
+2069,kung pao,4,8.0,chicken
+2070,fin,4,8.0,chicken
+2071,sause,4,8.0,chicken
+2072,host staff,4,12.0,experience
+2073,prayer,4,12.0,experience
+2074,train,4,14.0,tip
+2075,general tso,4,8.0,chicken
+2076,background,4,4.0,atmosphere
+2077,booking,4,12.0,experience
+2078,dinning room,4,4.0,atmosphere
+2079,stair,4,17.0,smell
+2080,leek,4,8.0,chicken
+2081,lobster salad,4,8.0,chicken
+2082,filet of sole,4,8.0,chicken
+2083,delivery person,4,14.0,tip
+2084,sit arrangement,4,12.0,experience
+2085,availability,4,12.0,experience
+2086,surface,4,17.0,smell
+2087,daiquiri,4,5.0,drink
+2088,tone,4,17.0,smell
+2089,pakoda,4,8.0,chicken
+2090,chilly,4,8.0,chicken
+2091,pakoras,4,8.0,chicken
+2092,cioppino,4,8.0,chicken
+2093,truffle,4,8.0,chicken
+2094,cilantro,4,8.0,chicken
+2095,veal parm,4,8.0,chicken
+2096,bolognese sauce,4,8.0,chicken
+2097,taker,4,13.0,delivery
+2098,food preparation,4,12.0,experience
+2099,poke bowl,4,12.0,experience
+2100,enchiladas,4,8.0,chicken
+2101,tso chicken,4,,
+2102,japanese,4,20.0,thai
+2103,transaction,4,14.0,tip
+2104,iced,4,12.0,experience
+2105,pad kee mow,4,8.0,chicken
+2106,tast,4,12.0,experience
+2107,lebne,4,8.0,chicken
+2108,gyozas,4,25.0,gyozas
+2109,brulee,4,8.0,chicken
+2110,material,4,12.0,experience
+2111,tom yum soup,4,8.0,chicken
+2112,sour soup,4,12.0,experience
+2113,candle,4,17.0,smell
+2114,pizza dough,4,8.0,chicken
+2115,papad,4,8.0,chicken
+2116,buratta,4,8.0,chicken
+2117,panner,4,8.0,chicken
+2118,milk shake,4,8.0,chicken
+2119,jjampong,4,12.0,experience
+2120,head chef,4,12.0,experience
+2121,lamb rib,4,8.0,chicken
+2122,potatoe,4,8.0,chicken
+2123,taco al pastor,4,,
+2124,sushi / sashimi,4,12.0,experience
+2125,broccolini,4,8.0,chicken
+2126,paelha,4,8.0,chicken
+2127,karhai,4,8.0,chicken
+2128,dan dan noodle,4,8.0,chicken
+2129,oxtail dumpling,4,8.0,chicken
+2130,asian,4,11.0,cuisine
+2131,spring chicken,4,8.0,chicken
+2132,chop suey,4,12.0,experience
+2133,brie,4,8.0,chicken
+2134,sui mai,4,8.0,chicken
+2135,pide,4,8.0,chicken
+2136,combo plate,4,8.0,chicken
+2137,savory,4,8.0,chicken
+2138,pot pie,4,8.0,chicken
+2139,distance,4,17.0,smell
+2140,frozen drink,4,12.0,experience
+2141,iftar buffet,4,12.0,experience
+2142,cold cut,4,8.0,chicken
+2143,dahi puri,4,12.0,experience
+2144,arctic char,4,8.0,chicken
+2145,fixe,4,6.0,menu
+2146,board,4,12.0,experience
+2147,lasagna classico,4,12.0,experience
+2148,s pie,4,8.0,chicken
+2149,vegetarian platter,4,8.0,chicken
+2150,combo platter,4,8.0,chicken
+2151,fattoush,4,8.0,chicken
+2152,bhorta,4,8.0,chicken
+2153,kottu,4,8.0,chicken
+2154,mutton roll,4,12.0,experience
+2155,court,4,12.0,experience
+2156,moo shu pork,4,8.0,chicken
+2157,frosting,4,8.0,chicken
+2158,heating,4,17.0,smell
+2159,roof,4,17.0,smell
+2160,stall,4,17.0,smell
+2161,sink,4,17.0,smell
+2162,long island iced tea,4,,
+2163,sugar,4,8.0,chicken
+2164,video,4,12.0,experience
+2165,inventory,4,12.0,experience
+2166,of,4,,
+2167,curd,4,8.0,chicken
+2168,hainanese chicken,4,8.0,chicken
+2169,nasi lemak,4,8.0,chicken
+2170,street,4,16.0,restaurant
+2171,intestine,4,8.0,chicken
+2172,pricey,4,3.0,price
+2173,clothes,4,17.0,smell
+2174,mai tai,4,8.0,chicken
+2175,cacciatore,4,8.0,chicken
+2176,wait person,4,8.0,chicken
+2177,card,4,14.0,tip
+2178,towel,4,17.0,smell
+2179,pineapple,4,8.0,chicken
+2180,somosa,4,8.0,chicken
+2181,har gow,4,8.0,chicken
+2182,vinaigrette,4,8.0,chicken
+2183,cash register,4,14.0,tip
+2184,mixed veggie,4,8.0,chicken
+2185,transportation,4,17.0,smell
+2186,fried catfish,4,8.0,chicken
+2187,tenderloin,4,8.0,chicken
+2188,banquet,4,21.0,family
+2189,tonkatsu,4,8.0,chicken
+2190,lolipop,4,8.0,chicken
+2191,appitizers,4,8.0,chicken
+2192,congee,4,8.0,chicken
+2193,coq au vin,4,8.0,chicken
+2194,tonic,4,12.0,experience
+2195,caldo,4,12.0,experience
+2196,fried mozzarella,4,8.0,chicken
+2197,maki,4,8.0,chicken
+2198,sound system,4,12.0,experience
+2199,cushion,4,17.0,smell
+2200,walkway,4,17.0,smell
+2201,urinal,4,12.0,experience
+2202,delay,4,13.0,delivery
+2203,tablet,4,14.0,tip
+2204,cash,4,14.0,tip
+2205,hand dryer,4,17.0,smell
+2206,msg,4,8.0,chicken
+2207,labor,4,17.0,smell
+2208,road,4,16.0,restaurant
+2209,tipping,4,14.0,tip
+2210,delivery fee,4,14.0,tip
+2211,rent,4,12.0,experience
+2212,crab legs,4,8.0,chicken
+2213,pad thai noodle,4,,
+2214,dairy,4,8.0,chicken
+2215,fried shrimp,4,8.0,chicken
+2216,mai,4,8.0,chicken
+2217,long bao,4,,
+2218,biriani,4,8.0,chicken
+2219,cold appetizer,4,8.0,chicken
+2220,service lady,3,,
+2221,lunch special menu,3,,
+2222,chili oil,3,8.0,chicken
+2223,tao,3,12.0,experience
+2224,lunch set,3,12.0,experience
+2225,advice,3,14.0,tip
+2226,tempura fish cake,3,,
+2227,gina,3,12.0,experience
+2228,jerk wing,3,8.0,chicken
+2229,fried squid,3,8.0,chicken
+2230,hoagy,3,8.0,chicken
+2231,seat space,3,4.0,atmosphere
+2232,stir,3,8.0,chicken
+2233,mix platter,3,8.0,chicken
+2234,calf ’ s liver,3,8.0,chicken
+2235,turkish delight,3,12.0,experience
+2236,dinner option,3,12.0,experience
+2237,pot sticker,3,12.0,experience
+2238,park space,3,12.0,experience
+2239,variety of,3,6.0,menu
+2240,steam bun,3,8.0,chicken
+2241,soy,3,8.0,chicken
+2242,jam,3,12.0,experience
+2243,kha soup,3,,
+2244,pad ki mao,3,8.0,chicken
+2245,esthetic,3,12.0,experience
+2246,cocktail option,3,12.0,experience
+2247,taco salad,3,8.0,chicken
+2248,sauvignon blanc,3,12.0,experience
+2249,atmosphere service,3,12.0,experience
+2250,lamb liver,3,8.0,chicken
+2251,vegetable dish,3,8.0,chicken
+2252,fateh,3,8.0,chicken
+2253,variety of dish,3,,
+2254,fish tank,3,8.0,chicken
+2255,nazik,3,,
+2256,ali nazik,3,8.0,chicken
+2257,cacik,3,8.0,chicken
+2258,wood,3,8.0,chicken
+2259,fried dumpling,3,8.0,chicken
+2260,cone,3,8.0,chicken
+2261,day,3,,
+2262,fried chicken sandwich,3,,
+2263,crispy beef,3,8.0,chicken
+2264,aioli,3,8.0,chicken
+2265,busser,3,12.0,experience
+2266,rainbow roll,3,12.0,experience
+2267,tao - tini,3,12.0,experience
+2268,club,3,4.0,atmosphere
+2269,fortune cookie dessert,3,,
+2270,chicken dumpling,3,8.0,chicken
+2271,curry beef,3,8.0,chicken
+2272,grilled beef,3,12.0,experience
+2273,combination,3,8.0,chicken
+2274,skyline,3,4.0,atmosphere
+2275,served,3,8.0,chicken
+2276,chive,3,8.0,chicken
+2277,muhamarra,3,8.0,chicken
+2278,wine collection,3,12.0,experience
+2279,seating option,3,12.0,experience
+2280,seating space,3,12.0,experience
+2281,kebab sandwich,3,8.0,chicken
+2282,kofta kabab,3,8.0,chicken
+2283,fried cheese,3,8.0,chicken
+2284,fillet,3,8.0,chicken
+2285,macaron,3,8.0,chicken
+2286,morel,3,8.0,chicken
+2287,interaction,3,12.0,experience
+2288,start,3,18.0,serve
+2289,sushi menu,3,12.0,experience
+2290,hang,3,14.0,tip
+2291,everybody,3,12.0,experience
+2292,yuca frita,3,12.0,experience
+2293,tallarin verde,3,8.0,chicken
+2294,bread roll,3,8.0,chicken
+2295,plan,3,21.0,family
+2296,grilled pork chop,3,,
+2297,popcorn,3,8.0,chicken
+2298,chicken parm sub,3,,
+2299,rolatini,3,8.0,chicken
+2300,chicken adana,3,8.0,chicken
+2301,aunty,3,12.0,experience
+2302,sultani plater,3,8.0,chicken
+2303,grilled platter,3,12.0,experience
+2304,lahmacun,3,6.0,menu
+2305,rest,3,18.0,serve
+2306,humor,3,14.0,tip
+2307,churasco,3,8.0,chicken
+2308,patatas,3,,
+2309,steak salad,3,12.0,experience
+2310,napoleon,3,8.0,chicken
+2311,baked clam,3,8.0,chicken
+2312,character,3,12.0,experience
+2313,tiramisu cake,3,12.0,experience
+2314,atomsphere,3,12.0,experience
+2315,shawarma wrap,3,8.0,chicken
+2316,mixed plate,3,8.0,chicken
+2317,octopus starter,3,20.0,thai
+2318,bloody mary bar,3,,
+2319,food staff,3,12.0,experience
+2320,paella valenciana,3,8.0,chicken
+2321,daughter,3,21.0,family
+2322,bap,3,12.0,experience
+2323,korean,3,11.0,cuisine
+2324,jjigae,3,8.0,chicken
+2325,angel hair,3,8.0,chicken
+2326,shepard,3,8.0,chicken
+2327,irish pub,3,12.0,experience
+2328,baba,3,8.0,chicken
+2329,crispy chicken,3,8.0,chicken
+2330,italian margarita,3,12.0,experience
+2331,front desk staff,3,,
+2332,menu variety,3,20.0,thai
+2333,borshch,3,12.0,experience
+2334,borsht,3,8.0,chicken
+2335,community,3,20.0,thai
+2336,burrata salad,3,8.0,chicken
+2337,ball soup,3,12.0,experience
+2338,smorgasbord,3,8.0,chicken
+2339,breakfast / lunch,3,20.0,thai
+2340,food people,3,12.0,experience
+2341,lamb saag,3,8.0,chicken
+2342,tika masala,3,8.0,chicken
+2343,pepe,3,12.0,experience
+2344,fluke crudo,3,12.0,experience
+2345,decorate space,3,12.0,experience
+2346,cacio,3,8.0,chicken
+2347,outdoors,3,4.0,atmosphere
+2348,sea,3,8.0,chicken
+2349,cosmos,3,12.0,experience
+2350,atmosphere food,3,12.0,experience
+2351,green salad,3,8.0,chicken
+2352,spacing,3,12.0,experience
+2353,food prep,3,12.0,experience
+2354,great,3,24.0,good
+2355,tiki bar,3,12.0,experience
+2356,fish dinner,3,8.0,chicken
+2357,ziti al forno,3,12.0,experience
+2358,sambusa,3,8.0,chicken
+2359,kitfo,3,12.0,experience
+2360,ethiopian cuisine,3,12.0,experience
+2361,uttapam,3,8.0,chicken
+2362,coordinator,3,12.0,experience
+2363,vinod,3,12.0,experience
+2364,idlis,3,8.0,chicken
+2365,cigar,3,8.0,chicken
+2366,eatery,3,20.0,thai
+2367,mug,3,12.0,experience
+2368,stromboli,3,8.0,chicken
+2369,ford,3,12.0,experience
+2370,shortcake,3,8.0,chicken
+2371,lunch spot,3,12.0,experience
+2372,seafood choice,3,12.0,experience
+2373,chicken alfredo,3,8.0,chicken
+2374,tomahawk,3,8.0,chicken
+2375,anna,3,12.0,experience
+2376,mekanek,3,8.0,chicken
+2377,eggnog waffle,3,8.0,chicken
+2378,bihari kabab,3,8.0,chicken
+2379,cha,3,8.0,chicken
+2380,faluda,3,8.0,chicken
+2381,pommes frites,3,8.0,chicken
+2382,lunch place,3,12.0,experience
+2383,meatball app,3,8.0,chicken
+2384,veal milanese,3,8.0,chicken
+2385,pre,3,6.0,menu
+2386,kimchi stew,3,8.0,chicken
+2387,veggy,3,12.0,experience
+2388,momo ’ s,3,12.0,experience
+2389,sopa de re,3,8.0,chicken
+2390,beyti kebab,3,8.0,chicken
+2391,owner / chef,3,12.0,experience
+2392,popusas,3,8.0,chicken
+2393,food experience,3,12.0,experience
+2394,cuban coffee,3,12.0,experience
+2395,scallop potato,3,8.0,chicken
+2396,consome,3,12.0,experience
+2397,celebration,3,21.0,family
+2398,malabi,3,8.0,chicken
+2399,pepperoni roll,3,12.0,experience
+2400,sicilian,3,8.0,chicken
+2401,sorrentina,3,8.0,chicken
+2402,mixed fried rice,3,,
+2403,oxtail stew,3,8.0,chicken
+2404,kathi roll,3,8.0,chicken
+2405,bake n shark,3,12.0,experience
+2406,chicken patty,3,8.0,chicken
+2407,donkatsu,3,12.0,experience
+2408,papa,3,12.0,experience
+2409,cecina,3,12.0,experience
+2410,veal francese,3,8.0,chicken
+2411,ceviches,3,8.0,chicken
+2412,sing,3,21.0,family
+2413,pita chip,3,8.0,chicken
+2414,crablegs,3,8.0,chicken
+2415,waffle fry,3,8.0,chicken
+2416,bun bo hue,3,8.0,chicken
+2417,shahwarma,3,12.0,experience
+2418,drunken fried rice,3,,
+2419,cashier girl,3,8.0,chicken
+2420,kadai paneer,3,8.0,chicken
+2421,parihuela,3,20.0,thai
+2422,short rib pappardelle,3,,
+2423,produce variety,3,12.0,experience
+2424,pot roast,3,8.0,chicken
+2425,attentiveness,3,12.0,experience
+2426,athmosphere,3,12.0,experience
+2427,customer care,3,12.0,experience
+2428,lo mien,3,8.0,chicken
+2429,crab cake appetizer,3,,
+2430,confit,3,,
+2431,iskender kebab,3,8.0,chicken
+2432,description,3,12.0,experience
+2433,serve staff,3,12.0,experience
+2434,mandi,3,8.0,chicken
+2435,aba combo,3,12.0,experience
+2436,tzatziki,3,8.0,chicken
+2437,menemen,3,12.0,experience
+2438,dumplin,3,8.0,chicken
+2439,drink list,3,12.0,experience
+2440,fried snapper,3,8.0,chicken
+2441,owner / management,3,12.0,experience
+2442,people watch,3,12.0,experience
+2443,curry sauce,3,8.0,chicken
+2444,scale,3,12.0,experience
+2445,knafe,3,8.0,chicken
+2446,fill,3,,
+2447,spicy,3,25.0,gyozas
+2448,veal tongue,3,12.0,experience
+2449,duck leg,3,8.0,chicken
+2450,structure,3,17.0,smell
+2451,crow,3,12.0,experience
+2452,management staff,3,12.0,experience
+2453,service manager,3,12.0,experience
+2454,alcohol selection,3,12.0,experience
+2455,aperitif,3,8.0,chicken
+2456,subway,3,17.0,smell
+2457,waitress staff,3,12.0,experience
+2458,chicken piccata,3,8.0,chicken
+2459,in,3,,
+2460,sweet shop,3,17.0,smell
+2461,kabab roll,3,8.0,chicken
+2462,plater,3,8.0,chicken
+2463,papri chat,3,8.0,chicken
+2464,papdi chaat,3,12.0,experience
+2465,offer,3,6.0,menu
+2466,gamba,3,8.0,chicken
+2467,scallopini,3,8.0,chicken
+2468,fritta,3,8.0,chicken
+2469,sharma,3,20.0,thai
+2470,steak sandwich,3,8.0,chicken
+2471,paneer curry,3,8.0,chicken
+2472,barman,3,12.0,experience
+2473,guinness,3,12.0,experience
+2474,cocktail drink,3,12.0,experience
+2475,lasagna fritta,3,12.0,experience
+2476,lasagna fritter,3,8.0,chicken
+2477,budino,3,8.0,chicken
+2478,parmigian,3,8.0,chicken
+2479,tower,3,12.0,experience
+2480,pasta bowl,3,8.0,chicken
+2481,wine choice,3,12.0,experience
+2482,greek combo,3,12.0,experience
+2483,braised beef short rib,3,,
+2484,gumbo,3,12.0,experience
+2485,branzini,3,8.0,chicken
+2486,top sirloin,3,12.0,experience
+2487,pico,3,8.0,chicken
+2488,fettuccini,3,8.0,chicken
+2489,beef dish,3,8.0,chicken
+2490,penne ala,3,8.0,chicken
+2491,rigatoni bolognese,3,8.0,chicken
+2492,contadina,3,8.0,chicken
+2493,appams,3,20.0,thai
+2494,dosai,3,8.0,chicken
+2495,medhu vada,3,8.0,chicken
+2496,london broil,3,8.0,chicken
+2497,tuna melt,3,8.0,chicken
+2498,omlette,3,8.0,chicken
+2499,door man,3,4.0,atmosphere
+2500,tangsuyuk,3,8.0,chicken
+2501,jjamppong,3,8.0,chicken
+2502,jajangmyun,3,12.0,experience
+2503,accoutrement,3,12.0,experience
+2504,kadhi,3,8.0,chicken
+2505,pasta special,3,8.0,chicken
+2506,entree portion,3,8.0,chicken
+2507,roast beef,3,8.0,chicken
+2508,oreganata,3,8.0,chicken
+2509,turn around,3,17.0,smell
+2510,mofongos,3,20.0,thai
+2511,dancer,3,15.0,special
+2512,melba,3,21.0,family
+2513,filet mignons,3,8.0,chicken
+2514,eggplant roll,3,8.0,chicken
+2515,crowd management,3,12.0,experience
+2516,bhuna,3,8.0,chicken
+2517,health,3,14.0,tip
+2518,appetizer combo,3,8.0,chicken
+2519,milanese,3,,
+2520,chicken broccoli,3,8.0,chicken
+2521,cheesecake dessert,3,8.0,chicken
+2522,access,3,17.0,smell
+2523,food arrive,3,18.0,serve
+2524,ballroom,3,12.0,experience
+2525,arroz con gandules,3,,
+2526,tapioca,3,8.0,chicken
+2527,croque,3,12.0,experience
+2528,waakye,3,12.0,experience
+2529,samgyetang,3,8.0,chicken
+2530,jalepeno,3,18.0,serve
+2531,khasta kachori,3,8.0,chicken
+2532,frankie,3,8.0,chicken
+2533,penne pasta,3,8.0,chicken
+2534,gajar ka halwa,3,12.0,experience
+2535,baguette delite,3,12.0,experience
+2536,filter coffee,3,8.0,chicken
+2537,rava dosa,3,8.0,chicken
+2538,mariachi,3,12.0,experience
+2539,seared foie gras,3,,
+2540,lamb shish,3,8.0,chicken
+2541,tom kha gai,3,,
+2542,rama,3,8.0,chicken
+2543,happy hour cocktail,3,,
+2544,pad ke mao,3,8.0,chicken
+2545,yemeni food,3,20.0,thai
+2546,food item,3,12.0,experience
+2547,lamb soup,3,8.0,chicken
+2548,pork shoulder,3,8.0,chicken
+2549,dumpling soup,3,8.0,chicken
+2550,mains,3,8.0,chicken
+2551,strip steak,3,8.0,chicken
+2552,parpadelle,3,8.0,chicken
+2553,vendor,3,12.0,experience
+2554,chicken and waffle,3,8.0,chicken
+2555,ambiente,3,12.0,experience
+2556,fillet of sole,3,8.0,chicken
+2557,lager,3,8.0,chicken
+2558,fatoush,3,8.0,chicken
+2559,hummas,3,12.0,experience
+2560,tarte,3,8.0,chicken
+2561,blanc,3,12.0,experience
+2562,lox,3,8.0,chicken
+2563,pollo a,3,,
+2564,brasa,3,8.0,chicken
+2565,sound level,3,4.0,atmosphere
+2566,projector,3,4.0,atmosphere
+2567,portobello,3,8.0,chicken
+2568,chicken gyro,3,8.0,chicken
+2569,babaganush,3,8.0,chicken
+2570,kebab entree,3,8.0,chicken
+2571,dal tadka,3,8.0,chicken
+2572,lunch price,3,12.0,experience
+2573,soon tofu,3,8.0,chicken
+2574,sport,3,4.0,atmosphere
+2575,omelettes,3,,
+2576,crabcakes,3,8.0,chicken
+2577,fry zucchini,3,8.0,chicken
+2578,sourdough,3,8.0,chicken
+2579,paneer makhni,3,8.0,chicken
+2580,ghee roast,3,8.0,chicken
+2581,rasam,3,8.0,chicken
+2582,fashion,3,17.0,smell
+2583,saltimbocca,3,,
+2584,tartares,3,8.0,chicken
+2585,makis,3,6.0,menu
+2586,pool table,3,12.0,experience
+2587,pico de gallo,3,8.0,chicken
+2588,prix,3,6.0,menu
+2589,jajangmyeon,3,8.0,chicken
+2590,kadhai,3,12.0,experience
+2591,zuppa di pesce,3,12.0,experience
+2592,pasta bolognese,3,8.0,chicken
+2593,cream spinach,3,8.0,chicken
+2594,haloumi,3,8.0,chicken
+2595,filo,3,8.0,chicken
+2596,general tso ' s,3,,
+2597,kadayif,3,12.0,experience
+2598,table setting,3,12.0,experience
+2599,samosas,3,8.0,chicken
+2600,halim,3,8.0,chicken
+2601,bone marrow,3,8.0,chicken
+2602,deviled egg,3,,
+2603,s ' more,3,8.0,chicken
+2604,mofonguitos,3,12.0,experience
+2605,palomilla,3,8.0,chicken
+2606,yucca fry,3,8.0,chicken
+2607,microwave,3,19.0,eat
+2608,bhutan,3,8.0,chicken
+2609,shapta,3,8.0,chicken
+2610,ramen bar,3,12.0,experience
+2611,sushi quality,3,12.0,experience
+2612,katsu,3,8.0,chicken
+2613,lobby,3,17.0,smell
+2614,cheese board,3,8.0,chicken
+2615,pianist,3,12.0,experience
+2616,comedy night,3,4.0,atmosphere
+2617,rotti,3,8.0,chicken
+2618,sukiyaki,3,8.0,chicken
+2619,juanes,3,12.0,experience
+2620,chingri,3,12.0,experience
+2621,makhni,3,8.0,chicken
+2622,lengua,3,8.0,chicken
+2623,sopes,3,8.0,chicken
+2624,chaats,3,8.0,chicken
+2625,kali mirch,3,8.0,chicken
+2626,sambal,3,8.0,chicken
+2627,peking roast duck,3,,
+2628,front desk lady,3,,
+2629,condition,3,17.0,smell
+2630,siumai,3,12.0,experience
+2631,honey,3,8.0,chicken
+2632,serve time,3,17.0,smell
+2633,beignet,3,12.0,experience
+2634,priced,3,,
+2635,front,3,,
+2636,poached egg,3,8.0,chicken
+2637,kibeh,3,8.0,chicken
+2638,foie,3,8.0,chicken
+2639,amuse bouche,3,12.0,experience
+2640,happy hour menu,3,,
+2641,front of,3,14.0,tip
+2642,delivery people,3,14.0,tip
+2643,meat quality,3,8.0,chicken
+2644,pepsi,3,12.0,experience
+2645,chaufa rice,3,8.0,chicken
+2646,chaulafan,3,8.0,chicken
+2647,counter girl,3,12.0,experience
+2648,jigae,3,8.0,chicken
+2649,italian dressing,3,8.0,chicken
+2650,draft,3,12.0,experience
+2651,portioning,3,7.0,portion
+2652,bucatini cacio e pepe,3,,
+2653,pours,3,12.0,experience
+2654,advertising,3,12.0,experience
+2655,mondongo,3,12.0,experience
+2656,cat,3,12.0,experience
+2657,turnaround,3,12.0,experience
+2658,carbonara sauce,3,8.0,chicken
+2659,ribs,3,8.0,chicken
+2660,group,3,10.0,reservation
+2661,sidewalk,3,17.0,smell
+2662,italian bread,3,18.0,serve
+2663,dipping,3,8.0,chicken
+2664,poulet roti,3,8.0,chicken
+2665,juane,3,8.0,chicken
+2666,salchipapa,3,8.0,chicken
+2667,handi,3,8.0,chicken
+2668,chow mein noodle,3,,
+2669,wall paper,3,12.0,experience
+2670,partition,3,17.0,smell
+2671,babaganosh,3,8.0,chicken
+2672,hummos,3,8.0,chicken
+2673,pant,3,12.0,experience
+2674,whip cream,3,8.0,chicken
+2675,shrimp appetizer,3,8.0,chicken
+2676,avocado roll,3,8.0,chicken
+2677,lo - mein,3,8.0,chicken
+2678,pizza sauce,3,12.0,experience
+2679,mozarella stick,3,8.0,chicken
+2680,shellfish,3,8.0,chicken
+2681,menus,3,12.0,experience
+2682,svc,3,12.0,experience
+2683,height,3,20.0,thai
+2684,masala chai,3,12.0,experience
+2685,homefries,3,8.0,chicken
+2686,smelt,3,8.0,chicken
+2687,kalamari,3,8.0,chicken
+2688,pollo guisado,3,8.0,chicken
+2689,sushi platter,3,8.0,chicken
+2690,television,3,12.0,experience
+2691,lech cake,3,8.0,chicken
+2692,jjajang,3,8.0,chicken
+2693,malai,3,8.0,chicken
+2694,parm hero,3,,
+2695,paccheri,3,8.0,chicken
+2696,cab,3,12.0,experience
+2697,mouhamara,3,8.0,chicken
+2698,fruit punch,3,8.0,chicken
+2699,tehari,3,8.0,chicken
+2700,chicharon,3,8.0,chicken
+2701,oreganato,3,8.0,chicken
+2702,kimchee,3,8.0,chicken
+2703,lech,3,12.0,experience
+2704,seaweed salad,3,8.0,chicken
+2705,sopa,3,8.0,chicken
+2706,color scheme,3,11.0,cuisine
+2707,libretto,3,12.0,experience
+2708,appitizer,3,5.0,drink
+2709,effort,3,14.0,tip
+2710,antipasto salad,3,8.0,chicken
+2711,channa,3,8.0,chicken
+2712,fried seafood,3,8.0,chicken
+2713,swarma,3,8.0,chicken
+2714,malai boti,3,8.0,chicken
+2715,sajji pulao,3,12.0,experience
+2716,croaker,3,8.0,chicken
+2717,pig,3,8.0,chicken
+2718,kua gling,3,12.0,experience
+2719,see ew,3,,
+2720,sunglass,3,12.0,experience
+2721,muhamara,3,8.0,chicken
+2722,duckling,3,8.0,chicken
+2723,direction,3,17.0,smell
+2724,skirt steak,3,8.0,chicken
+2725,cheese platter,3,8.0,chicken
+2726,fry wonton,3,8.0,chicken
+2727,paillard,3,8.0,chicken
+2728,grilled chicken breast,3,,
+2729,coffe,3,12.0,experience
+2730,yellowtail,3,8.0,chicken
+2731,venison,3,8.0,chicken
+2732,rotini,3,8.0,chicken
+2733,boregi,3,8.0,chicken
+2734,class,3,22.0,feel
+2735,soul roll,3,8.0,chicken
+2736,chimichurri,3,8.0,chicken
+2737,pancetta,3,8.0,chicken
+2738,expense,3,12.0,experience
+2739,katsu curry,3,12.0,experience
+2740,churro,3,8.0,chicken
+2741,buffet line,3,12.0,experience
+2742,mazemen,3,8.0,chicken
+2743,sashimi plate,3,8.0,chicken
+2744,latte,3,8.0,chicken
+2745,ranch,3,8.0,chicken
+2746,dhalpuri,3,8.0,chicken
+2747,veal parmesan,3,12.0,experience
+2748,shinwari karahi,3,8.0,chicken
+2749,comment,3,14.0,tip
+2750,table space,3,12.0,experience
+2751,morada,3,,
+2752,coladas,3,,
+2753,maitre,3,14.0,tip
+2754,de gallina,3,12.0,experience
+2755,change,3,14.0,tip
+2756,uber,3,13.0,delivery
+2757,linen,3,17.0,smell
+2758,associate,3,12.0,experience
+2759,mic,3,17.0,smell
+2760,chole,3,8.0,chicken
+2761,call,3,,
+2762,jjajangmyun,3,12.0,experience
+2763,sanitary,3,17.0,smell
+2764,diarrhea,3,12.0,experience
+2765,seaweed,3,8.0,chicken
+2766,plumbing,3,17.0,smell
+2767,service tax,3,12.0,experience
+2768,stench,3,8.0,chicken
+2769,number,3,14.0,tip
+2770,lunch crowd,3,12.0,experience
+2771,wok,3,8.0,chicken
+2772,corkage fee,3,14.0,tip
+2773,kefta,3,8.0,chicken
+2774,brunch buffet,3,12.0,experience
+2775,map,3,14.0,tip
+2776,gazpacho,3,8.0,chicken
+2777,jean,3,12.0,experience
+2778,pressure,3,14.0,tip
+2779,tap,3,5.0,drink
+2780,hear,3,14.0,tip
+2781,meter,3,17.0,smell
+2782,danish,3,17.0,smell
+2783,gras,3,,
+2784,tartar sauce,3,8.0,chicken
+2785,supervision,3,12.0,experience
+2786,plaintains,3,18.0,serve
+2787,charcuterie board,3,12.0,experience
+2788,chicken paprikash,3,8.0,chicken
+2789,calmari,3,8.0,chicken
+2790,reserve,3,10.0,reservation
+2791,spagetti,3,8.0,chicken
+2792,dabeli,3,12.0,experience
+2793,salmon steak,3,8.0,chicken
+2794,banner,3,12.0,experience
+2795,fry ravioli,3,8.0,chicken
+2796,regina,3,12.0,experience

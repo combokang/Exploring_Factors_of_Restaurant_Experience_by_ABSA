@@ -1,0 +1,1116 @@
+ID,Term,TOTAL,Cluster,Cluster_1Word
+0,food,2328,1.0,food
+1,service,929,2.0,service
+2,price,355,3.0,price
+3,staff,300,2.0,service
+4,chicken,208,8.0,chicken
+5,dumpling,193,8.0,chicken
+6,portion,148,7.0,portion
+7,dim sum,140,3.0,price
+8,soup dumpling,127,8.0,chicken
+9,atmosphere,124,4.0,atmosphere
+10,menu,123,6.0,menu
+11,soup,119,9.0,salad
+12,drink,116,5.0,drink
+13,waiter,115,2.0,service
+14,quality,87,3.0,price
+15,fried rice,84,8.0,chicken
+16,flavor,79,8.0,chicken
+17,noodle,75,8.0,chicken
+18,server,72,2.0,service
+19,dish,70,6.0,menu
+20,wait,70,10.0,reservation
+21,rice,69,8.0,chicken
+22,fry rice,69,8.0,chicken
+23,delivery,68,13.0,delivery
+24,chinese,66,11.0,cuisine
+25,cuisine,61,11.0,cuisine
+26,taste,60,8.0,chicken
+27,shrimp,58,8.0,chicken
+28,decor,55,4.0,atmosphere
+29,lunch,54,10.0,reservation
+30,sauce,53,8.0,chicken
+31,people,52,2.0,service
+32,broccoli,52,8.0,chicken
+33,pork chop,47,8.0,chicken
+34,pork,47,8.0,chicken
+35,lo mein,43,8.0,chicken
+36,beef,43,8.0,chicken
+37,tip,43,14.0,tip
+38,table,42,10.0,reservation
+39,owner,41,2.0,service
+40,crab,40,8.0,chicken
+41,fish,40,8.0,chicken
+42,meal,36,1.0,food
+43,tea,35,5.0,drink
+44,waitress,35,2.0,service
+45,ambiance,34,4.0,atmosphere
+46,scallion pancake,34,8.0,chicken
+47,duck,33,8.0,chicken
+48,environment,31,4.0,atmosphere
+49,dinner,28,10.0,reservation
+50,reservation,28,10.0,reservation
+51,experience,26,12.0,experience
+52,sushi,25,3.0,price
+53,wait staff,25,2.0,service
+54,cocktail,24,5.0,drink
+55,selection,24,6.0,menu
+56,chow fun,24,8.0,chicken
+57,lady,23,2.0,service
+58,vibe,22,4.0,atmosphere
+59,space,22,4.0,atmosphere
+60,steak,22,8.0,chicken
+61,tofu,22,8.0,chicken
+62,nutcracker,21,20.0,thai
+63,squid,21,8.0,chicken
+64,spring roll,21,8.0,chicken
+65,vegetable,21,8.0,chicken
+66,lomo,20,8.0,chicken
+67,rib,20,8.0,chicken
+68,plate,20,7.0,portion
+69,meat,20,8.0,chicken
+70,egg roll,20,8.0,chicken
+71,hot and sour soup,20,8.0,chicken
+72,wait time,20,13.0,delivery
+73,location,19,4.0,atmosphere
+74,chicken wing,19,8.0,chicken
+75,spare rib,19,8.0,chicken
+76,restaurant,18,16.0,restaurant
+77,pork bun,18,8.0,chicken
+78,wonton soup,18,8.0,chicken
+79,hour,18,13.0,delivery
+80,sangria,17,5.0,drink
+81,value,17,3.0,price
+82,seat,17,10.0,reservation
+83,xiao long bao,16,8.0,chicken
+84,takeout,16,13.0,delivery
+85,dessert,16,5.0,drink
+86,entree,16,5.0,drink
+87,roast chicken,15,8.0,chicken
+88,ingredient,15,11.0,cuisine
+89,pancake,15,8.0,chicken
+90,mapo tofu,15,8.0,chicken
+91,deliver,15,13.0,delivery
+92,crowd,15,10.0,reservation
+93,variety,14,6.0,menu
+94,ambience,14,4.0,atmosphere
+95,snail,14,8.0,chicken
+96,special,14,15.0,special
+97,flounder,14,8.0,chicken
+98,dimsum,14,3.0,price
+99,appetizer,14,5.0,drink
+100,rice cake,13,8.0,chicken
+101,lomo saltado,13,8.0,chicken
+102,worker,13,2.0,service
+103,seating,13,4.0,atmosphere
+104,lunch special,13,6.0,menu
+105,peking duck,13,8.0,chicken
+106,manager,13,2.0,service
+107,bathroom,13,14.0,tip
+108,line,13,13.0,delivery
+109,choice,12,6.0,menu
+110,prawn,12,8.0,chicken
+111,wing,12,8.0,chicken
+112,serving,11,7.0,portion
+113,bisque,11,8.0,chicken
+114,seafood,11,8.0,chicken
+115,wonton,11,8.0,chicken
+116,food quality,11,3.0,price
+117,egg foo young,11,8.0,chicken
+118,pricing,11,3.0,price
+119,bill,11,,
+120,management,11,14.0,tip
+121,shumai,10,8.0,chicken
+122,portion size,10,7.0,portion
+123,chicken leg,10,8.0,chicken
+124,time,10,13.0,delivery
+125,wine,9,5.0,drink
+126,chef,9,2.0,service
+127,skin,9,8.0,chicken
+128,sum,9,8.0,chicken
+129,lobster,9,8.0,chicken
+130,cabbage,9,8.0,chicken
+131,bun,9,8.0,chicken
+132,pad thai,9,8.0,chicken
+133,guy,9,2.0,service
+134,chow mein,9,8.0,chicken
+135,veggie,9,8.0,chicken
+136,chair,9,17.0,smell
+137,rotisserie chicken,8,8.0,chicken
+138,fry,8,8.0,chicken
+139,quantity,8,7.0,portion
+140,presentation,8,11.0,cuisine
+141,place,8,4.0,atmosphere
+142,bento,8,8.0,chicken
+143,attitude,8,14.0,tip
+144,smell,8,17.0,smell
+145,size,8,7.0,portion
+146,family,7,21.0,family
+147,setting,7,4.0,atmosphere
+148,crab dish,7,8.0,chicken
+149,porkchop,7,8.0,chicken
+150,pork soup dumpling,7,,
+151,delivery service,7,13.0,delivery
+152,bartender,7,2.0,service
+153,scallop,7,8.0,chicken
+154,texture,7,8.0,chicken
+155,fried chicken,7,8.0,chicken
+156,interior,7,4.0,atmosphere
+157,salad,7,9.0,salad
+158,soda,7,5.0,drink
+159,bok choy,7,8.0,chicken
+160,delivery guy,7,14.0,tip
+161,take out,6,13.0,delivery
+162,kitchen,6,17.0,smell
+163,short rib,6,8.0,chicken
+164,tripe,6,8.0,chicken
+165,duck roll,6,8.0,chicken
+166,soup dumplings,6,8.0,chicken
+167,beer,6,5.0,drink
+168,lamb,6,8.0,chicken
+169,establishment,6,16.0,restaurant
+170,bar,6,4.0,atmosphere
+171,roast duck,6,8.0,chicken
+172,kung pao chicken,6,8.0,chicken
+173,desert,6,5.0,drink
+174,employee,6,2.0,service
+175,bento box,6,8.0,chicken
+176,cook,6,8.0,chicken
+177,platter,6,8.0,chicken
+178,turnip cake,6,8.0,chicken
+179,name,6,,
+180,review,6,14.0,tip
+181,escalator,6,17.0,smell
+182,woman,6,2.0,service
+183,napkin,6,17.0,smell
+184,onion,6,8.0,chicken
+185,restroom,6,17.0,smell
+186,check,6,14.0,tip
+187,pork belly,5,8.0,chicken
+188,bean,5,8.0,chicken
+189,serve,5,18.0,serve
+190,decoration,5,4.0,atmosphere
+191,stew,5,8.0,chicken
+192,chai,5,8.0,chicken
+193,fried,5,8.0,chicken
+194,cooking,5,11.0,cuisine
+195,pork rib,5,8.0,chicken
+196,eats,5,13.0,delivery
+197,eggplant,5,8.0,chicken
+198,flor de mayo,5,12.0,experience
+199,gluten,5,6.0,menu
+200,bread,5,9.0,salad
+201,fish fillet,5,8.0,chicken
+202,room,5,4.0,atmosphere
+203,tso,5,,
+204,filling,5,8.0,chicken
+205,shrimp roll,5,8.0,chicken
+206,shrimp ball,5,8.0,chicken
+207,fry noodle,5,8.0,chicken
+208,gravy,5,8.0,chicken
+209,mofongo,5,8.0,chicken
+210,water,5,17.0,smell
+211,main,5,5.0,drink
+212,ropa vieja,5,8.0,chicken
+213,sour chicken,5,8.0,chicken
+214,loud,5,4.0,atmosphere
+215,eggroll,5,8.0,chicken
+216,sichuan,4,20.0,thai
+217,spice,4,8.0,chicken
+218,vegetarian,4,6.0,menu
+219,fried flounder,4,8.0,chicken
+220,cost,4,3.0,price
+221,preparation,4,11.0,cuisine
+222,shrimp dumpling,4,8.0,chicken
+223,xiaolongbao,4,20.0,thai
+224,plantain,4,8.0,chicken
+225,hospitality,4,12.0,experience
+226,lunch box,4,8.0,chicken
+227,take,4,,
+228,music,4,4.0,atmosphere
+229,singapore noodle,4,8.0,chicken
+230,waitstaff,4,2.0,service
+231,park,4,4.0,atmosphere
+232,fortune cooky,4,12.0,experience
+233,dining room,4,4.0,atmosphere
+234,cantonese,4,20.0,thai
+235,jiang noodle,4,12.0,experience
+236,broth,4,8.0,chicken
+237,crispy duck roll,4,,
+238,fusion,4,20.0,thai
+239,crab rangoon,4,8.0,chicken
+240,chicken cutlet,4,8.0,chicken
+241,fry chicken,4,8.0,chicken
+242,decorate,4,4.0,atmosphere
+243,sour soup,4,12.0,experience
+244,tomato,4,8.0,chicken
+245,sevice,4,12.0,experience
+246,pina colada,4,8.0,chicken
+247,dan dan noodle,4,8.0,chicken
+248,fare,4,11.0,cuisine
+249,spring chicken,4,8.0,chicken
+250,minute,4,13.0,delivery
+251,host,4,2.0,service
+252,ceviche,4,8.0,chicken
+253,order,4,13.0,delivery
+254,delivery man,4,2.0,service
+255,starter,4,8.0,chicken
+256,tax,4,14.0,tip
+257,cart,4,13.0,delivery
+258,hostess,4,2.0,service
+259,delivery driver,4,2.0,service
+260,driver,4,14.0,tip
+261,gratuity,4,14.0,tip
+262,egg,4,8.0,chicken
+263,ceiling,3,4.0,atmosphere
+264,stir fry,3,8.0,chicken
+265,service staff,3,2.0,service
+266,area,3,16.0,restaurant
+267,lamb chop,3,8.0,chicken
+268,martini,3,5.0,drink
+269,eat,3,19.0,eat
+270,tablecloth,3,17.0,smell
+271,feel,3,22.0,feel
+272,fried squid,3,8.0,chicken
+273,roast pork,3,8.0,chicken
+274,clam,3,8.0,chicken
+275,pastry,3,8.0,chicken
+276,cocktail menu,3,6.0,menu
+277,general tso ' s chicken,3,8.0,chicken
+278,facility,3,4.0,atmosphere
+279,egg drop soup,3,8.0,chicken
+280,dim sum option,3,,
+281,mei fun,3,8.0,chicken
+282,pollo,3,8.0,chicken
+283,roasted chicken,3,8.0,chicken
+284,food service,3,12.0,experience
+285,chicken dish,3,8.0,chicken
+286,buffet,3,6.0,menu
+287,conversation,3,4.0,atmosphere
+288,chandelier,3,4.0,atmosphere
+289,cashier,3,14.0,tip
+290,veg,3,8.0,chicken
+291,person,3,14.0,tip
+292,mussel,3,8.0,chicken
+293,lo mien,3,8.0,chicken
+294,option,3,6.0,menu
+295,lunch menu,3,6.0,menu
+296,pasta,3,9.0,salad
+297,combo,3,8.0,chicken
+298,siu mai,3,8.0,chicken
+299,sesame chicken,3,8.0,chicken
+300,lighting,3,4.0,atmosphere
+301,rice roll,3,8.0,chicken
+302,parking,3,4.0,atmosphere
+303,liquor,3,17.0,smell
+304,amount,3,,
+305,chinese broccoli,3,8.0,chicken
+306,sour pork,3,8.0,chicken
+307,deco,3,4.0,atmosphere
+308,sweet,3,8.0,chicken
+309,lomo salteado,3,8.0,chicken
+310,tso ' s chicken,3,,
+311,manner,3,2.0,service
+312,serve size,3,7.0,portion
+313,hygiene,3,14.0,tip
+314,peking roast duck,3,,
+315,fortune cookie,3,8.0,chicken
+316,moo shu pork,3,8.0,chicken
+317,girl,3,2.0,service
+318,waiting,3,13.0,delivery
+319,oil,3,8.0,chicken
+320,eggrolls,3,8.0,chicken
+321,pepper,3,8.0,chicken
+322,breading,3,8.0,chicken
+323,chop suey,3,12.0,experience
+324,croaker,3,8.0,chicken
+325,curry chicken,3,8.0,chicken
+326,tostones,3,8.0,chicken
+327,light,3,4.0,atmosphere
+328,table service,3,12.0,experience
+329,entrance,3,17.0,smell
+330,front desk,3,14.0,tip
+331,receptionist,3,2.0,service
+332,paella,3,8.0,chicken
+333,lemonade,3,5.0,drink
+334,utensil,3,17.0,smell
+335,desk,3,17.0,smell
+336,escargot,3,8.0,chicken
+337,spice level,2,,
+338,cumin lamb,2,,
+339,chili oil,2,8.0,chicken
+340,personal,2,12.0,experience
+341,szechuan dish,2,,
+342,everyone,2,,
+343,green bean,2,8.0,chicken
+344,s chicken,2,,
+345,spinach,2,8.0,chicken
+346,food option,2,6.0,menu
+347,byob,2,15.0,special
+348,hot & sour soup,2,8.0,chicken
+349,chinatown,2,,
+350,lychee,2,8.0,chicken
+351,chinese food,2,20.0,thai
+352,peking pork chop,2,,
+353,side dish,2,8.0,chicken
+354,history,2,20.0,thai
+355,dessert tray,2,,
+356,clerk,2,12.0,experience
+357,exterior,2,4.0,atmosphere
+358,drink menu,2,5.0,drink
+359,beijing duck,2,,
+360,lamb stew,2,8.0,chicken
+361,stir,2,8.0,chicken
+362,food taste,2,3.0,price
+363,friend,2,21.0,family
+364,bean sprout,2,,
+365,served,2,8.0,chicken
+366,crispy beef,2,8.0,chicken
+367,chive,2,8.0,chicken
+368,crispy duck,2,8.0,chicken
+369,pea shoot,2,,
+370,steam bun,2,8.0,chicken
+371,bottom,2,,
+372,brunch,2,10.0,reservation
+373,chuletas,2,,
+374,hotsauce,2,,
+375,butter,2,8.0,chicken
+376,arroz,2,8.0,chicken
+377,yuca fry,2,8.0,chicken
+378,american,2,11.0,cuisine
+379,weekend,2,10.0,reservation
+380,pollo a la brasa,2,8.0,chicken
+381,pepper steak,2,8.0,chicken
+382,building,2,17.0,smell
+383,eating,2,17.0,smell
+384,fried dumpling,2,8.0,chicken
+385,e - fu noodle,2,,
+386,proportion,2,7.0,portion
+387,banquet hall,2,12.0,experience
+388,pork chop over rice,2,,
+389,fried chicken wing,2,,
+390,chicken broccoli,2,8.0,chicken
+391,shrimp combo,2,8.0,chicken
+392,service food,2,12.0,experience
+393,protein,2,8.0,chicken
+394,condiment,2,8.0,chicken
+395,tso chicken,2,,
+396,look,2,,
+397,bean curd,2,8.0,chicken
+398,fried fish,2,8.0,chicken
+399,duck dish,2,12.0,experience
+400,pork dish,2,8.0,chicken
+401,customer care,2,12.0,experience
+402,sparerib,2,8.0,chicken
+403,sea bass,2,8.0,chicken
+404,cake,2,5.0,drink
+405,kung pao,2,8.0,chicken
+406,culture,2,11.0,cuisine
+407,bbq rib,2,8.0,chicken
+408,dough,2,8.0,chicken
+409,cold noodle,2,8.0,chicken
+410,dim,2,4.0,atmosphere
+411,flavour,2,8.0,chicken
+412,udon noodle,2,8.0,chicken
+413,venue,2,4.0,atmosphere
+414,noise,2,4.0,atmosphere
+415,wait area,2,12.0,experience
+416,alcohol selection,2,12.0,experience
+417,noise level,2,4.0,atmosphere
+418,coffee,2,5.0,drink
+419,mai tai,2,8.0,chicken
+420,vegetarian option,2,6.0,menu
+421,sushi roll,2,8.0,chicken
+422,miso soup,2,8.0,chicken
+423,wrapper,2,8.0,chicken
+424,ball,2,8.0,chicken
+425,xiao long baos,2,,
+426,delivery time,2,13.0,delivery
+427,mai fun,2,,
+428,weather,2,4.0,atmosphere
+429,noodle roll,2,8.0,chicken
+430,sausage,2,8.0,chicken
+431,bos,2,2.0,service
+432,leftover,2,19.0,eat
+433,walk,2,17.0,smell
+434,fried wonton,2,8.0,chicken
+435,green,2,8.0,chicken
+436,china town,2,,
+437,dim - sum,2,12.0,experience
+438,food flavor,2,12.0,experience
+439,kang kong,2,,
+440,interior design,2,4.0,atmosphere
+441,cold dish,2,8.0,chicken
+442,plat,2,8.0,chicken
+443,pudding,2,8.0,chicken
+444,tso ’ s,2,,
+445,dim sum menu,2,,
+446,curry,2,8.0,chicken
+447,casserole,2,8.0,chicken
+448,jelly fish,2,,
+449,dress,2,9.0,salad
+450,chifa,2,,
+451,colada,2,8.0,chicken
+452,french fry,2,8.0,chicken
+453,fry wonton,2,8.0,chicken
+454,teriyaki,2,8.0,chicken
+455,dimsums,2,8.0,chicken
+456,pan fried noodle,2,,
+457,snack,2,6.0,menu
+458,general tso ' s,2,,
+459,clean,2,17.0,smell
+460,har gow,2,8.0,chicken
+461,salmon,2,8.0,chicken
+462,cup,2,18.0,serve
+463,comment,2,14.0,tip
+464,cockroach,2,17.0,smell
+465,queue,2,13.0,delivery
+466,delivery men,2,,
+467,etiquette,2,12.0,experience
+468,seat arrangement,2,17.0,smell
+469,linen,2,17.0,smell
+470,roach,2,17.0,smell
+471,stomach,2,19.0,eat
+472,spoon,2,18.0,serve
+473,receipt,2,14.0,tip
+474,hand dryer,2,17.0,smell
+475,carpet,2,17.0,smell
+476,fried noodle,2,8.0,chicken
+477,communication,2,14.0,tip
+478,msg,2,8.0,chicken
+479,cleanliness,2,14.0,tip
+480,design,2,4.0,atmosphere
+481,table cloth,2,12.0,experience
+482,potato,2,8.0,chicken
+483,layout,2,4.0,atmosphere
+484,furniture,2,4.0,atmosphere
+485,half chicken,2,8.0,chicken
+486,refill,2,18.0,serve
+487,side,2,,
+488,lunchtime,2,13.0,delivery
+489,delivery fee,2,14.0,tip
+490,shirt,2,17.0,smell
+491,address,2,14.0,tip
+492,meatball,2,8.0,chicken
+493,main course,2,5.0,drink
+494,mixed vegetable,2,8.0,chicken
+495,execution,1,12.0,experience
+496,hot pot chicken,1,,
+497,szechuan food,1,,
+498,service lady,1,,
+499,dan noodles,1,,
+500,sichuan course,1,,
+501,sichuanese,1,,
+502,lunch special menu,1,,
+503,king pao chicken,1,,
+504,waitstaffs,1,,
+505,inside,1,17.0,smell
+506,offering,1,6.0,menu
+507,happy hour,1,15.0,special
+508,heat,1,18.0,serve
+509,hot - pot,1,,
+510,fei pian,1,,
+511,tao,1,12.0,experience
+512,wait service,1,12.0,experience
+513,sichuan food,1,,
+514,diet,1,8.0,chicken
+515,menu offering,1,,
+516,connie,1,,
+517,pork blood curd,1,,
+518,happy hour drink,1,,
+519,sichuan peppercorn,1,,
+520,mochi,1,,
+521,cashew chicken,1,,
+522,lunch set,1,12.0,experience
+523,pickle fish soup,1,,
+524,table plan,1,,
+525,lazy - susan table,1,,
+526,chinese / thai,1,,
+527,base,1,,
+528,luggage,1,,
+529,szechuan taste,1,,
+530,clientele,1,4.0,atmosphere
+531,chief,1,12.0,experience
+532,niu nan bao,1,,
+533,attention,1,14.0,tip
+534,szechuan,1,,
+535,advice,1,14.0,tip
+536,itself,1,,
+537,braise beef soup,1,,
+538,pot,1,8.0,chicken
+539,fair,1,,
+540,sichuan dish,1,,
+541,hen,1,8.0,chicken
+542,pickled cabbage,1,,
+543,stir fry watercress,1,,
+544,set,1,4.0,atmosphere
+545,brocolli,1,,
+546,kong xing tsai,1,,
+547,mo,1,,
+548,pickled vegetable,1,,
+549,tso ’ s chicken,1,,
+550,peking,1,,
+551,chicken breast,1,8.0,chicken
+552,chow mein noodle,1,,
+553,service time,1,12.0,experience
+554,flounder kow,1,,
+555,special list,1,,
+556,wanton,1,,
+557,tour guide,1,,
+558,bak choi,1,,
+559,waiter service,1,17.0,smell
+560,meun,1,,
+561,crispy pork,1,8.0,chicken
+562,dining,1,4.0,atmosphere
+563,tsa,1,,
+564,- fried noodle,1,,
+565,food employee,1,,
+566,watercress,1,,
+567,chip,1,8.0,chicken
+568,din,1,21.0,family
+569,duck appetizer,1,,
+570,tsing - tao,1,,
+571,fortune,1,,
+572,porridge,1,8.0,chicken
+573,ramen,1,8.0,chicken
+574,cheongfun,1,,
+575,cheung fen,1,,
+576,demeanor,1,12.0,experience
+577,oceanfront,1,,
+578,architecture,1,20.0,thai
+579,rabbit,1,8.0,chicken
+580,juice,1,8.0,chicken
+581,bai jiu,1,,
+582,mushroom,1,8.0,chicken
+583,seat space,1,4.0,atmosphere
+584,baijiu cocktail,1,,
+585,pig foot,1,,
+586,fry string bean,1,,
+587,food portion,1,7.0,portion
+588,baijiu,1,,
+589,seitan,1,8.0,chicken
+590,drive,1,13.0,delivery
+591,staff member,1,2.0,service
+592,hou hai,1,,
+593,cuisine option,1,,
+594,chai ' s,1,,
+595,beverage,1,5.0,drink
+596,food presentation,1,12.0,experience
+597,artwork,1,4.0,atmosphere
+598,beef rib meat,1,,
+599,chai ’,1,,
+600,lifestyle,1,,
+601,style,1,11.0,cuisine
+602,vide,1,,
+603,talk,1,,
+604,beef roll,1,,
+605,kung pao shrimp,1,,
+606,japanese,1,20.0,thai
+607,crisp,1,8.0,chicken
+608,dim sim,1,20.0,thai
+609,peking duck roll,1,,
+610,sichuan dumpling,1,,
+611,lunch deal,1,12.0,experience
+612,gu - li pork,1,,
+613,tapestry,1,,
+614,oolong tea,1,,
+615,display,1,12.0,experience
+616,menu option,1,6.0,menu
+617,crab meat,1,8.0,chicken
+618,drink selection,1,12.0,experience
+619,pickle vegetable,1,,
+620,short rib special,1,,
+621,container,1,18.0,serve
+622,pickle turnip,1,,
+623,ma pu tofu,1,,
+624,curry puff,1,8.0,chicken
+625,scale,1,12.0,experience
+626,mao pao tofu,1,,
+627,spot,1,16.0,restaurant
+628,hot n sour soup,1,,
+629,shumai hong kong,1,,
+630,moo shu,1,,
+631,lounge area,1,,
+632,chicken dumpling,1,8.0,chicken
+633,lobster cantonese,1,,
+634,pickup,1,13.0,delivery
+635,sole,1,8.0,chicken
+636,table clothes,1,,
+637,braised beef,1,,
+638,ventillation,1,,
+639,seabass,1,8.0,chicken
+640,ma po tofu casserole,1,,
+641,sorbet,1,8.0,chicken
+642,pickled radish,1,,
+643,roll ups,1,,
+644,sandwich,1,8.0,chicken
+645,yuca frita,1,12.0,experience
+646,papas arequipena,1,,
+647,tallarin verde,1,8.0,chicken
+648,tallarines verdes,1,,
+649,mint,1,8.0,chicken
+650,peruvian / chinese food,1,,
+651,meet and,1,,
+652,comida,1,12.0,experience
+653,pollo a,1,,
+654,hot plate,1,,
+655,mix,1,8.0,chicken
+656,dip,1,8.0,chicken
+657,fish stew,1,,
+658,bread roll,1,8.0,chicken
+659,chicken chunk,1,8.0,chicken
+660,crisp chicken,1,,
+661,beef combo,1,,
+662,filet of sole,1,8.0,chicken
+663,plan,1,21.0,family
+664,lomo soltado,1,,
+665,yuca,1,8.0,chicken
+666,fried yucca,1,,
+667,shredded beef,1,,
+668,brasa,1,8.0,chicken
+669,conjuana,1,,
+670,serf,1,20.0,thai
+671,arrive,1,13.0,delivery
+672,goo gai pan,1,,
+673,spanish combo,1,,
+674,assortment,1,8.0,chicken
+675,chino latino,1,,
+676,cafe con leche,1,8.0,chicken
+677,peruvian - chinese,1,,
+678,busers,1,,
+679,yuca ball,1,,
+680,dive,1,,
+681,limo salteado,1,,
+682,grilled pork chop,1,,
+683,de pollo,1,,
+684,habichuelas,1,,
+685,doggie,1,,
+686,coctails,1,12.0,experience
+687,concept,1,4.0,atmosphere
+688,cerviche,1,8.0,chicken
+689,donut,1,8.0,chicken
+690,dining experience,1,22.0,feel
+691,asado,1,,
+692,pollo la brasa,1,,
+693,seco de re,1,,
+694,cola,1,,
+695,rotisserie chicken rice,1,,
+696,wontins,1,,
+697,egg / potato,1,,
+698,tasting,1,20.0,thai
+699,polla a,1,,
+700,hawaiian,1,,
+701,pu pu platter,1,,
+702,visual,1,,
+703,sushi bar,1,17.0,smell
+704,general tsos tofu,1,,
+705,potato pancake,1,8.0,chicken
+706,teriyaki chicken,1,,
+707,entryway,1,,
+708,roll,1,8.0,chicken
+709,wing recipe,1,,
+710,coating,1,,
+711,shrimp dish,1,8.0,chicken
+712,fountain,1,17.0,smell
+713,food dish,1,,
+714,mixed drink,1,5.0,drink
+715,general chow,1,,
+716,store,1,17.0,smell
+717,boneless rib tip,1,,
+718,price atmosphere,1,,
+719,chinese restaurant,1,,
+720,garden,1,4.0,atmosphere
+721,setup,1,4.0,atmosphere
+722,professional,1,,
+723,proprietor,1,12.0,experience
+724,crispy chicken,1,8.0,chicken
+725,parking options5,1,,
+726,sit setup,1,,
+727,fed,1,,
+728,extend family,1,,
+729,gluten free option,1,,
+730,goid,1,,
+731,taro bun,1,,
+732,noodles,1,8.0,chicken
+733,mien,1,,
+734,scent,1,12.0,experience
+735,green tea,1,,
+736,shen jiang bao,1,,
+737,chineese,1,,
+738,mother,1,,
+739,string bean,1,,
+740,ceiling design,1,,
+741,soup pork dumpling,1,,
+742,gao,1,,
+743,bao,1,8.0,chicken
+744,fanfare,1,,
+745,crab / pork dumpling,1,,
+746,fried dish,1,,
+747,dumplings,1,,
+748,water spinach,1,,
+749,over rice,1,,
+750,table arrangement,1,4.0,atmosphere
+751,product,1,11.0,cuisine
+752,wrap,1,8.0,chicken
+753,cold sesame noodle,1,,
+754,soup dumping,1,,
+755,pot sticker,1,12.0,experience
+756,schezuan soup dumpling,1,,
+757,chili,1,8.0,chicken
+758,shanghai,1,,
+759,brocolis,1,,
+760,chinesse food,1,,
+761,police,1,,
+762,picture,1,,
+763,egg - fu,1,,
+764,shrimp linguine d service,1,,
+765,bbq,1,8.0,chicken
+766,cat,1,12.0,experience
+767,team,1,12.0,experience
+768,fry beef,1,,
+769,roast pork bun,1,,
+770,cauliflower,1,8.0,chicken
+771,sao,1,,
+772,chicken foot,1,8.0,chicken
+773,cha shiu bao,1,,
+774,taro cake,1,,
+775,staffs,1,,
+776,pork bao,1,,
+777,shrimp wrap,1,,
+778,menu selection,1,6.0,menu
+779,sitting,1,12.0,experience
+780,wafer roll,1,,
+781,circulation,1,,
+782,tea house,1,,
+783,safety,1,17.0,smell
+784,alcohol,1,5.0,drink
+785,servoce,1,,
+786,cell service,1,,
+787,fry dough,1,,
+788,bike,1,,
+789,har gaw,1,,
+790,shrimp bun,1,,
+791,duck dumpling,1,,
+792,deal,1,7.0,portion
+793,entertainment,1,4.0,atmosphere
+794,dim sum hall,1,,
+795,whiskey,1,12.0,experience
+796,sum menu,1,,
+797,din room,1,4.0,atmosphere
+798,hot pot dish,1,,
+799,moo shoo chicken,1,,
+800,chicken noodle soup,1,,
+801,fun,1,15.0,special
+802,hair noodle,1,,
+803,vegan,1,6.0,menu
+804,seating area,1,4.0,atmosphere
+805,turnover,1,12.0,experience
+806,preparation style,1,,
+807,boil beef,1,,
+808,delivers,1,,
+809,pao chicken,1,,
+810,bento box meal,1,,
+811,eel,1,8.0,chicken
+812,fried rice cake,1,,
+813,fish filet over rice,1,,
+814,pork chop dish,1,,
+815,bentos,1,,
+816,take out food,1,,
+817,noodle soup,1,8.0,chicken
+818,filet,1,8.0,chicken
+819,pork chop rice,1,,
+820,jajang noodle,1,,
+821,stewed pig foot,1,,
+822,tapioca,1,8.0,chicken
+823,sago,1,,
+824,chinese yam,1,,
+825,bento box dinner option,1,,
+826,chicken drumstick,1,,
+827,stew beef,1,,
+828,restaurt,1,,
+829,chicken over rice,1,,
+830,satay,1,8.0,chicken
+831,vegetarian selection,1,12.0,experience
+832,chine broccoli,1,,
+833,chicken and scallop dish,1,,
+834,thai,1,20.0,thai
+835,pad thai chicken,1,,
+836,fried rice chicken,1,,
+837,soup / salad,1,8.0,chicken
+838,meemah,1,,
+839,keow tiao,1,,
+840,dumpling noodle soup,1,,
+841,vegan option,1,6.0,menu
+842,specialty,1,,
+843,chicken beansprout,1,,
+844,roast pork lo mein,1,,
+845,s,1,,
+846,take - out,1,,
+847,fried crab stick,1,,
+848,kid,1,21.0,family
+849,top,1,,
+850,menu item,1,6.0,menu
+851,courtesy,1,14.0,tip
+852,thrift,1,,
+853,riddle,1,,
+854,pick up,1,13.0,delivery
+855,mei,1,,
+856,trivia question,1,,
+857,zucchini,1,8.0,chicken
+858,katsu chicken,1,,
+859,restarant,1,,
+860,spare rib combo,1,,
+861,spaghetti,1,8.0,chicken
+862,ice tea,1,8.0,chicken
+863,tso ' s tofu,1,,
+864,everybody,1,12.0,experience
+865,delivery speed,1,,
+866,general tso chicken,1,8.0,chicken
+867,carteret,1,,
+868,pizza,1,9.0,salad
+869,sesame chciken,1,,
+870,beefsticks,1,,
+871,garbage,1,19.0,eat
+872,taker,1,13.0,delivery
+873,chicken stick,1,,
+874,bbq chicken,1,8.0,chicken
+875,table cover,1,,
+876,appearance,1,12.0,experience
+877,beef noodle soup,1,,
+878,ownership,1,14.0,tip
+879,photography,1,,
+880,pau chicken,1,,
+881,language,1,14.0,tip
+882,flooring,1,17.0,smell
+883,mapu tofu,1,,
+884,check out,1,,
+885,fried duck,1,,
+886,saute crab,1,,
+887,charge,1,14.0,tip
+888,uniform,1,,
+889,step,1,,
+890,athmosphere,1,12.0,experience
+891,accent,1,12.0,experience
+892,waitors,1,12.0,experience
+893,opening hour,1,,
+894,stir - fry crab,1,,
+895,beef rib,1,8.0,chicken
+896,main dish,1,8.0,chicken
+897,plating,1,12.0,experience
+898,sizzle plate lamb,1,,
+899,zhajiangmian,1,,
+900,baodu,1,,
+901,box,1,,
+902,management organization,1,,
+903,staffed,1,13.0,delivery
+904,oven,1,8.0,chicken
+905,opening,1,,
+906,shred pork,1,,
+907,front desk lady,1,,
+908,meet,1,21.0,family
+909,bouillabaisse,1,,
+910,mixed veggie,1,8.0,chicken
+911,lo main,1,,
+912,vegetable roll,1,12.0,experience
+913,concierge,1,,
+914,a fortune,1,,
+915,the,1,,
+916,attendance,1,12.0,experience
+917,accompaniment,1,8.0,chicken
+918,wifi,1,12.0,experience
+919,dandan noodle,1,,
+920,barbecue rib,1,,
+921,change facility,1,,
+922,flan,1,8.0,chicken
+923,partition,1,17.0,smell
+924,paint,1,17.0,smell
+925,mufongo,1,,
+926,aisle,1,17.0,smell
+927,plantains,1,8.0,chicken
+928,ice water,1,,
+929,policy,1,14.0,tip
+930,twi,1,,
+931,waiting time,1,13.0,delivery
+932,maduros,1,8.0,chicken
+933,daquri,1,,
+934,booth,1,17.0,smell
+935,facade,1,,
+936,margarita,1,5.0,drink
+937,fum,1,,
+938,thug,1,,
+939,spanish,1,20.0,thai
+940,de gallina,1,12.0,experience
+941,omelette,1,8.0,chicken
+942,duck human,1,,
+943,color,1,17.0,smell
+944,gastric,1,,
+945,lot,1,7.0,portion
+946,sashimi,1,8.0,chicken
+947,tuna,1,8.0,chicken
+948,edamame,1,8.0,chicken
+949,ice cream,1,5.0,drink
+950,hot,1,,
+951,patthai,1,,
+952,tone,1,17.0,smell
+953,air conditioning,1,17.0,smell
+954,entre,1,8.0,chicken
+955,pork lomein,1,,
+956,website,1,14.0,tip
+957,pad kee mao,1,8.0,chicken
+958,pork soup dumplings,1,,
+959,long bao,1,,
+960,recipe,1,8.0,chicken
+961,welcome,1,22.0,feel
+962,floor,1,17.0,smell
+963,prep,1,17.0,smell
+964,general tsos chicken,1,,
+965,dumplin,1,8.0,chicken
+966,wait line,1,,
+967,crowded,1,10.0,reservation
+968,transaction,1,14.0,tip
+969,soap,1,17.0,smell
+970,nutritional,1,,
+971,activity,1,,
+972,man,1,2.0,service
+973,sit area,1,4.0,atmosphere
+974,ac,1,17.0,smell
+975,siumai,1,12.0,experience
+976,shrimp wonton,1,,
+977,dessert cart,1,,
+978,indoor,1,,
+979,waiter clothes,1,,
+980,fruit,1,8.0,chicken
+981,pop,1,,
+982,fan,1,7.0,portion
+983,sound,1,17.0,smell
+984,elevator,1,17.0,smell
+985,air condition,1,17.0,smell
+986,din hall,1,,
+987,congee,1,8.0,chicken
+988,youtiao,1,,
+989,mai,1,8.0,chicken
+990,choi sum,1,,
+991,har gou,1,,
+992,fong,1,,
+993,postmates,1,,
+994,overpriced,1,,
+995,noisy,1,4.0,atmosphere
+996,english,1,14.0,tip
+997,wok,1,8.0,chicken
+998,fry chicken wing,1,,
+999,meal time,1,,
+1000,saice,1,,
+1001,food preparation,1,12.0,experience
+1002,rat,1,20.0,thai
+1003,silverware,1,17.0,smell
+1004,server attire,1,,
+1005,administraton,1,,
+1006,mouse,1,17.0,smell
+1007,crab stick,1,,
+1008,odor,1,17.0,smell
+1009,cutlery,1,17.0,smell
+1010,fork,1,18.0,serve
+1011,foods,1,,
+1012,discount,1,14.0,tip
+1013,flavorless food,1,,
+1014,general tso,1,8.0,chicken
+1015,skin color,1,,
+1016,training,1,14.0,tip
+1017,soy sauce,1,8.0,chicken
+1018,pedicure,1,,
+1019,reception,1,21.0,family
+1020,tao ’ s,1,,
+1021,place setting,1,,
+1022,tsos,1,,
+1023,breakfastallday,1,,
+1024,moshu,1,,
+1025,street,1,16.0,restaurant
+1026,calamari,1,8.0,chicken
+1027,chowfun,1,,
+1028,suey,1,,
+1029,lomein,1,8.0,chicken
+1030,dimsum fare,1,,
+1031,tab,1,14.0,tip
+1032,salt n peppa squid,1,,
+1033,suso,1,,
+1034,pat pong curry,1,,
+1035,stir - fry,1,,
+1036,side menu,1,,
+1037,yakisoba,1,,
+1038,pu erh tea,1,,
+1039,intestine,1,8.0,chicken
+1040,maw,1,,
+1041,beef tendon,1,,
+1042,dessert sampler,1,,
+1043,cusines,1,,
+1044,tartare,1,8.0,chicken
+1045,cucumber,1,8.0,chicken
+1046,jiang,1,,
+1047,open,1,13.0,delivery
+1048,spiciness,1,8.0,chicken
+1049,dan,1,,
+1050,soong,1,,
+1051,table cloth set,1,,
+1052,fillet of sole,1,8.0,chicken
+1053,authenticity,1,,
+1054,peking roll,1,,
+1055,wine menu,1,12.0,experience
+1056,chicharron de pollo,1,8.0,chicken
+1057,lime,1,,
+1058,pollo de chicharron,1,,
+1059,lo - mein,1,8.0,chicken
+1060,food selection,1,4.0,atmosphere
+1061,timing,1,12.0,experience
+1062,onion steak,1,,
+1063,arroz verde,1,,
+1064,plaintains,1,18.0,serve
+1065,bench,1,17.0,smell
+1066,general tao,1,,
+1067,dog,1,14.0,tip
+1068,peanut,1,,
+1069,edamamaas,1,,
+1070,carryout,1,,
+1071,tsos chicken,1,,
+1072,lo - me n,1,,
+1073,sichaun,1,,
+1074,drop soup,1,,
+1075,kung pow chicken,1,,
+1076,jellyfish,1,,
+1077,wall,1,4.0,atmosphere
+1078,turn over,1,,
+1079,fry rice cake,1,,
+1080,shanghai cake,1,,
+1081,dip sauce,1,8.0,chicken
+1082,milk shake,1,8.0,chicken
+1083,glutinous rice cake,1,,
+1084,t,1,,
+1085,beef and broccoli,1,,
+1086,sweet & sour soup,1,,
+1087,ginger,1,,
+1088,bus,1,17.0,smell
+1089,duck sauce,1,,
+1090,steamed bun,1,,
+1091,tart,1,8.0,chicken
+1092,pork ball,1,,
+1093,banquet,1,21.0,family
+1094,har gau,1,,
+1095,wait list,1,13.0,delivery
+1096,and sour soup,1,,
+1097,inspection,1,,
+1098,jello,1,,
+1099,shrimp mai fun,1,,
+1100,ticket,1,,
+1101,straw,1,18.0,serve
+1102,broc,1,,
+1103,cutlet,1,8.0,chicken
+1104,menu price,1,14.0,tip
+1105,and sour,1,,
+1106,rail benton,1,,
+1107,taiwanese,1,,
+1108,helper,1,,
+1109,fish cutlet,1,,
+1110,sizzling platter,1,,
+1111,okra,1,8.0,chicken
+1112,garlic,1,8.0,chicken
+1113,chicken combo,1,,
+1114,resturant,1,20.0,thai

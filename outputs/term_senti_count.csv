@@ -1,0 +1,2798 @@
+ID,Term,POS,NEG,NEU,TOTAL
+0,food,32641,4279,2344,39264
+1,service,15018,4129,656,19803
+2,staff,6023,877,125,7025
+3,price,3369,1297,409,5075
+4,atmosphere,3532,147,84,3763
+5,drink,2191,412,350,2953
+6,server,1734,737,90,2561
+7,waiter,1241,1124,98,2463
+8,menu,1376,552,466,2394
+9,portion,1719,467,90,2276
+10,waitress,1038,804,61,1903
+11,chicken,899,510,266,1675
+12,ambiance,1363,84,64,1511
+13,salad,841,341,291,1473
+14,pizza,1148,144,157,1449
+15,soup,881,244,253,1378
+16,reservation,155,398,655,1208
+17,music,844,228,102,1174
+18,appetizer,661,203,299,1163
+19,quality,620,385,85,1090
+20,decor,872,103,75,1050
+21,owner,833,169,27,1029
+22,flavor,697,288,40,1025
+23,lunch,509,72,417,998
+24,sauce,518,343,91,952
+25,dessert,665,121,125,911
+26,ambience,810,45,41,896
+27,pasta,513,242,129,884
+28,steak,533,234,109,876
+29,vibe,817,33,15,865
+30,bread,570,194,98,862
+31,sushi,633,86,92,811
+32,wait,135,578,96,809
+33,people,714,75,10,799
+34,dinner,535,59,194,788
+35,taste,542,171,45,758
+36,manager,335,378,19,732
+37,table,212,350,165,727
+38,rice,348,287,83,718
+39,cuisine,615,26,40,681
+40,burger,522,79,73,674
+41,view,619,18,22,659
+42,dish,541,72,46,659
+43,experience,589,46,12,647
+44,cocktail,528,56,62,646
+45,brunch,378,39,222,639
+46,meal,557,43,30,630
+47,wine,431,69,119,619
+48,dim sum,442,57,113,612
+49,selection,530,53,28,611
+50,environment,530,31,9,570
+51,entree,272,129,155,556
+52,shrimp,319,150,76,545
+53,meat,290,183,58,531
+54,location,420,56,39,515
+55,wait staff,398,102,13,513
+56,fish,313,116,83,512
+57,fry,281,150,76,507
+58,dumpling,366,64,68,498
+59,bartender,352,120,20,492
+60,calamari,256,137,94,487
+61,curry,305,72,80,457
+62,space,352,72,30,454
+63,chef,317,102,27,446
+64,tea,312,70,55,437
+65,seafood,349,44,39,432
+66,hostess,151,259,18,428
+67,sangria,326,56,42,424
+68,delivery,189,174,51,414
+69,noodle,250,82,71,403
+70,breakfast,277,18,107,402
+71,wing,258,65,78,401
+72,bar,313,33,53,399
+73,coffee,253,71,55,379
+74,presentation,311,51,16,378
+75,fry rice,250,64,60,374
+76,salmon,235,89,50,374
+77,seating,248,71,46,365
+78,host,214,129,19,362
+79,tip,45,237,78,360
+80,parking,169,141,47,357
+81,wait time,85,219,51,355
+82,hummus,267,25,56,348
+83,variety,306,26,15,347
+84,pho,280,19,48,347
+85,lamb,251,50,36,337
+86,taco,256,42,28,326
+87,fried rice,175,76,64,315
+88,pad thai,202,59,52,313
+89,sandwich,200,56,39,295
+90,lady,127,157,9,293
+91,management,89,184,18,291
+92,plate,143,104,41,288
+93,employee,183,97,2,282
+94,seat,152,80,47,279
+95,time,60,196,23,279
+96,breadstick,126,104,42,272
+97,bathroom,110,145,14,269
+98,food quality,136,103,26,265
+99,crowd,92,129,41,262
+100,cake,166,48,47,261
+101,pancake,189,36,34,259
+102,cheese,129,81,49,259
+103,desert,170,46,39,255
+104,kebab,184,42,21,247
+105,special,173,21,43,237
+106,place,204,25,7,236
+107,hospitality,209,17,2,228
+108,restaurant,212,7,7,226
+109,soup dumpling,186,19,18,223
+110,spring roll,134,34,55,223
+111,ramen,168,18,35,221
+112,portion size,163,49,8,220
+113,bill,28,146,46,220
+114,octopus,155,33,31,219
+115,side,108,56,55,219
+116,interior,180,24,14,218
+117,ingredient,168,38,11,217
+118,worker,129,82,2,213
+119,beer,144,28,40,212
+120,attention,192,16,1,209
+121,naan,123,51,34,208
+122,paella,125,45,34,204
+123,line,36,154,11,201
+124,beef,110,55,35,200
+125,shawarma,131,37,28,196
+126,park,89,73,34,196
+127,value,171,14,8,193
+128,duck,130,38,25,193
+129,vegetable,103,61,26,190
+130,lamb chop,149,23,16,188
+131,falafel,118,32,32,182
+132,lobster,89,63,28,180
+133,hour,14,149,17,180
+134,buffet,118,30,28,176
+135,bread stick,88,56,29,173
+136,ceviche,133,16,21,170
+137,pork,103,36,30,169
+138,pricing,97,42,27,166
+139,dj,119,23,23,165
+140,setting,158,5,1,164
+141,main,65,43,55,163
+142,ravioli,119,25,16,160
+143,rib,107,28,25,160
+144,girl,70,87,3,160
+145,decorate,151,2,4,157
+146,quantity,80,62,14,156
+147,pork chop,115,14,26,155
+148,margarita,113,30,12,155
+149,lasagna,81,47,24,152
+150,biryani,78,45,29,152
+151,option,124,18,8,150
+152,potato,80,53,17,150
+153,lunch special,119,15,14,148
+154,scallop,88,38,22,148
+155,guy,84,60,4,148
+156,oyster,94,30,23,147
+157,short rib,103,27,16,146
+158,decoration,115,13,16,144
+159,oxtail,91,36,14,141
+160,gratuity,0,120,20,140
+161,smell,36,97,6,139
+162,happy hour,94,3,41,138
+163,waffle,84,32,20,136
+164,minute,5,114,13,132
+165,dimsum,81,15,34,130
+166,martini,111,10,8,129
+167,side dish,91,14,24,129
+168,sashimi,85,17,27,129
+169,room,99,15,13,127
+170,platter,91,17,19,127
+171,mac,70,31,26,127
+172,choice,105,19,2,126
+173,meatball,89,18,19,126
+174,starter,65,17,41,123
+175,bean,70,40,11,121
+176,momos,82,14,24,120
+177,drunken noodle,80,11,28,119
+178,egg,72,34,13,119
+179,main course,59,27,33,119
+180,wine list,99,12,6,117
+181,broccoli,71,35,11,117
+182,review,60,39,18,117
+183,waitstaff,77,35,3,115
+184,chip,56,35,23,114
+185,broth,92,15,6,113
+186,light,56,43,14,113
+187,check,12,77,24,113
+188,crust,80,26,5,111
+189,bun,75,18,18,111
+190,pie,80,16,14,110
+191,spaghetti,63,32,15,110
+192,roll,78,17,14,109
+193,tofu,69,21,19,109
+194,takeout,66,13,29,108
+195,ice tea,83,18,6,107
+196,baklava,86,11,8,105
+197,texture,71,33,1,105
+198,serving,77,21,6,104
+199,empanadas,79,15,9,103
+200,area,85,9,8,102
+201,fare,73,8,21,102
+202,chinese,87,4,10,101
+203,mussel,68,17,16,101
+204,filet mignon,62,21,16,99
+205,deliver,54,33,12,99
+206,alfredo,43,40,16,99
+207,roti,58,16,24,98
+208,ice cream,64,17,16,97
+209,chicken parm,61,26,10,97
+210,veggie,50,31,16,97
+211,lighting,67,23,6,96
+212,design,84,6,5,95
+213,restroom,40,39,15,94
+214,wine selection,83,2,8,93
+215,apps,55,16,22,93
+216,chair,17,58,18,93
+217,sausage,60,18,14,92
+218,hookah,64,15,12,91
+219,fry chicken,56,18,17,91
+220,venue,80,6,4,90
+221,serve,66,21,2,89
+222,nacho,64,19,5,88
+223,cheesecake,63,13,11,87
+224,lemonade,61,16,10,87
+225,guacamole,55,16,16,87
+226,cashier,16,67,4,87
+227,noisy,14,71,2,87
+228,gnocchi,67,8,11,86
+229,spice,62,15,9,86
+230,tiramisu,57,19,10,86
+231,mixed grill,61,10,13,84
+232,kabob,60,10,14,84
+233,dip,53,13,18,84
+234,floor,7,68,9,84
+235,pudding,70,8,5,83
+236,risotto,54,18,11,83
+237,gravy,30,41,12,83
+238,gyro,55,19,8,82
+239,entertainment,63,5,13,81
+240,fried chicken,60,11,10,81
+241,chicken wing,49,15,17,81
+242,clam,45,27,9,81
+243,french fry,27,31,23,81
+244,italian,71,1,8,80
+245,momo,61,10,9,80
+246,napkin,8,62,10,80
+247,tapa,62,3,14,79
+248,branzino,59,9,10,78
+249,cooking,60,15,2,77
+250,pita,55,13,8,76
+251,crab,42,16,18,76
+252,french toast,44,24,7,75
+253,crab cake,40,20,15,75
+254,lo mein,47,12,15,74
+255,parm,37,26,11,74
+256,pastry,49,12,12,73
+257,loud,10,63,0,73
+258,vegetarian,55,10,7,72
+259,juice,59,8,4,71
+260,woman,29,40,2,71
+261,everyone,69,1,0,70
+262,pupusas,52,12,6,70
+263,shrimp scampi,35,22,13,70
+264,water,28,32,10,70
+265,bbq,51,7,11,69
+266,cook,38,25,5,68
+267,cost,35,28,5,68
+268,patio,56,6,4,66
+269,fruit,49,5,12,66
+270,eat,56,2,7,65
+271,conversation,51,10,4,65
+272,garlic bread,42,8,15,65
+273,quesadilla,37,14,14,65
+274,thai,52,6,6,64
+275,mofongo,39,17,8,64
+276,samosa,39,14,11,64
+277,size,36,21,7,64
+278,carbonara,35,21,8,64
+279,order,10,53,1,64
+280,pork bun,51,3,9,63
+281,burrata,47,7,9,63
+282,borscht,45,5,13,63
+283,kitchen,40,22,1,63
+284,kabab,38,11,14,63
+285,sweet,46,9,7,62
+286,dressing,30,24,7,61
+287,flavour,40,15,5,60
+288,attitude,23,35,2,60
+289,parathas,44,6,9,59
+290,bacon,33,14,12,59
+291,burrito,45,7,6,58
+292,lamb shank,42,7,9,58
+293,roast chicken,42,6,10,58
+294,jerk chicken,35,14,9,58
+295,veal,28,16,14,58
+296,kimchi,40,12,5,57
+297,produce,40,6,11,57
+298,hamburger,36,10,11,57
+299,utensil,7,46,4,57
+300,set,51,2,3,56
+301,establishment,45,9,2,56
+302,iced tea,45,5,6,56
+303,banh mi,34,8,14,56
+304,salsa,30,15,11,56
+305,valet,25,17,14,56
+306,tikka masala,25,16,15,56
+307,door,20,31,5,56
+308,cleanliness,20,30,6,56
+309,family,55,0,0,55
+310,haneeth,45,5,5,55
+311,sea bass,39,7,9,55
+312,scallion pancake,39,6,10,55
+313,flatbread,38,10,7,55
+314,mushroom,36,16,3,55
+315,egg roll,31,14,10,55
+316,paneer,28,20,7,55
+317,stuff,50,4,0,54
+318,band,45,4,5,54
+319,snapper,37,14,3,54
+320,ceiling,37,16,0,53
+321,toast,32,10,11,53
+322,thali,32,7,14,53
+323,dining room,45,5,2,52
+324,mojito,43,7,2,52
+325,pickle,36,8,8,52
+326,karahi,33,9,10,52
+327,parking lot,22,18,12,52
+328,caesar salad,33,9,9,51
+329,dosa,31,10,10,51
+330,tuna,28,16,7,51
+331,chow fun,33,7,10,50
+332,bread pudding,44,2,3,49
+333,lunch menu,36,9,4,49
+334,chai,31,9,9,49
+335,mozzarella stick,29,11,9,49
+336,parmigiana,29,6,14,49
+337,driver,8,38,3,49
+338,snack,35,1,12,48
+339,sum,22,9,17,48
+340,hibachi,40,3,4,47
+341,enchilada,34,7,6,47
+342,fajitas,33,13,1,47
+343,tostones,25,11,11,47
+344,service staff,40,6,0,46
+345,person,35,8,3,46
+346,layout,31,11,4,46
+347,chicken marsala,31,8,7,46
+348,sushi roll,26,12,8,46
+349,glass,4,39,3,46
+350,stew,33,7,5,45
+351,schnitzel,31,10,4,45
+352,beverage,31,7,7,45
+353,paratha,31,6,8,45
+354,shish kebab,27,12,6,45
+355,karaoke,27,1,17,45
+356,dress,18,23,4,45
+357,mash potato,16,23,6,45
+358,soda,16,22,7,45
+359,punch,36,5,3,44
+360,seasoning,32,10,2,44
+361,lassi,32,6,6,44
+362,tv,32,4,8,44
+363,preparation,31,12,1,44
+364,squid,31,4,9,44
+365,lomo,30,6,8,44
+366,greek salad,29,5,10,44
+367,chutney,22,15,7,44
+368,refill,19,21,4,44
+369,penne vodka,29,10,4,43
+370,cod,25,9,9,43
+371,rodizio,23,10,10,43
+372,flounder,30,6,6,42
+373,humus,30,6,6,42
+374,foie gras,28,9,5,42
+375,satay,26,3,13,42
+376,mimosa,25,6,11,42
+377,green,23,12,7,42
+378,peking duck,22,8,12,42
+379,main dish,20,12,10,42
+380,tomato,14,25,3,42
+381,silverware,2,37,3,42
+382,fee,1,32,9,42
+383,feel,40,0,1,41
+384,scenery,39,1,1,41
+385,cheeseburger,31,3,7,41
+386,butter,28,9,4,41
+387,biriyani,26,10,5,41
+388,plantain,23,12,6,41
+389,grill chicken,21,6,14,41
+390,entrance,9,19,13,41
+391,vegan,35,3,2,40
+392,crew,34,4,2,40
+393,food selection,34,3,3,40
+394,pasta dish,30,3,7,40
+395,bubble tea,22,14,4,40
+396,spare rib,19,13,8,40
+397,hot and sour soup,19,6,15,40
+398,hot sauce,32,6,1,39
+399,eggplant,27,8,4,39
+400,banchan,27,6,6,39
+401,lobster roll,26,7,6,39
+402,tartare,21,5,13,39
+403,furniture,19,10,10,39
+404,fettuccine,15,16,8,39
+405,grilled octopus,32,1,5,38
+406,slice,30,7,1,38
+407,sommelier,30,5,3,38
+408,cappuccino,27,8,3,38
+409,adana,24,8,6,38
+410,tuna tartare,23,3,12,38
+411,halibut,22,9,7,38
+412,mozzarella,18,11,9,38
+413,name,12,15,11,38
+414,noise,9,26,3,38
+415,recommendation,37,0,0,37
+416,cuban sandwich,34,0,3,37
+417,interior design,33,3,1,37
+418,diner,30,3,4,37
+419,babaganoush,24,2,11,37
+420,grill,23,6,8,37
+421,onion,16,17,4,37
+422,lettuce,6,30,1,37
+423,tax,2,23,12,37
+424,team,34,0,2,36
+425,beer selection,26,7,3,36
+426,tart,25,2,9,36
+427,patty,23,11,2,36
+428,collard green,22,12,2,36
+429,kofta,20,9,7,36
+430,scampi,16,15,5,36
+431,dining,32,0,3,35
+432,staff member,31,4,0,35
+433,vegetarian option,31,4,0,35
+434,setup,30,4,1,35
+435,menu selection,29,2,4,35
+436,brussel sprout,28,5,2,35
+437,food option,28,4,3,35
+438,valet parking,28,1,6,35
+439,lomo saltado,26,2,7,35
+440,seat area,25,7,3,35
+441,meatloaf,24,8,3,35
+442,papaya salad,24,7,4,35
+443,flan,23,8,4,35
+444,grilled chicken,23,6,6,35
+445,sake,23,5,7,35
+446,cabbage,21,8,6,35
+447,guac,19,6,10,35
+448,fettuccine alfredo,17,14,4,35
+449,ribeye,16,7,12,35
+450,pad see ew,29,2,3,34
+451,bake,29,1,4,34
+452,bakery,29,1,4,34
+453,falooda,26,7,1,34
+454,combo,25,5,4,34
+455,gluten,25,4,5,34
+456,garlic knot,25,4,5,34
+457,kababs,23,5,6,34
+458,wrap,22,10,2,34
+459,churrasco,22,7,5,34
+460,onion ring,20,5,9,34
+461,dough,17,16,1,34
+462,antipasto,17,7,10,34
+463,weather,24,9,0,33
+464,bar tender,22,11,0,33
+465,filling,22,10,1,33
+466,brunch menu,20,7,6,33
+467,chop,18,10,5,33
+468,omelette,16,8,9,33
+469,hall,16,6,11,33
+470,temperature,14,12,7,33
+471,inside,29,1,2,32
+472,manti,27,2,3,32
+473,eats,27,1,4,32
+474,double,26,4,2,32
+475,pita bread,24,5,3,32
+476,wonton,23,8,1,32
+477,food taste,22,6,4,32
+478,booth,18,12,2,32
+479,tikka,12,6,14,32
+480,rotisserie chicken,29,2,0,31
+481,food service,26,3,2,31
+482,plat,22,8,1,31
+483,cater,21,1,9,31
+484,korma,18,5,8,31
+485,discount,17,6,8,31
+486,app,16,10,5,31
+487,lobster tail,11,15,5,31
+488,alcohol,9,10,12,31
+489,cutlery,5,26,0,31
+490,massaman curry,28,1,1,30
+491,singer,27,2,1,30
+492,pork belly,26,1,3,30
+493,din area,25,3,2,30
+494,art,25,2,3,30
+495,shark,25,0,5,30
+496,pierogies,24,2,4,30
+497,rice cake,21,5,4,30
+498,serve size,20,9,1,30
+499,skin,17,11,2,30
+500,the,12,12,6,30
+501,company,27,2,0,29
+502,deal,27,0,2,29
+503,aesthetic,26,2,1,29
+504,byob,26,1,2,29
+505,pad kee mao,25,3,1,29
+506,sea food,25,2,2,29
+507,take,24,4,1,29
+508,coleslaw,22,4,3,29
+509,pierogi,21,3,5,29
+510,bisque,19,5,5,29
+511,wonton soup,17,9,3,29
+512,lunch buffet,17,3,9,29
+513,yam,16,5,8,29
+514,omelet,14,10,5,29
+515,linguine,14,9,6,29
+516,mac n cheese,14,7,8,29
+517,pepper,13,13,3,29
+518,min,1,26,2,29
+519,curry puff,25,2,1,28
+520,donut,23,1,4,28
+521,chaat,23,1,4,28
+522,panang curry,21,3,4,28
+523,cooky,20,1,7,28
+524,sorbet,19,4,5,28
+525,catering,19,4,5,28
+526,catfish,18,7,3,28
+527,home fry,17,6,5,28
+528,filet,17,5,6,28
+529,man,16,11,1,28
+530,tempura,13,8,7,28
+531,marsala,6,17,5,28
+532,cup,4,21,3,28
+533,ambient,25,1,1,27
+534,menu option,22,4,1,27
+535,prawn,21,4,2,27
+536,culture,21,3,3,27
+537,shumai,19,4,4,27
+538,chili,18,8,1,27
+539,rum punch,18,7,2,27
+540,delivery service,17,9,1,27
+541,penne,15,5,7,27
+542,pappardelle,15,2,10,27
+543,spinach,14,10,3,27
+544,cream,14,5,8,27
+545,busboy,11,15,1,27
+546,wall,11,14,2,27
+547,ac,2,25,0,27
+548,chandelier,26,0,0,26
+549,artichoke,23,2,1,26
+550,welcome,22,4,0,26
+551,crepe,22,3,1,26
+552,bibimbap,20,4,2,26
+553,s,20,1,5,26
+554,doner,18,6,2,26
+555,olive,18,5,3,26
+556,cacio e pepe,18,3,5,26
+557,udon,17,7,2,26
+558,bulgogi,15,3,8,26
+559,topping,14,10,2,26
+560,color,13,11,2,26
+561,linguini,13,9,4,26
+562,amount,12,13,1,26
+563,garnish,12,11,3,26
+564,hygiene,9,17,0,26
+565,crowded,5,18,3,26
+566,indian,25,0,0,25
+567,present,24,1,0,25
+568,concept,22,2,1,25
+569,pierogis,21,1,3,25
+570,bolognese,17,6,2,25
+571,arroz,14,6,5,25
+572,reception,13,7,5,25
+573,liquor,10,6,9,25
+574,food portion,22,1,1,24
+575,cuban,21,0,3,24
+576,grill octopus,21,0,3,24
+577,facility,20,4,0,24
+578,set up,19,3,2,24
+579,bloody mary,17,4,3,24
+580,moussaka,17,3,4,24
+581,bruschetta,16,3,5,24
+582,rigatoni,15,6,3,24
+583,grit,14,8,2,24
+584,potato salad,8,8,8,24
+585,delivery guy,7,16,1,24
+586,sign,6,15,3,24
+587,fork,1,23,0,24
+588,asian fusion,20,0,3,23
+589,chicken dish,17,4,2,23
+590,cocktail menu,15,6,2,23
+591,goat,15,4,4,23
+592,staffed,4,18,1,23
+593,food choice,20,2,0,22
+594,indian food,20,0,2,22
+595,itself,19,3,0,22
+596,lamb dish,19,2,1,22
+597,mousse,18,3,1,22
+598,bahn mi,18,3,1,22
+599,product,17,1,4,22
+600,baba ghanoush,17,1,4,22
+601,bite,17,1,4,22
+602,bowl,16,5,1,22
+603,drive,16,3,3,22
+604,benedict,16,3,3,22
+605,croquette,16,3,3,22
+606,champagne,15,6,1,22
+607,tandoori chicken,15,5,2,22
+608,mix grill,14,6,2,22
+609,mapo tofu,14,4,4,22
+610,sweetbread,14,4,4,22
+611,chaufa,14,3,5,22
+612,greeting,13,8,1,22
+613,creme brulee,13,5,4,22
+614,chicken cutlet,12,6,4,22
+615,bao bun,12,3,7,22
+616,octopus salad,12,3,7,22
+617,fish cake,10,4,8,22
+618,fly,1,21,0,22
+619,traffic,1,19,2,22
+620,carpet,0,22,0,22
+621,vibes,21,0,0,21
+622,item,20,1,0,21
+623,aroma,19,1,1,21
+624,assortment,19,0,2,21
+625,nutcracker,18,1,2,21
+626,personnel,17,4,0,21
+627,gelato,15,3,3,21
+628,idli,15,3,3,21
+629,crab rangoon,15,2,4,21
+630,cannoli,14,5,2,21
+631,swordfish,14,5,2,21
+632,bento box,14,4,3,21
+633,turkey,13,5,3,21
+634,flat bread,13,3,5,21
+635,spread,13,0,8,21
+636,macaroni,12,9,0,21
+637,chorizo,12,7,2,21
+638,seating area,12,5,4,21
+639,ragu,12,4,5,21
+640,bucatini,11,5,5,21
+641,ownership,9,8,4,21
+642,chicken finger,8,4,9,21
+643,receptionist,7,13,1,21
+644,greeter,7,13,1,21
+645,toilet,5,15,1,21
+646,liver,18,2,0,20
+647,service food,18,1,1,20
+648,food presentation,16,4,0,20
+649,drink menu,16,3,1,20
+650,truffle fry,16,3,1,20
+651,egg benedict,15,3,2,20
+652,clientele,14,3,3,20
+653,borek,14,2,4,20
+654,veg,13,3,4,20
+655,chat,13,1,6,20
+656,tortellini,12,6,2,20
+657,slider,12,1,7,20
+658,chow mein,11,6,3,20
+659,brussels sprout,11,4,5,20
+660,building,10,10,0,20
+661,curry goat,9,7,4,20
+662,receipt,1,18,1,20
+663,din,17,2,0,19
+664,vegan option,17,2,0,19
+665,food court,17,1,1,19
+666,plating,16,3,0,19
+667,baba ganoush,16,1,2,19
+668,pisco sour,16,1,2,19
+669,lamb haneeth,15,3,1,19
+670,menu item,15,3,1,19
+671,masala dosa,15,1,3,19
+672,dosas,14,4,1,19
+673,look,14,3,2,19
+674,chicken parmigiana,14,2,3,19
+675,eggplant parmesan,14,0,5,19
+676,perogies,13,2,4,19
+677,minestrone soup,12,7,0,19
+678,pernil,12,6,1,19
+679,porkchop,12,4,3,19
+680,shakshuka,12,3,4,19
+681,tripe,12,0,7,19
+682,tandoori,11,5,3,19
+683,cauliflower,11,3,5,19
+684,noise level,10,7,2,19
+685,carrot,9,7,3,19
+686,curry chicken,9,4,6,19
+687,attendant,5,13,1,19
+688,waiting time,3,14,2,19
+689,everything,18,0,0,18
+690,dominican food,17,0,1,18
+691,souffle,16,1,1,18
+692,scene,16,1,1,18
+693,lounge,16,0,2,18
+694,history,14,2,2,18
+695,bar area,14,2,2,18
+696,shake,14,2,2,18
+697,biscuit,14,2,2,18
+698,party,14,0,4,18
+699,cole slaw,13,5,0,18
+700,show,13,4,1,18
+701,chicken parmesan,13,2,3,18
+702,panini,13,2,3,18
+703,xiao long bao,13,0,5,18
+704,din room,12,5,1,18
+705,waiter / waitress,12,4,2,18
+706,sambar,12,3,3,18
+707,bronzino,12,2,4,18
+708,protein,11,5,2,18
+709,timing,11,5,2,18
+710,escargot,11,3,4,18
+711,manger,10,7,1,18
+712,list,9,7,2,18
+713,pickup,9,6,3,18
+714,ziti,9,6,3,18
+715,sit,8,7,3,18
+716,communication,6,12,0,18
+717,prosciutto,6,10,2,18
+718,pea,5,11,2,18
+719,adana kebab,17,0,0,17
+720,dominican,16,0,1,17
+721,playlist,15,0,2,17
+722,fritter,13,4,0,17
+723,voice,13,4,0,17
+724,bellini,13,2,2,17
+725,price point,13,2,2,17
+726,chicken 65,13,1,3,17
+727,picture,12,4,1,17
+728,souvlaki,12,2,3,17
+729,fried ice cream,12,2,3,17
+730,exterior,11,5,1,17
+731,churros,11,5,1,17
+732,shwarma,11,3,3,17
+733,teriyaki,11,2,4,17
+734,cubano,11,1,5,17
+735,sevice,10,6,1,17
+736,marinara sauce,10,6,1,17
+737,french onion soup,10,5,2,17
+738,mac and cheese,10,3,4,17
+739,casserole,10,1,6,17
+740,fry noodle,10,0,7,17
+741,cavatelli,9,5,3,17
+742,appetiser,9,3,5,17
+743,delivery driver,8,9,0,17
+744,shrimp cocktail,8,4,5,17
+745,crab leg,7,9,1,17
+746,accommodation,7,4,6,17
+747,dip sauce,7,4,6,17
+748,oil,6,8,3,17
+749,iftar,5,2,10,17
+750,security,4,12,1,17
+751,stomach,1,16,0,17
+752,drink selection,16,0,0,16
+753,nihari,15,0,1,16
+754,gentleman,14,2,0,16
+755,treatment,14,2,0,16
+756,soju,14,1,1,16
+757,snail,13,1,2,16
+758,bagel,13,0,3,16
+759,neighborhood,11,4,1,16
+760,espresso,11,3,2,16
+761,tacos,10,5,1,16
+762,gyoza,10,2,4,16
+763,sub,10,1,5,16
+764,bento,10,1,5,16
+765,vada,9,5,2,16
+766,ice,9,3,4,16
+767,tortilla,7,9,0,16
+768,prime rib,7,4,5,16
+769,entrees,7,3,6,16
+770,marinara,6,6,4,16
+771,wifi,6,5,5,16
+772,acoustic,5,11,0,16
+773,parmesan,5,8,3,16
+774,chicken tender,5,6,5,16
+775,desk,2,12,2,16
+776,turkish,15,0,0,15
+777,mood,15,0,0,15
+778,take out,15,0,0,15
+779,belly dancer,14,1,0,15
+780,ppl,13,2,0,15
+781,pollo,13,2,0,15
+782,kheer,13,2,0,15
+783,terrace,13,1,1,15
+784,mexican,13,1,1,15
+785,khao soi,13,0,2,15
+786,polenta,12,3,0,15
+787,kofte,12,2,1,15
+788,chicken salad,12,1,2,15
+789,season,11,4,0,15
+790,fortune cookie,11,4,0,15
+791,pina colada,11,3,1,15
+792,song,11,3,1,15
+793,olive oil,11,3,1,15
+794,chicken foot,11,3,1,15
+795,mixed drink,11,2,2,15
+796,rate,11,2,2,15
+797,kibbeh,11,1,3,15
+798,roti canai,11,1,3,15
+799,packaging,10,4,1,15
+800,pulao,10,3,2,15
+801,stir fry,10,2,3,15
+802,meat platter,10,1,4,15
+803,dine,9,3,3,15
+804,bass,9,1,5,15
+805,heater,8,5,2,15
+806,garlic,7,5,3,15
+807,tuna roll,7,4,4,15
+808,chowder,7,3,5,15
+809,prix fixe,7,0,8,15
+810,manner,6,9,0,15
+811,bus boy,6,8,1,15
+812,rollatini,6,6,3,15
+813,manchurian,6,5,4,15
+814,mashed potato,5,9,1,15
+815,avocado,5,9,1,15
+816,cutlet,4,5,6,15
+817,air,3,12,0,15
+818,chowmein,3,11,1,15
+819,language,0,12,3,15
+820,sever,13,1,0,14
+821,artwork,13,1,0,14
+822,soul food,13,1,0,14
+823,ethiopian,13,1,0,14
+824,deco,12,1,1,14
+825,fahsa,12,1,1,14
+826,noodle soup,12,0,2,14
+827,oven,11,2,1,14
+828,appetizer platter,11,1,2,14
+829,brownie,11,1,2,14
+830,paneer tikka,11,1,2,14
+831,empanada,11,1,2,14
+832,ox tail,11,0,3,14
+833,samosa chaat,11,0,3,14
+834,breeze,10,3,1,14
+835,miso soup,10,3,1,14
+836,tostada,10,2,2,14
+837,penne alla vodka,10,2,2,14
+838,veal marsala,10,2,2,14
+839,summer roll,10,1,3,14
+840,kielbasa,10,1,3,14
+841,fatah,10,0,4,14
+842,bos,9,5,0,14
+843,horchata,9,4,1,14
+844,rabbit,9,3,2,14
+845,pesto,9,3,2,14
+846,seafood platter,9,2,3,14
+847,mixed platter,9,2,3,14
+848,vindaloo,8,3,3,14
+849,kee mao,8,0,6,14
+850,jalea,7,5,2,14
+851,omakase,7,5,2,14
+852,address,7,4,3,14
+853,dipping sauce,7,2,5,14
+854,stuffing,6,6,2,14
+855,kid,5,9,0,14
+856,heat,5,8,1,14
+857,clean,5,8,1,14
+858,milkshake,5,6,3,14
+859,kimbap,5,1,8,14
+860,phone,4,9,1,14
+861,window,4,9,1,14
+862,cleaning,2,10,2,14
+863,charge,2,9,3,14
+864,happy hour special,13,0,0,13
+865,surroundings,13,0,0,13
+866,naan bread,12,1,0,13
+867,ethiopian food,12,1,0,13
+868,pork rib,12,0,1,13
+869,kosher,12,0,1,13
+870,oxtail flatbread,12,0,1,13
+871,grilled salmon,11,1,1,13
+872,sole,11,1,1,13
+873,sit area,11,1,1,13
+874,pho soup,11,1,1,13
+875,braise short rib,11,1,1,13
+876,crispy pork,11,0,2,13
+877,frittata,11,0,2,13
+878,kulfi,11,0,2,13
+879,serving size,10,3,0,13
+880,roast duck,10,1,2,13
+881,dover sole,9,4,0,13
+882,care,9,4,0,13
+883,cobb salad,9,3,1,13
+884,lollipop,9,3,1,13
+885,ball,9,2,2,13
+886,calamari appetizer,9,2,2,13
+887,bhel,9,2,2,13
+888,duck wing,9,1,3,13
+889,crispy duck,9,0,4,13
+890,execution,8,5,0,13
+891,bussers,8,5,0,13
+892,saag paneer,8,5,0,13
+893,dog,8,3,2,13
+894,fried calamari,8,3,2,13
+895,sour,8,3,2,13
+896,saag,8,2,3,13
+897,masala,8,1,4,13
+898,yuca fry,8,0,5,13
+899,calimari,7,6,0,13
+900,pav bhaji,7,5,1,13
+901,pick up,7,3,3,13
+902,labneh,7,3,3,13
+903,spaghetti carbonara,7,3,3,13
+904,boti,6,2,5,13
+905,elevator,6,2,5,13
+906,asparagus,5,8,0,13
+907,turnip cake,5,5,3,13
+908,stroganoff,5,3,5,13
+909,staffing,3,9,1,13
+910,front desk,2,11,0,13
+911,alfredo sauce,0,12,1,13
+912,manhattan,12,0,0,12
+913,tres lech,12,0,0,12
+914,rib eye,11,1,0,12
+915,greek,11,1,0,12
+916,flower,10,2,0,12
+917,halal,10,2,0,12
+918,seitan,10,1,1,12
+919,grocery,10,1,1,12
+920,yuca,10,0,2,12
+921,salad dressing,9,3,0,12
+922,face,9,2,1,12
+923,green bean,9,1,2,12
+924,interior decor,9,1,2,12
+925,style,9,0,3,12
+926,duck breast,8,3,1,12
+927,yogurt,8,3,1,12
+928,goulash,8,3,1,12
+929,cassoulet,8,2,2,12
+930,samosa chat,8,2,2,12
+931,dinner menu,8,1,3,12
+932,tuna tartar,8,1,3,12
+933,rasta pasta,8,1,3,12
+934,japchae,8,1,3,12
+935,parrillada,8,1,3,12
+936,waiter service,7,5,0,12
+937,rice roll,7,4,1,12
+938,stuffed shell,7,4,1,12
+939,sound,7,3,2,12
+940,cesar salad,7,3,2,12
+941,mi,7,3,2,12
+942,hash brown,7,3,2,12
+943,dal,7,3,2,12
+944,wine menu,7,2,3,12
+945,tamale,7,2,3,12
+946,waitor,6,5,1,12
+947,ackee,6,2,4,12
+948,tabbouleh,6,1,5,12
+949,condiment,5,5,2,12
+950,basil,5,4,3,12
+951,maduros,5,3,4,12
+952,bok choy,4,5,3,12
+953,table cloth,4,4,4,12
+954,mignon,4,4,4,12
+955,daal,4,3,5,12
+956,walk,4,2,6,12
+957,english,3,9,0,12
+958,volume,3,9,0,12
+959,queue,3,8,1,12
+960,breading,3,7,2,12
+961,cart,3,6,3,12
+962,odor,1,11,0,12
+963,crouton,1,8,3,12
+964,cockroach,0,12,0,12
+965,utensils,0,11,1,12
+966,cookie,11,0,0,11
+967,cafe con leche,11,0,0,11
+968,vegetarian food,11,0,0,11
+969,place itself,10,1,0,11
+970,proportion,10,1,0,11
+971,chocolate,10,1,0,11
+972,staff service,10,1,0,11
+973,beef wellington,10,0,1,11
+974,tom kha soup,10,0,1,11
+975,music selection,9,2,0,11
+976,roasted chicken,9,2,0,11
+977,arrangement,9,2,0,11
+978,wait service,9,1,1,11
+979,roast pork,9,1,1,11
+980,accent,9,1,1,11
+981,painting,9,1,1,11
+982,buffalo wing,9,1,1,11
+983,doughnut,9,1,1,11
+984,social distancing,9,1,1,11
+985,smoothy,9,1,1,11
+986,potato pancake,9,1,1,11
+987,mixed grill platter,9,1,1,11
+988,flautas,9,1,1,11
+989,huevos rancheros,9,1,1,11
+990,banquet hall,9,1,1,11
+991,fusion,9,0,2,11
+992,lunch box,9,0,2,11
+993,store,8,3,0,11
+994,decore,8,3,0,11
+995,renovation,8,2,1,11
+996,chicken tikka masala,8,2,1,11
+997,mojitos,8,2,1,11
+998,tagliatelle,8,2,1,11
+999,singapore noodle,8,1,2,11
+1000,chimi,8,1,2,11
+1001,cocktails,8,0,3,11
+1002,soondubu,8,0,3,11
+1003,safety,7,4,0,11
+1004,outside,7,4,0,11
+1005,bread basket,7,4,0,11
+1006,eggs benedict,7,3,1,11
+1007,porridge,7,2,2,11
+1008,feta,7,2,2,11
+1009,california roll,7,2,2,11
+1010,eggplant parm,7,2,2,11
+1011,piccata,7,2,2,11
+1012,kung pao chicken,7,1,3,11
+1013,kebap,7,1,3,11
+1014,table service,6,4,1,11
+1015,delivery time,6,4,1,11
+1016,tablecloth,6,3,2,11
+1017,recipe,6,3,2,11
+1018,prepare,6,3,2,11
+1019,kabsa,6,3,2,11
+1020,coat check,6,3,2,11
+1021,mezze,6,2,3,11
+1022,raw bar,6,2,3,11
+1023,makhani,6,2,3,11
+1024,mac & cheese,6,2,3,11
+1025,porterhouse,6,2,3,11
+1026,collard,6,1,4,11
+1027,egg foo young,5,6,0,11
+1028,pakora,5,3,3,11
+1029,ropa vieja,5,2,4,11
+1030,grill cheese,5,2,4,11
+1031,ham,4,3,4,11
+1032,fajita,4,1,6,11
+1033,waiting,3,8,0,11
+1034,washroom,3,6,2,11
+1035,uni,3,5,3,11
+1036,chicken roll,3,5,3,11
+1037,appearance,2,9,0,11
+1038,shirt,2,8,1,11
+1039,spoon,2,8,1,11
+1040,reservation time,1,8,2,11
+1041,cucumber,1,6,4,11
+1042,service charge,0,11,0,11
+1043,statue,10,0,0,10
+1044,seafood dish,10,0,0,10
+1045,spot,10,0,0,10
+1046,folk,10,0,0,10
+1047,bar staff,10,0,0,10
+1048,beet,10,0,0,10
+1049,pub,10,0,0,10
+1050,pack,9,1,0,10
+1051,food drink,9,1,0,10
+1052,gm,9,1,0,10
+1053,knafeh,9,1,0,10
+1054,general manager,9,1,0,10
+1055,garden,9,1,0,10
+1056,birria,9,1,0,10
+1057,kunefe,9,0,1,10
+1058,owner / manager,8,2,0,10
+1059,pairing,8,1,1,10
+1060,grouper,8,1,1,10
+1061,photo,8,1,1,10
+1062,shishito pepper,8,1,1,10
+1063,e pepe,8,1,1,10
+1064,pancakes,8,0,2,10
+1065,chicken breast,7,3,0,10
+1066,general tso ' s chicken,7,2,1,10
+1067,soup dumplings,7,2,1,10
+1068,torta,7,2,1,10
+1069,takoyaki,7,2,1,10
+1070,sampler,7,1,2,10
+1071,mongolian beef,7,1,2,10
+1072,taste menu,7,1,2,10
+1073,ceviche mixto,7,1,2,10
+1074,bake ziti,7,0,3,10
+1075,tabouleh,6,4,0,10
+1076,men,6,4,0,10
+1077,behavior,6,4,0,10
+1078,manicotti,6,3,1,10
+1079,dal makhani,6,3,1,10
+1080,injera,6,3,1,10
+1081,sambhar,6,3,1,10
+1082,chicken francese,6,3,1,10
+1083,shrimp roll,6,2,2,10
+1084,chicken milanese,6,2,2,10
+1085,raita,6,2,2,10
+1086,appam,6,1,3,10
+1087,barbecue,6,1,3,10
+1088,distancing,6,0,4,10
+1089,service quality,5,5,0,10
+1090,chicken leg,5,4,1,10
+1091,zucchini,5,3,2,10
+1092,rack of lamb,5,2,3,10
+1093,dietary,5,1,4,10
+1094,margherita,5,1,4,10
+1095,caprese salad,5,1,4,10
+1096,lamprais,5,1,4,10
+1097,hand,4,5,1,10
+1098,mangu,4,3,3,10
+1099,dim,4,2,4,10
+1100,tempura roll,4,1,5,10
+1101,galbi,4,1,5,10
+1102,etiquette,3,7,0,10
+1103,soap,3,7,0,10
+1104,base,3,6,1,10
+1105,side salad,3,6,1,10
+1106,spaetzle,3,4,3,10
+1107,bouncer,2,7,1,10
+1108,stage,2,5,3,10
+1109,toilet paper,1,9,0,10
+1110,policy,1,9,0,10
+1111,architecture,9,0,0,9
+1112,deck,9,0,0,9
+1113,noodle dish,9,0,0,9
+1114,chicken chop,9,0,0,9
+1115,lunch deal,9,0,0,9
+1116,jill,9,0,0,9
+1117,cusine,8,1,0,9
+1118,menu choice,8,1,0,9
+1119,story,8,1,0,9
+1120,steak tartare,8,1,0,9
+1121,bar service,8,1,0,9
+1122,osso bucco,8,1,0,9
+1123,bake good,8,1,0,9
+1124,krust,8,1,0,9
+1125,paranthas,8,1,0,9
+1126,chinese broccoli,8,0,1,9
+1127,trout,8,0,1,9
+1128,cobbler,8,0,1,9
+1129,pho broth,8,0,1,9
+1130,muhammara,8,0,1,9
+1131,arroz chaufa,8,0,1,9
+1132,plant,7,2,0,9
+1133,monkfish,7,2,0,9
+1134,tomato sauce,7,2,0,9
+1135,olive garden,7,2,0,9
+1136,gnocchi soup,7,2,0,9
+1137,pretzel,7,1,1,9
+1138,chicken sandwich,7,1,1,9
+1139,comida,7,1,1,9
+1140,breakfast burrito,7,1,1,9
+1141,tilapia,7,1,1,9
+1142,oatmeal,7,1,1,9
+1143,labne,7,0,2,9
+1144,rice ball,7,0,2,9
+1145,alfredo pasta,7,0,2,9
+1146,seafood salad,7,0,2,9
+1147,udon noodle,6,3,0,9
+1148,food variety,6,3,0,9
+1149,breakfast food,6,3,0,9
+1150,customer,6,3,0,9
+1151,smoothie,6,3,0,9
+1152,chicha morada,6,3,0,9
+1153,pilaf,6,2,1,9
+1154,help,6,2,1,9
+1155,gratin,6,2,1,9
+1156,duck confit,6,2,1,9
+1157,orange juice,6,2,1,9
+1158,french,6,1,2,9
+1159,tartar,6,1,2,9
+1160,chicken lollipop,6,1,2,9
+1161,grub,6,1,2,9
+1162,miso,6,1,2,9
+1163,temp,6,1,2,9
+1164,chicken roast,6,1,2,9
+1165,cheese cake,6,1,2,9
+1166,hot dog,5,3,1,9
+1167,accompaniment,5,2,2,9
+1168,kebob,5,2,2,9
+1169,gobi,5,2,2,9
+1170,tom kha,5,1,3,9
+1171,reuben,5,1,3,9
+1172,fillet mignon,5,1,3,9
+1173,scramble egg,5,0,4,9
+1174,business,4,5,0,9
+1175,system,4,5,0,9
+1176,batter,4,5,0,9
+1177,scent,4,5,0,9
+1178,dinner roll,4,5,0,9
+1179,dance floor,4,4,1,9
+1180,shawerma,4,3,2,9
+1181,mahi mahi,4,3,2,9
+1182,matka gosht,4,2,3,9
+1183,mariscada,3,6,0,9
+1184,corn,3,6,0,9
+1185,baguette,3,4,2,9
+1186,bbq pork,3,4,2,9
+1187,nan,3,3,3,9
+1188,mutton,3,3,3,9
+1189,top,3,3,3,9
+1190,comedy,3,2,4,9
+1191,milk,2,6,1,9
+1192,hair,2,6,1,9
+1193,lot,2,5,2,9
+1194,seat arrangement,2,5,2,9
+1195,machine,1,8,0,9
+1196,mask,1,7,1,9
+1197,menu price,1,4,4,9
+1198,knife,0,9,0,9
+1199,thai iced tea,8,0,0,8
+1200,fireplace,8,0,0,8
+1201,rooftop,8,0,0,8
+1202,jazz,8,0,0,8
+1203,screen,8,0,0,8
+1204,energy,8,0,0,8
+1205,rajesh,8,0,0,8
+1206,cuban food,8,0,0,8
+1207,custard,7,1,0,8
+1208,ice coffee,7,1,0,8
+1209,vegetarian dish,7,1,0,8
+1210,package,7,1,0,8
+1211,quenelle,7,1,0,8
+1212,wine pairing,7,1,0,8
+1213,drink special,7,1,0,8
+1214,tartufo,7,1,0,8
+1215,mocktails,7,1,0,8
+1216,crispy duck wing,7,1,0,8
+1217,enviroment,7,1,0,8
+1218,tacacho,7,1,0,8
+1219,shish,7,0,1,8
+1220,dance,7,0,1,8
+1221,pork soup dumpling,7,0,1,8
+1222,zeppoles,7,0,1,8
+1223,dinning,7,0,1,8
+1224,zuppa toscana,7,0,1,8
+1225,lebanese,7,0,1,8
+1226,breakfast sandwich,7,0,1,8
+1227,birria taco,7,0,1,8
+1228,personal,6,2,0,8
+1229,chief,6,2,0,8
+1230,shrimp dumpling,6,2,0,8
+1231,hot chocolate,6,2,0,8
+1232,haleem,6,2,0,8
+1233,cannolis,6,2,0,8
+1234,lebni,6,1,1,8
+1235,eel,6,1,1,8
+1236,short,6,1,1,8
+1237,octopus appetizer,6,1,1,8
+1238,meat dish,6,1,1,8
+1239,tail,6,1,1,8
+1240,tent,6,1,1,8
+1241,meat sauce,6,1,1,8
+1242,blt,6,1,1,8
+1243,tres leche,6,1,1,8
+1244,mule,6,0,2,8
+1245,dimsums,6,0,2,8
+1246,lit,6,0,2,8
+1247,vietnamese,6,0,2,8
+1248,terrine,6,0,2,8
+1249,beef rib,5,3,0,8
+1250,freshness,5,3,0,8
+1251,siu mai,5,2,1,8
+1252,grilled meat,5,2,1,8
+1253,kebobs,5,2,1,8
+1254,cover,5,2,1,8
+1255,seafood tower,5,2,1,8
+1256,spinach pie,5,2,1,8
+1257,mezzes,5,1,2,8
+1258,couch,5,1,2,8
+1259,falafel sandwich,5,1,2,8
+1260,chole bhature,5,1,2,8
+1261,blintz,5,1,2,8
+1262,crudo,5,1,2,8
+1263,saganaki,5,1,2,8
+1264,tiffin,5,1,2,8
+1265,fun,5,0,3,8
+1266,tagine,5,0,3,8
+1267,diet,4,3,1,8
+1268,icecream,4,3,1,8
+1269,lamp,4,3,1,8
+1270,pick,4,3,1,8
+1271,roast,4,2,2,8
+1272,skewer,4,2,2,8
+1273,coat,4,2,2,8
+1274,poke,4,2,2,8
+1275,valet park,4,2,2,8
+1276,butter chicken,4,2,2,8
+1277,nigiri,4,2,2,8
+1278,pad,4,1,3,8
+1279,salad bar,4,0,4,8
+1280,prep,3,5,0,8
+1281,container,3,4,1,8
+1282,sirloin,3,4,1,8
+1283,briyani,3,4,1,8
+1284,sour chicken,3,3,2,8
+1285,scarpariello,3,3,2,8
+1286,tabouli,3,2,3,8
+1287,lentil,3,2,3,8
+1288,pan,3,2,3,8
+1289,couscous,3,2,3,8
+1290,borsch,3,1,4,8
+1291,brisket,2,5,1,8
+1292,tray,2,5,1,8
+1293,open,2,4,2,8
+1294,delivery man,2,3,3,8
+1295,mouse,1,7,0,8
+1296,pasta sauce,1,7,0,8
+1297,rule,1,7,0,8
+1298,tab,1,5,2,8
+1299,edamame,1,5,2,8
+1300,schedule,1,5,2,8
+1301,glove,1,4,3,8
+1302,lunchtime,1,3,4,8
+1303,chopstick,0,8,0,8
+1304,roach,0,8,0,8
+1305,air conditioning,0,8,0,8
+1306,surcharge,0,6,2,8
+1307,personality,7,0,0,7
+1308,friend,7,0,0,7
+1309,salta,7,0,0,7
+1310,haneez,7,0,0,7
+1311,serf,7,0,0,7
+1312,desserts,7,0,0,7
+1313,sitting,7,0,0,7
+1314,fried,7,0,0,7
+1315,penne a la vodka,7,0,0,7
+1316,afghani,7,0,0,7
+1317,delicacy,7,0,0,7
+1318,tour,7,0,0,7
+1319,performance,7,0,0,7
+1320,variety of food,7,0,0,7
+1321,market,7,0,0,7
+1322,veal chop,7,0,0,7
+1323,vegan food,7,0,0,7
+1324,momo ' s,7,0,0,7
+1325,greek food,7,0,0,7
+1326,cubanos,7,0,0,7
+1327,fried fish,6,1,0,7
+1328,stuffed cabbage,6,1,0,7
+1329,rice pudding,6,1,0,7
+1330,range,6,1,0,7
+1331,vermicelli,6,1,0,7
+1332,rice dish,6,1,0,7
+1333,smile,6,1,0,7
+1334,bottom,6,1,0,7
+1335,dessert platter,6,1,0,7
+1336,maitre d,6,1,0,7
+1337,beef tartare,6,1,0,7
+1338,burrata appetizer,6,1,0,7
+1339,sancocho,6,1,0,7
+1340,pizzeria,6,1,0,7
+1341,carrot cake,6,0,1,7
+1342,crab dish,6,0,1,7
+1343,kee - mao,6,0,1,7
+1344,massaman,6,0,1,7
+1345,good,6,0,1,7
+1346,buddha,6,0,1,7
+1347,premise,6,0,1,7
+1348,white,6,0,1,7
+1349,puff,6,0,1,7
+1350,shawarma sandwich,6,0,1,7
+1351,french dip,6,0,1,7
+1352,croque madame,6,0,1,7
+1353,tapas,6,0,1,7
+1354,grilled cheese,6,0,1,7
+1355,shepherd pie,6,0,1,7
+1356,chicken tikka,6,0,1,7
+1357,mango lassi,6,0,1,7
+1358,turf,6,0,1,7
+1359,tequila,6,0,1,7
+1360,anticuchos,6,0,1,7
+1361,fois gras,5,2,0,7
+1362,wrapper,5,2,0,7
+1363,leftover,5,2,0,7
+1364,salmon roll,5,2,0,7
+1365,sprout,5,2,0,7
+1366,lobster bisque,5,2,0,7
+1367,furnishing,5,2,0,7
+1368,tres lech cake,5,2,0,7
+1369,attire,5,1,1,7
+1370,grape leave,5,1,1,7
+1371,shu mai,5,1,1,7
+1372,iced coffee,5,1,1,7
+1373,pastrami sandwich,5,1,1,7
+1374,seabass,5,1,1,7
+1375,ribeye steak,5,1,1,7
+1376,chilaquiles,5,1,1,7
+1377,carne asada,5,1,1,7
+1378,arancini,5,1,1,7
+1379,profiterole,5,0,2,7
+1380,hot pot,5,0,2,7
+1381,fish dish,5,0,2,7
+1382,booze,5,0,2,7
+1383,pepper steak,5,0,2,7
+1384,cheese plate,5,0,2,7
+1385,nehari,5,0,2,7
+1386,vada pav,5,0,2,7
+1387,beyti,5,0,2,7
+1388,cheeseburger deluxe,4,3,0,7
+1389,vodka,4,3,0,7
+1390,chilli,4,3,0,7
+1391,canoli,4,3,0,7
+1392,meet,4,2,1,7
+1393,soup base,4,2,1,7
+1394,mint,4,2,1,7
+1395,makloubeh,4,2,1,7
+1396,okra,4,2,1,7
+1397,caviar,4,2,1,7
+1398,ceasar salad,4,2,1,7
+1399,broccoli rabe,4,2,1,7
+1400,muffin,4,2,1,7
+1401,parmigiano,4,2,1,7
+1402,cut,4,2,1,7
+1403,baba ghanouj,4,1,2,7
+1404,fish fry,4,1,2,7
+1405,rasmalai,4,1,2,7
+1406,cheesesteak,4,0,3,7
+1407,coctails,4,0,3,7
+1408,hash,4,0,3,7
+1409,piano,4,0,3,7
+1410,speed,3,4,0,7
+1411,date,3,3,1,7
+1412,salad dress,3,3,1,7
+1413,shish kabob,3,3,1,7
+1414,fortune cooky,3,3,1,7
+1415,hollandaise,3,3,1,7
+1416,catfish strip,3,3,1,7
+1417,strudel,3,2,2,7
+1418,flight,3,2,2,7
+1419,tso,3,1,3,7
+1420,up,3,1,3,7
+1421,shrimp ball,3,1,3,7
+1422,clam chowder,3,1,3,7
+1423,carpaccio,3,0,4,7
+1424,a / c,2,5,0,7
+1425,greet,2,5,0,7
+1426,chicken nugget,2,4,1,7
+1427,eggplant parmigiana,2,4,1,7
+1428,bus,2,3,2,7
+1429,nachos,2,1,4,7
+1430,eggroll,1,6,0,7
+1431,training,1,6,0,7
+1432,bag,1,5,1,7
+1433,ketchup,1,5,1,7
+1434,halwa,1,4,2,7
+1435,baked ziti,1,4,2,7
+1436,wait list,1,3,3,7
+1437,salt,0,7,0,7
+1438,flavorless,0,7,0,7
+1439,fried flounder,6,0,0,6
+1440,chef / owner,6,0,0,6
+1441,shot,6,0,0,6
+1442,happy hour deal,6,0,0,6
+1443,bang,6,0,0,6
+1444,tune,6,0,0,6
+1445,spirit,6,0,0,6
+1446,sake selection,6,0,0,6
+1447,duck salad,6,0,0,6
+1448,kebab platter,6,0,0,6
+1449,process,6,0,0,6
+1450,patio area,6,0,0,6
+1451,dining experience,6,0,0,6
+1452,american,6,0,0,6
+1453,italian dish,6,0,0,6
+1454,torte,6,0,0,6
+1455,lunch combo,6,0,0,6
+1456,whiskey,6,0,0,6
+1457,panna cotta,6,0,0,6
+1458,brioche,6,0,0,6
+1459,lamp chop,6,0,0,6
+1460,and,6,0,0,6
+1461,burrito bowl,6,0,0,6
+1462,supermarket,6,0,0,6
+1463,chapli kebab,6,0,0,6
+1464,offering,5,1,0,6
+1465,theme,5,1,0,6
+1466,demeanor,5,1,0,6
+1467,pinot noir,5,1,0,6
+1468,chicken pad thai,5,1,0,6
+1469,cosmopolitan,5,1,0,6
+1470,patron,5,1,0,6
+1471,masaman curry,5,1,0,6
+1472,foood,5,1,0,6
+1473,salmon tartare,5,1,0,6
+1474,mix,5,1,0,6
+1475,bandeja paisa,5,1,0,6
+1476,malai kofta,5,1,0,6
+1477,potion,5,1,0,6
+1478,tuna steak,5,1,0,6
+1479,pizza pie,5,1,0,6
+1480,delmonico,5,1,0,6
+1481,meze,5,1,0,6
+1482,chashu,5,1,0,6
+1483,colada,5,0,1,6
+1484,muscle,5,0,1,6
+1485,mousse cake,5,0,1,6
+1486,proprietor,5,0,1,6
+1487,duck roll,5,0,1,6
+1488,ezme,5,0,1,6
+1489,hummus appetizer,5,0,1,6
+1490,crisp,5,0,1,6
+1491,refreshment,5,0,1,6
+1492,xiaolongbao,5,0,1,6
+1493,social,5,0,1,6
+1494,mansaf,5,0,1,6
+1495,shrimp tempura,5,0,1,6
+1496,moscow mule,5,0,1,6
+1497,tortas,5,0,1,6
+1498,breakfast option,5,0,1,6
+1499,mole,5,0,1,6
+1500,bihari,5,0,1,6
+1501,bistec,5,0,1,6
+1502,duck dish,4,2,0,6
+1503,cocktail list,4,2,0,6
+1504,lamb meat,4,2,0,6
+1505,flavoring,4,2,0,6
+1506,breast,4,2,0,6
+1507,puri,4,2,0,6
+1508,serving staff,4,2,0,6
+1509,stuffed mushroom,4,2,0,6
+1510,pasta fagioli,4,2,0,6
+1511,rogan josh,4,2,0,6
+1512,jollof,4,2,0,6
+1513,fish fillet,4,1,1,6
+1514,pot,4,1,1,6
+1515,eggrolls,4,1,1,6
+1516,pad see eiw,4,1,1,6
+1517,eggplant salad,4,1,1,6
+1518,cold noodle,4,1,1,6
+1519,margs,4,1,1,6
+1520,pepperoni,4,1,1,6
+1521,pani puri,4,1,1,6
+1522,papri chaat,4,1,1,6
+1523,jukebox,4,1,1,6
+1524,dal makhni,4,1,1,6
+1525,eye,4,1,1,6
+1526,salami,4,1,1,6
+1527,chicha,4,1,1,6
+1528,comedy show,4,1,1,6
+1529,resturant,4,0,2,6
+1530,grilled shrimp,4,0,2,6
+1531,tomahawk steak,4,0,2,6
+1532,cheese stick,4,0,2,6
+1533,palak paneer,4,0,2,6
+1534,consistency,3,3,0,6
+1535,soy sauce,3,3,0,6
+1536,shell,3,3,0,6
+1537,kitchen staff,3,3,0,6
+1538,weekend,3,2,1,6
+1539,pace,3,2,1,6
+1540,manu,3,2,1,6
+1541,.,3,2,1,6
+1542,lemon,3,2,1,6
+1543,chicharron de pollo,3,2,1,6
+1544,boneless wing,3,2,1,6
+1545,vodka sauce,3,2,1,6
+1546,courtesy,3,2,1,6
+1547,porterhouse steak,3,2,1,6
+1548,chicken wrap,3,2,1,6
+1549,hakka noodle,3,2,1,6
+1550,drinks,3,1,2,6
+1551,steak frites,3,1,2,6
+1552,encebollado,3,1,2,6
+1553,keema,3,1,2,6
+1554,minestrone,3,1,2,6
+1555,francese,3,1,2,6
+1556,bhaji,3,1,2,6
+1557,bring,2,4,0,6
+1558,boy,2,4,0,6
+1559,sesame chicken,2,4,0,6
+1560,mosquito,2,4,0,6
+1561,glassware,2,4,0,6
+1562,car,2,4,0,6
+1563,syrup,2,4,0,6
+1564,wait area,2,4,0,6
+1565,chapati,2,4,0,6
+1566,noodle roll,2,3,1,6
+1567,straw,2,3,1,6
+1568,shawarma platter,2,3,1,6
+1569,oj,2,3,1,6
+1570,arugula,2,3,1,6
+1571,candied yam,2,2,2,6
+1572,mash,2,1,3,6
+1573,escalator,2,1,3,6
+1574,service fee,1,5,0,6
+1575,smoke,1,5,0,6
+1576,chicken strip,1,5,0,6
+1577,bone,1,4,1,6
+1578,price tag,1,4,1,6
+1579,entre,1,3,2,6
+1580,shank,1,3,2,6
+1581,rest room,1,3,2,6
+1582,signage,1,3,2,6
+1583,food flavor,1,2,3,6
+1584,slaw,1,2,3,6
+1585,bench,1,0,5,6
+1586,prix fixe menu,1,0,5,6
+1587,air conditioner,0,6,0,6
+1588,fan,0,6,0,6
+1589,napkins,0,6,0,6
+1590,deposit,0,6,0,6
+1591,customer service,0,6,0,6
+1592,aisle,0,6,0,6
+1593,website,0,6,0,6
+1594,capacity,0,5,1,6
+1595,rat,0,5,1,6
+1596,wine glass,0,5,1,6
+1597,money,0,5,1,6
+1598,ventilation,0,5,1,6
+1599,shoe,0,4,2,6
+1600,kalbi,0,4,2,6
+1601,fair,5,0,0,5
+1602,medley,5,0,0,5
+1603,sorrel,5,0,0,5
+1604,oxtail roll,5,0,0,5
+1605,chinese food,5,0,0,5
+1606,shepherd salad,5,0,0,5
+1607,doner kebab,5,0,0,5
+1608,feast,5,0,0,5
+1609,dragon,5,0,0,5
+1610,red curry,5,0,0,5
+1611,aquarium,5,0,0,5
+1612,dolmas,5,0,0,5
+1613,mucver,5,0,0,5
+1614,selection of,5,0,0,5
+1615,avocado toast,5,0,0,5
+1616,pork roll,5,0,0,5
+1617,banh mi sandwich,5,0,0,5
+1618,sushi bar,5,0,0,5
+1619,kra - pow puff,5,0,0,5
+1620,severs,5,0,0,5
+1621,service people,5,0,0,5
+1622,locale,5,0,0,5
+1623,aura,5,0,0,5
+1624,fattoush salad,5,0,0,5
+1625,service team,5,0,0,5
+1626,habachi,5,0,0,5
+1627,din experience,5,0,0,5
+1628,backyard,5,0,0,5
+1629,servicio,5,0,0,5
+1630,treat,5,0,0,5
+1631,cabbage roll,5,0,0,5
+1632,stake,5,0,0,5
+1633,fried artichoke,5,0,0,5
+1634,mediterranean,5,0,0,5
+1635,captain,5,0,0,5
+1636,jazz band,5,0,0,5
+1637,event,5,0,0,5
+1638,shepherd ' s pie,5,0,0,5
+1639,shrimp combo,5,0,0,5
+1640,vegan platter,5,0,0,5
+1641,jamun,5,0,0,5
+1642,italian food,5,0,0,5
+1643,jjambbong,5,0,0,5
+1644,paneer tikka masala,5,0,0,5
+1645,sicilian slice,5,0,0,5
+1646,marinade,5,0,0,5
+1647,spanakopita,5,0,0,5
+1648,drum,5,0,0,5
+1649,steak bite,5,0,0,5
+1650,blanket,5,0,0,5
+1651,portuguese,5,0,0,5
+1652,mango,5,0,0,5
+1653,laphing,5,0,0,5
+1654,pupusa,5,0,0,5
+1655,dibi,5,0,0,5
+1656,jerk pork,5,0,0,5
+1657,produce section,5,0,0,5
+1658,all,5,0,0,5
+1659,gulab jamun,5,0,0,5
+1660,chicken platter,5,0,0,5
+1661,mix grill platter,4,1,0,5
+1662,promotion,4,1,0,5
+1663,display,4,1,0,5
+1664,crab meat,4,1,0,5
+1665,pastrami,4,1,0,5
+1666,check in,4,1,0,5
+1667,wagyu,4,1,0,5
+1668,musakhan,4,1,0,5
+1669,brunch food,4,1,0,5
+1670,eggplant dish,4,1,0,5
+1671,kafta,4,1,0,5
+1672,quenelles,4,1,0,5
+1673,baby back rib,4,1,0,5
+1674,food price,4,1,0,5
+1675,halwa puri,4,1,0,5
+1676,lambchop,4,1,0,5
+1677,seekh kabab,4,1,0,5
+1678,latke,4,1,0,5
+1679,borscht soup,4,1,0,5
+1680,spaghettini,4,1,0,5
+1681,flank steak,4,1,0,5
+1682,veggie combo,4,1,0,5
+1683,food menu,4,1,0,5
+1684,- chinese,4,1,0,5
+1685,grill vegetable,4,1,0,5
+1686,turnover,4,1,0,5
+1687,toro,4,1,0,5
+1688,mayo,4,1,0,5
+1689,schwarma,4,1,0,5
+1690,vegetarian selection,4,1,0,5
+1691,brussels sprout salad,4,1,0,5
+1692,tres leche cake,4,1,0,5
+1693,pisco,4,1,0,5
+1694,gappay,4,1,0,5
+1695,chimichangas,4,1,0,5
+1696,fried wonton,4,0,1,5
+1697,course,4,0,1,5
+1698,chicken shish,4,0,1,5
+1699,flavor profile,4,0,1,5
+1700,green curry,4,0,1,5
+1701,curry noodle,4,0,1,5
+1702,sweet tea,4,0,1,5
+1703,lamb adana,4,0,1,5
+1704,chicken shish kebab,4,0,1,5
+1705,egg plant,4,0,1,5
+1706,ny strip,4,0,1,5
+1707,sunset,4,0,1,5
+1708,baked good,4,0,1,5
+1709,grill fish,4,0,1,5
+1710,performer,4,0,1,5
+1711,lomo salteado,4,0,1,5
+1712,flor de mayo,4,0,1,5
+1713,veal saltimbocca,4,0,1,5
+1714,gyro platter,4,0,1,5
+1715,pan con tomate,4,0,1,5
+1716,background music,4,0,1,5
+1717,rib eye steak,4,0,1,5
+1718,chettinad,4,0,1,5
+1719,soup salad,4,0,1,5
+1720,tikki masala,4,0,1,5
+1721,spritz,4,0,1,5
+1722,tib,4,0,1,5
+1723,parotta,4,0,1,5
+1724,fried plantain,4,0,1,5
+1725,surf,4,0,1,5
+1726,mousaka,4,0,1,5
+1727,site,4,0,1,5
+1728,tagliatelle bolognese,4,0,1,5
+1729,pear,4,0,1,5
+1730,taco de birria,4,0,1,5
+1731,saltfish,3,2,0,5
+1732,seating arrangement,3,2,0,5
+1733,salads,3,2,0,5
+1734,meatballs,3,2,0,5
+1735,attendance,3,2,0,5
+1736,pigeon,3,2,0,5
+1737,plantains,3,2,0,5
+1738,negroni,3,2,0,5
+1739,shrimp dish,3,2,0,5
+1740,hooka,3,2,0,5
+1741,sundubu,3,2,0,5
+1742,babaghanoush,3,2,0,5
+1743,hollandaise sauce,3,2,0,5
+1744,dessert menu,3,2,0,5
+1745,doorman,3,2,0,5
+1746,pizza crust,3,2,0,5
+1747,kadai,3,2,0,5
+1748,spinach roll,3,2,0,5
+1749,sizzler,3,2,0,5
+1750,dim sum dish,3,2,0,5
+1751,aji,3,2,0,5
+1752,aji de gallina,3,2,0,5
+1753,rendang,3,2,0,5
+1754,sour pork,3,1,1,5
+1755,herb,3,1,1,5
+1756,bao,3,1,1,5
+1757,mein,3,1,1,5
+1758,grape leaf,3,1,1,5
+1759,hot wing,3,1,1,5
+1760,philly cheese steak,3,1,1,5
+1761,curry shrimp,3,1,1,5
+1762,fish taco,3,1,1,5
+1763,dessert selection,3,1,1,5
+1764,shawarmas,3,1,1,5
+1765,cerviche,3,1,1,5
+1766,fixture,3,1,1,5
+1767,veal parmigiana,3,1,1,5
+1768,shisha,3,1,1,5
+1769,pour,3,1,1,5
+1770,gnocci soup,3,1,1,5
+1771,soup / salad,3,1,1,5
+1772,table arrangement,3,1,1,5
+1773,fettuccini alfredo,3,1,1,5
+1774,yucca,3,1,1,5
+1775,pic,3,1,1,5
+1776,balsamic,3,1,1,5
+1777,noodles,3,1,1,5
+1778,gamjatang,3,1,1,5
+1779,chicharron,3,1,1,5
+1780,kalguksu,3,1,1,5
+1781,cold dish,3,0,2,5
+1782,game,3,0,2,5
+1783,charcuterie,3,0,2,5
+1784,prosecco,3,0,2,5
+1785,quiche,3,0,2,5
+1786,shop,3,0,2,5
+1787,luncheon,3,0,2,5
+1788,devil egg,3,0,2,5
+1789,abalone,3,0,2,5
+1790,ramens,3,0,2,5
+1791,pork bone,3,0,2,5
+1792,saltado,3,0,2,5
+1793,waitors,2,3,0,5
+1794,fried noodle,2,3,0,5
+1795,chickpea,2,3,0,5
+1796,organization,2,3,0,5
+1797,sabji,2,3,0,5
+1798,wasabi,2,3,0,5
+1799,lychee,2,2,1,5
+1800,happy,2,2,1,5
+1801,steak fry,2,2,1,5
+1802,bbq rib,2,2,1,5
+1803,toll,2,2,1,5
+1804,calzone,2,2,1,5
+1805,fire place,2,2,1,5
+1806,meat ball,2,2,1,5
+1807,fish quality,2,2,1,5
+1808,falafel platter,2,2,1,5
+1809,you,2,2,1,5
+1810,lomein,2,1,2,5
+1811,flatware,2,1,2,5
+1812,steaks,2,1,2,5
+1813,half chicken,2,1,2,5
+1814,poori,2,1,2,5
+1815,patatas bravas,2,1,2,5
+1816,chicken liver,2,1,2,5
+1817,corn beef hash,2,1,2,5
+1818,chicken curry,2,1,2,5
+1819,spiciness,2,0,3,5
+1820,trivia,2,0,3,5
+1821,wiener schnitzel,2,0,3,5
+1822,bakery item,2,0,3,5
+1823,park lot,1,4,0,5
+1824,coke,1,4,0,5
+1825,aftertaste,1,4,0,5
+1826,leg,1,4,0,5
+1827,desert menu,1,4,0,5
+1828,chiken,1,4,0,5
+1829,arrive,1,4,0,5
+1830,garbage,1,4,0,5
+1831,servant,1,4,0,5
+1832,supervisor,1,4,0,5
+1833,sushi rice,1,4,0,5
+1834,umbrella,1,3,1,5
+1835,label,1,3,1,5
+1836,gas,1,3,1,5
+1837,spanish,1,3,1,5
+1838,chicken francaise,1,3,1,5
+1839,side order,1,3,1,5
+1840,bartending,1,3,1,5
+1841,yaroa,1,3,1,5
+1842,mixed vegetable,1,2,2,5
+1843,wait period,1,2,2,5
+1844,clam casino,1,2,2,5
+1845,okonomiyaki,1,2,2,5
+1846,knot,1,0,4,5
+1847,flooring,0,5,0,5
+1848,water glass,0,5,0,5
+1849,sofa,0,5,0,5
+1850,air condition,0,5,0,5
+1851,speaker,0,4,1,5
+1852,paint,0,4,1,5
+1853,dress code,0,3,2,5
+1854,chirashi,0,1,4,5
+1855,sichuan,4,0,0,4
+1856,happy hour drink,4,0,0,4
+1857,pina coladas,4,0,0,4
+1858,wellington,4,0,0,4
+1859,lamb stew,4,0,0,4
+1860,hunkar begendi,4,0,0,4
+1861,dim sim,4,0,0,4
+1862,lunch choice,4,0,0,4
+1863,accommodate,4,0,0,4
+1864,pad see,4,0,0,4
+1865,thai ice tea,4,0,0,4
+1866,reheat,4,0,0,4
+1867,culinary,4,0,0,4
+1868,breakfast platter,4,0,0,4
+1869,sultan ' s delight,4,0,0,4
+1870,tasting,4,0,0,4
+1871,gyro plate,4,0,0,4
+1872,organize,4,0,0,4
+1873,halal food,4,0,0,4
+1874,restuarant,4,0,0,4
+1875,potato skin,4,0,0,4
+1876,cousine,4,0,0,4
+1877,seared tuna,4,0,0,4
+1878,grill chicken salad,4,0,0,4
+1879,mongolian,4,0,0,4
+1880,salmon dish,4,0,0,4
+1881,grilled pork,4,0,0,4
+1882,general tso chicken,4,0,0,4
+1883,dim sum option,4,0,0,4
+1884,arak,4,0,0,4
+1885,mei fun,4,0,0,4
+1886,veal dish,4,0,0,4
+1887,quenelle de brochet,4,0,0,4
+1888,creation,4,0,0,4
+1889,mixologist,4,0,0,4
+1890,kid menu,4,0,0,4
+1891,all you,4,0,0,4
+1892,pollo a la brasa,4,0,0,4
+1893,buzz,4,0,0,4
+1894,steak tartar,4,0,0,4
+1895,brunch deal,4,0,0,4
+1896,feeling,4,0,0,4
+1897,pulpo,4,0,0,4
+1898,wife,4,0,0,4
+1899,fountain,4,0,0,4
+1900,eating,4,0,0,4
+1901,atention,4,0,0,4
+1902,char,4,0,0,4
+1903,grill salmon,4,0,0,4
+1904,parantha,4,0,0,4
+1905,chana masala,4,0,0,4
+1906,potato bread,4,0,0,4
+1907,sundae,4,0,0,4
+1908,payment,4,0,0,4
+1909,grilled,4,0,0,4
+1910,comedian,4,0,0,4
+1911,calorie,4,0,0,4
+1912,pongal,4,0,0,4
+1913,chianti,4,0,0,4
+1914,fry ice cream,4,0,0,4
+1915,serivce,4,0,0,4
+1916,pastai,4,0,0,4
+1917,collection,4,0,0,4
+1918,grill meat,4,0,0,4
+1919,beef short rib,4,0,0,4
+1920,vegan dish,4,0,0,4
+1921,seafood option,4,0,0,4
+1922,fudge,4,0,0,4
+1923,caesar,4,0,0,4
+1924,chimis,4,0,0,4
+1925,decorated,4,0,0,4
+1926,gluten free,4,0,0,4
+1927,vegan menu,4,0,0,4
+1928,mackerel,4,0,0,4
+1929,char siu,4,0,0,4
+1930,thenthuk,4,0,0,4
+1931,pad cha,4,0,0,4
+1932,crabcake,4,0,0,4
+1933,soft,4,0,0,4
+1934,harp,4,0,0,4
+1935,paneer butter masala,4,0,0,4
+1936,ramen soup,4,0,0,4
+1937,mexican food,4,0,0,4
+1938,pozole,4,0,0,4
+1939,tempura cheesecake,4,0,0,4
+1940,fish selection,4,0,0,4
+1941,banquet room,4,0,0,4
+1942,vault,4,0,0,4
+1943,fried chicken wing,4,0,0,4
+1944,pasta fagioli soup,4,0,0,4
+1945,scarpiello,4,0,0,4
+1946,margherita pizza,4,0,0,4
+1947,veal special,4,0,0,4
+1948,gobi manchurian,4,0,0,4
+1949,non,4,0,0,4
+1950,srilankan food,4,0,0,4
+1951,salmon cake,3,1,0,4
+1952,service time,3,1,0,4
+1953,beet salad,3,1,0,4
+1954,s salad,3,1,0,4
+1955,kebabs,3,1,0,4
+1956,dim sum selection,3,1,0,4
+1957,sun,3,1,0,4
+1958,lunch service,3,1,0,4
+1959,dumplings,3,1,0,4
+1960,expirence,3,1,0,4
+1961,sauerkraut,3,1,0,4
+1962,kunafa,3,1,0,4
+1963,detail,3,1,0,4
+1964,checkout,3,1,0,4
+1965,photographer,3,1,0,4
+1966,shrimp tempura roll,3,1,0,4
+1967,vegetable roll,3,1,0,4
+1968,mocktail,3,1,0,4
+1969,egg drop soup,3,1,0,4
+1970,baba ganush,3,1,0,4
+1971,dining area,3,1,0,4
+1972,fish bowl,3,1,0,4
+1973,tortilla chip,3,1,0,4
+1974,steak tip,3,1,0,4
+1975,chicken chunk,3,1,0,4
+1976,pastry basket,3,1,0,4
+1977,papdi chat,3,1,0,4
+1978,lassis,3,1,0,4
+1979,paan,3,1,0,4
+1980,manchego,3,1,0,4
+1981,foid,3,1,0,4
+1982,sandwhich,3,1,0,4
+1983,bolon,3,1,0,4
+1984,cornbread,3,1,0,4
+1985,staff food,3,1,0,4
+1986,fry chicken wing,3,1,0,4
+1987,bossam,3,1,0,4
+1988,stock,3,1,0,4
+1989,soda bread,3,1,0,4
+1990,chicken pot pie,3,1,0,4
+1991,garlic bread stick,3,1,0,4
+1992,lightning,3,1,0,4
+1993,work,3,1,0,4
+1994,kale,3,1,0,4
+1995,bbq chicken,3,1,0,4
+1996,service atmosphere,3,1,0,4
+1997,chefs,3,1,0,4
+1998,appetizer plate,3,1,0,4
+1999,al pastor,3,1,0,4
+2000,chimichanga,3,1,0,4
+2001,antipasti,3,1,0,4
+2002,mezza,3,1,0,4
+2003,soba,3,1,0,4
+2004,escarole,3,1,0,4
+2005,lobster mac,3,1,0,4
+2006,ginger beer,3,1,0,4
+2007,seafood selection,3,1,0,4
+2008,tandoor,3,1,0,4
+2009,mirror,3,1,0,4
+2010,chili ’ s,3,1,0,4
+2011,picadera,3,1,0,4
+2012,paneer roll,3,1,0,4
+2013,rum,3,0,1,4
+2014,cantonese,3,0,1,4
+2015,hot & sour soup,3,0,1,4
+2016,dim - sum,3,0,1,4
+2017,jiang noodle,3,0,1,4
+2018,mataba,3,0,1,4
+2019,lava cake,3,0,1,4
+2020,pad tai,3,0,1,4
+2021,cosmo,3,0,1,4
+2022,fahsah,3,0,1,4
+2023,chai tea,3,0,1,4
+2024,gyro meat,3,0,1,4
+2025,lay out,3,0,1,4
+2026,entres,3,0,1,4
+2027,pork buns,3,0,1,4
+2028,parfait,3,0,1,4
+2029,potstickers,3,0,1,4
+2030,boba,3,0,1,4
+2031,mi sandwich,3,0,1,4
+2032,lettuce wrap,3,0,1,4
+2033,crispy duck roll,3,0,1,4
+2034,technique,3,0,1,4
+2035,buffet menu,3,0,1,4
+2036,kabab platter,3,0,1,4
+2037,small plate,3,0,1,4
+2038,choritos,3,0,1,4
+2039,banchans,3,0,1,4
+2040,corn beef,3,0,1,4
+2041,beef tartar,3,0,1,4
+2042,t,3,0,1,4
+2043,deli,3,0,1,4
+2044,sampler platter,3,0,1,4
+2045,chicken special,3,0,1,4
+2046,banana split,3,0,1,4
+2047,chicken caesar salad,3,0,1,4
+2048,kulcha,3,0,1,4
+2049,croquet,3,0,1,4
+2050,calamari salad,3,0,1,4
+2051,art work,3,0,1,4
+2052,pizzas,3,0,1,4
+2053,tarte tatin,3,0,1,4
+2054,ramen dish,3,0,1,4
+2055,margaritas,3,0,1,4
+2056,arroz con,3,0,1,4
+2057,croque monsieur,3,0,1,4
+2058,pomme frites,3,0,1,4
+2059,seekh kabob,3,0,1,4
+2060,bahn mi sandwich,3,0,1,4
+2061,thai basil,3,0,1,4
+2062,kbbq,3,0,1,4
+2063,tso ' s chicken,2,2,0,4
+2064,hen,2,2,0,4
+2065,bean curd,2,2,0,4
+2066,pork dish,2,2,0,4
+2067,sparerib,2,2,0,4
+2068,clerk,2,2,0,4
+2069,kung pao,2,2,0,4
+2070,fin,2,2,0,4
+2071,sause,2,2,0,4
+2072,host staff,2,2,0,4
+2073,prayer,2,2,0,4
+2074,train,2,2,0,4
+2075,general tso,2,2,0,4
+2076,background,2,2,0,4
+2077,booking,2,2,0,4
+2078,dinning room,2,2,0,4
+2079,stair,2,2,0,4
+2080,leek,2,2,0,4
+2081,lobster salad,2,2,0,4
+2082,filet of sole,2,2,0,4
+2083,delivery person,2,2,0,4
+2084,sit arrangement,2,2,0,4
+2085,availability,2,2,0,4
+2086,surface,2,2,0,4
+2087,daiquiri,2,2,0,4
+2088,tone,2,2,0,4
+2089,pakoda,2,2,0,4
+2090,chilly,2,2,0,4
+2091,pakoras,2,2,0,4
+2092,cioppino,2,2,0,4
+2093,truffle,2,2,0,4
+2094,cilantro,2,2,0,4
+2095,veal parm,2,2,0,4
+2096,bolognese sauce,2,2,0,4
+2097,taker,2,2,0,4
+2098,food preparation,2,2,0,4
+2099,poke bowl,2,2,0,4
+2100,enchiladas,2,2,0,4
+2101,tso chicken,2,1,1,4
+2102,japanese,2,1,1,4
+2103,transaction,2,1,1,4
+2104,iced,2,1,1,4
+2105,pad kee mow,2,1,1,4
+2106,tast,2,1,1,4
+2107,lebne,2,1,1,4
+2108,gyozas,2,1,1,4
+2109,brulee,2,1,1,4
+2110,material,2,1,1,4
+2111,tom yum soup,2,1,1,4
+2112,sour soup,2,1,1,4
+2113,candle,2,1,1,4
+2114,pizza dough,2,1,1,4
+2115,papad,2,1,1,4
+2116,buratta,2,1,1,4
+2117,panner,2,1,1,4
+2118,milk shake,2,1,1,4
+2119,jjampong,2,1,1,4
+2120,head chef,2,1,1,4
+2121,lamb rib,2,1,1,4
+2122,potatoe,2,1,1,4
+2123,taco al pastor,2,1,1,4
+2124,sushi / sashimi,2,1,1,4
+2125,broccolini,2,1,1,4
+2126,paelha,2,1,1,4
+2127,karhai,2,1,1,4
+2128,dan dan noodle,2,0,2,4
+2129,oxtail dumpling,2,0,2,4
+2130,asian,2,0,2,4
+2131,spring chicken,2,0,2,4
+2132,chop suey,2,0,2,4
+2133,brie,2,0,2,4
+2134,sui mai,2,0,2,4
+2135,pide,2,0,2,4
+2136,combo plate,2,0,2,4
+2137,savory,2,0,2,4
+2138,pot pie,2,0,2,4
+2139,distance,2,0,2,4
+2140,frozen drink,2,0,2,4
+2141,iftar buffet,2,0,2,4
+2142,cold cut,2,0,2,4
+2143,dahi puri,2,0,2,4
+2144,arctic char,2,0,2,4
+2145,fixe,2,0,2,4
+2146,board,2,0,2,4
+2147,lasagna classico,2,0,2,4
+2148,s pie,2,0,2,4
+2149,vegetarian platter,2,0,2,4
+2150,combo platter,2,0,2,4
+2151,fattoush,2,0,2,4
+2152,bhorta,2,0,2,4
+2153,kottu,2,0,2,4
+2154,mutton roll,2,0,2,4
+2155,court,2,0,2,4
+2156,moo shu pork,1,3,0,4
+2157,frosting,1,3,0,4
+2158,heating,1,3,0,4
+2159,roof,1,3,0,4
+2160,stall,1,3,0,4
+2161,sink,1,3,0,4
+2162,long island iced tea,1,3,0,4
+2163,sugar,1,3,0,4
+2164,video,1,3,0,4
+2165,inventory,1,3,0,4
+2166,of,1,3,0,4
+2167,curd,1,3,0,4
+2168,hainanese chicken,1,3,0,4
+2169,nasi lemak,1,3,0,4
+2170,street,1,2,1,4
+2171,intestine,1,2,1,4
+2172,pricey,1,2,1,4
+2173,clothes,1,2,1,4
+2174,mai tai,1,2,1,4
+2175,cacciatore,1,2,1,4
+2176,wait person,1,2,1,4
+2177,card,1,2,1,4
+2178,towel,1,2,1,4
+2179,pineapple,1,2,1,4
+2180,somosa,1,2,1,4
+2181,har gow,1,1,2,4
+2182,vinaigrette,1,1,2,4
+2183,cash register,1,1,2,4
+2184,mixed veggie,1,1,2,4
+2185,transportation,1,1,2,4
+2186,fried catfish,1,1,2,4
+2187,tenderloin,1,1,2,4
+2188,banquet,1,1,2,4
+2189,tonkatsu,1,1,2,4
+2190,lolipop,1,1,2,4
+2191,appitizers,1,1,2,4
+2192,congee,1,1,2,4
+2193,coq au vin,1,0,3,4
+2194,tonic,1,0,3,4
+2195,caldo,1,0,3,4
+2196,fried mozzarella,1,0,3,4
+2197,maki,1,0,3,4
+2198,sound system,0,4,0,4
+2199,cushion,0,4,0,4
+2200,walkway,0,4,0,4
+2201,urinal,0,4,0,4
+2202,delay,0,4,0,4
+2203,tablet,0,4,0,4
+2204,cash,0,4,0,4
+2205,hand dryer,0,4,0,4
+2206,msg,0,3,1,4
+2207,labor,0,3,1,4
+2208,road,0,3,1,4
+2209,tipping,0,3,1,4
+2210,delivery fee,0,3,1,4
+2211,rent,0,3,1,4
+2212,crab legs,0,2,2,4
+2213,pad thai noodle,0,2,2,4
+2214,dairy,0,2,2,4
+2215,fried shrimp,0,2,2,4
+2216,mai,0,2,2,4
+2217,long bao,0,1,3,4
+2218,biriani,0,1,3,4
+2219,cold appetizer,0,0,4,4
+2220,service lady,3,0,0,3
+2221,lunch special menu,3,0,0,3
+2222,chili oil,3,0,0,3
+2223,tao,3,0,0,3
+2224,lunch set,3,0,0,3
+2225,advice,3,0,0,3
+2226,tempura fish cake,3,0,0,3
+2227,gina,3,0,0,3
+2228,jerk wing,3,0,0,3
+2229,fried squid,3,0,0,3
+2230,hoagy,3,0,0,3
+2231,seat space,3,0,0,3
+2232,stir,3,0,0,3
+2233,mix platter,3,0,0,3
+2234,calf ’ s liver,3,0,0,3
+2235,turkish delight,3,0,0,3
+2236,dinner option,3,0,0,3
+2237,pot sticker,3,0,0,3
+2238,park space,3,0,0,3
+2239,variety of,3,0,0,3
+2240,steam bun,3,0,0,3
+2241,soy,3,0,0,3
+2242,jam,3,0,0,3
+2243,kha soup,3,0,0,3
+2244,pad ki mao,3,0,0,3
+2245,esthetic,3,0,0,3
+2246,cocktail option,3,0,0,3
+2247,taco salad,3,0,0,3
+2248,sauvignon blanc,3,0,0,3
+2249,atmosphere service,3,0,0,3
+2250,lamb liver,3,0,0,3
+2251,vegetable dish,3,0,0,3
+2252,fateh,3,0,0,3
+2253,variety of dish,3,0,0,3
+2254,fish tank,3,0,0,3
+2255,nazik,3,0,0,3
+2256,ali nazik,3,0,0,3
+2257,cacik,3,0,0,3
+2258,wood,3,0,0,3
+2259,fried dumpling,3,0,0,3
+2260,cone,3,0,0,3
+2261,day,3,0,0,3
+2262,fried chicken sandwich,3,0,0,3
+2263,crispy beef,3,0,0,3
+2264,aioli,3,0,0,3
+2265,busser,3,0,0,3
+2266,rainbow roll,3,0,0,3
+2267,tao - tini,3,0,0,3
+2268,club,3,0,0,3
+2269,fortune cookie dessert,3,0,0,3
+2270,chicken dumpling,3,0,0,3
+2271,curry beef,3,0,0,3
+2272,grilled beef,3,0,0,3
+2273,combination,3,0,0,3
+2274,skyline,3,0,0,3
+2275,served,3,0,0,3
+2276,chive,3,0,0,3
+2277,muhamarra,3,0,0,3
+2278,wine collection,3,0,0,3
+2279,seating option,3,0,0,3
+2280,seating space,3,0,0,3
+2281,kebab sandwich,3,0,0,3
+2282,kofta kabab,3,0,0,3
+2283,fried cheese,3,0,0,3
+2284,fillet,3,0,0,3
+2285,macaron,3,0,0,3
+2286,morel,3,0,0,3
+2287,interaction,3,0,0,3
+2288,start,3,0,0,3
+2289,sushi menu,3,0,0,3
+2290,hang,3,0,0,3
+2291,everybody,3,0,0,3
+2292,yuca frita,3,0,0,3
+2293,tallarin verde,3,0,0,3
+2294,bread roll,3,0,0,3
+2295,plan,3,0,0,3
+2296,grilled pork chop,3,0,0,3
+2297,popcorn,3,0,0,3
+2298,chicken parm sub,3,0,0,3
+2299,rolatini,3,0,0,3
+2300,chicken adana,3,0,0,3
+2301,aunty,3,0,0,3
+2302,sultani plater,3,0,0,3
+2303,grilled platter,3,0,0,3
+2304,lahmacun,3,0,0,3
+2305,rest,3,0,0,3
+2306,humor,3,0,0,3
+2307,churasco,3,0,0,3
+2308,patatas,3,0,0,3
+2309,steak salad,3,0,0,3
+2310,napoleon,3,0,0,3
+2311,baked clam,3,0,0,3
+2312,character,3,0,0,3
+2313,tiramisu cake,3,0,0,3
+2314,atomsphere,3,0,0,3
+2315,shawarma wrap,3,0,0,3
+2316,mixed plate,3,0,0,3
+2317,octopus starter,3,0,0,3
+2318,bloody mary bar,3,0,0,3
+2319,food staff,3,0,0,3
+2320,paella valenciana,3,0,0,3
+2321,daughter,3,0,0,3
+2322,bap,3,0,0,3
+2323,korean,3,0,0,3
+2324,jjigae,3,0,0,3
+2325,angel hair,3,0,0,3
+2326,shepard,3,0,0,3
+2327,irish pub,3,0,0,3
+2328,baba,3,0,0,3
+2329,crispy chicken,3,0,0,3
+2330,italian margarita,3,0,0,3
+2331,front desk staff,3,0,0,3
+2332,menu variety,3,0,0,3
+2333,borshch,3,0,0,3
+2334,borsht,3,0,0,3
+2335,community,3,0,0,3
+2336,burrata salad,3,0,0,3
+2337,ball soup,3,0,0,3
+2338,smorgasbord,3,0,0,3
+2339,breakfast / lunch,3,0,0,3
+2340,food people,3,0,0,3
+2341,lamb saag,3,0,0,3
+2342,tika masala,3,0,0,3
+2343,pepe,3,0,0,3
+2344,fluke crudo,3,0,0,3
+2345,decorate space,3,0,0,3
+2346,cacio,3,0,0,3
+2347,outdoors,3,0,0,3
+2348,sea,3,0,0,3
+2349,cosmos,3,0,0,3
+2350,atmosphere food,3,0,0,3
+2351,green salad,3,0,0,3
+2352,spacing,3,0,0,3
+2353,food prep,3,0,0,3
+2354,great,3,0,0,3
+2355,tiki bar,3,0,0,3
+2356,fish dinner,3,0,0,3
+2357,ziti al forno,3,0,0,3
+2358,sambusa,3,0,0,3
+2359,kitfo,3,0,0,3
+2360,ethiopian cuisine,3,0,0,3
+2361,uttapam,3,0,0,3
+2362,coordinator,3,0,0,3
+2363,vinod,3,0,0,3
+2364,idlis,3,0,0,3
+2365,cigar,3,0,0,3
+2366,eatery,3,0,0,3
+2367,mug,3,0,0,3
+2368,stromboli,3,0,0,3
+2369,ford,3,0,0,3
+2370,shortcake,3,0,0,3
+2371,lunch spot,3,0,0,3
+2372,seafood choice,3,0,0,3
+2373,chicken alfredo,3,0,0,3
+2374,tomahawk,3,0,0,3
+2375,anna,3,0,0,3
+2376,mekanek,3,0,0,3
+2377,eggnog waffle,3,0,0,3
+2378,bihari kabab,3,0,0,3
+2379,cha,3,0,0,3
+2380,faluda,3,0,0,3
+2381,pommes frites,3,0,0,3
+2382,lunch place,3,0,0,3
+2383,meatball app,3,0,0,3
+2384,veal milanese,3,0,0,3
+2385,pre,3,0,0,3
+2386,kimchi stew,3,0,0,3
+2387,veggy,3,0,0,3
+2388,momo ’ s,3,0,0,3
+2389,sopa de re,3,0,0,3
+2390,beyti kebab,3,0,0,3
+2391,owner / chef,3,0,0,3
+2392,popusas,3,0,0,3
+2393,food experience,3,0,0,3
+2394,cuban coffee,3,0,0,3
+2395,scallop potato,3,0,0,3
+2396,consome,3,0,0,3
+2397,celebration,3,0,0,3
+2398,malabi,3,0,0,3
+2399,pepperoni roll,3,0,0,3
+2400,sicilian,3,0,0,3
+2401,sorrentina,3,0,0,3
+2402,mixed fried rice,3,0,0,3
+2403,oxtail stew,3,0,0,3
+2404,kathi roll,3,0,0,3
+2405,bake n shark,3,0,0,3
+2406,chicken patty,3,0,0,3
+2407,donkatsu,3,0,0,3
+2408,papa,3,0,0,3
+2409,cecina,3,0,0,3
+2410,veal francese,3,0,0,3
+2411,ceviches,3,0,0,3
+2412,sing,3,0,0,3
+2413,pita chip,3,0,0,3
+2414,crablegs,3,0,0,3
+2415,waffle fry,3,0,0,3
+2416,bun bo hue,3,0,0,3
+2417,shahwarma,3,0,0,3
+2418,drunken fried rice,3,0,0,3
+2419,cashier girl,3,0,0,3
+2420,kadai paneer,3,0,0,3
+2421,parihuela,3,0,0,3
+2422,short rib pappardelle,3,0,0,3
+2423,produce variety,3,0,0,3
+2424,pot roast,3,0,0,3
+2425,attentiveness,2,1,0,3
+2426,athmosphere,2,1,0,3
+2427,customer care,2,1,0,3
+2428,lo mien,2,1,0,3
+2429,crab cake appetizer,2,1,0,3
+2430,confit,2,1,0,3
+2431,iskender kebab,2,1,0,3
+2432,description,2,1,0,3
+2433,serve staff,2,1,0,3
+2434,mandi,2,1,0,3
+2435,aba combo,2,1,0,3
+2436,tzatziki,2,1,0,3
+2437,menemen,2,1,0,3
+2438,dumplin,2,1,0,3
+2439,drink list,2,1,0,3
+2440,fried snapper,2,1,0,3
+2441,owner / management,2,1,0,3
+2442,people watch,2,1,0,3
+2443,curry sauce,2,1,0,3
+2444,scale,2,1,0,3
+2445,knafe,2,1,0,3
+2446,fill,2,1,0,3
+2447,spicy,2,1,0,3
+2448,veal tongue,2,1,0,3
+2449,duck leg,2,1,0,3
+2450,structure,2,1,0,3
+2451,crow,2,1,0,3
+2452,management staff,2,1,0,3
+2453,service manager,2,1,0,3
+2454,alcohol selection,2,1,0,3
+2455,aperitif,2,1,0,3
+2456,subway,2,1,0,3
+2457,waitress staff,2,1,0,3
+2458,chicken piccata,2,1,0,3
+2459,in,2,1,0,3
+2460,sweet shop,2,1,0,3
+2461,kabab roll,2,1,0,3
+2462,plater,2,1,0,3
+2463,papri chat,2,1,0,3
+2464,papdi chaat,2,1,0,3
+2465,offer,2,1,0,3
+2466,gamba,2,1,0,3
+2467,scallopini,2,1,0,3
+2468,fritta,2,1,0,3
+2469,sharma,2,1,0,3
+2470,steak sandwich,2,1,0,3
+2471,paneer curry,2,1,0,3
+2472,barman,2,1,0,3
+2473,guinness,2,1,0,3
+2474,cocktail drink,2,1,0,3
+2475,lasagna fritta,2,1,0,3
+2476,lasagna fritter,2,1,0,3
+2477,budino,2,1,0,3
+2478,parmigian,2,1,0,3
+2479,tower,2,1,0,3
+2480,pasta bowl,2,1,0,3
+2481,wine choice,2,1,0,3
+2482,greek combo,2,1,0,3
+2483,braised beef short rib,2,1,0,3
+2484,gumbo,2,1,0,3
+2485,branzini,2,1,0,3
+2486,top sirloin,2,1,0,3
+2487,pico,2,1,0,3
+2488,fettuccini,2,1,0,3
+2489,beef dish,2,1,0,3
+2490,penne ala,2,1,0,3
+2491,rigatoni bolognese,2,1,0,3
+2492,contadina,2,1,0,3
+2493,appams,2,1,0,3
+2494,dosai,2,1,0,3
+2495,medhu vada,2,1,0,3
+2496,london broil,2,1,0,3
+2497,tuna melt,2,1,0,3
+2498,omlette,2,1,0,3
+2499,door man,2,1,0,3
+2500,tangsuyuk,2,1,0,3
+2501,jjamppong,2,1,0,3
+2502,jajangmyun,2,1,0,3
+2503,accoutrement,2,1,0,3
+2504,kadhi,2,1,0,3
+2505,pasta special,2,1,0,3
+2506,entree portion,2,1,0,3
+2507,roast beef,2,1,0,3
+2508,oreganata,2,1,0,3
+2509,turn around,2,1,0,3
+2510,mofongos,2,1,0,3
+2511,dancer,2,1,0,3
+2512,melba,2,1,0,3
+2513,filet mignons,2,1,0,3
+2514,eggplant roll,2,1,0,3
+2515,crowd management,2,1,0,3
+2516,bhuna,2,1,0,3
+2517,health,2,1,0,3
+2518,appetizer combo,2,1,0,3
+2519,milanese,2,1,0,3
+2520,chicken broccoli,2,1,0,3
+2521,cheesecake dessert,2,1,0,3
+2522,access,2,1,0,3
+2523,food arrive,2,1,0,3
+2524,ballroom,2,1,0,3
+2525,arroz con gandules,2,1,0,3
+2526,tapioca,2,1,0,3
+2527,croque,2,1,0,3
+2528,waakye,2,1,0,3
+2529,samgyetang,2,1,0,3
+2530,jalepeno,2,1,0,3
+2531,khasta kachori,2,1,0,3
+2532,frankie,2,1,0,3
+2533,penne pasta,2,1,0,3
+2534,gajar ka halwa,2,1,0,3
+2535,baguette delite,2,1,0,3
+2536,filter coffee,2,1,0,3
+2537,rava dosa,2,1,0,3
+2538,mariachi,2,1,0,3
+2539,seared foie gras,2,0,1,3
+2540,lamb shish,2,0,1,3
+2541,tom kha gai,2,0,1,3
+2542,rama,2,0,1,3
+2543,happy hour cocktail,2,0,1,3
+2544,pad ke mao,2,0,1,3
+2545,yemeni food,2,0,1,3
+2546,food item,2,0,1,3
+2547,lamb soup,2,0,1,3
+2548,pork shoulder,2,0,1,3
+2549,dumpling soup,2,0,1,3
+2550,mains,2,0,1,3
+2551,strip steak,2,0,1,3
+2552,parpadelle,2,0,1,3
+2553,vendor,2,0,1,3
+2554,chicken and waffle,2,0,1,3
+2555,ambiente,2,0,1,3
+2556,fillet of sole,2,0,1,3
+2557,lager,2,0,1,3
+2558,fatoush,2,0,1,3
+2559,hummas,2,0,1,3
+2560,tarte,2,0,1,3
+2561,blanc,2,0,1,3
+2562,lox,2,0,1,3
+2563,pollo a,2,0,1,3
+2564,brasa,2,0,1,3
+2565,sound level,2,0,1,3
+2566,projector,2,0,1,3
+2567,portobello,2,0,1,3
+2568,chicken gyro,2,0,1,3
+2569,babaganush,2,0,1,3
+2570,kebab entree,2,0,1,3
+2571,dal tadka,2,0,1,3
+2572,lunch price,2,0,1,3
+2573,soon tofu,2,0,1,3
+2574,sport,2,0,1,3
+2575,omelettes,2,0,1,3
+2576,crabcakes,2,0,1,3
+2577,fry zucchini,2,0,1,3
+2578,sourdough,2,0,1,3
+2579,paneer makhni,2,0,1,3
+2580,ghee roast,2,0,1,3
+2581,rasam,2,0,1,3
+2582,fashion,2,0,1,3
+2583,saltimbocca,2,0,1,3
+2584,tartares,2,0,1,3
+2585,makis,2,0,1,3
+2586,pool table,2,0,1,3
+2587,pico de gallo,2,0,1,3
+2588,prix,2,0,1,3
+2589,jajangmyeon,2,0,1,3
+2590,kadhai,2,0,1,3
+2591,zuppa di pesce,2,0,1,3
+2592,pasta bolognese,2,0,1,3
+2593,cream spinach,2,0,1,3
+2594,haloumi,2,0,1,3
+2595,filo,2,0,1,3
+2596,general tso ' s,2,0,1,3
+2597,kadayif,2,0,1,3
+2598,table setting,2,0,1,3
+2599,samosas,2,0,1,3
+2600,halim,2,0,1,3
+2601,bone marrow,2,0,1,3
+2602,deviled egg,2,0,1,3
+2603,s ' more,2,0,1,3
+2604,mofonguitos,2,0,1,3
+2605,palomilla,2,0,1,3
+2606,yucca fry,2,0,1,3
+2607,microwave,2,0,1,3
+2608,bhutan,2,0,1,3
+2609,shapta,2,0,1,3
+2610,ramen bar,2,0,1,3
+2611,sushi quality,2,0,1,3
+2612,katsu,2,0,1,3
+2613,lobby,2,0,1,3
+2614,cheese board,2,0,1,3
+2615,pianist,2,0,1,3
+2616,comedy night,2,0,1,3
+2617,rotti,2,0,1,3
+2618,sukiyaki,2,0,1,3
+2619,juanes,2,0,1,3
+2620,chingri,2,0,1,3
+2621,makhni,2,0,1,3
+2622,lengua,2,0,1,3
+2623,sopes,2,0,1,3
+2624,chaats,2,0,1,3
+2625,kali mirch,2,0,1,3
+2626,sambal,2,0,1,3
+2627,peking roast duck,1,2,0,3
+2628,front desk lady,1,2,0,3
+2629,condition,1,2,0,3
+2630,siumai,1,2,0,3
+2631,honey,1,2,0,3
+2632,serve time,1,2,0,3
+2633,beignet,1,2,0,3
+2634,priced,1,2,0,3
+2635,front,1,2,0,3
+2636,poached egg,1,2,0,3
+2637,kibeh,1,2,0,3
+2638,foie,1,2,0,3
+2639,amuse bouche,1,2,0,3
+2640,happy hour menu,1,2,0,3
+2641,front of,1,2,0,3
+2642,delivery people,1,2,0,3
+2643,meat quality,1,2,0,3
+2644,pepsi,1,2,0,3
+2645,chaufa rice,1,2,0,3
+2646,chaulafan,1,2,0,3
+2647,counter girl,1,2,0,3
+2648,jigae,1,2,0,3
+2649,italian dressing,1,2,0,3
+2650,draft,1,2,0,3
+2651,portioning,1,2,0,3
+2652,bucatini cacio e pepe,1,2,0,3
+2653,pours,1,2,0,3
+2654,advertising,1,2,0,3
+2655,mondongo,1,2,0,3
+2656,cat,1,2,0,3
+2657,turnaround,1,2,0,3
+2658,carbonara sauce,1,2,0,3
+2659,ribs,1,2,0,3
+2660,group,1,2,0,3
+2661,sidewalk,1,2,0,3
+2662,italian bread,1,2,0,3
+2663,dipping,1,2,0,3
+2664,poulet roti,1,2,0,3
+2665,juane,1,2,0,3
+2666,salchipapa,1,2,0,3
+2667,handi,1,2,0,3
+2668,chow mein noodle,1,1,1,3
+2669,wall paper,1,1,1,3
+2670,partition,1,1,1,3
+2671,babaganosh,1,1,1,3
+2672,hummos,1,1,1,3
+2673,pant,1,1,1,3
+2674,whip cream,1,1,1,3
+2675,shrimp appetizer,1,1,1,3
+2676,avocado roll,1,1,1,3
+2677,lo - mein,1,1,1,3
+2678,pizza sauce,1,1,1,3
+2679,mozarella stick,1,1,1,3
+2680,shellfish,1,1,1,3
+2681,menus,1,1,1,3
+2682,svc,1,1,1,3
+2683,height,1,1,1,3
+2684,masala chai,1,1,1,3
+2685,homefries,1,1,1,3
+2686,smelt,1,1,1,3
+2687,kalamari,1,1,1,3
+2688,pollo guisado,1,1,1,3
+2689,sushi platter,1,1,1,3
+2690,television,1,1,1,3
+2691,lech cake,1,1,1,3
+2692,jjajang,1,1,1,3
+2693,malai,1,1,1,3
+2694,parm hero,1,1,1,3
+2695,paccheri,1,1,1,3
+2696,cab,1,1,1,3
+2697,mouhamara,1,1,1,3
+2698,fruit punch,1,1,1,3
+2699,tehari,1,1,1,3
+2700,chicharon,1,1,1,3
+2701,oreganato,1,1,1,3
+2702,kimchee,1,1,1,3
+2703,lech,1,1,1,3
+2704,seaweed salad,1,1,1,3
+2705,sopa,1,1,1,3
+2706,color scheme,1,1,1,3
+2707,libretto,1,1,1,3
+2708,appitizer,1,1,1,3
+2709,effort,1,1,1,3
+2710,antipasto salad,1,1,1,3
+2711,channa,1,1,1,3
+2712,fried seafood,1,1,1,3
+2713,swarma,1,1,1,3
+2714,malai boti,1,1,1,3
+2715,sajji pulao,1,1,1,3
+2716,croaker,1,0,2,3
+2717,pig,1,0,2,3
+2718,kua gling,1,0,2,3
+2719,see ew,1,0,2,3
+2720,sunglass,1,0,2,3
+2721,muhamara,1,0,2,3
+2722,duckling,1,0,2,3
+2723,direction,1,0,2,3
+2724,skirt steak,1,0,2,3
+2725,cheese platter,1,0,2,3
+2726,fry wonton,1,0,2,3
+2727,paillard,1,0,2,3
+2728,grilled chicken breast,1,0,2,3
+2729,coffe,1,0,2,3
+2730,yellowtail,1,0,2,3
+2731,venison,1,0,2,3
+2732,rotini,1,0,2,3
+2733,boregi,1,0,2,3
+2734,class,1,0,2,3
+2735,soul roll,1,0,2,3
+2736,chimichurri,1,0,2,3
+2737,pancetta,1,0,2,3
+2738,expense,1,0,2,3
+2739,katsu curry,1,0,2,3
+2740,churro,1,0,2,3
+2741,buffet line,1,0,2,3
+2742,mazemen,1,0,2,3
+2743,sashimi plate,1,0,2,3
+2744,latte,1,0,2,3
+2745,ranch,1,0,2,3
+2746,dhalpuri,1,0,2,3
+2747,veal parmesan,1,0,2,3
+2748,shinwari karahi,1,0,2,3
+2749,comment,0,3,0,3
+2750,table space,0,3,0,3
+2751,morada,0,3,0,3
+2752,coladas,0,3,0,3
+2753,maitre,0,3,0,3
+2754,de gallina,0,3,0,3
+2755,change,0,3,0,3
+2756,uber,0,3,0,3
+2757,linen,0,3,0,3
+2758,associate,0,3,0,3
+2759,mic,0,3,0,3
+2760,chole,0,3,0,3
+2761,call,0,3,0,3
+2762,jjajangmyun,0,3,0,3
+2763,sanitary,0,3,0,3
+2764,diarrhea,0,3,0,3
+2765,seaweed,0,3,0,3
+2766,plumbing,0,3,0,3
+2767,service tax,0,3,0,3
+2768,stench,0,3,0,3
+2769,number,0,2,1,3
+2770,lunch crowd,0,2,1,3
+2771,wok,0,2,1,3
+2772,corkage fee,0,2,1,3
+2773,kefta,0,2,1,3
+2774,brunch buffet,0,2,1,3
+2775,map,0,2,1,3
+2776,gazpacho,0,2,1,3
+2777,jean,0,2,1,3
+2778,pressure,0,2,1,3
+2779,tap,0,2,1,3
+2780,hear,0,2,1,3
+2781,meter,0,2,1,3
+2782,danish,0,2,1,3
+2783,gras,0,1,2,3
+2784,tartar sauce,0,1,2,3
+2785,supervision,0,1,2,3
+2786,plaintains,0,1,2,3
+2787,charcuterie board,0,1,2,3
+2788,chicken paprikash,0,1,2,3
+2789,calmari,0,1,2,3
+2790,reserve,0,1,2,3
+2791,spagetti,0,1,2,3
+2792,dabeli,0,1,2,3
+2793,salmon steak,0,0,3,3
+2794,banner,0,0,3,3
+2795,fry ravioli,0,0,3,3
+2796,regina,0,0,3,3

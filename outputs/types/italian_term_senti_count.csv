@@ -1,0 +1,2120 @@
+ID,Term,POS,NEG,NEU,TOTAL
+0,food,3977,741,328,5046
+1,service,2299,666,105,3070
+2,staff,903,158,27,1088
+3,server,520,215,27,762
+4,waiter,342,288,27,657
+5,salad,351,171,124,646
+6,waitress,322,242,17,581
+7,atmosphere,501,21,13,535
+8,pasta,293,164,78,535
+9,price,340,140,50,530
+10,drink,243,91,64,398
+11,menu,163,91,67,321
+12,portion,228,64,17,309
+13,pizza,227,24,37,288
+14,soup,137,68,67,272
+15,breadstick,126,104,42,272
+16,wait,36,181,30,247
+17,reservation,28,82,121,231
+18,bread,118,72,28,218
+19,appetizer,112,53,53,218
+20,manager,73,117,7,197
+21,sauce,88,83,15,186
+22,dinner,132,10,39,181
+23,dessert,120,30,25,175
+24,wine,113,23,34,170
+25,bread stick,85,56,29,170
+26,calamari,80,57,30,167
+27,table,37,89,29,155
+28,chicken,57,71,22,150
+29,ambiance,132,6,4,142
+30,lunch,69,4,61,134
+31,wait staff,104,22,3,129
+32,meal,111,6,10,127
+33,hostess,36,80,10,126
+34,wait time,32,69,21,122
+35,entree,51,36,32,119
+36,quality,41,61,16,118
+37,owner,99,11,7,117
+38,lasagna,60,37,17,114
+39,steak,44,38,14,96
+40,experience,82,10,1,93
+41,alfredo,36,38,14,88
+42,decor,74,7,4,85
+43,music,70,10,3,83
+44,bartender,51,29,1,81
+45,ravioli,56,11,11,78
+46,location,61,11,5,77
+47,flavor,38,37,2,77
+48,spaghetti,38,25,12,75
+49,host,33,39,3,75
+50,environment,67,5,2,74
+51,bathroom,19,49,2,70
+52,salmon,39,22,8,69
+53,ambience,66,2,0,68
+54,people,60,5,3,68
+55,dish,47,10,7,64
+56,parking,40,17,7,64
+57,meatball,40,12,11,63
+58,shrimp,29,28,6,63
+59,chef,42,17,2,61
+60,cuisine,55,4,1,60
+61,shrimp scampi,30,19,10,59
+62,carbonara,31,20,7,58
+63,cocktail,45,4,4,53
+64,tiramisu,37,8,8,53
+65,chicken parm,26,17,9,52
+66,plate,14,30,7,51
+67,bar,35,8,6,49
+68,italian,41,1,6,48
+69,cake,31,9,8,48
+70,tip,14,27,7,48
+71,taste,30,16,1,47
+72,special,31,6,9,46
+73,management,17,29,0,46
+74,employee,27,17,1,45
+75,park,22,14,9,45
+76,bill,10,31,4,45
+77,selection,35,6,2,43
+78,parm,16,22,5,43
+79,sangria,30,10,1,41
+80,desert,27,8,6,41
+81,time,8,31,2,41
+82,vibe,38,1,0,39
+83,brunch,23,5,11,39
+84,seat,19,15,4,38
+85,veal,15,12,11,38
+86,pork chop,30,3,4,37
+87,presentation,25,11,1,37
+88,seating,25,10,1,36
+89,garlic bread,23,4,8,35
+90,food quality,13,17,5,35
+91,gnocchi,25,4,5,34
+92,crowd,11,15,8,34
+93,value,29,3,1,33
+94,chicken marsala,20,7,6,33
+95,main,12,12,9,33
+96,mussel,21,3,8,32
+97,coffee,17,12,3,32
+98,place,26,3,2,31
+99,parmigiana,16,4,11,31
+100,floor,1,27,2,30
+101,minute,1,26,3,30
+102,risotto,18,9,2,29
+103,crust,18,8,3,29
+104,delivery,12,12,5,29
+105,cheese,11,12,6,29
+106,hospitality,27,1,0,28
+107,space,21,6,1,28
+108,smell,5,22,1,28
+109,room,22,3,2,27
+110,cheesecake,19,5,3,27
+111,margarita,17,9,1,27
+112,scampi,12,11,4,27
+113,lady,18,8,0,26
+114,main course,17,8,1,26
+115,fish,16,8,2,26
+116,fettuccine alfredo,9,13,4,26
+117,hour,1,24,1,26
+118,restaurant,24,0,1,25
+119,wine selection,21,0,4,25
+120,worker,16,8,1,25
+121,portion size,15,9,1,25
+122,clam,15,7,3,25
+123,girl,6,18,1,25
+124,pie,17,5,2,24
+125,waitstaff,16,7,1,24
+126,fry,15,7,2,24
+127,pasta dish,18,3,2,23
+128,penne vodka,15,6,2,23
+129,meat,11,9,3,23
+130,mozzarella stick,11,6,6,23
+131,dip,10,9,4,23
+132,restroom,10,8,5,23
+133,fettuccine,7,11,5,23
+134,seafood,16,4,2,22
+135,scallop,14,7,1,22
+136,antipasto,8,7,7,22
+137,fare,8,6,8,22
+138,check,4,11,7,22
+139,rigatoni,12,6,3,21
+140,view,20,0,0,20
+141,ingredient,17,3,0,20
+142,choice,17,2,1,20
+143,ragu,12,4,4,20
+144,refill,9,9,2,20
+145,burrata,17,1,1,19
+146,serving,16,2,1,19
+147,martini,14,3,2,19
+148,minestrone soup,12,7,0,19
+149,octopus,9,5,5,19
+150,sausage,7,7,5,19
+151,order,4,15,0,19
+152,marsala,4,12,3,19
+153,silverware,0,18,1,19
+154,decorate,18,0,0,18
+155,karaoke,16,0,2,18
+156,entertainment,15,1,2,18
+157,apps,11,4,3,18
+158,crepe,17,0,0,17
+159,bread pudding,15,0,2,17
+160,short rib,12,3,2,17
+161,filet mignon,10,4,3,17
+162,penne,9,2,6,17
+163,beer,8,3,6,17
+164,dressing,7,10,0,17
+165,line,7,9,1,17
+166,attention,14,2,0,16
+167,caesar salad,11,0,5,16
+168,ziti,9,6,1,16
+169,chair,3,11,2,16
+170,utensil,1,15,0,16
+171,napkin,1,13,2,16
+172,fork,0,16,0,16
+173,variety,14,1,0,15
+174,dining,13,0,2,15
+175,wine list,12,1,2,15
+176,cappuccino,11,4,0,15
+177,bolognese,11,3,1,15
+178,chicken parmigiana,11,1,3,15
+179,serve,10,5,0,15
+180,pricing,9,3,3,15
+181,broccoli,6,8,1,15
+182,mozzarella,6,7,2,15
+183,linguini,6,6,3,15
+184,setting,13,1,0,14
+185,interior,12,1,1,14
+186,person,11,2,1,14
+187,option,11,2,1,14
+188,eggplant parmesan,9,0,5,14
+189,review,6,6,2,14
+190,dress,5,7,2,14
+191,side,4,7,3,14
+192,noisy,2,11,1,14
+193,lemonade,11,2,0,13
+194,sandwich,9,3,1,13
+195,chicken parmesan,9,2,2,13
+196,branzino,8,3,2,13
+197,quantity,7,4,2,13
+198,light,6,6,1,13
+199,min,1,12,0,13
+200,cooking,12,0,0,12
+201,area,11,1,0,12
+202,lunch special,9,1,2,12
+203,guy,8,3,1,12
+204,mushroom,7,4,1,12
+205,marinara,6,3,3,12
+206,french fry,1,5,6,12
+207,carpet,0,12,0,12
+208,recommendation,11,0,0,11
+209,everyone,11,0,0,11
+210,valet parking,10,0,1,11
+211,conversation,9,1,1,11
+212,burger,8,1,2,11
+213,waiter / waitress,7,3,1,11
+214,penne alla vodka,7,2,2,11
+215,tortellini,6,3,2,11
+216,wing,6,1,4,11
+217,linguine,5,3,3,11
+218,temperature,5,3,3,11
+219,parking lot,4,4,3,11
+220,water,2,9,0,11
+221,parmesan,2,6,3,11
+222,cutlery,0,11,0,11
+223,alfredo sauce,0,10,1,11
+224,patio,9,1,0,10
+225,tomato,6,3,1,10
+226,stuffed shell,6,3,1,10
+227,kitchen,6,3,1,10
+228,valet,6,1,3,10
+229,texture,5,5,0,10
+230,cook,5,5,0,10
+231,marinara sauce,4,5,1,10
+232,noodle,3,6,1,10
+233,ice cream,2,4,4,10
+234,decoration,8,1,0,9
+235,lunch menu,8,1,0,9
+236,olive garden,7,2,0,9
+237,gnocchi soup,7,2,0,9
+238,deliver,7,1,1,9
+239,duck,7,1,1,9
+240,cannoli,6,2,1,9
+241,pappardelle,6,0,3,9
+242,lighting,5,3,1,9
+243,booth,3,6,0,9
+244,entrance,3,4,2,9
+245,cost,3,4,2,9
+246,cutlet,2,4,3,9
+247,food selection,8,0,0,8
+248,zuppa toscana,7,0,1,8
+249,beverage,7,0,1,8
+250,establishment,7,0,1,8
+251,eat,7,0,1,8
+252,olive,6,2,0,8
+253,buffet,6,2,0,8
+254,calamari appetizer,6,1,1,8
+255,veal marsala,6,1,1,8
+256,panini,6,1,1,8
+257,alfredo pasta,6,0,2,8
+258,bake ziti,6,0,2,8
+259,preparation,5,3,0,8
+260,pesto,4,3,1,8
+261,greeter,3,5,0,8
+262,app,3,3,2,8
+263,chicken cutlet,3,2,3,8
+264,vegetable,2,6,0,8
+265,rollatini,2,4,2,8
+266,grilled chicken,2,1,5,8
+267,lettuce,1,7,0,8
+268,loud,1,7,0,8
+269,glass,0,7,1,8
+270,artichoke,7,0,0,7
+271,tour,7,0,0,7
+272,feel,7,0,0,7
+273,garden,6,1,0,7
+274,voice,6,1,0,7
+275,greeting,5,2,0,7
+276,staff member,5,2,0,7
+277,bar tender,5,2,0,7
+278,bruschetta,5,0,2,7
+279,ice tea,4,3,0,7
+280,elevator,4,1,2,7
+281,takeout,3,3,1,7
+282,oyster,3,3,1,7
+283,ribeye,3,2,2,7
+284,gravy,3,2,2,7
+285,crab cake,3,2,2,7
+286,main dish,3,1,3,7
+287,garlic,2,4,1,7
+288,scarpariello,2,3,2,7
+289,soda,1,6,0,7
+290,noise,1,6,0,7
+291,ac,0,7,0,7
+292,ambient,6,0,0,6
+293,sever,6,0,0,6
+294,set,6,0,0,6
+295,venue,6,0,0,6
+296,pudding,5,1,0,6
+297,facility,5,1,0,6
+298,piccata,5,1,0,6
+299,vegetarian option,5,1,0,6
+300,starter,5,0,1,6
+301,deal,5,0,1,6
+302,creme brulee,5,0,1,6
+303,cesar salad,4,2,0,6
+304,spaghetti carbonara,4,2,0,6
+305,meat sauce,4,1,1,6
+306,bar area,4,0,2,6
+307,manger,3,2,1,6
+308,veggie,3,2,1,6
+309,potato,3,2,1,6
+310,minestrone,3,1,2,6
+311,french toast,2,4,0,6
+312,spinach,2,3,1,6
+313,mac,2,2,2,6
+314,entrees,2,1,3,6
+315,grill chicken,2,0,4,6
+316,staffed,1,5,0,6
+317,lobster,1,3,2,6
+318,air,0,6,0,6
+319,knife,0,6,0,6
+320,gratuity,0,4,2,6
+321,crowded,0,4,2,6
+322,family,5,0,0,5
+323,osso bucco,5,0,0,5
+324,food service,5,0,0,5
+325,chocolate,5,0,0,5
+326,menu option,5,0,0,5
+327,byob,5,0,0,5
+328,slice,5,0,0,5
+329,general manager,4,1,0,5
+330,grilled salmon,4,1,0,5
+331,vegetarian,4,1,0,5
+332,zucchini,4,1,0,5
+333,design,4,1,0,5
+334,ceiling,4,1,0,5
+335,pork,4,0,1,5
+336,cacio e pepe,4,0,1,5
+337,prosciutto,3,2,0,5
+338,stuffed mushroom,3,2,0,5
+339,attendant,3,2,0,5
+340,bucatini,3,2,0,5
+341,veal parmigiana,3,1,1,5
+342,timing,3,1,1,5
+343,gnocci soup,3,1,1,5
+344,list,3,1,1,5
+345,arancini,3,1,1,5
+346,drive,3,1,1,5
+347,plat,2,3,0,5
+348,kid,2,3,0,5
+349,bus boy,2,3,0,5
+350,attitude,2,3,0,5
+351,calimari,2,3,0,5
+352,eggplant parmigiana,2,2,1,5
+353,driver,2,2,1,5
+354,parmigiano,2,2,1,5
+355,catering,2,2,1,5
+356,manicotti,2,2,1,5
+357,receptionist,2,2,1,5
+358,lamb chop,2,2,1,5
+359,cleanliness,1,4,0,5
+360,crouton,1,4,0,5
+361,waiting time,1,3,1,5
+362,flavour,1,3,1,5
+363,chip,1,2,2,5
+364,appetiser,1,2,2,5
+365,dipping sauce,1,1,3,5
+366,filet,1,1,3,5
+367,odor,0,5,0,5
+368,door,0,5,0,5
+369,baked ziti,0,4,1,5
+370,eats,4,0,0,4
+371,chicken dish,4,0,0,4
+372,team,4,0,0,4
+373,food portion,4,0,0,4
+374,gentleman,4,0,0,4
+375,s,4,0,0,4
+376,soup salad,4,0,0,4
+377,calorie,4,0,0,4
+378,italian dish,4,0,0,4
+379,torte,4,0,0,4
+380,the,4,0,0,4
+381,italian food,4,0,0,4
+382,company,4,0,0,4
+383,pastai,4,0,0,4
+384,singer,4,0,0,4
+385,interior design,4,0,0,4
+386,lamb,4,0,0,4
+387,gm,3,1,0,4
+388,garlic bread stick,3,1,0,4
+389,din area,3,1,0,4
+390,eggplant parm,3,1,0,4
+391,gelato,3,1,0,4
+392,tagliatelle,3,1,0,4
+393,crew,3,1,0,4
+394,francese,3,1,0,4
+395,mimosa,3,1,0,4
+396,distancing,3,0,1,4
+397,song,3,0,1,4
+398,porterhouse steak,3,0,1,4
+399,pasta fagioli,2,2,0,4
+400,daiquiri,2,2,0,4
+401,system,2,2,0,4
+402,tomato sauce,2,2,0,4
+403,chief,2,2,0,4
+404,topping,2,2,0,4
+405,tea,2,2,0,4
+406,sevice,2,2,0,4
+407,neighborhood,2,2,0,4
+408,dining room,2,2,0,4
+409,pick,2,1,1,4
+410,vodka sauce,2,1,1,4
+411,ice,2,1,1,4
+412,gluten,2,1,1,4
+413,pickup,2,1,1,4
+414,ball,2,1,1,4
+415,brussel sprout,2,1,1,4
+416,sea bass,2,1,1,4
+417,menu selection,2,1,1,4
+418,tent,2,1,1,4
+419,lasagna classico,2,0,2,4
+420,seasoning,1,3,0,4
+421,sirloin,1,3,0,4
+422,clean,1,3,0,4
+423,staffing,1,3,0,4
+424,volume,1,3,0,4
+425,receipt,1,2,1,4
+426,desk,1,2,1,4
+427,wait list,1,2,1,4
+428,cleaning,1,2,1,4
+429,butter,1,2,1,4
+430,size,1,1,2,4
+431,fried mozzarella,1,0,3,4
+432,cockroach,0,4,0,4
+433,urinal,0,4,0,4
+434,cup,0,4,0,4
+435,pasta sauce,0,4,0,4
+436,pepper,0,2,2,4
+437,tax,0,2,2,4
+438,fee,0,2,2,4
+439,bussers,3,0,0,3
+440,rib eye,3,0,0,3
+441,polenta,3,0,0,3
+442,lunch deal,3,0,0,3
+443,salad bar,3,0,0,3
+444,sour,3,0,0,3
+445,scenery,3,0,0,3
+446,italian margarita,3,0,0,3
+447,welcome,3,0,0,3
+448,personality,3,0,0,3
+449,mood,3,0,0,3
+450,donut,3,0,0,3
+451,fettuccini alfredo,3,0,0,3
+452,ziti al forno,3,0,0,3
+453,zeppoles,3,0,0,3
+454,service staff,3,0,0,3
+455,bar staff,3,0,0,3
+456,spinach roll,3,0,0,3
+457,wine menu,3,0,0,3
+458,menu item,3,0,0,3
+459,chicken alfredo,3,0,0,3
+460,cream,3,0,0,3
+461,banquet room,3,0,0,3
+462,braise short rib,3,0,0,3
+463,cheese cake,3,0,0,3
+464,bronzino,3,0,0,3
+465,layout,3,0,0,3
+466,chef / owner,3,0,0,3
+467,short rib pappardelle,3,0,0,3
+468,bacon,2,1,0,3
+469,porkchop,2,1,0,3
+470,scallopini,2,1,0,3
+471,din,2,1,0,3
+472,fritta,2,1,0,3
+473,fruit,2,1,0,3
+474,lasagna fritta,2,1,0,3
+475,waitor,2,1,0,3
+476,lasagna fritter,2,1,0,3
+477,mint,2,1,0,3
+478,pasta bowl,2,1,0,3
+479,manner,2,1,0,3
+480,courtesy,2,1,0,3
+481,wifi,2,1,0,3
+482,fettuccini,2,1,0,3
+483,picture,2,1,0,3
+484,food menu,2,1,0,3
+485,balsamic,2,1,0,3
+486,eggplant,2,1,0,3
+487,shrimp cocktail,2,1,0,3
+488,bowl,2,1,0,3
+489,olive oil,2,1,0,3
+490,bellini,2,1,0,3
+491,temp,2,0,1,3
+492,coat,2,0,1,3
+493,seafood platter,2,0,1,3
+494,service food,2,0,1,3
+495,luncheon,2,0,1,3
+496,look,2,0,1,3
+497,zuppa di pesce,2,0,1,3
+498,seafood salad,2,0,1,3
+499,breakfast,2,0,1,3
+500,mac n cheese,2,0,1,3
+501,rib,2,0,1,3
+502,pick up,1,2,0,3
+503,meat ball,1,2,0,3
+504,italian dressing,1,2,0,3
+505,side salad,1,2,0,3
+506,garnish,1,2,0,3
+507,personnel,1,2,0,3
+508,long island iced tea,1,2,0,3
+509,security,1,2,0,3
+510,breading,1,2,0,3
+511,food option,1,2,0,3
+512,eggs benedict,1,2,0,3
+513,dj,1,2,0,3
+514,bread basket,1,2,0,3
+515,safety,1,2,0,3
+516,soap,1,2,0,3
+517,heat,1,1,1,3
+518,busboy,1,1,1,3
+519,soup / salad,1,1,1,3
+520,chicken tender,1,1,1,3
+521,rest room,1,1,1,3
+522,caprese salad,1,1,1,3
+523,diet,1,1,1,3
+524,parm hero,1,1,1,3
+525,paccheri,1,1,1,3
+526,brussels sprout,1,1,1,3
+527,accommodation,1,1,1,3
+528,cavatelli,1,1,1,3
+529,libretto,1,1,1,3
+530,cheese stick,1,0,2,3
+531,happy hour,1,0,2,3
+532,vinaigrette,1,0,2,3
+533,chicken wing,1,0,2,3
+534,tablet,0,3,0,3
+535,greet,0,3,0,3
+536,chicken finger,0,3,0,3
+537,scent,0,3,0,3
+538,policy,0,3,0,3
+539,egg,0,3,0,3
+540,filling,0,3,0,3
+541,mask,0,3,0,3
+542,capacity,0,3,0,3
+543,reception,0,2,1,3
+544,traffic,0,2,1,3
+545,bag,0,2,1,3
+546,pancake,0,2,1,3
+547,dip sauce,0,1,2,3
+548,margherita,0,1,2,3
+549,spagetti,0,1,2,3
+550,basil,2,0,0,2
+551,soppressata,2,0,0,2
+552,baked clam,2,0,0,2
+553,everything,2,0,0,2
+554,chicken breast,2,0,0,2
+555,sit,2,0,0,2
+556,mojito,2,0,0,2
+557,feeling,2,0,0,2
+558,server food,2,0,0,2
+559,treatment,2,0,0,2
+560,offer,2,0,0,2
+561,kid meal,2,0,0,2
+562,tiramisu cake,2,0,0,2
+563,humor,2,0,0,2
+564,punch,2,0,0,2
+565,angel hair,2,0,0,2
+566,serving size,2,0,0,2
+567,surroundings,2,0,0,2
+568,salmon dish,2,0,0,2
+569,frittata,2,0,0,2
+570,front desk staff,2,0,0,2
+571,sea food,2,0,0,2
+572,potion,2,0,0,2
+573,sit area,2,0,0,2
+574,food prep,2,0,0,2
+575,social,2,0,0,2
+576,set up,2,0,0,2
+577,seat arrangement,2,0,0,2
+578,grill chicken margherita,2,0,0,2
+579,salad bowl,2,0,0,2
+580,chefs,2,0,0,2
+581,shrimp scampi fritta,2,0,0,2
+582,staff service,2,0,0,2
+583,package,2,0,0,2
+584,photo,2,0,0,2
+585,serve size,2,0,0,2
+586,penne a la vodka,2,0,0,2
+587,contadina,2,0,0,2
+588,sommelier,2,0,0,2
+589,chianti,2,0,0,2
+590,grill vegetable,2,0,0,2
+591,maitre d,2,0,0,2
+592,halibut,2,0,0,2
+593,accent,2,0,0,2
+594,gnocchi pesto,2,0,0,2
+595,calzone,2,0,0,2
+596,herb,2,0,0,2
+597,chicken milanese,2,0,0,2
+598,fried artichoke,2,0,0,2
+599,tartufo,2,0,0,2
+600,fried calamari,2,0,0,2
+601,bisque,2,0,0,2
+602,fish dish,2,0,0,2
+603,meat special,2,0,0,2
+604,cucina,2,0,0,2
+605,toscana soup,2,0,0,2
+606,crayon,2,0,0,2
+607,pizza bowl,2,0,0,2
+608,delivery service,2,0,0,2
+609,slush puppy,2,0,0,2
+610,croquet,2,0,0,2
+611,wait service,2,0,0,2
+612,sole,2,0,0,2
+613,price point,2,0,0,2
+614,sicilian slice,2,0,0,2
+615,salami,2,0,0,2
+616,benedict,2,0,0,2
+617,risotto ball,2,0,0,2
+618,color,2,0,0,2
+619,cheese plate,2,0,0,2
+620,produce,2,0,0,2
+621,torchio,2,0,0,2
+622,negroni,2,0,0,2
+623,marinade,2,0,0,2
+624,oreganata,2,0,0,2
+625,food drink,2,0,0,2
+626,veal chop,2,0,0,2
+627,demeanor,2,0,0,2
+628,man,2,0,0,2
+629,fonduta,2,0,0,2
+630,seat space,2,0,0,2
+631,bass,2,0,0,2
+632,weather,2,0,0,2
+633,terrace,2,0,0,2
+634,patio area,2,0,0,2
+635,serf,2,0,0,2
+636,manhattan,2,0,0,2
+637,pinot noir,2,0,0,2
+638,pina colada,2,0,0,2
+639,oxtail ragu,2,0,0,2
+640,pasta fagioli soup,2,0,0,2
+641,ppl,2,0,0,2
+642,owner / chef,2,0,0,2
+643,fried zucchini,2,0,0,2
+644,shishito pepper,2,0,0,2
+645,green bean,2,0,0,2
+646,drink selection,2,0,0,2
+647,inside,2,0,0,2
+648,anna,2,0,0,2
+649,furnishing,2,0,0,2
+650,desserts,2,0,0,2
+651,beer selection,2,0,0,2
+652,grilled octopus,2,0,0,2
+653,foie gras,2,0,0,2
+654,meatball app,2,0,0,2
+655,heater,2,0,0,2
+656,oven,2,0,0,2
+657,rice ball,2,0,0,2
+658,delivery driver,2,0,0,2
+659,carbonara pasta,1,1,0,2
+660,attire,1,1,0,2
+661,face,1,1,0,2
+662,drinks,1,1,0,2
+663,stall,1,1,0,2
+664,canoli,1,1,0,2
+665,smile,1,1,0,2
+666,waiting,1,1,0,2
+667,lasagna frita,1,1,0,2
+668,chicken strip,1,1,0,2
+669,speed,1,1,0,2
+670,shrimp carbonara,1,1,0,2
+671,stuff,1,1,0,2
+672,macaroni,1,1,0,2
+673,dolcini,1,1,0,2
+674,breadsticks,1,1,0,2
+675,wait area,1,1,0,2
+676,ceasar salad,1,1,0,2
+677,salad dressing,1,1,0,2
+678,iced,1,1,0,2
+679,pairing,1,1,0,2
+680,kiosk,1,1,0,2
+681,supervisor,1,1,0,2
+682,vegan,1,1,0,2
+683,mozz,1,1,0,2
+684,glassware,1,1,0,2
+685,zoodles,1,1,0,2
+686,wait period,1,1,0,2
+687,take,1,1,0,2
+688,wine choice,1,1,0,2
+689,appetizer platter,1,1,0,2
+690,lunch portion,1,1,0,2
+691,menu choice,1,1,0,2
+692,hair,1,1,0,2
+693,turnaround,1,1,0,2
+694,cannolis,1,1,0,2
+695,leftover,1,1,0,2
+696,penne ala,1,1,0,2
+697,rigatoni bolognese,1,1,0,2
+698,bolognese sauce,1,1,0,2
+699,furniture,1,1,0,2
+700,snapper,1,1,0,2
+701,availability,1,1,0,2
+702,people watch,1,1,0,2
+703,carbonara sauce,1,1,0,2
+704,prep,1,1,0,2
+705,aroma,1,1,0,2
+706,mozzarella cheese,1,1,0,2
+707,pasta special,1,1,0,2
+708,nacho,1,1,0,2
+709,carrot,1,1,0,2
+710,dough,1,1,0,2
+711,head chef,1,1,0,2
+712,fettuccine carbonara,1,1,0,2
+713,burrata appetizer,1,1,0,2
+714,onion,1,1,0,2
+715,antipasti,1,1,0,2
+716,oil,1,1,0,2
+717,dover sole,1,1,0,2
+718,owner / manager,1,1,0,2
+719,broccoli rabe,1,1,0,2
+720,plant,1,1,0,2
+721,meatsauce,1,1,0,2
+722,turn around,1,1,0,2
+723,training,1,1,0,2
+724,group,1,1,0,2
+725,prepare,1,1,0,2
+726,mosquito,1,1,0,2
+727,drink order,1,1,0,2
+728,store,1,1,0,2
+729,pappardelle rustica,1,1,0,2
+730,ribeye steak,1,1,0,2
+731,food variety,1,1,0,2
+732,mignon,1,1,0,2
+733,sign,1,0,1,2
+734,sorrentino,1,0,1,2
+735,short,1,0,1,2
+736,triangolo,1,0,1,2
+737,lasagne,1,0,1,2
+738,woman,1,0,1,2
+739,tie,1,0,1,2
+740,abruzzi,1,0,1,2
+741,pic,1,0,1,2
+742,porterhouse,1,0,1,2
+743,banana split,1,0,1,2
+744,buffalo wing,1,0,1,2
+745,board,1,0,1,2
+746,mains,1,0,1,2
+747,pomodoro,1,0,1,2
+748,fun,1,0,1,2
+749,communion,1,0,1,2
+750,trofie,1,0,1,2
+751,mess,1,0,1,2
+752,rotini,1,0,1,2
+753,espresso,1,0,1,2
+754,cater,1,0,1,2
+755,dinning,1,0,1,2
+756,garlic knot,1,0,1,2
+757,meatball hero,1,0,1,2
+758,brunch menu,1,0,1,2
+759,cure meat,1,0,1,2
+760,frutti di mare,1,0,1,2
+761,rate,1,0,1,2
+762,ziti fritta,1,0,1,2
+763,food taste,1,0,1,2
+764,seat area,1,0,1,2
+765,spaghetti and meatball,1,0,1,2
+766,veal parmesan,1,0,1,2
+767,booze,1,0,1,2
+768,cocktail menu,1,0,1,2
+769,musician,1,0,1,2
+770,provolone,1,0,1,2
+771,toscana,1,0,1,2
+772,tuna,1,0,1,2
+773,cheese board,1,0,1,2
+774,piano,1,0,1,2
+775,tortoni,1,0,1,2
+776,dinner menu,1,0,1,2
+777,burrata pizza,1,0,1,2
+778,wage,0,2,0,2
+779,rule,0,2,0,2
+780,uber,0,2,0,2
+781,utensils,0,2,0,2
+782,garbage,0,2,0,2
+783,toilet seat,0,2,0,2
+784,toilet paper,0,2,0,2
+785,associate,0,2,0,2
+786,front desk girl,0,2,0,2
+787,pepsi,0,2,0,2
+788,bread stix,0,2,0,2
+789,vinager,0,2,0,2
+790,salad lettuce,0,2,0,2
+791,window,0,2,0,2
+792,front desk employee,0,2,0,2
+793,date,0,2,0,2
+794,parmagain,0,2,0,2
+795,lock,0,2,0,2
+796,bean,0,2,0,2
+797,hollandaise sauce,0,2,0,2
+798,food presentation,0,2,0,2
+799,toilet,0,2,0,2
+800,bos,0,2,0,2
+801,chicken roll,0,2,0,2
+802,container,0,2,0,2
+803,dinner roll,0,2,0,2
+804,beef,0,2,0,2
+805,money,0,2,0,2
+806,fritter,0,2,0,2
+807,men,0,2,0,2
+808,shell,0,2,0,2
+809,fly,0,2,0,2
+810,asparagus,0,2,0,2
+811,linquini,0,2,0,2
+812,building,0,2,0,2
+813,mash potato,0,2,0,2
+814,mozzarella en carrozza,0,2,0,2
+815,pay,0,1,1,2
+816,dress code,0,1,1,2
+817,dairy,0,1,1,2
+818,bite,0,1,1,2
+819,hand,0,1,1,2
+820,ricotta cheese,0,1,1,2
+821,piadina,0,1,1,2
+822,menu price,0,1,1,2
+823,reservation time,0,1,1,2
+824,alcohol,0,1,1,2
+825,tartare,0,1,1,2
+826,flatware,0,0,2,2
+827,parmigana,0,0,2,2
+828,top,0,0,2,2
+829,pasta carbonara,0,0,2,2
+830,tenderloin,0,0,2,2
+831,party,0,0,2,2
+832,fry ravioli,0,0,2,2
+833,mule,1,0,0,1
+834,background music,1,0,0,1
+835,rib eye steak,1,0,0,1
+836,fetucini,1,0,0,1
+837,fruitti di mare,1,0,0,1
+838,tapa,1,0,0,1
+839,bread dish,1,0,0,1
+840,veal chop special,1,0,0,1
+841,crostata cake,1,0,0,1
+842,biscotti,1,0,0,1
+843,phone,1,0,0,1
+844,veal alla grappa,1,0,0,1
+845,fettuccine alla triangolo,1,0,0,1
+846,napoleon,1,0,0,1
+847,wife,1,0,0,1
+848,lemoncello,1,0,0,1
+849,pannacota,1,0,0,1
+850,item,1,0,0,1
+851,chicken frangelico,1,0,0,1
+852,italuan food,1,0,0,1
+853,ravioli special,1,0,0,1
+854,strawberry shortcake appetizer,1,0,0,1
+855,petito,1,0,0,1
+856,carpaccio,1,0,0,1
+857,serviced,1,0,0,1
+858,panacota,1,0,0,1
+859,grill calamari,1,0,0,1
+860,pasta triangolo,1,0,0,1
+861,food ambiance service,1,0,0,1
+862,meal start,1,0,0,1
+863,fusili,1,0,0,1
+864,character,1,0,0,1
+865,friendliness,1,0,0,1
+866,outing,1,0,0,1
+867,carabona,1,0,0,1
+868,jeremy,1,0,0,1
+869,eveyone,1,0,0,1
+870,drink menu,1,0,0,1
+871,raider,1,0,0,1
+872,fetuccini alfredo,1,0,0,1
+873,salad loaf,1,0,0,1
+874,ravioli carbonara,1,0,0,1
+875,foid,1,0,0,1
+876,carlos,1,0,0,1
+877,maine dish,1,0,0,1
+878,bake pasta,1,0,0,1
+879,process,1,0,0,1
+880,packing,1,0,0,1
+881,garlic roll,1,0,0,1
+882,cabonerra,1,0,0,1
+883,tailor,1,0,0,1
+884,collection of wine,1,0,0,1
+885,dog,1,0,0,1
+886,atomsphere,1,0,0,1
+887,parmegionia,1,0,0,1
+888,mixed drink,1,0,0,1
+889,goodbye,1,0,0,1
+890,chicken parmesian,1,0,0,1
+891,seated,1,0,0,1
+892,lunch set,1,0,0,1
+893,amalfi cocktail,1,0,0,1
+894,batter,1,0,0,1
+895,food dish,1,0,0,1
+896,alfredo sea food,1,0,0,1
+897,parmi giana,1,0,0,1
+898,cocktail drink,1,0,0,1
+899,ball drop,1,0,0,1
+900,host team,1,0,0,1
+901,alfredo dip,1,0,0,1
+902,wait list management,1,0,0,1
+903,fooood,1,0,0,1
+904,commute,1,0,0,1
+905,mocktails,1,0,0,1
+906,chocolates,1,0,0,1
+907,breadstick salad,1,0,0,1
+908,emplacement,1,0,0,1
+909,zuppa,1,0,0,1
+910,casual,1,0,0,1
+911,sauce refill,1,0,0,1
+912,sangarita,1,0,0,1
+913,feast,1,0,0,1
+914,ravioli di,1,0,0,1
+915,giardino,1,0,0,1
+916,arrives,1,0,0,1
+917,duty,1,0,0,1
+918,architecture,1,0,0,1
+919,gnocchi chicken soup,1,0,0,1
+920,minestrone soap,1,0,0,1
+921,pricey,1,0,0,1
+922,bar staff member,1,0,0,1
+923,lasagna / pasta,1,0,0,1
+924,lasagna portion,1,0,0,1
+925,hygiene,1,0,0,1
+926,attender,1,0,0,1
+927,boy,1,0,0,1
+928,mozzerrlas,1,0,0,1
+929,portiong,1,0,0,1
+930,lunch choice,1,0,0,1
+931,limonatas,1,0,0,1
+932,black russian drink,1,0,0,1
+933,mudslide,1,0,0,1
+934,chardonnay,1,0,0,1
+935,nap,1,0,0,1
+936,bar service,1,0,0,1
+937,fritta misto,1,0,0,1
+938,vine,1,0,0,1
+939,variety of food,1,0,0,1
+940,green salad,1,0,0,1
+941,service price,1,0,0,1
+942,margehrita,1,0,0,1
+943,shot,1,0,0,1
+944,tyler,1,0,0,1
+945,girl host,1,0,0,1
+946,payment,1,0,0,1
+947,gnoochi soup,1,0,0,1
+948,spacing,1,0,0,1
+949,singing,1,0,0,1
+950,checkout,1,0,0,1
+951,monzerlla stick,1,0,0,1
+952,ipads,1,0,0,1
+953,wine tasting,1,0,0,1
+954,pizza frita,1,0,0,1
+955,piccatta,1,0,0,1
+956,wine sample,1,0,0,1
+957,lasagna bite,1,0,0,1
+958,iced coffee,1,0,0,1
+959,menu deal,1,0,0,1
+960,soup choice,1,0,0,1
+961,good,1,0,0,1
+962,cheesecake special,1,0,0,1
+963,proportion,1,0,0,1
+964,carbonaro,1,0,0,1
+965,reisling,1,0,0,1
+966,massage,1,0,0,1
+967,amaretto sour,1,0,0,1
+968,work,1,0,0,1
+969,scampi dinner,1,0,0,1
+970,gnochi soup,1,0,0,1
+971,prawn crysp fry,1,0,0,1
+972,american,1,0,0,1
+973,zuppa toscana soup,1,0,0,1
+974,covid,1,0,0,1
+975,franchise,1,0,0,1
+976,cholesterol,1,0,0,1
+977,italian sausage,1,0,0,1
+978,flatbread,1,0,0,1
+979,bruschetta bread,1,0,0,1
+980,alfredo dessert,1,0,0,1
+981,tiramisu service,1,0,0,1
+982,interier,1,0,0,1
+983,kalmar,1,0,0,1
+984,mial,1,0,0,1
+985,colada,1,0,0,1
+986,baar,1,0,0,1
+987,distance,1,0,0,1
+988,alla romana,1,0,0,1
+989,penne ala vodka,1,0,0,1
+990,pellegrino,1,0,0,1
+991,placing,1,0,0,1
+992,mixed green salad,1,0,0,1
+993,rum runner cocktail,1,0,0,1
+994,em,1,0,0,1
+995,seating capacity,1,0,0,1
+996,libation,1,0,0,1
+997,cosmos wing,1,0,0,1
+998,caesar salad dressing,1,0,0,1
+999,support staff,1,0,0,1
+1000,food plate,1,0,0,1
+1001,carmimes,1,0,0,1
+1002,lively,1,0,0,1
+1003,and,1,0,0,1
+1004,zuppa di clam,1,0,0,1
+1005,pedro,1,0,0,1
+1006,giardiniera,1,0,0,1
+1007,season,1,0,0,1
+1008,scarpariello wing,1,0,0,1
+1009,walnut,1,0,0,1
+1010,lemon drop,1,0,0,1
+1011,cosmo,1,0,0,1
+1012,carmine ' s salad,1,0,0,1
+1013,porterhouse meat,1,0,0,1
+1014,cocktails,1,0,0,1
+1015,appointment,1,0,0,1
+1016,prime rib,1,0,0,1
+1017,lager,1,0,0,1
+1018,doorman,1,0,0,1
+1019,carmencita,1,0,0,1
+1020,bolognese plate,1,0,0,1
+1021,lobster dish,1,0,0,1
+1022,chocolate torte,1,0,0,1
+1023,pizzaioli,1,0,0,1
+1024,orecchiette,1,0,0,1
+1025,caesar dress anchovy paste,1,0,0,1
+1026,saltimboca,1,0,0,1
+1027,leader,1,0,0,1
+1028,wine pairing,1,0,0,1
+1029,italian menu,1,0,0,1
+1030,wine cellar selection,1,0,0,1
+1031,table cloth,1,0,0,1
+1032,gnocci,1,0,0,1
+1033,basilico,1,0,0,1
+1034,risotto seafood,1,0,0,1
+1035,selection of wine,1,0,0,1
+1036,coctails,1,0,0,1
+1037,service waiter,1,0,0,1
+1038,potato chip,1,0,0,1
+1039,fashion,1,0,0,1
+1040,saltimbocca,1,0,0,1
+1041,cart,1,0,0,1
+1042,silvia,1,0,0,1
+1043,murder mystery,1,0,0,1
+1044,atmospher,1,0,0,1
+1045,serviice,1,0,0,1
+1046,waitors,1,0,0,1
+1047,restuarant,1,0,0,1
+1048,dining experience,1,0,0,1
+1049,lunce,1,0,0,1
+1050,crisp,1,0,0,1
+1051,owner / mgr,1,0,0,1
+1052,daughter,1,0,0,1
+1053,pace,1,0,0,1
+1054,chicken milano,1,0,0,1
+1055,lunch server,1,0,0,1
+1056,veal cashina,1,0,0,1
+1057,resturant,1,0,0,1
+1058,biscottis,1,0,0,1
+1059,paparadelle,1,0,0,1
+1060,breast,1,0,0,1
+1061,e pepe,1,0,0,1
+1062,mozzarella starter,1,0,0,1
+1063,food ambiance,1,0,0,1
+1064,pup,1,0,0,1
+1065,spaghetti pomodoro,1,0,0,1
+1066,dijon salmon,1,0,0,1
+1067,street,1,0,0,1
+1068,gamberi,1,0,0,1
+1069,jumbo shrimp,1,0,0,1
+1070,arugala,1,0,0,1
+1071,boite,1,0,0,1
+1072,pappardella,1,0,0,1
+1073,endive salad,1,0,0,1
+1074,ragu fettuccini,1,0,0,1
+1075,liquor selection,1,0,0,1
+1076,mix,1,0,0,1
+1077,peppardelle,1,0,0,1
+1078,agnolotti,1,0,0,1
+1079,horderves,1,0,0,1
+1080,staffthank,1,0,0,1
+1081,zabaione,1,0,0,1
+1082,carciofi,1,0,0,1
+1083,gourmet,1,0,0,1
+1084,carlo,1,0,0,1
+1085,din atmosphere,1,0,0,1
+1086,ragout,1,0,0,1
+1087,cuisin,1,0,0,1
+1088,cacio,1,0,0,1
+1089,pepe,1,0,0,1
+1090,raw material,1,0,0,1
+1091,fireplace,1,0,0,1
+1092,format,1,0,0,1
+1093,shrimp app,1,0,0,1
+1094,spread,1,0,0,1
+1095,fast food,1,0,0,1
+1096,sheet,1,0,0,1
+1097,santa,1,0,0,1
+1098,soups,1,0,0,1
+1099,family experience,1,0,0,1
+1100,lunch spot,1,0,0,1
+1101,shrimp alfredo,1,0,0,1
+1102,prompt,1,0,0,1
+1103,carbonera,1,0,0,1
+1104,runner,1,0,0,1
+1105,servicevtoo,1,0,0,1
+1106,fritta appetizer,1,0,0,1
+1107,online ordering,1,0,0,1
+1108,zuppa toscano,1,0,0,1
+1109,interaction,1,0,0,1
+1110,nacho appetizer,1,0,0,1
+1111,eggplant dish,1,0,0,1
+1112,balloon lady,1,0,0,1
+1113,parmsean,1,0,0,1
+1114,taker,1,0,0,1
+1115,wait staff service,1,0,0,1
+1116,lasagna slice,1,0,0,1
+1117,organize,1,0,0,1
+1118,pepper roll,1,0,0,1
+1119,semifreddo,1,0,0,1
+1120,rigatoni carbonara,1,0,0,1
+1121,burrata special,1,0,0,1
+1122,photo booth,1,0,0,1
+1123,fettuccine rustica,1,0,0,1
+1124,service quality,1,0,0,1
+1125,desert cake,1,0,0,1
+1126,spring salad,1,0,0,1
+1127,pasta primavera,1,0,0,1
+1128,chicken vesuvio,1,0,0,1
+1129,cold seafood salad,1,0,0,1
+1130,chicken rustica,1,0,0,1
+1131,fair,1,0,0,1
+1132,wine temperature,1,0,0,1
+1133,pulpo,1,0,0,1
+1134,dinningroom,1,0,0,1
+1135,italian ice,1,0,0,1
+1136,menu variety,1,0,0,1
+1137,waiter staff,1,0,0,1
+1138,montepulciano,1,0,0,1
+1139,sauvignon blanc,1,0,0,1
+1140,puttanesca,1,0,0,1
+1141,stromboli,1,0,0,1
+1142,square,1,0,0,1
+1143,calzones,1,0,0,1
+1144,rime,1,0,0,1
+1145,ratio,1,0,0,1
+1146,sauteed asparagus,1,0,0,1
+1147,reginette,1,0,0,1
+1148,sfinci di,1,0,0,1
+1149,glutenfree dinner,1,0,0,1
+1150,diner,1,0,0,1
+1151,calamari salad,1,0,0,1
+1152,food value,1,0,0,1
+1153,range,1,0,0,1
+1154,doughnut ball,1,0,0,1
+1155,culture,1,0,0,1
+1156,reginette al ragu,1,0,0,1
+1157,pasta al,1,0,0,1
+1158,arancini ball,1,0,0,1
+1159,lamp chop,1,0,0,1
+1160,playlist,1,0,0,1
+1161,gemelli,1,0,0,1
+1162,short rib ragu,1,0,0,1
+1163,bruschettas,1,0,0,1
+1164,ragu pasta,1,0,0,1
+1165,focaccia,1,0,0,1
+1166,sandwhich,1,0,0,1
+1167,buscatini,1,0,0,1
+1168,doughnut,1,0,0,1
+1169,variety of dish,1,0,0,1
+1170,sardine,1,0,0,1
+1171,brunch salad,1,0,0,1
+1172,seafood choice,1,0,0,1
+1173,specails,1,0,0,1
+1174,pasta maker man,1,0,0,1
+1175,appetizer option,1,0,0,1
+1176,preparation time,1,0,0,1
+1177,combination,1,0,0,1
+1178,oscar,1,0,0,1
+1179,canalonye,1,0,0,1
+1180,divider,1,0,0,1
+1181,shrimp roll,1,0,0,1
+1182,ambiance staff,1,0,0,1
+1183,sambucca,1,0,0,1
+1184,bernice,1,0,0,1
+1185,pork ragu,1,0,0,1
+1186,champagne,1,0,0,1
+1187,colection,1,0,0,1
+1188,barolo,1,0,0,1
+1189,app .,1,0,0,1
+1190,exterior,1,0,0,1
+1191,meatballs,1,0,0,1
+1192,ravoli,1,0,0,1
+1193,rabe,1,0,0,1
+1194,gnocchio,1,0,0,1
+1195,chilean sea bass,1,0,0,1
+1196,potatoes,1,0,0,1
+1197,lemon,1,0,0,1
+1198,grappa,1,0,0,1
+1199,piano bar,1,0,0,1
+1200,chop,1,0,0,1
+1201,milieu,1,0,0,1
+1202,cocktails food,1,0,0,1
+1203,oyster sambuca,1,0,0,1
+1204,cavatelli pomodoro,1,0,0,1
+1205,entertainment wait staff,1,0,0,1
+1206,motif,1,0,0,1
+1207,creation,1,0,0,1
+1208,pizza /,1,0,0,1
+1209,spaghetti lobster,1,0,0,1
+1210,wale,1,0,0,1
+1211,maria,1,0,0,1
+1212,tuna steak,1,0,0,1
+1213,atomosphere,1,0,0,1
+1214,friend,1,0,0,1
+1215,eatery,1,0,0,1
+1216,tayse,1,0,0,1
+1217,service care,1,0,0,1
+1218,alfredo chicken,1,0,0,1
+1219,service relation,1,0,0,1
+1220,service atmosphere,1,0,0,1
+1221,ziti fritter,1,0,0,1
+1222,lasagna frittas,1,0,0,1
+1223,fettichini,1,0,0,1
+1224,bread - stick,1,0,0,1
+1225,spaghetti ' s,1,0,0,1
+1226,wash room,1,0,0,1
+1227,waiter / staff,1,0,0,1
+1228,vegetarian food option,1,0,0,1
+1229,landscaping,1,0,0,1
+1230,candy,1,0,0,1
+1231,service people,1,0,0,1
+1232,seexer,1,0,0,1
+1233,flow,1,0,0,1
+1234,refreshment,1,0,0,1
+1235,alfredo marinara,1,0,0,1
+1236,service staff price,1,0,0,1
+1237,macchiato,1,0,0,1
+1238,up,1,0,0,1
+1239,pasta frosole,1,0,0,1
+1240,mozerella,1,0,0,1
+1241,fettuchine alfredo,1,0,0,1
+1242,dolcini ' s,1,0,0,1
+1243,mousse cake,1,0,0,1
+1244,margarita special,1,0,0,1
+1245,zeppoli,1,0,0,1
+1246,bread soup,1,0,0,1
+1247,menu offering,1,0,0,1
+1248,salad / bread stick,1,0,0,1
+1249,ziosks,1,0,0,1
+1250,over side salad,1,0,0,1
+1251,breadticks,1,0,0,1
+1252,broth,1,0,0,1
+1253,chicken marsella,1,0,0,1
+1254,jessica,1,0,0,1
+1255,bogo,1,0,0,1
+1256,lay out,1,0,0,1
+1257,collection,1,0,0,1
+1258,social distancing,1,0,0,1
+1259,murphy,1,0,0,1
+1260,lambchop special,1,0,0,1
+1261,fettuccine bolognese,1,0,0,1
+1262,zuppa da clam,1,0,0,1
+1263,grill cheese,1,0,0,1
+1264,chicken wrap,1,0,0,1
+1265,setup,1,0,0,1
+1266,severs,1,0,0,1
+1267,chicken benny,1,0,0,1
+1268,flounder francese,1,0,0,1
+1269,parmigian,1,0,0,1
+1270,grill chicken salad,1,0,0,1
+1271,facacia,1,0,0,1
+1272,fish dinner,1,0,0,1
+1273,pizza base,1,0,0,1
+1274,figure,1,0,0,1
+1275,ciao bella salad,1,0,0,1
+1276,courtyard,1,0,0,1
+1277,entre,1,0,0,1
+1278,pizza pie,1,0,0,1
+1279,def,1,0,0,1
+1280,vegetarian fare,1,0,0,1
+1281,soufle,1,0,0,1
+1282,promos,1,0,0,1
+1283,food staff,1,0,0,1
+1284,dessert selection,1,0,0,1
+1285,classic,1,0,0,1
+1286,pasta fagiola soup,1,0,0,1
+1287,aaron,1,0,0,1
+1288,foos,1,0,0,1
+1289,balloon artist,1,0,0,1
+1290,italian american food,1,0,0,1
+1291,arrangement,1,0,0,1
+1292,mixed,1,0,0,1
+1293,promotion,1,0,0,1
+1294,grill chicken fetuchini,1,0,0,1
+1295,lunch size,1,0,0,1
+1296,professionalism,1,0,0,1
+1297,capacino,1,0,0,1
+1298,lit,1,0,0,1
+1299,flan,1,0,0,1
+1300,syrup,1,0,0,1
+1301,vea,1,0,0,1
+1302,food arrive,1,0,0,1
+1303,karaoke bar,1,0,0,1
+1304,fusilli,1,0,0,1
+1305,salmon prep,1,0,0,1
+1306,rolatini,1,0,0,1
+1307,snapper livornese,1,0,0,1
+1308,stage,1,0,0,1
+1309,sound board,1,0,0,1
+1310,jersey,1,0,0,1
+1311,hot chocolate,1,0,0,1
+1312,kj,1,0,0,1
+1313,braised,1,0,0,1
+1314,cesar dressing,1,0,0,1
+1315,dance floor,1,0,0,1
+1316,chicken lazzara,1,0,0,1
+1317,chicken scapariello,1,0,0,1
+1318,cappella,1,0,0,1
+1319,arribiatta,1,0,0,1
+1320,food people,1,0,0,1
+1321,valentino,1,0,0,1
+1322,bar crowd,1,0,0,1
+1323,bread serving,1,0,0,1
+1324,dietary,1,0,0,1
+1325,communication,1,0,0,1
+1326,toasted ravioli,1,0,0,1
+1327,tabled,1,0,0,1
+1328,service lady,1,0,0,1
+1329,trio,1,0,0,1
+1330,celebration,1,0,0,1
+1331,bevrage,1,0,0,1
+1332,fried zucchini ball,1,0,0,1
+1333,pitcher,1,0,0,1
+1334,chicken francaice,1,0,0,1
+1335,barrata,1,0,0,1
+1336,franciase,1,0,0,1
+1337,asthetically,1,0,0,1
+1338,ribeye special,1,0,0,1
+1339,natalie,1,0,0,1
+1340,stuff eggplant,1,0,0,1
+1341,chicken pisano,1,0,0,1
+1342,folk,1,0,0,1
+1343,comedy night,1,0,0,1
+1344,octopus salad,1,0,0,1
+1345,roast chicken salad,1,0,0,1
+1346,paisanos,1,0,0,1
+1347,bolognaise sauce,1,0,0,1
+1348,tail,1,0,0,1
+1349,ingrediants,1,0,0,1
+1350,comedy show,1,0,0,1
+1351,kick,1,0,0,1
+1352,carbonnara,1,0,0,1
+1353,fry zucchini stick,1,0,0,1
+1354,detail,1,0,0,1
+1355,waite staff,1,0,0,1
+1356,tart,1,0,0,1
+1357,old fashioned,1,0,0,1
+1358,poached egg,1,0,0,1
+1359,sweet,1,0,0,1
+1360,veal francese,1,0,0,1
+1361,veil,1,0,0,1
+1362,ombience,1,0,0,1
+1363,waite,1,0,0,1
+1364,energy,1,0,0,1
+1365,place itself,1,0,0,1
+1366,amenity,1,0,0,1
+1367,landscaper,1,0,0,1
+1368,a / c,1,0,0,1
+1369,bar tend staff,1,0,0,1
+1370,capuccino,1,0,0,1
+1371,chicken cutlet parm,1,0,0,1
+1372,mussel marinara,1,0,0,1
+1373,caterer,1,0,0,1
+1374,eye,1,0,0,1
+1375,valet service,1,0,0,1
+1376,franchese,1,0,0,1
+1377,pour,1,0,0,1
+1378,thanksgiving dinner,1,0,0,1
+1379,valet park,1,0,0,1
+1380,french toast mozzarella,1,0,0,1
+1381,gal,1,0,0,1
+1382,chopped salad,1,0,0,1
+1383,cavatelli casalinga,1,0,0,1
+1384,tortellini primavera,1,0,0,1
+1385,ariila salad,1,0,0,1
+1386,penne a la,1,0,0,1
+1387,obionce,1,0,0,1
+1388,sunday brunch,1,0,0,1
+1389,appeziter,1,0,0,1
+1390,precaution,1,0,0,1
+1391,heart,1,0,0,1
+1392,bathrooms,1,0,0,1
+1393,price service,1,0,0,1
+1394,parms,1,0,0,1
+1395,cold cut,1,0,0,1
+1396,hero,1,0,0,1
+1397,italian sub,1,0,0,1
+1398,meatloaf,1,0,0,1
+1399,barcelona ’ s,1,0,0,1
+1400,meatballls,1,0,0,1
+1401,bar pie,1,0,0,1
+1402,history,1,0,0,1
+1403,tradition,1,0,0,1
+1404,cheeseburger,1,0,0,1
+1405,staffact,1,0,0,1
+1406,muscle,1,0,0,1
+1407,price staff,1,0,0,1
+1408,pizza muscle dish,1,0,0,1
+1409,theme,1,0,0,1
+1410,food establishment,1,0,0,1
+1411,family restaurant,1,0,0,1
+1412,kid menu,1,0,0,1
+1413,waiter / bartender,1,0,0,1
+1414,pasta carbona,1,0,0,1
+1415,masala,1,0,0,1
+1416,hot roll,1,0,0,1
+1417,carbonara pasta dish,1,0,0,1
+1418,hostos,1,0,0,1
+1419,pita chip,1,0,0,1
+1420,moscato primo amore,1,0,0,1
+1421,fritto misto,1,0,0,1
+1422,main meal,1,0,0,1
+1423,tortelloni,1,0,0,1
+1424,device,1,0,0,1
+1425,veal steak,1,0,0,1
+1426,rice,1,0,0,1
+1427,scarp,1,0,0,1
+1428,aesthetic,1,0,0,1
+1429,white,1,0,0,1
+1430,donato,1,0,0,1
+1431,duck breast,1,0,0,1
+1432,liguini,1,0,0,1
+1433,offogato,1,0,0,1
+1434,rigatoni sunday sauce,1,0,0,1
+1435,octupus,1,0,0,1
+1436,spirit,1,0,0,1
+1437,brocolli rabe cavatelli,1,0,0,1
+1438,din experience,1,0,0,1
+1439,gio,1,0,0,1
+1440,beer list,1,0,0,1
+1441,tartare appetizer,1,0,0,1
+1442,tortiglioni,1,0,0,1
+1443,forno,1,0,0,1
+1444,sunday,1,0,0,1
+1445,vegi board,1,0,0,1
+1446,apps chef,1,0,0,1
+1447,veal bolognese,1,0,0,1
+1448,yo maria,1,0,0,1
+1449,zucchini fry,1,0,0,1
+1450,clientele,1,0,0,1
+1451,rooster,1,0,0,1
+1452,friendly,1,0,0,1
+1453,our,1,0,0,1
+1454,salmon / trout,1,0,0,1
+1455,seared tuna,1,0,0,1
+1456,happy hour deal,1,0,0,1
+1457,community,1,0,0,1
+1458,idea,1,0,0,1
+1459,sunday sauce,1,0,0,1
+1460,pork belly,1,0,0,1
+1461,pork rib,1,0,0,1
+1462,vegetable board,1,0,0,1
+1463,serving staff,1,0,0,1
+1464,shrimp scampi lunch,1,0,0,1
+1465,food idea,1,0,0,1
+1466,fettucine,1,0,0,1
+1467,promo,1,0,0,1
+1468,shrimp appetizer,1,0,0,1
+1469,food fettuccine alfredo,1,0,0,1
+1470,eggplat,1,0,0,1
+1471,grilled chicken margherita,1,0,0,1
+1472,flavor texture,1,0,0,1
+1473,balance,1,0,0,1
+1474,seating arrangement,1,0,0,1
+1475,food temperature,1,0,0,1
+1476,waitress /,1,0,0,1
+1477,served,1,0,0,1
+1478,table service,1,0,0,1
+1479,talk,1,0,0,1
+1480,octapus,1,0,0,1
+1481,veggie taste,1,0,0,1
+1482,strip steak,1,0,0,1
+1483,jazz,1,0,0,1
+1484,bread roll,1,0,0,1
+1485,lech cake,1,0,0,1
+1486,pianist,1,0,0,1
+1487,wood work,1,0,0,1
+1488,ceviche,1,0,0,1
+1489,tiramusu,1,0,0,1
+1490,live jazz,1,0,0,1
+1491,alex,1,0,0,1
+1492,vibes,1,0,0,1
+1493,plating,1,0,0,1
+1494,seating ambiance,1,0,0,1
+1495,linguine fra diavolo,1,0,0,1
+1496,seared king salmon,1,0,0,1
+1497,winter garden room,1,0,0,1
+1498,valet attendant,1,0,0,1
+1499,construction,1,0,0,1
+1500,hors d ' oeuvers,1,0,0,1
+1501,omelet / crepe station,1,0,0,1
+1502,autunno salad,1,0,0,1
+1503,expresso,1,0,0,1
+1504,sangriya,1,0,0,1
+1505,bar price,1,0,0,1
+1506,meal deal,1,0,0,1
+1507,sicilian,1,0,0,1
+1508,snapper piccatta,1,0,0,1
+1509,crab cake appetizer,1,0,0,1
+1510,penne pasta,1,0,0,1
+1511,riggatoni bolognese,1,0,0,1
+1512,veal osso bucco,1,0,0,1
+1513,bartendrer,1,0,0,1
+1514,flounder oreganata,1,0,0,1
+1515,cheescake,1,0,0,1
+1516,zuppa di mussel,1,0,0,1
+1517,cusine,1,0,0,1
+1518,lasagna bolognese,1,0,0,1
+1519,orecchiette pasta,1,0,0,1
+1520,retaurant,1,0,0,1
+1521,atmospheri,1,0,0,1
+1522,ragatoni,1,0,0,1
+1523,shower,1,0,0,1
+1524,genovese,1,0,0,1
+1525,stair,1,0,0,1
+1526,aura,1,0,0,1
+1527,pork chop murphy,1,0,0,1
+1528,zuppa do mare,1,0,0,1
+1529,lorenzo,1,0,0,1
+1530,bella vita,1,0,0,1
+1531,lunch time price,1,0,0,1
+1532,braise lamb shank,1,0,0,1
+1533,clam oreganata,1,0,0,1
+1534,franchaise,1,0,0,1
+1535,service owner,1,0,0,1
+1536,dude,1,0,0,1
+1537,performance,1,0,0,1
+1538,pollo sorrentino,1,0,0,1
+1539,souffle,1,0,0,1
+1540,egg roll,1,0,0,1
+1541,papardelle,1,0,0,1
+1542,ragu sauce,1,0,0,1
+1543,brake light,1,0,0,1
+1544,staff people,1,0,0,1
+1545,triva,1,0,0,1
+1546,tiramsu,1,0,0,1
+1547,cacciatore,1,0,0,1
+1548,salad insalata di rucola,1,0,0,1
+1549,filet de sole,1,0,0,1
+1550,escarole,1,0,0,1
+1551,chicken rollatini,1,0,0,1
+1552,rack of,1,0,0,1
+1553,chilean seabass,1,0,0,1
+1554,preparation style,1,0,0,1
+1555,scarpiello,1,0,0,1
+1556,time lapse,1,0,0,1
+1557,irish coffee,1,0,0,1
+1558,marina,1,0,0,1
+1559,veal piccata,1,0,0,1
+1560,todd,1,0,0,1
+1561,valet guy,1,0,0,1
+1562,veal meatball,1,0,0,1
+1563,din room,1,0,0,1
+1564,tablecloth,1,0,0,1
+1565,eggplant rollatini,1,0,0,1
+1566,zuppa di cozze,1,0,0,1
+1567,veal saltimbocca,1,0,0,1
+1568,sing,1,0,0,1
+1569,service seafood,1,0,0,1
+1570,jeff,1,0,0,1
+1571,grill chicken sandwich,1,0,0,1
+1572,cabbage,1,0,0,1
+1573,shrimp rigatoni,1,0,0,1
+1574,armen,1,0,0,1
+1575,seat din room,1,0,0,1
+1576,creativity,1,0,0,1
+1577,molten lava cake,1,0,0,1
+1578,barato,1,0,0,1
+1579,short rib entree,1,0,0,1
+1580,egg benedict,1,0,0,1
+1581,pizza oven,1,0,0,1
+1582,bianche,1,0,0,1
+1583,grilled shrimp,1,0,0,1
+1584,outer crunch,1,0,0,1
+1585,soppresata,1,0,0,1
+1586,short - rib,1,0,0,1
+1587,portobello panini,1,0,0,1
+1588,assortment of,1,0,0,1
+1589,pana cotta,1,0,0,1
+1590,papperdelle,1,0,0,1
+1591,parpadelle,1,0,0,1
+1592,crabmeat quiche,1,0,0,1
+1593,benidict,1,0,0,1
+1594,corkage,1,0,0,1
+1595,soppressata ham,1,0,0,1
+1596,roast chicken breast,1,0,0,1
+1597,wild rice,1,0,0,1
+1598,french cuisine,1,0,0,1
+1599,mother,1,0,0,1
+1600,pizza margarita,1,0,0,1
+1601,short rib panini,1,0,0,1
+1602,pistashio,1,0,0,1
+1603,broccoli rabe pizza,1,0,0,1
+1604,pies,1,0,0,1
+1605,wrap,1,0,0,1
+1606,wine pour,1,0,0,1
+1607,italian ice cream,1,0,0,1
+1608,grilled chicken ceasar salad,1,0,0,1
+1609,chicken parmigiana hero,1,0,0,1
+1610,grilled chicken portabello,1,0,0,1
+1611,croquette potato,1,0,0,1
+1612,haricot verts,1,0,0,1
+1613,mozzarella slice,1,0,0,1
+1614,onion ring,1,0,0,1
+1615,present,1,0,0,1
+1616,tilapia,1,0,0,1
+1617,early,1,0,0,1
+1618,vinaigrette dress,1,0,0,1
+1619,fillet of sole,1,0,0,1
+1620,mussel fra diavolo,1,0,0,1
+1621,spaghetti aioli,1,0,0,1
+1622,hush puppy,1,0,0,1
+1623,pasta selection,1,0,0,1
+1624,filet of sole,1,0,0,1
+1625,malbec,1,0,0,1
+1626,course,1,0,0,1
+1627,entertainer,1,0,0,1
+1628,veal grappa,0,1,0,1
+1629,ringer,0,1,0,1
+1630,a la vodka,0,1,0,1
+1631,sopresseta,0,1,0,1
+1632,frangelico,0,1,0,1
+1633,filet mignon special,0,1,0,1
+1634,matradee,0,1,0,1
+1635,ownership,0,1,0,1
+1636,service attitude,0,1,0,1
+1637,long,0,1,0,1
+1638,care,0,1,0,1
+1639,lady manger,0,1,0,1
+1640,brd stick,0,1,0,1
+1641,fire place,0,1,0,1
+1642,tabasco,0,1,0,1
+1643,trash,0,1,0,1
+1644,macaroni and cheese,0,1,0,1
+1645,logo,0,1,0,1
+1646,pasta side,0,1,0,1
+1647,tabl,0,1,0,1
+1648,coke,0,1,0,1
+1649,maitre,0,1,0,1
+1650,ziti frita,0,1,0,1
+1651,salade,0,1,0,1
+1652,etiquette,0,1,0,1
+1653,stick,0,1,0,1
+1654,hostes,0,1,0,1
+1655,customer service,0,1,0,1
+1656,barman,0,1,0,1
+1657,pasta noodles,0,1,0,1
+1658,servant,0,1,0,1
+1659,sanitary condition,0,1,0,1
+1660,dishwasher,0,1,0,1
+1661,stomach,0,1,0,1
+1662,wall,0,1,0,1
+1663,routine,0,1,0,1
+1664,juice,0,1,0,1
+1665,entry way,0,1,0,1
+1666,tableclothes,0,1,0,1
+1667,grape,0,1,0,1
+1668,stock,0,1,0,1
+1669,expirence,0,1,0,1
+1670,offering,0,1,0,1
+1671,gin and tonic,0,1,0,1
+1672,wallet,0,1,0,1
+1673,weitres,0,1,0,1
+1674,mannerism,0,1,0,1
+1675,front,0,1,0,1
+1676,response,0,1,0,1
+1677,billboard,0,1,0,1
+1678,fried ravioli,0,1,0,1
+1679,revolving door,0,1,0,1
+1680,decore,0,1,0,1
+1681,ice teach,0,1,0,1
+1682,wash,0,1,0,1
+1683,lasagna fritte,0,1,0,1
+1684,freshness,0,1,0,1
+1685,recipe,0,1,0,1
+1686,network,0,1,0,1
+1687,appetise,0,1,0,1
+1688,salada,0,1,0,1
+1689,delay,0,1,0,1
+1690,breadstucks,0,1,0,1
+1691,waitlist,0,1,0,1
+1692,towel,0,1,0,1
+1693,breadstcks,0,1,0,1
+1694,ravioli stuff,0,1,0,1
+1695,patron,0,1,0,1
+1696,spaghetti meat sauce,0,1,0,1
+1697,drink service,0,1,0,1
+1698,coupon,0,1,0,1
+1699,milk,0,1,0,1
+1700,walk,0,1,0,1
+1701,wait - person,0,1,0,1
+1702,take -,0,1,0,1
+1703,survey,0,1,0,1
+1704,income,0,1,0,1
+1705,sink,0,1,0,1
+1706,concierge,0,1,0,1
+1707,tirumasu,0,1,0,1
+1708,service representation,0,1,0,1
+1709,mop,0,1,0,1
+1710,salt,0,1,0,1
+1711,mark,0,1,0,1
+1712,chair cushion,0,1,0,1
+1713,serve time,0,1,0,1
+1714,sunlight,0,1,0,1
+1715,cushion,0,1,0,1
+1716,bartender service,0,1,0,1
+1717,slider,0,1,0,1
+1718,table napkin,0,1,0,1
+1719,bathroon,0,1,0,1
+1720,appitzer,0,1,0,1
+1721,side bread,0,1,0,1
+1722,spice,0,1,0,1
+1723,quality control,0,1,0,1
+1724,wooden surface,0,1,0,1
+1725,frittas,0,1,0,1
+1726,bartending,0,1,0,1
+1727,lasagna noodles,0,1,0,1
+1728,chick parm,0,1,0,1
+1729,drink special,0,1,0,1
+1730,discount,0,1,0,1
+1731,candes,0,1,0,1
+1732,shoe,0,1,0,1
+1733,chicken piece,0,1,0,1
+1734,corse,0,1,0,1
+1735,calmari,0,1,0,1
+1736,gorgonzola,0,1,0,1
+1737,chicken piccata,0,1,0,1
+1738,kettle,0,1,0,1
+1739,giardinera,0,1,0,1
+1740,coladas,0,1,0,1
+1741,fan,0,1,0,1
+1742,reception service,0,1,0,1
+1743,bouncer,0,1,0,1
+1744,appetizer plate,0,1,0,1
+1745,cutlet parm,0,1,0,1
+1746,bake,0,1,0,1
+1747,veal parm,0,1,0,1
+1748,busy,0,1,0,1
+1749,trattoria,0,1,0,1
+1750,calamari ’,0,1,0,1
+1751,acoustic,0,1,0,1
+1752,reservation system,0,1,0,1
+1753,paint,0,1,0,1
+1754,s salad,0,1,0,1
+1755,bussing,0,1,0,1
+1756,scampi sauce,0,1,0,1
+1757,marbeling,0,1,0,1
+1758,mozzarella di buffalo,0,1,0,1
+1759,taglioni freschi,0,1,0,1
+1760,vongole,0,1,0,1
+1761,meeting,0,1,0,1
+1762,comment,0,1,0,1
+1763,racism,0,1,0,1
+1764,pizza crust,0,1,0,1
+1765,wall cover,0,1,0,1
+1766,television,0,1,0,1
+1767,service hostess / owner,0,1,0,1
+1768,overprice,0,1,0,1
+1769,surface,0,1,0,1
+1770,noise level,0,1,0,1
+1771,waffle,0,1,0,1
+1772,hollandaise,0,1,0,1
+1773,ratatouille,0,1,0,1
+1774,check in,0,1,0,1
+1775,foyer,0,1,0,1
+1776,entree portion,0,1,0,1
+1777,priced,0,1,0,1
+1778,sugar,0,1,0,1
+1779,joke,0,1,0,1
+1780,grilled chicken parmesan,0,1,0,1
+1781,lasgna,0,1,0,1
+1782,power,0,1,0,1
+1783,machine,0,1,0,1
+1784,slide,0,1,0,1
+1785,lettece,0,1,0,1
+1786,spumoni,0,1,0,1
+1787,pea,0,1,0,1
+1788,path,0,1,0,1
+1789,place present,0,1,0,1
+1790,schedule,0,1,0,1
+1791,rigenette al ragu,0,1,0,1
+1792,prawn,0,1,0,1
+1793,ghost,0,1,0,1
+1794,pene,0,1,0,1
+1795,broccoli rabe pasta,0,1,0,1
+1796,wine price,0,1,0,1
+1797,hear,0,1,0,1
+1798,veg option,0,1,0,1
+1799,touch,0,1,0,1
+1800,stuffing,0,1,0,1
+1801,table manner,0,1,0,1
+1802,fondue,0,1,0,1
+1803,lasagna appetizer,0,1,0,1
+1804,soap dispenser,0,1,0,1
+1805,paper towel,0,1,0,1
+1806,plant decor,0,1,0,1
+1807,litter,0,1,0,1
+1808,s room,0,1,0,1
+1809,toasted lasagna,0,1,0,1
+1810,alfredo entre,0,1,0,1
+1811,hostess desk,0,1,0,1
+1812,logistical,0,1,0,1
+1813,coffee machine,0,1,0,1
+1814,waiter service,0,1,0,1
+1815,napkins,0,1,0,1
+1816,service response,0,1,0,1
+1817,salad order,0,1,0,1
+1818,calamari app,0,1,0,1
+1819,food choice,0,1,0,1
+1820,meat dish,0,1,0,1
+1821,food gross,0,1,0,1
+1822,pasta quality,0,1,0,1
+1823,soup portion,0,1,0,1
+1824,pizaz,0,1,0,1
+1825,cream of chicken,0,1,0,1
+1826,lasana,0,1,0,1
+1827,managment,0,1,0,1
+1828,pino grigio,0,1,0,1
+1829,appy,0,1,0,1
+1830,manu,0,1,0,1
+1831,in,0,1,0,1
+1832,fish francais,0,1,0,1
+1833,hot pocket,0,1,0,1
+1834,bus,0,1,0,1
+1835,tv,0,1,0,1
+1836,flavorless food,0,1,0,1
+1837,workers,0,1,0,1
+1838,air condition,0,1,0,1
+1839,appliance,0,1,0,1
+1840,protein,0,1,0,1
+1841,staff treatment,0,1,0,1
+1842,leadership,0,1,0,1
+1843,hamburger patty,0,1,0,1
+1844,parmesan chicken,0,1,0,1
+1845,spons,0,1,0,1
+1846,appetizer combo,0,1,0,1
+1847,computer,0,1,0,1
+1848,crutons,0,1,0,1
+1849,salad dress,0,1,0,1
+1850,food preparation,0,1,0,1
+1851,cucumber,0,1,0,1
+1852,flat bread,0,1,0,1
+1853,apetizer,0,1,0,1
+1854,cesear,0,1,0,1
+1855,service utensil,0,1,0,1
+1856,mamager,0,1,0,1
+1857,outfit,0,1,0,1
+1858,air conditioning,0,1,0,1
+1859,ballroom,0,1,0,1
+1860,name,0,1,0,1
+1861,shellfish,0,1,0,1
+1862,flounder,0,1,0,1
+1863,clam casino,0,1,0,1
+1864,oreganotto,0,1,0,1
+1865,detergent,0,1,0,1
+1866,mai tai,0,1,0,1
+1867,walkway,0,1,0,1
+1868,arrive,0,1,0,1
+1869,parmigan,0,1,0,1
+1870,icetea,0,1,0,1
+1871,meal quality,0,1,0,1
+1872,chicken scampi,0,1,0,1
+1873,supervision,0,1,0,1
+1874,appearance,0,1,0,1
+1875,lasagna roll ups,0,1,0,1
+1876,mashed potato,0,1,0,1
+1877,waiting area,0,1,0,1
+1878,waiter / server,0,1,0,1
+1879,crisp dessert,0,1,0,1
+1880,sour dough bread,0,1,0,1
+1881,ceasars salad,0,1,0,1
+1882,ricotta,0,1,0,1
+1883,grill,0,1,0,1
+1884,service charge,0,1,0,1
+1885,mozzarella carrozza,0,1,0,1
+1886,chicken francaise,0,1,0,1
+1887,spiedini,0,1,0,1
+1888,chicken frommagio,0,1,0,1
+1889,chicken francese,0,1,0,1
+1890,answer,0,1,0,1
+1891,dish washing detergent,0,1,0,1
+1892,steak sandwich,0,1,0,1
+1893,help,0,1,0,1
+1894,schhol,0,1,0,1
+1895,croton,0,1,0,1
+1896,strawberry lemonade,0,1,0,1
+1897,hot water,0,1,0,1
+1898,air conditioner,0,1,0,1
+1899,utility,0,1,0,1
+1900,host staff,0,1,0,1
+1901,shade,0,1,0,1
+1902,spinach dip,0,1,0,1
+1903,washroom,0,1,0,1
+1904,serve utensil,0,1,0,1
+1905,roast chicken,0,1,0,1
+1906,silverware ware,0,1,0,1
+1907,chicken parm / pasta,0,1,0,1
+1908,plastic,0,1,0,1
+1909,spring vegetable,0,1,0,1
+1910,wine glass,0,1,0,1
+1911,brussels,0,1,0,1
+1912,tuna tartare,0,1,0,1
+1913,avocado,0,1,0,1
+1914,garganelli,0,1,0,1
+1915,iced tea,0,1,0,1
+1916,blind,0,1,0,1
+1917,lasagna sauce,0,1,0,1
+1918,front of,0,1,0,1
+1919,labor,0,1,0,1
+1920,windows,0,1,0,1
+1921,sanitary,0,1,0,1
+1922,carpeting,0,1,0,1
+1923,central air,0,1,0,1
+1924,hostace,0,1,0,1
+1925,cerviche,0,1,0,1
+1926,contruction equipment,0,1,0,1
+1927,omelet,0,1,0,1
+1928,baked brie,0,1,0,1
+1929,personal,0,1,0,1
+1930,armchair,0,1,0,1
+1931,heating,0,1,0,1
+1932,penne alla genovese,0,1,0,1
+1933,lady room,0,1,0,1
+1934,flat bread crisp,0,1,0,1
+1935,lamb dish,0,1,0,1
+1936,bug,0,1,0,1
+1937,artichokes,0,1,0,1
+1938,operational,0,1,0,1
+1939,rollitini,0,1,0,1
+1940,crab meat,0,1,0,1
+1941,water glass,0,1,0,1
+1942,glaze,0,1,0,1
+1943,colour,0,1,0,1
+1944,riggatoni,0,1,0,1
+1945,vanilla,0,1,0,1
+1946,gouda,0,1,0,1
+1947,manchego,0,1,0,1
+1948,deposit,0,1,0,1
+1949,art,0,1,0,1
+1950,mahi mahi,0,1,0,1
+1951,hr,0,1,0,1
+1952,cappuccinos,0,1,0,1
+1953,fish choice,0,1,0,1
+1954,rolitini,0,1,0,1
+1955,mozzarella square,0,1,0,1
+1956,cover,0,1,0,1
+1957,hamburger,0,1,0,1
+1958,delivery guy,0,1,0,1
+1959,veal picatta,0,1,0,1
+1960,counter girl,0,1,0,1
+1961,ceiling tile,0,1,0,1
+1962,grigio,0,1,0,1
+1963,chicken cacciatore,0,0,1,1
+1964,fritta calamari,0,0,1,1
+1965,sweater,0,0,1,1
+1966,jean,0,0,1,1
+1967,charcutteri,0,0,1,1
+1968,merlot,0,0,1,1
+1969,desert wine,0,0,1,1
+1970,vegetales,0,0,1,1
+1971,parmesan chick,0,0,1,1
+1972,pressure,0,0,1,1
+1973,product,0,0,1,1
+1974,dumpling soup,0,0,1,1
+1975,salad / breadstick,0,0,1,1
+1976,chicken cutlet parmigianino,0,0,1,1
+1977,egg plant,0,0,1,1
+1978,breadrolls,0,0,1,1
+1979,spaghetti & meatball,0,0,1,1
+1980,queue,0,0,1,1
+1981,reservationin,0,0,1,1
+1982,dalad,0,0,1,1
+1983,confirmation,0,0,1,1
+1984,direction,0,0,1,1
+1985,refil,0,0,1,1
+1986,chees,0,0,1,1
+1987,menu service,0,0,1,1
+1988,resource,0,0,1,1
+1989,lasagna dip,0,0,1,1
+1990,timeline,0,0,1,1
+1991,chicken parmasan,0,0,1,1
+1992,trimasu,0,0,1,1
+1993,side dish,0,0,1,1
+1994,salad plat,0,0,1,1
+1995,chicken special,0,0,1,1
+1996,scene,0,0,1,1
+1997,whip cream,0,0,1,1
+1998,toast bread,0,0,1,1
+1999,calarmi,0,0,1,1
+2000,doggy bag,0,0,1,1
+2001,shrimp parm,0,0,1,1
+2002,bar tab,0,0,1,1
+2003,carmine,0,0,1,1
+2004,stool,0,0,1,1
+2005,sound,0,0,1,1
+2006,coffe,0,0,1,1
+2007,cardinale,0,0,1,1
+2008,banquet,0,0,1,1
+2009,uniform,0,0,1,1
+2010,jacket,0,0,1,1
+2011,pant,0,0,1,1
+2012,tiramisu waiter,0,0,1,1
+2013,flight,0,0,1,1
+2014,tripe,0,0,1,1
+2015,roast red pepper,0,0,1,1
+2016,charge,0,0,1,1
+2017,veal florencia,0,0,1,1
+2018,linguine dish,0,0,1,1
+2019,busers,0,0,1,1
+2020,ready,0,0,1,1
+2021,pasta pas,0,0,1,1
+2022,utensil menu,0,0,1,1
+2023,tremezzo,0,0,1,1
+2024,pasta bolognese,0,0,1,1
+2025,melanzana,0,0,1,1
+2026,zuppa di,0,0,1,1
+2027,arugula,0,0,1,1
+2028,proscuitto,0,0,1,1
+2029,pepperoni,0,0,1,1
+2030,ancillary take out item,0,0,1,1
+2031,starter fry zucchini,0,0,1,1
+2032,chablis,0,0,1,1
+2033,antipasto plate,0,0,1,1
+2034,change table,0,0,1,1
+2035,alla genovese,0,0,1,1
+2036,pancakes,0,0,1,1
+2037,fettuccini carbonara,0,0,1,1
+2038,table clothes,0,0,1,1
+2039,cesear salad,0,0,1,1
+2040,valet parking attendant,0,0,1,1
+2041,tempature,0,0,1,1
+2042,toppings,0,0,1,1
+2043,ice drink,0,0,1,1
+2044,chichen,0,0,1,1
+2045,wait person,0,0,1,1
+2046,veg menu,0,0,1,1
+2047,vacuum,0,0,1,1
+2048,fettuccini alfred,0,0,1,1
+2049,tirramasu,0,0,1,1
+2050,ambience waitress,0,0,1,1
+2051,ravioli di portobello,0,0,1,1
+2052,parmed,0,0,1,1
+2053,diavlo,0,0,1,1
+2054,fra diavlo,0,0,1,1
+2055,bulb,0,0,1,1
+2056,oreganato,0,0,1,1
+2057,braise beef,0,0,1,1
+2058,food item,0,0,1,1
+2059,togo,0,0,1,1
+2060,shrimp scampi pasta bowl,0,0,1,1
+2061,sopressata,0,0,1,1
+2062,jazz show,0,0,1,1
+2063,lunch menu waitress,0,0,1,1
+2064,cabonara,0,0,1,1
+2065,waitters,0,0,1,1
+2066,fry mozzarella,0,0,1,1
+2067,grouper,0,0,1,1
+2068,salas,0,0,1,1
+2069,opener,0,0,1,1
+2070,pei mussel,0,0,1,1
+2071,michaelangelo,0,0,1,1
+2072,sole francais,0,0,1,1
+2073,fra diavolo sauce,0,0,1,1
+2074,bar top,0,0,1,1
+2075,barstools,0,0,1,1
+2076,garlic bread bruschetta,0,0,1,1
+2077,spagehetti,0,0,1,1
+2078,jukebox,0,0,1,1
+2079,antipasto salad,0,0,1,1
+2080,hair pasta,0,0,1,1
+2081,penne rigate,0,0,1,1
+2082,moscow mule,0,0,1,1
+2083,cabonata,0,0,1,1
+2084,waiting room,0,0,1,1
+2085,asiago tortellini,0,0,1,1
+2086,paloma,0,0,1,1
+2087,portobello,0,0,1,1
+2088,calamari fritti,0,0,1,1
+2089,latte,0,0,1,1
+2090,capuchino,0,0,1,1
+2091,beef carpacio,0,0,1,1
+2092,tomahawk steak,0,0,1,1
+2093,brie,0,0,1,1
+2094,italian toast,0,0,1,1
+2095,steaks,0,0,1,1
+2096,ripieno,0,0,1,1
+2097,pan,0,0,1,1
+2098,rolletini,0,0,1,1
+2099,prixe,0,0,1,1
+2100,menu appetizer,0,0,1,1
+2101,cupcake,0,0,1,1
+2102,lunch price,0,0,1,1
+2103,fry zucchini,0,0,1,1
+2104,lot,0,0,1,1
+2105,caponatina,0,0,1,1
+2106,address,0,0,1,1
+2107,prix fixe menu,0,0,1,1
+2108,platter,0,0,1,1
+2109,pizzaria,0,0,1,1
+2110,effort,0,0,1,1
+2111,ceasar wrap,0,0,1,1
+2112,prix fixe,0,0,1,1
+2113,pre - fixe dinner,0,0,1,1
+2114,chicken entree,0,0,1,1
+2115,creme brulees,0,0,1,1
+2116,canole,0,0,1,1
+2117,pasta melanzana,0,0,1,1
+2118,seabass,0,0,1,1

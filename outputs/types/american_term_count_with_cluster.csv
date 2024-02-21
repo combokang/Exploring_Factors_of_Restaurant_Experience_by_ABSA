@@ -1,0 +1,1234 @@
+ID,Term,TOTAL,Cluster,Cluster_1Word
+0,food,1681,1.0,food
+1,service,885,2.0,service
+2,staff,364,2.0,service
+3,atmosphere,335,4.0,atmosphere
+4,burger,265,9.0,salad
+5,drink,258,5.0,drink
+6,price,201,3.0,price
+7,menu,193,6.0,menu
+8,view,140,4.0,atmosphere
+9,waiter,136,2.0,service
+10,server,126,2.0,service
+11,brunch,117,10.0,reservation
+12,waitress,116,2.0,service
+13,ambiance,115,4.0,atmosphere
+14,decor,91,4.0,atmosphere
+15,reservation,88,10.0,reservation
+16,lunch,86,10.0,reservation
+17,fry,86,8.0,chicken
+18,salad,80,9.0,salad
+19,appetizer,78,5.0,drink
+20,wing,77,8.0,chicken
+21,steak,77,8.0,chicken
+22,portion,76,7.0,portion
+23,music,63,4.0,atmosphere
+24,dinner,62,10.0,reservation
+25,bar,57,4.0,atmosphere
+26,cocktail,55,5.0,drink
+27,bartender,55,2.0,service
+28,breakfast,53,10.0,reservation
+29,beer,50,5.0,drink
+30,selection,48,6.0,menu
+31,dessert,48,5.0,drink
+32,vibe,47,4.0,atmosphere
+33,manager,44,2.0,service
+34,ambience,43,4.0,atmosphere
+35,salmon,41,8.0,chicken
+36,location,40,4.0,atmosphere
+37,hostess,40,2.0,service
+38,space,39,4.0,atmosphere
+39,experience,36,12.0,experience
+40,wine,36,5.0,drink
+41,sushi,36,3.0,price
+42,entree,36,5.0,drink
+43,meal,33,1.0,food
+44,table,33,10.0,reservation
+45,people,32,2.0,service
+46,toast,31,8.0,chicken
+47,happy hour,30,15.0,special
+48,quality,30,3.0,price
+49,band,29,4.0,atmosphere
+50,hamburger,29,8.0,chicken
+51,chicken,29,8.0,chicken
+52,sandwich,28,8.0,chicken
+53,sauce,28,8.0,chicken
+54,environment,27,4.0,atmosphere
+55,coffee,27,5.0,drink
+56,bacon,26,8.0,chicken
+57,pickle,25,8.0,chicken
+58,wait staff,25,2.0,service
+59,cheeseburger,25,8.0,chicken
+60,lobster roll,25,8.0,chicken
+61,shrimp,25,8.0,chicken
+62,short rib,24,8.0,chicken
+63,rib,24,8.0,chicken
+64,flavor,24,8.0,chicken
+65,potato,24,8.0,chicken
+66,bread,23,9.0,salad
+67,host,22,2.0,service
+68,setting,21,4.0,atmosphere
+69,dish,21,6.0,menu
+70,pancake,21,8.0,chicken
+71,seating,20,4.0,atmosphere
+72,interior,20,4.0,atmosphere
+73,scallop,20,8.0,chicken
+74,wait,20,10.0,reservation
+75,owner,19,2.0,service
+76,pudding,19,8.0,chicken
+77,ravioli,19,8.0,chicken
+78,door,19,17.0,smell
+79,special,19,15.0,special
+80,cheese,19,8.0,chicken
+81,martini,18,5.0,drink
+82,furniture,18,4.0,atmosphere
+83,chef,18,2.0,service
+84,oyster,17,8.0,chicken
+85,french toast,17,8.0,chicken
+86,pizza,17,9.0,salad
+87,soup,17,9.0,salad
+88,beer selection,16,6.0,menu
+89,octopus,16,8.0,chicken
+90,side,16,,
+91,calamari,16,8.0,chicken
+92,coleslaw,15,8.0,chicken
+93,risotto,15,8.0,chicken
+94,crowd,15,10.0,reservation
+95,venue,14,4.0,atmosphere
+96,burrata,14,8.0,chicken
+97,crab cake,14,8.0,chicken
+98,bathroom,14,14.0,tip
+99,cole slaw,13,8.0,chicken
+100,room,13,4.0,atmosphere
+101,home fry,13,8.0,chicken
+102,filet mignon,13,8.0,chicken
+103,diner,13,16.0,restaurant
+104,plate,13,7.0,portion
+105,management,13,14.0,tip
+106,duck,12,8.0,chicken
+107,entertainment,12,4.0,atmosphere
+108,bloody mary,12,8.0,chicken
+109,onion ring,12,8.0,chicken
+110,main,12,5.0,drink
+111,decorate,11,4.0,atmosphere
+112,chandelier,11,4.0,atmosphere
+113,desert,11,5.0,drink
+114,bellini,11,8.0,chicken
+115,taste,11,8.0,chicken
+116,place,11,4.0,atmosphere
+117,buffet,11,6.0,menu
+118,seafood,11,8.0,chicken
+119,egg,11,8.0,chicken
+120,ribeye,11,8.0,chicken
+121,bill,11,,
+122,patio,10,4.0,atmosphere
+123,presentation,10,11.0,cuisine
+124,waffle,10,8.0,chicken
+125,tv,10,4.0,atmosphere
+126,lamb,10,8.0,chicken
+127,seat,10,10.0,reservation
+128,parking,10,4.0,atmosphere
+129,worker,10,2.0,service
+130,nacho,10,8.0,chicken
+131,meat,10,8.0,chicken
+132,sea bass,10,8.0,chicken
+133,cake,10,5.0,drink
+134,mimosa,10,5.0,drink
+135,lobster,10,8.0,chicken
+136,pasta,10,9.0,salad
+137,sangria,9,5.0,drink
+138,variety,9,6.0,menu
+139,brownie,9,8.0,chicken
+140,lighting,9,4.0,atmosphere
+141,waitstaff,9,2.0,service
+142,fish,9,8.0,chicken
+143,pricing,9,3.0,price
+144,starter,9,8.0,chicken
+145,time,9,13.0,delivery
+146,hour,9,13.0,delivery
+147,bread pudding,8,8.0,chicken
+148,design,8,4.0,atmosphere
+149,truffle fry,8,8.0,chicken
+150,artichoke,8,8.0,chicken
+151,cooky,8,8.0,chicken
+152,portion size,8,7.0,portion
+153,cobb salad,8,8.0,chicken
+154,wine list,8,6.0,menu
+155,chicken wing,8,8.0,chicken
+156,apps,8,5.0,drink
+157,mash potato,8,8.0,chicken
+158,caesar salad,8,8.0,chicken
+159,gnocchi,8,8.0,chicken
+160,mac,8,8.0,chicken
+161,tart,8,8.0,chicken
+162,french fry,8,8.0,chicken
+163,delivery,8,13.0,delivery
+164,wait time,8,13.0,delivery
+165,tip,8,14.0,tip
+166,layout,7,4.0,atmosphere
+167,mussel,7,8.0,chicken
+168,value,7,3.0,price
+169,steak tartare,7,8.0,chicken
+170,french dip,7,8.0,chicken
+171,brunch menu,7,6.0,menu
+172,tuna tartare,7,8.0,chicken
+173,lady,7,2.0,service
+174,chili,7,8.0,chicken
+175,food selection,7,4.0,atmosphere
+176,clam,7,8.0,chicken
+177,prime rib,7,8.0,chicken
+178,decoration,7,4.0,atmosphere
+179,main course,7,5.0,drink
+180,comedy,7,12.0,experience
+181,chowder,7,8.0,chicken
+182,dressing,7,8.0,chicken
+183,glass,7,5.0,drink
+184,minute,7,13.0,delivery
+185,lettuce,7,8.0,chicken
+186,option,6,6.0,menu
+187,restaurant,6,16.0,restaurant
+188,wine selection,6,6.0,menu
+189,set,6,4.0,atmosphere
+190,rooftop,6,4.0,atmosphere
+191,turkey,6,8.0,chicken
+192,brussel sprout,6,8.0,chicken
+193,taco,6,8.0,chicken
+194,employee,6,2.0,service
+195,grill cheese,6,8.0,chicken
+196,smell,6,17.0,smell
+197,check,6,14.0,tip
+198,margarita,5,5.0,drink
+199,donut,5,8.0,chicken
+200,choice,5,6.0,menu
+201,family,5,21.0,family
+202,feel,5,22.0,feel
+203,inside,5,17.0,smell
+204,branzino,5,8.0,chicken
+205,weather,5,4.0,atmosphere
+206,buffalo wing,5,8.0,chicken
+207,conversation,5,4.0,atmosphere
+208,lamb shank,5,8.0,chicken
+209,food choice,5,6.0,menu
+210,champagne,5,5.0,drink
+211,hospitality,5,12.0,experience
+212,duck confit,5,8.0,chicken
+213,dining,5,4.0,atmosphere
+214,croque madame,5,12.0,experience
+215,serving,5,7.0,portion
+216,filet,5,8.0,chicken
+217,french onion soup,5,8.0,chicken
+218,park,5,4.0,atmosphere
+219,chicken sandwich,5,8.0,chicken
+220,dip,5,8.0,chicken
+221,quesadilla,5,8.0,chicken
+222,restroom,5,17.0,smell
+223,broccoli,5,8.0,chicken
+224,tuna,5,8.0,chicken
+225,wrap,5,8.0,chicken
+226,sushi roll,5,8.0,chicken
+227,omelette,5,8.0,chicken
+228,shrimp cocktail,5,8.0,chicken
+229,karaoke,5,4.0,atmosphere
+230,grit,5,8.0,chicken
+231,chair,5,17.0,smell
+232,slaw,5,8.0,chicken
+233,loud,5,4.0,atmosphere
+234,picture,4,,
+235,dining room,4,4.0,atmosphere
+236,history,4,20.0,thai
+237,everyone,4,,
+238,crust,4,8.0,chicken
+239,benedict,4,8.0,chicken
+240,ingredient,4,11.0,cuisine
+241,aesthetic,4,4.0,atmosphere
+242,avocado toast,4,8.0,chicken
+243,brioche,4,8.0,chicken
+244,cheesecake,4,8.0,chicken
+245,building,4,17.0,smell
+246,vault,4,4.0,atmosphere
+247,cabbage,4,8.0,chicken
+248,cuisine,4,11.0,cuisine
+249,food portion,4,7.0,portion
+250,interior design,4,4.0,atmosphere
+251,platter,4,8.0,chicken
+252,light,4,4.0,atmosphere
+253,side dish,4,8.0,chicken
+254,setup,4,4.0,atmosphere
+255,menu option,4,6.0,menu
+256,establishment,4,16.0,restaurant
+257,pork chop,4,8.0,chicken
+258,beverage,4,5.0,drink
+259,review,4,14.0,tip
+260,roll,4,8.0,chicken
+261,mac n cheese,4,8.0,chicken
+262,guy,4,2.0,service
+263,ice cream,4,5.0,drink
+264,fixe,4,6.0,menu
+265,fare,4,11.0,cuisine
+266,elevator,4,17.0,smell
+267,silverware,4,17.0,smell
+268,dress,4,9.0,salad
+269,floor,4,17.0,smell
+270,window,4,17.0,smell
+271,chicken milanese,4,8.0,chicken
+272,creme brulee,4,8.0,chicken
+273,napkin,4,17.0,smell
+274,bun,4,8.0,chicken
+275,gratuity,4,14.0,tip
+276,valet park,4,12.0,experience
+277,season,3,8.0,chicken
+278,happy hour special,3,,
+279,potato skin,3,8.0,chicken
+280,bar tender,3,12.0,experience
+281,raw bar,3,12.0,experience
+282,menu selection,3,6.0,menu
+283,drink selection,3,12.0,experience
+284,lunch menu,3,6.0,menu
+285,eat,3,19.0,eat
+286,bloody mary bar,3,,
+287,grilled cheese,3,8.0,chicken
+288,chicken salad,3,8.0,chicken
+289,enviroment,3,12.0,experience
+290,surroundings,3,12.0,experience
+291,scenery,3,4.0,atmosphere
+292,scramble egg,3,8.0,chicken
+293,art,3,4.0,atmosphere
+294,show,3,,
+295,comedian,3,12.0,experience
+296,breakfast sandwich,3,12.0,experience
+297,pot roast,3,8.0,chicken
+298,reuben,3,8.0,chicken
+299,clientele,3,4.0,atmosphere
+300,fish bowl,3,12.0,experience
+301,lobster bisque,3,8.0,chicken
+302,mojito,3,8.0,chicken
+303,cocktail menu,3,6.0,menu
+304,ceiling,3,4.0,atmosphere
+305,din room,3,4.0,atmosphere
+306,lasagna,3,8.0,chicken
+307,breakfast food,3,12.0,experience
+308,food option,3,6.0,menu
+309,philly cheese steak,3,12.0,experience
+310,slider,3,8.0,chicken
+311,meatloaf,3,8.0,chicken
+312,steaks,3,18.0,serve
+313,attire,3,12.0,experience
+314,party,3,21.0,family
+315,brussels sprout,3,8.0,chicken
+316,sorbet,3,8.0,chicken
+317,valet,3,14.0,tip
+318,valet parking,3,4.0,atmosphere
+319,grilled chicken,3,8.0,chicken
+320,lobby,3,17.0,smell
+321,cheese plate,3,8.0,chicken
+322,corn beef,3,8.0,chicken
+323,chicken tender,3,8.0,chicken
+324,spaghetti,3,8.0,chicken
+325,tea,3,5.0,drink
+326,tomato,3,8.0,chicken
+327,booth,3,17.0,smell
+328,butter,3,8.0,chicken
+329,beef rib,3,8.0,chicken
+330,address,3,14.0,tip
+331,pretzel,3,8.0,chicken
+332,mac and cheese,3,8.0,chicken
+333,veggie,3,8.0,chicken
+334,onion,3,8.0,chicken
+335,chip,3,8.0,chicken
+336,seat area,3,4.0,atmosphere
+337,tartare,3,8.0,chicken
+338,broccolini,3,8.0,chicken
+339,comedy show,3,12.0,experience
+340,roast chicken,3,8.0,chicken
+341,reception,3,21.0,family
+342,grill octopus,3,8.0,chicken
+343,ice,3,18.0,serve
+344,gravy,3,8.0,chicken
+345,venison,3,8.0,chicken
+346,churrasco,3,8.0,chicken
+347,spring roll,3,8.0,chicken
+348,chicken finger,3,8.0,chicken
+349,entrance,3,17.0,smell
+350,bite,3,19.0,eat
+351,panini,3,8.0,chicken
+352,order,3,13.0,delivery
+353,noisy,3,4.0,atmosphere
+354,hygiene,3,14.0,tip
+355,staffed,3,13.0,delivery
+356,zucchini,3,8.0,chicken
+357,charcuterie board,3,12.0,experience
+358,clam chowder,3,8.0,chicken
+359,lay out,2,12.0,experience
+360,crisp,2,8.0,chicken
+361,french onion,2,,
+362,mozzarella stick,2,8.0,chicken
+363,nacho platter,2,,
+364,fireplace,2,4.0,atmosphere
+365,bar area,2,4.0,atmosphere
+366,train,2,14.0,tip
+367,hot wing,2,8.0,chicken
+368,french onion dip,2,,
+369,topping,2,8.0,chicken
+370,oktoberfest,2,,
+371,kid menu,2,12.0,experience
+372,smile,2,2.0,service
+373,seating area,2,4.0,atmosphere
+374,look,2,,
+375,set up,2,4.0,atmosphere
+376,food drink,2,12.0,experience
+377,shirley temple,2,,
+378,bar staff,2,12.0,experience
+379,patio area,2,4.0,atmosphere
+380,rib eye,2,8.0,chicken
+381,tomahawk steak,2,8.0,chicken
+382,chili dog,2,,
+383,present,2,12.0,experience
+384,souffle,2,8.0,chicken
+385,sit area,2,4.0,atmosphere
+386,item,2,6.0,menu
+387,torte,2,12.0,experience
+388,seabass,2,8.0,chicken
+389,locale,2,12.0,experience
+390,story,2,13.0,delivery
+391,event,2,21.0,family
+392,service staff,2,2.0,service
+393,biscuit,2,8.0,chicken
+394,prix,2,6.0,menu
+395,beef loin,2,,
+396,tortelli,2,,
+397,din area,2,4.0,atmosphere
+398,personnel,2,12.0,experience
+399,prix fixe,2,6.0,menu
+400,brunch deal,2,12.0,experience
+401,area,2,16.0,restaurant
+402,dip sauce,2,8.0,chicken
+403,ambient,2,4.0,atmosphere
+404,cobbler,2,8.0,chicken
+405,terrace,2,4.0,atmosphere
+406,energy,2,22.0,feel
+407,football,2,,
+408,eats,2,13.0,delivery
+409,itself,2,,
+410,plant,2,17.0,smell
+411,gelato,2,8.0,chicken
+412,cookie,2,8.0,chicken
+413,mushroom,2,8.0,chicken
+414,parm,2,8.0,chicken
+415,fountain,2,17.0,smell
+416,arrangement,2,12.0,experience
+417,scene,2,4.0,atmosphere
+418,theme,2,12.0,experience
+419,cover,2,17.0,smell
+420,whiskey,2,12.0,experience
+421,church,2,,
+422,rollatini,2,8.0,chicken
+423,chicken parm,2,8.0,chicken
+424,pie,2,8.0,chicken
+425,empanadas,2,8.0,chicken
+426,cooking,2,11.0,cuisine
+427,tuscany,2,,
+428,eggplant,2,8.0,chicken
+429,gluten,2,6.0,menu
+430,vegetarian,2,6.0,menu
+431,bisque,2,8.0,chicken
+432,crab leg,2,8.0,chicken
+433,tuna roll,2,8.0,chicken
+434,kid,2,21.0,family
+435,mashed potato,2,8.0,chicken
+436,braise short rib,2,,
+437,chicken marsala,2,8.0,chicken
+438,greeter,2,17.0,smell
+439,rice,2,8.0,chicken
+440,deliver,2,13.0,delivery
+441,concept,2,4.0,atmosphere
+442,muffin,2,8.0,chicken
+443,sausage,2,8.0,chicken
+444,bread basket,2,5.0,drink
+445,stuff,2,8.0,chicken
+446,sommelier,2,12.0,experience
+447,flatware,2,12.0,experience
+448,vegetable,2,8.0,chicken
+449,blt,2,8.0,chicken
+450,bruschetta,2,8.0,chicken
+451,clean,2,17.0,smell
+452,washroom,2,12.0,experience
+453,stuffing,2,8.0,chicken
+454,mixed drink,2,5.0,drink
+455,clothes,2,17.0,smell
+456,menu item,2,6.0,menu
+457,queue,2,13.0,delivery
+458,cocktail list,2,8.0,chicken
+459,texture,2,8.0,chicken
+460,greek salad,2,8.0,chicken
+461,land,2,,
+462,refreshment,2,12.0,experience
+463,dog,2,14.0,tip
+464,roast,2,8.0,chicken
+465,apptizer,2,,
+466,cauliflower,2,8.0,chicken
+467,ny strip,2,8.0,chicken
+468,pork,2,8.0,chicken
+469,seafood platter,2,8.0,chicken
+470,menues,2,,
+471,food quality,2,3.0,price
+472,crowded,2,10.0,reservation
+473,crabcakes,2,8.0,chicken
+474,breeze,2,4.0,atmosphere
+475,seafood tower,2,8.0,chicken
+476,accompaniment,2,8.0,chicken
+477,croquet,2,8.0,chicken
+478,mash,2,8.0,chicken
+479,eye,2,17.0,smell
+480,food service,2,12.0,experience
+481,eye steak,2,,
+482,latte,2,8.0,chicken
+483,charcuterie,2,8.0,chicken
+484,tartares,2,8.0,chicken
+485,drink price,2,,
+486,coke,2,18.0,serve
+487,etiquette,2,12.0,experience
+488,utensils,2,18.0,serve
+489,crab,2,8.0,chicken
+490,crab legs,2,8.0,chicken
+491,busboy,2,17.0,smell
+492,lobster croquette,2,,
+493,fee,2,14.0,tip
+494,shank,2,8.0,chicken
+495,driver,2,14.0,tip
+496,odor,2,17.0,smell
+497,iced tea,2,8.0,chicken
+498,ice tea,2,8.0,chicken
+499,glove,2,17.0,smell
+500,fried calamari,2,8.0,chicken
+501,rack of lamb,2,8.0,chicken
+502,noise,2,4.0,atmosphere
+503,foie gras,2,8.0,chicken
+504,bruch,2,,
+505,cordon bleu,2,,
+506,philly cheesesteak,2,,
+507,egg nog,2,,
+508,marsala,2,8.0,chicken
+509,dietary,2,12.0,experience
+510,cocktails,2,12.0,experience
+511,ham,2,8.0,chicken
+512,maintain,1,,
+513,steak fry,1,8.0,chicken
+514,lemonade,1,5.0,drink
+515,cheesesteak burger,1,,
+516,cheeseburger deluxe,1,8.0,chicken
+517,cinnamon,1,,
+518,stave,1,,
+519,horse,1,,
+520,strap,1,,
+521,patty melt,1,,
+522,margherita burger,1,,
+523,help,1,2.0,service
+524,flank steak sandwich,1,,
+525,pokestops,1,,
+526,slaw plate,1,,
+527,wood,1,8.0,chicken
+528,pizza wing,1,,
+529,sandwich / burger,1,,
+530,welsh rarebit,1,,
+531,burguers,1,,
+532,burger bar,1,,
+533,nacho ' s,1,,
+534,welsh rabbit,1,,
+535,joint,1,,
+536,burquer,1,,
+537,dining area,1,17.0,smell
+538,witresses,1,,
+539,cavatelli,1,8.0,chicken
+540,gamble,1,,
+541,manger,1,14.0,tip
+542,ambiance waiter,1,,
+543,prime,1,,
+544,patty,1,8.0,chicken
+545,bag,1,18.0,serve
+546,pastrami,1,8.0,chicken
+547,staff member,1,2.0,service
+548,bridal shower,1,,
+549,eel,1,8.0,chicken
+550,shrimp tempura,1,8.0,chicken
+551,seating space,1,12.0,experience
+552,disco fry,1,,
+553,maintenance,1,,
+554,eric,1,,
+555,s menu,1,,
+556,italian,1,11.0,cuisine
+557,deal,1,7.0,portion
+558,mark up,1,,
+559,music band,1,,
+560,pappardelle pasta,1,,
+561,broil scallop,1,,
+562,interaction,1,12.0,experience
+563,tomato sauce,1,8.0,chicken
+564,mozzarella,1,8.0,chicken
+565,fish taco,1,8.0,chicken
+566,fillet mignion,1,,
+567,corn muffin,1,,
+568,shrimp scampi,1,8.0,chicken
+569,grill stringbeans,1,,
+570,food presentation,1,12.0,experience
+571,waiter / waitress,1,2.0,service
+572,brew,1,,
+573,deck,1,4.0,atmosphere
+574,start,1,18.0,serve
+575,screening,1,,
+576,california roll,1,8.0,chicken
+577,crow,1,12.0,experience
+578,berger,1,,
+579,mozz fritter,1,,
+580,dessert mat,1,,
+581,dimension,1,,
+582,grillstone,1,,
+583,pre fixe food selection,1,,
+584,bread spread,1,,
+585,breakfast food selection,1,,
+586,food recommendation,1,,
+587,happy hour option,1,,
+588,omelette bar,1,,
+589,sushi menu,1,12.0,experience
+590,price menu,1,,
+591,general manager,1,12.0,experience
+592,music group,1,,
+593,mamosa,1,,
+594,fiid,1,,
+595,lounge,1,4.0,atmosphere
+596,socialize,1,,
+597,outside,1,17.0,smell
+598,pastrami sandwich,1,8.0,chicken
+599,fish bowl drink,1,,
+600,drink special,1,12.0,experience
+601,hang,1,14.0,tip
+602,service price,1,,
+603,alec,1,,
+604,drink happy hour deal,1,,
+605,fish bowl rum,1,,
+606,everybody,1,12.0,experience
+607,friendlt,1,,
+608,sirloin,1,8.0,chicken
+609,all you,1,6.0,menu
+610,bread stick,1,9.0,salad
+611,company,1,21.0,family
+612,organizer,1,,
+613,amish chicken,1,,
+614,cosmopolitan drink,1,,
+615,song,1,12.0,experience
+616,arctic char,1,8.0,chicken
+617,spaghetti squash,1,,
+618,delicioso,1,,
+619,brussels,1,,
+620,bread course,1,,
+621,oil,1,8.0,chicken
+622,preparation,1,11.0,cuisine
+623,artic char,1,,
+624,matre ' d,1,,
+625,octopus starter,1,20.0,thai
+626,ipa,1,,
+627,tot,1,,
+628,sqaush ravioli,1,,
+629,reuben sandwich,1,,
+630,pork shank,1,,
+631,striped bass,1,,
+632,marrow bone,1,,
+633,architecture,1,20.0,thai
+634,veg . prep,1,,
+635,johnny cake,1,,
+636,temperature,1,17.0,smell
+637,steak sandwich,1,8.0,chicken
+638,shrimp and grit,1,,
+639,jazz band,1,12.0,experience
+640,cream,1,8.0,chicken
+641,ricotta,1,,
+642,hotcake,1,,
+643,plating,1,12.0,experience
+644,pork bun,1,8.0,chicken
+645,auction,1,,
+646,chilaquiles,1,12.0,experience
+647,coat check,1,12.0,experience
+648,honey bun,1,,
+649,tartine,1,,
+650,cornbread,1,8.0,chicken
+651,breakfast burrito,1,8.0,chicken
+652,water,1,17.0,smell
+653,donuts,1,,
+654,doughnut,1,8.0,chicken
+655,paloma pitcher,1,,
+656,moscow mule,1,8.0,chicken
+657,negroni,1,12.0,experience
+658,appetiser,1,8.0,chicken
+659,egg benny,1,,
+660,raviolo,1,,
+661,mousse,1,8.0,chicken
+662,meatball,1,8.0,chicken
+663,malbec,1,,
+664,milanese sandwich,1,,
+665,octopus special,1,,
+666,deco,1,4.0,atmosphere
+667,char,1,8.0,chicken
+668,fried chicken,1,8.0,chicken
+669,gravey,1,,
+670,drink deal,1,,
+671,chicken and waffle,1,8.0,chicken
+672,lunch choice,1,12.0,experience
+673,brunch flatbread,1,,
+674,tuna tatar,1,,
+675,child,1,,
+676,perspective,1,,
+677,jazz,1,4.0,atmosphere
+678,noise level,1,4.0,atmosphere
+679,oyster bar,1,,
+680,brunch item,1,,
+681,palce,1,,
+682,steelhead,1,,
+683,fixe selection,1,,
+684,dinner roll,1,12.0,experience
+685,sea bass roll appetizer,1,,
+686,macaron tree,1,,
+687,omakase,1,8.0,chicken
+688,pastry,1,8.0,chicken
+689,orange juice,1,8.0,chicken
+690,omelet bar,1,,
+691,waiter service,1,17.0,smell
+692,shortcake,1,8.0,chicken
+693,pretzel roll,1,,
+694,bar service,1,12.0,experience
+695,bourbon thursday,1,,
+696,tower,1,12.0,experience
+697,whiskey tasting,1,,
+698,sabayon,1,,
+699,manhattan,1,16.0,restaurant
+700,tuna tartar,1,8.0,chicken
+701,braised lamb shank,1,,
+702,sea bass dish,1,,
+703,avacado,1,,
+704,sashimi sampler,1,,
+705,breakfast option,1,12.0,experience
+706,course,1,5.0,drink
+707,meet up,1,,
+708,old fashion,1,,
+709,wine cellar,1,,
+710,tab,1,14.0,tip
+711,wine menu,1,12.0,experience
+712,steak salad,1,12.0,experience
+713,dessert choice,1,,
+714,check in,1,2.0,service
+715,short rib bruschetta,1,,
+716,carolina wing,1,,
+717,short rib entree,1,,
+718,bronzino,1,8.0,chicken
+719,lobster benedict,1,,
+720,traffic,1,17.0,smell
+721,croquette,1,8.0,chicken
+722,short rib hash,1,,
+723,comfort,1,,
+724,toast / garlic bread,1,,
+725,mood,1,20.0,thai
+726,city,1,,
+727,server / bartender,1,,
+728,swordfish,1,8.0,chicken
+729,fried chicken benedict,1,,
+730,rice cake,1,8.0,chicken
+731,churro,1,8.0,chicken
+732,liquor,1,17.0,smell
+733,roasted duck,1,,
+734,flan,1,8.0,chicken
+735,server assistant,1,,
+736,busser,1,12.0,experience
+737,american breakfast,1,,
+738,grilled chicken salad,1,,
+739,leave,1,,
+740,style,1,11.0,cuisine
+741,linguini,1,8.0,chicken
+742,grilled octopus,1,8.0,chicken
+743,cocktail option,1,12.0,experience
+744,menu choice,1,12.0,experience
+745,sparerib,1,8.0,chicken
+746,au jous,1,,
+747,brulee,1,8.0,chicken
+748,bus boy,1,2.0,service
+749,eveing,1,,
+750,duck dish,1,12.0,experience
+751,wait service,1,12.0,experience
+752,american / seafood,1,,
+753,calamare,1,,
+754,dart player,1,,
+755,delivery guy,1,14.0,tip
+756,appetizer platter,1,8.0,chicken
+757,wing selection,1,,
+758,cuban sandwich,1,8.0,chicken
+759,pulled pork sandwich,1,,
+760,beeeeeeeeez,1,,
+761,kitchen staff,1,14.0,tip
+762,chicken parmesan,1,8.0,chicken
+763,stephanie,1,,
+764,soda,1,5.0,drink
+765,breakfast burger,1,,
+766,wing night,1,,
+767,pub,1,20.0,thai
+768,fios,1,,
+769,brie,1,8.0,chicken
+770,grill cheese sandwich,1,,
+771,decore,1,12.0,experience
+772,roasted chicken,1,8.0,chicken
+773,burrara,1,,
+774,bouncer,1,12.0,experience
+775,sound,1,17.0,smell
+776,fried artichoke,1,8.0,chicken
+777,plant deco,1,,
+778,cocktail / wine list,1,,
+779,cappuccino,1,8.0,chicken
+780,board,1,12.0,experience
+781,buratta ribeye,1,,
+782,pesto,1,8.0,chicken
+783,sourdough,1,8.0,chicken
+784,avocado,1,8.0,chicken
+785,caesar,1,8.0,chicken
+786,glaze,1,,
+787,potato puree,1,,
+788,gallery,1,,
+789,cesar salad,1,8.0,chicken
+790,grill chicken,1,8.0,chicken
+791,laypout,1,,
+792,pork belly,1,8.0,chicken
+793,precaution,1,,
+794,distancing,1,12.0,experience
+795,couch,1,17.0,smell
+796,lobster tail,1,8.0,chicken
+797,pastis,1,,
+798,banquet,1,21.0,family
+799,statue,1,12.0,experience
+800,cheese board,1,8.0,chicken
+801,smoked salmon,1,,
+802,half chicken,1,8.0,chicken
+803,bang,1,8.0,chicken
+804,gentleman,1,2.0,service
+805,espresso / coffee,1,,
+806,background,1,4.0,atmosphere
+807,tostada,1,8.0,chicken
+808,duck leg,1,8.0,chicken
+809,shepherd pie,1,8.0,chicken
+810,dou tartar,1,,
+811,soba noodle,1,,
+812,artois,1,,
+813,seating option,1,12.0,experience
+814,banger and mash,1,,
+815,charcuterie plate,1,,
+816,cod stew,1,,
+817,burrata appetizer,1,8.0,chicken
+818,smokies,1,,
+819,dinning area,1,,
+820,tarte,1,8.0,chicken
+821,fashion,1,17.0,smell
+822,armosphere,1,,
+823,mahi mahi,1,8.0,chicken
+824,duck plate,1,,
+825,shepherd ’ s pie,1,,
+826,hen,1,8.0,chicken
+827,happy,1,21.0,family
+828,snack service,1,,
+829,carpaccio duo,1,,
+830,bouliobase,1,,
+831,blanket,1,12.0,experience
+832,charcuterie / cheese board,1,,
+833,prep,1,17.0,smell
+834,fixture,1,12.0,experience
+835,cider,1,,
+836,guinness pie,1,,
+837,molten lava cake,1,,
+838,leek soup,1,,
+839,spritz,1,12.0,experience
+840,lobster dinner,1,,
+841,eggs benedict,1,8.0,chicken
+842,bussers,1,12.0,experience
+843,gnocchi plate,1,,
+844,fillet mignon,1,8.0,chicken
+845,scallop potato,1,8.0,chicken
+846,fingerling potato,1,,
+847,pan seared salmon,1,,
+848,pickle lentil dish,1,,
+849,mirror,1,12.0,experience
+850,vault door,1,,
+851,cheese platter,1,8.0,chicken
+852,furnishing,1,4.0,atmosphere
+853,toffee pudding,1,,
+854,bar manager,1,,
+855,spot,1,16.0,restaurant
+856,friday special,1,,
+857,tune,1,12.0,experience
+858,selection of,1,6.0,menu
+859,female,1,,
+860,strawberry,1,,
+861,greek special,1,,
+862,spanikopita,1,,
+863,mac and cheese bite,1,,
+864,philly steak slider,1,,
+865,smoothy,1,8.0,chicken
+866,variety of food,1,6.0,menu
+867,ball soup,1,12.0,experience
+868,london broil sandwich,1,,
+869,character,1,12.0,experience
+870,rib steak,1,,
+871,assortment,1,8.0,chicken
+872,farm,1,,
+873,pet zoo,1,,
+874,orchard,1,,
+875,food staff sport,1,,
+876,casida,1,,
+877,mac / cheese,1,,
+878,boneless wing,1,8.0,chicken
+879,salad pizza,1,,
+880,commentary,1,,
+881,representative,1,,
+882,service burger,1,,
+883,trainer,1,,
+884,comedy night,1,4.0,atmosphere
+885,ball game,1,,
+886,crumble,1,,
+887,owner / manager,1,14.0,tip
+888,social distancing,1,17.0,smell
+889,booths,1,,
+890,fajitas,1,8.0,chicken
+891,draw,1,,
+892,barmaid,1,,
+893,sundae,1,12.0,experience
+894,onion soup,1,,
+895,owner / host,1,,
+896,beer menu,1,,
+897,mug,1,12.0,experience
+898,headliner,1,,
+899,grill salmon,1,8.0,chicken
+900,wing flavor,1,,
+901,urban sketcher,1,,
+902,root beer,1,,
+903,steak quesadilla,1,,
+904,grub,1,8.0,chicken
+905,queisdia,1,,
+906,team,1,12.0,experience
+907,friend,1,21.0,family
+908,snack,1,6.0,menu
+909,foods,1,,
+910,sister,1,,
+911,cheese steak,1,,
+912,turkey club,1,,
+913,hot dog,1,8.0,chicken
+914,breakfast platter,1,12.0,experience
+915,attention,1,14.0,tip
+916,breakfast place,1,,
+917,cater,1,21.0,family
+918,cheesesteak,1,8.0,chicken
+919,breakfast spot,1,,
+920,treatment,1,14.0,tip
+921,garlic bread,1,8.0,chicken
+922,lepprachan,1,,
+923,luncheon,1,12.0,experience
+924,margaritas,1,12.0,experience
+925,paragon,1,,
+926,server bartender,1,,
+927,milanese,1,,
+928,potato pancake,1,8.0,chicken
+929,wellington,1,,
+930,soda bread,1,8.0,chicken
+931,fillet of sole,1,8.0,chicken
+932,pastosa,1,,
+933,keno,1,,
+934,environs,1,,
+935,main dish,1,8.0,chicken
+936,green bean,1,8.0,chicken
+937,scungili app,1,,
+938,pierogies,1,8.0,chicken
+939,scungilli,1,,
+940,roast beef dinner,1,,
+941,seafood fra diavolo,1,,
+942,tech,1,,
+943,service food,1,12.0,experience
+944,sunday dinner,1,,
+945,catering,1,21.0,family
+946,canlons,1,,
+947,chopped,1,,
+948,food owner,1,,
+949,customer,1,14.0,tip
+950,leftover,1,19.0,eat
+951,fpod,1,,
+952,beef wellington,1,8.0,chicken
+953,beefwellington,1,,
+954,culinary delight,1,,
+955,the,1,,
+956,seating layout,1,,
+957,salsa,1,8.0,chicken
+958,lacquer,1,,
+959,gnat,1,,
+960,air,1,17.0,smell
+961,carpet,1,17.0,smell
+962,vegetable medley,1,,
+963,fan,1,7.0,portion
+964,egg benedict,1,8.0,chicken
+965,mixed vegetable,1,8.0,chicken
+966,flavorless,1,8.0,chicken
+967,checkout,1,12.0,experience
+968,pricey,1,3.0,price
+969,thermostat,1,,
+970,syrup,1,8.0,chicken
+971,font,1,,
+972,capitalization,1,,
+973,structure,1,17.0,smell
+974,lamp,1,17.0,smell
+975,mashedpotatoes,1,,
+976,quesedillas,1,,
+977,tray,1,18.0,serve
+978,min,1,13.0,delivery
+979,cheese side,1,,
+980,veg option,1,,
+981,skin,1,8.0,chicken
+982,braise short rib ravioli,1,,
+983,baby back rib,1,8.0,chicken
+984,basmati rice,1,,
+985,salmon roll,1,8.0,chicken
+986,chiken,1,8.0,chicken
+987,calimari,1,8.0,chicken
+988,policy,1,14.0,tip
+989,tempura,1,8.0,chicken
+990,wing special,1,,
+991,edamame,1,8.0,chicken
+992,porkchop,1,8.0,chicken
+993,receipt,1,14.0,tip
+994,baby - back rib,1,,
+995,bar maid,1,,
+996,tortilla chip,1,8.0,chicken
+997,demi glaze,1,,
+998,sushi boat,1,,
+999,leg,1,8.0,chicken
+1000,name,1,,
+1001,- bone,1,,
+1002,moscato,1,,
+1003,straw,1,18.0,serve
+1004,mignon,1,,
+1005,brunch buffet,1,12.0,experience
+1006,seaford,1,,
+1007,serloin tip,1,,
+1008,sushi price,1,,
+1009,happy hour menu,1,,
+1010,chicken dish,1,8.0,chicken
+1011,pina coolata,1,,
+1012,vegetarian offering,1,,
+1013,steak tip,1,12.0,experience
+1014,penne vodka,1,8.0,chicken
+1015,cost,1,3.0,price
+1016,brunch food,1,12.0,experience
+1017,gnocchi side dish,1,,
+1018,dessert selection,1,12.0,experience
+1019,crepe,1,8.0,chicken
+1020,oj,1,8.0,chicken
+1021,bbq rib,1,8.0,chicken
+1022,business,1,14.0,tip
+1023,duck breast,1,8.0,chicken
+1024,shoe,1,17.0,smell
+1025,receptionist,1,2.0,service
+1026,appetizer portion,1,,
+1027,credit,1,,
+1028,serving staff,1,12.0,experience
+1029,rule,1,14.0,tip
+1030,amuse bouche,1,12.0,experience
+1031,remoulade,1,,
+1032,configuration,1,,
+1033,bone,1,8.0,chicken
+1034,sirloin steak,1,,
+1035,green,1,8.0,chicken
+1036,produce,1,11.0,cuisine
+1037,feng shui,1,,
+1038,tiger prawn,1,,
+1039,spinah salad,1,,
+1040,height,1,20.0,thai
+1041,stomach,1,19.0,eat
+1042,feature,1,,
+1043,list,1,6.0,menu
+1044,hr,1,,
+1045,organization,1,12.0,experience
+1046,bus person,1,,
+1047,pickle spear,1,,
+1048,loin,1,,
+1049,beef,1,8.0,chicken
+1050,dulce de leche,1,,
+1051,halibut,1,8.0,chicken
+1052,app,1,8.0,chicken
+1053,octopus salad,1,8.0,chicken
+1054,olive,1,8.0,chicken
+1055,tenderloin,1,8.0,chicken
+1056,timing,1,12.0,experience
+1057,tortellini,1,8.0,chicken
+1058,redecorate,1,,
+1059,squash,1,,
+1060,tagliatelle,1,8.0,chicken
+1061,servicr,1,,
+1062,carrot,1,8.0,chicken
+1063,wine glass,1,17.0,smell
+1064,countdown,1,,
+1065,churri sauce,1,,
+1066,quantity,1,7.0,portion
+1067,valet service,1,,
+1068,takeout,1,13.0,delivery
+1069,seaweed salad,1,8.0,chicken
+1070,sun,1,17.0,smell
+1071,brunch choice,1,,
+1072,warm over chicken,1,,
+1073,desert menu,1,17.0,smell
+1074,riosto,1,,
+1075,caprese hero,1,,
+1076,corona,1,,
+1077,delivery person,1,14.0,tip
+1078,behavior,1,14.0,tip
+1079,roach,1,17.0,smell
+1080,baguette,1,8.0,chicken
+1081,preserve,1,,
+1082,corkage fee,1,14.0,tip
+1083,dessert menu,1,12.0,experience
+1084,tree,1,,
+1085,entree choice,1,,
+1086,bee,1,,
+1087,clear,1,,
+1088,fly,1,17.0,smell
+1089,door men,1,,
+1090,pour,1,18.0,serve
+1091,garnish,1,8.0,chicken
+1092,burrata bread,1,,
+1093,dessert option,1,,
+1094,grilled cheese toast,1,,
+1095,dress code,1,12.0,experience
+1096,jean,1,12.0,experience
+1097,shirt,1,17.0,smell
+1098,salad dress,1,8.0,chicken
+1099,broccoli rabe,1,8.0,chicken
+1100,polenta,1,8.0,chicken
+1101,cusine,1,20.0,thai
+1102,stem,1,,
+1103,appitizer,1,5.0,drink
+1104,vaccine,1,,
+1105,acoustic,1,4.0,atmosphere
+1106,spinach,1,8.0,chicken
+1107,open hour,1,,
+1108,marker,1,,
+1109,vodka,1,8.0,chicken
+1110,smoothie,1,8.0,chicken
+1111,slushie,1,,
+1112,omelete,1,,
+1113,feta,1,8.0,chicken
+1114,cucumber,1,8.0,chicken
+1115,scrambled egg,1,,
+1116,fettuccini alfredo,1,8.0,chicken
+1117,frosting,1,8.0,chicken
+1118,effort,1,14.0,tip
+1119,crouton,1,8.0,chicken
+1120,ginger ale,1,,
+1121,icing,1,,
+1122,ant,1,,
+1123,kitchen,1,17.0,smell
+1124,delivery people,1,14.0,tip
+1125,lavatory,1,,
+1126,woman,1,2.0,service
+1127,condiment,1,8.0,chicken
+1128,dinner food,1,,
+1129,flower,1,12.0,experience
+1130,associate,1,12.0,experience
+1131,frensh salad,1,,
+1132,rating,1,,
+1133,penne,1,8.0,chicken
+1134,shake,1,8.0,chicken
+1135,arrive,1,13.0,delivery
+1136,lotto,1,,
+1137,walkway,1,17.0,smell
+1138,table set up,1,,
+1139,halepino,1,,
+1140,hand,1,17.0,smell
+1141,heat,1,18.0,serve
+1142,girl,1,2.0,service
+1143,chilli,1,8.0,chicken
+1144,front counter girl,1,,
+1145,health,1,14.0,tip
+1146,spoon,1,18.0,serve
+1147,face,1,2.0,service
+1148,facility,1,4.0,atmosphere
+1149,a la vodka,1,,
+1150,salad dressing,1,8.0,chicken
+1151,breadcrumb,1,,
+1152,stair,1,17.0,smell
+1153,mint,1,8.0,chicken
+1154,discount,1,14.0,tip
+1155,cuban,1,20.0,thai
+1156,trivia,1,12.0,experience
+1157,renovation,1,16.0,restaurant
+1158,wiener schnitzel,1,8.0,chicken
+1159,schnitzel,1,8.0,chicken
+1160,pot pie,1,8.0,chicken
+1161,philly cheese steak wrap,1,,
+1162,omelette station,1,,
+1163,drinks,1,12.0,experience
+1164,shrimp appetizer,1,8.0,chicken
+1165,firepit,1,,
+1166,game,1,4.0,atmosphere
+1167,wall paper,1,12.0,experience
+1168,prime cut,1,,
+1169,carving station,1,,
+1170,omelet,1,8.0,chicken
+1171,prime rib buffet,1,,
+1172,club sandwich,1,,
+1173,sound level,1,4.0,atmosphere
+1174,shishito pepper,1,8.0,chicken
+1175,happy hour beer,1,,
+1176,muscle,1,8.0,chicken
+1177,carrot cake,1,8.0,chicken
+1178,tax,1,14.0,tip
+1179,dissert,1,,
+1180,libation,1,,
+1181,entre,1,8.0,chicken
+1182,fruit de mer,1,,
+1183,bass,1,8.0,chicken
+1184,site,1,12.0,experience
+1185,dinner menu,1,6.0,menu
+1186,singapore noodle,1,8.0,chicken
+1187,linguine,1,8.0,chicken
+1188,firecracker,1,,
+1189,charge,1,14.0,tip
+1190,mac n cheese calamari,1,,
+1191,seating period,1,,
+1192,cream spinach,1,8.0,chicken
+1193,dumpling,1,8.0,chicken
+1194,golf outing,1,,
+1195,golf,1,,
+1196,ribeye steak,1,8.0,chicken
+1197,briccolini,1,,
+1198,bench,1,17.0,smell
+1199,scramble,1,,
+1200,sneaker,1,,
+1201,steak medallion,1,,
+1202,prix - fixe,1,,
+1203,coctails,1,12.0,experience
+1204,reservation time,1,13.0,delivery
+1205,skewer,1,8.0,chicken
+1206,tartar,1,8.0,chicken
+1207,broth,1,8.0,chicken
+1208,pan seared,1,,
+1209,cod,1,8.0,chicken
+1210,s,1,,
+1211,pool table,1,12.0,experience
+1212,photo booth,1,,
+1213,spaghetti carbonara,1,8.0,chicken
+1214,thumbnail,1,,
+1215,fried shrimp,1,8.0,chicken
+1216,ice - cream,1,,
+1217,wifi,1,12.0,experience
+1218,key,1,,
+1219,mixed veggie,1,8.0,chicken
+1220,bet,1,,
+1221,comediens,1,,
+1222,danish,1,17.0,smell
+1223,gyro,1,8.0,chicken
+1224,egg platter,1,,
+1225,veal parmigiano,1,,
+1226,corned beef,1,,
+1227,cabage,1,,
+1228,rotini,1,8.0,chicken
+1229,ziti,1,8.0,chicken
+1230,yam,1,8.0,chicken
+1231,au jus,1,,
+1232,s pie,1,8.0,chicken
